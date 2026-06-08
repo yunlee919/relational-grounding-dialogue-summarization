@@ -1,0 +1,802 @@
+[
+  {
+    "sample_index": 0,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "马克斯会去佩顿的服装店买东西。",
+    "reference_summary_zh": "佩顿给麦克斯提供了卖衣服的网站。他喜欢浏览、试穿衣服，但不一定都会买。他经常买衣服和书，因为他也喜欢阅读。",
+    "reference_summary_en": "Payton provides Max with websites selling clothes. Payton likes browsing and trying on the clothes but not necessarily buying them. Payton usually buys clothes and books as he loves reading.",
+    "dialogue": "Max: Know any good sites to buy clothes from?\r\nPayton: Sure :) <file_other> <file_other> <file_other> <file_other> <file_other> <file_other> <file_other>\r\nMax: That's a lot of them!\r\nPayton: Yeah, but they have different things so I usually buy things from 2 or 3 of them.\r\nMax: I'll check them out. Thanks. \r\nPayton: No problem :)\r\nMax: How about u?\r\nPayton: What about me?\r\nMax: Do u like shopping?\r\nPayton: Yes and no.\r\nMax: How come?\r\nPayton: I like browsing, trying on, looking in the mirror and seeing how I look, but not always buying.\r\nMax: Y not?\r\nPayton: Isn't it obvious? ;)\r\nMax: Sry ;)\r\nPayton: If I bought everything I liked, I'd have nothing left to live on ;)\r\nMax: Same here, but probably different category ;)\r\nPayton: Lol\r\nMax: So what do u usually buy?\r\nPayton: Well, I have 2 things I must struggle to resist!\r\nMax: Which are?\r\nPayton: Clothes, ofc ;)\r\nMax: Right. And the second one?\r\nPayton: Books. I absolutely love reading!\r\nMax: Gr8! What books do u read?\r\nPayton: Everything I can get my hands on :)\r\nMax: Srsly?\r\nPayton: Yup :)"
+  },
+  {
+    "sample_index": 1,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "凯莉和米基要去日本纳戈罗村。",
+    "reference_summary_zh": "凯利很害怕芬兰雕塑花园里的人物，因为她觉得那些人物的脸非常病态。对奥利来说，这就像日本的人偶村，令人毛骨悚然。",
+    "reference_summary_en": "Kelly is scared of sculpture garden figures in Finnland, she finds figure's faces morbid. For Ollie it's Nagoro village in Japan, it's creepy. ",
+    "dialogue": "Ollie: Okay, Kelly! Ur up nxt!\r\nKelly: Me? I don't wanna.\r\nMickey: C'mon!\r\nJessica: Yeah! What's yours?\r\nKelly: Fine. It's a sculpture garden in Finnland.\r\nOllie: What's scary about sculptures? Wait! Do they resemble vampires and stuff?\r\nMickey: Nah, I'm sure they look rly nice.\r\nKelly: It's not the sculptures, it's the amount of them and their faces!\r\nJessica: Faces? What faces?\r\nKelly: Well, they resemble ppl in different activities like hugging, training, doing sport and so on. But the faces are just morbid and there's like a hundred of them. All staring at you!\r\nOllie: Another one?\r\nMickey: Certainly!\r\nJessica: Well, Ollie, ur turn!\r\nOllie: Nagoro village in Japan!\r\nMickey: Y?\r\nOllie: Well, maybe it's not scary, but it similar to Kelly's place. It's just creepy as hell.\r\nJessica: Bt y?\r\nOllie: Imagine a village with ppl living in it. And in the same village u have these human-sized figures. And there's more of them than the ppl that actually live there!\r\nKelly: Creepy AH!\r\nMickey: WTF?! Y would ppl even do that?\r\nJessica: Idk. Idc. Never. Going. There.\r\nOllie: See! Mine was the worst!\r\nJessica: Bt not the scariest!\r\nOllie: Point taken.\r\nMickey: Listen, guys, fun talking to u, bt gotta go. \r\nKelly: Yeah, me too. Bye!\r\nJessica: Bye!\r\nOllie: Cu!"
+  },
+  {
+    "sample_index": 2,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "埃里克和贝拉对老板的反应感到惊讶。",
+    "reference_summary_zh": "贝拉和埃里克拒绝了一个客户的要求。他们老板很赞赏这个决定。他会吸引新的客户来。",
+    "reference_summary_en": "Bella and Eric dismissed a request of a client. Their boss appreciated the decision. He brings in new clients.",
+    "dialogue": "Eric: Hey Bella, What happened today in boss's room?? Was he angry??\r\nBella: NO NO!!! He wasn't angry at all.. He actually appreciated on our brave deccision to dismiss the request of client..\r\nEric: REALLY!! He appreciated this decision..\r\nBella: Yeah he really did.. I too was astounded by his reaction...\r\nEric: What could possibly lead to this?? I mean , they were potential clients...\r\nBella: What he told me was that he was looking forward to bring in new clients which were our current client's competitor..\r\nEric: Oh that could possibly be the reason.Well anyways you got appreciation xD congo\t\r\nBella: hahaha Blessing in disguise xD"
+  },
+  {
+    "sample_index": 3,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛丽要卡特借几箱钱。卡特在火车站。",
+    "reference_summary_zh": "玛丽的钱用完了，卡特打算一小时后借给她一点。",
+    "reference_summary_en": "Mary ran out of money. Carter is going to lend her some in an hour.",
+    "dialogue": "Mary: hey, im kinda broke, lend me a few box\r\nCarter: okay, give me an hour, im at the train station\r\nMary: cool, thanks"
+  },
+  {
+    "sample_index": 4,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰克和梅今天会喝几杯鸡尾酒。",
+    "reference_summary_zh": "杰克和梅一会儿要喝鸡尾酒。",
+    "reference_summary_en": "Jack and May will drink cocktails later.",
+    "dialogue": "Jack: Cocktails later?\r\nMay: YES!!!\r\nMay: You read my mind...\r\nJack: Possibly a little tightly strung today?\r\nMay: Sigh... without question.\r\nJack: Thought so.\r\nMay: A little drink will help!\r\nJack: Maybe two!"
+  },
+  {
+    "sample_index": 5,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "约瑟夫给艾拉发了一张小奶牛的照片。艾拉给约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛",
+    "reference_summary_zh": "约瑟夫给艾拉发了一张乌耶克·雅内克家双胞胎奶牛的照片，艾拉很高兴。",
+    "reference_summary_en": "Joseph has sent Ella a photo of Wujek Janek's twin baby cows. Ella is delighted.",
+    "dialogue": "Joseph: It's fuzzy but I think you can recognize what's that(^_-)-☆\nJoseph: <file_photo>\nElla: Ooooo\nElla: Baby cows??(/◕ヮ◕)/(/◕ヮ◕)/(/◕ヮ◕)/\nJoseph: Wujek Janek has tween cows:D\nElla: Twins* darling xD\nJoseph: Oh yeah, sorry Twins*\nElla: Good for him!! So cool❤️❤️\nElla: Wanna touch them❤️❤️❤️"
+  },
+  {
+    "sample_index": 6,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "阿黛尔养了一只小狗,名叫骨头。",
+    "reference_summary_zh": "之前阿黛尔得到了一只新的可爱的拉布拉多狗，4个月大，名叫秋伊。她的猫咪们和她保持着距离，而小狗波比和露露都很像它们的妈妈秋伊和斯皮迪，都想出去玩。",
+    "reference_summary_en": "Adele got a new biscuit Labrador Chewy that is 4 months. Her cats keep their distance, and Poppy and Lulu seem to mother Chewy and Speedy wants to play.",
+    "dialogue": "Lola: hey girlfriend, what's up?\r\nAdele: Oh, hi Lols, not much.\r\nAdele: got a new dog.\r\nLola: another one?\r\nAdele: Yup. a pup biscuit lab. 4 months. Chewy.\r\nLola: how did the others react?\r\nAdele: the cats keep their distance, Poppy and Lulu seem to mother him. Speedy wants to play.\r\nLola: no fighting? that's new.\r\nAdele: they say puppies are accepted by other animals more easily than older dogs\r\nLola: especially girl dogs, probably\r\nAdele: with the other ones I had to wean them because I took them in as adult dogs. And girls like to fight. like crazy.\r\nLola: doggies, right/.\r\nAdele: that too :P\r\nLola: haha. true though.\r\nAdele: I know, right. Anyway, called him Bones. He's so plump it kinda fit.\r\nLola: cute. can't wait to see him."
+  },
+  {
+    "sample_index": 7,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "琳达和劳拉明天要去一家意大利餐厅。",
+    "reference_summary_zh": "琳达和劳拉明天要去一家意大利餐馆。",
+    "reference_summary_en": "Linda and Laura are going to an Italian restaurant tomorrow.",
+    "dialogue": "Laura: where will we go tommorow?\r\nLinda: maybe this italian restaurant?\r\nLaura: hmm ok\r\nLinda: i love their pasta\r\nLinda: and brownie :)\r\nLaura: i thouht you dont eat sweets\r\nLinda: this brownie is not so sweet"
+  },
+  {
+    "sample_index": 8,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "米娅和埃利奥特今晚要出去。他们要出去喝一杯。埃利奥特会去接米娅。",
+    "reference_summary_zh": "米娅今晚下班后要和她的女性朋友一起出去。如果她愿意，艾略特会来接她。",
+    "reference_summary_en": "Mia is going out after work tonight with her female friends. If she wants, Elliot will come and pick her up.",
+    "dialogue": "Mia: babe, do you mind if i go out after work tonight?\r\nElliot: yeah, sure. go for it ;) \r\nMia: thanks, babe. it's gonna be girls night out \r\nElliot: what're u up to?\r\nMia: well, you know we gonna grab some drinks have some nice time outside of work\r\nElliot: don't be too late please and if you need me to pick u up just give me a ring "
+  },
+  {
+    "sample_index": 9,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "瑞安和塞巴斯蒂安对乌克兰感到失望。",
+    "reference_summary_zh": "瑞安和塞巴斯蒂安担心乌克兰的政治局势。",
+    "reference_summary_en": "Ryan and Sebastian are worried about the political situation in Ukraine.",
+    "dialogue": "Ryan: I have a bad feeling about this\r\nRyan: <file_other>\r\nSebastian: Ukraine...\r\nSebastian: This russian circus will never end...\r\nRyan: I hope the leaders of of nations will react somehow to this shit.\r\nSebastian: I hope so too :("
+  },
+  {
+    "sample_index": 10,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "扎迪和芬要去一家叫“象牙城”的购物中心。他们将在2点左右在主入口处见面。",
+    "reference_summary_zh": "费恩和查蒂明天2点去象堡，他们会在正门碰头。",
+    "reference_summary_en": "Finn and Zadie are going to Elephant and Castle tomorrow at 2. They will meet at the main entrance.",
+    "dialogue": "Finn: Hey\r\nZadie: Hi there! What's up?\r\nFinn: All fine. You? \r\nZadie: Not bad, thanks \r\nFinn: Look, I was thinking of going to this neighborhood called Elephant and Castle tomorrow, it's apparently full of Latin American stuff. Fancy joining? \r\nZadie: Sure! But what's \"stuff\"? 😂\r\nFinn: lol So apparently it's a place were random people from \"Latin America\" (meaning fuck knows which countries) started running small businesses and restaurant, and a nice little community was formed\r\nZadie: Oh cool \r\nFinn: Then capitalism came and it's all going to be demolished soon, so it's like the last chance to go\r\nZadie: What a shame :( Yeah, I haven't had Latin American 😂 food for ages so I'm totally up for it\r\nFinn: Can't wait to taste this cuisine of unspecified Latino origin lol\r\nZadie: 😂😂😂\r\nFinn: But we can specify time and place if and only if you wish \r\nZadie: I might be tempted to lol I'd say early evening, 2-ish?\r\nFinn: Yeah, that's fine by me. So most of the places we want to visit are in this Elephant and Castle shopping centre. Shall I see you at the main entrance, wherever that is \r\nZadie: 2 o'clock at unspecified main entrance then? Sounds good to mw\r\nFinn: Yer\r\nZadie: Cool, see you there! And thanks so much for remembering about me 💜💜💜\r\nFinn: Thanks for saying yes to such an ill-defined plan lmao \r\nZadie: Ha ha You know I love those\r\nFinn: See you tomorrow then \r\nZadie: Yep Call me if you get lost\r\nFinn: I will I will 🤙 byeeee \r\nZadie: Toodles"
+  },
+  {
+    "sample_index": 11,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "汤姆和本将在下午2点在椭圆形房间见面。他们将进行一场战斗。",
+    "reference_summary_zh": "汤姆下午2点会在椭圆形会议室与本会面。他会先告诉对方把文件带来。",
+    "reference_summary_en": "Tom will meet Ben in the Oval Room at 2pm and tells him to bring the papers. ",
+    "dialogue": "Tom: Ben. We've decided. 2pm in the Oval Room.\r\nBen: Ok, I'll be there\r\nTom: Take all your papers, it's going to be a fight! And remember: take no prisoners, shoot to kill!\r\nBen: hahaha, we have to win this battle.\r\nTom: We will, the justice is on our side."
+  },
+  {
+    "sample_index": 12,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "乔丹要去参加他的同事布拉德的葬礼。布拉德患有肝癌。埃利奥特晚上8点会给乔丹打电话。",
+    "reference_summary_zh": "艾略特现在没空和乔丹说话，他很忙。晚上6点他会给乔丹回电话。乔丹要去参加布拉德的葬礼，布拉德因肝癌去世了。",
+    "reference_summary_en": "Elliot can't talk to Jordan now, he's busy. He'll call him back at 8 pm. Jordan is going to Brad's funeral. He had liver cancer.",
+    "dialogue": "Elliot: i can't talk rn, i'm rly busy\r\nElliot: can i call u back in about 2 hours?\r\nJordan: Not really, I'm going to a funeral.\r\nJordan: I'll call you tonight, ok?\r\nElliot: sure\r\nElliot: whose funeral is it?\r\nJordan: My colleague's, Brad.\r\nJordan: I told you about him, he had a liver cancer.\r\nElliot: i'm so sorry man, i hope u're ok\r\nElliot: i'll call u at 8 pm"
+  },
+  {
+    "sample_index": 13,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "弗洛必须在6号前去理发店。",
+    "reference_summary_zh": "弗洛要到6号才能预约到做头发。她担心自己头发会变成灰色，所以必须在特易购买一套补色工具。",
+    "reference_summary_en": "Flo cannot get an appointment at the salon until the 6th. Flo worries she's going to be gray. Flo will have to get a touch-up kit at Tesco.",
+    "dialogue": "Flo: OMG, I can't get into the salon until the 6th!\r\nGina: What? Why?\r\nFlo: They're just too busy. I'm going to be gray! LOL!\r\nGina: Get you a touch-up kit at Tesco!\r\nFlo: Gonna have to!"
+  },
+  {
+    "sample_index": 14,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "大卫和杰基昨天对大多数事情都持了正确的态度。杰基回家后会给大卫打电话。",
+    "reference_summary_zh": "根据杰克所说，理应由大卫承担责任。等杰克回家后他们再谈。",
+    "reference_summary_en": "According to Jacky, David did the right thing taking the blame. They will talk when Jack comes back home.",
+    "dialogue": "Jacky: I think you were right yesterday. \r\nDavid: What about? I'm right about most things :P\r\nJacky: Yeah, whole you ;)\r\nJacky: About taking the blame etc. \r\nDavid: Okey, I remeber. We'll talk later?\r\nJacky: With pleasure. I'll call you when I get home."
+  },
+  {
+    "sample_index": 15,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "艾黛尔没打扫仓鼠笼。皮特放学后打扫了。",
+    "reference_summary_zh": "阿黛尔放学后得打扫仓鼠笼。",
+    "reference_summary_en": "Adelle has to clean the hamster cage after school.",
+    "dialogue": "Pete: Did you clean the hamster cage?\r\nAdelle: No. Is it my turn?\r\nPete: Yes. After school, no excuses.\r\nAdelle: Fine."
+  },
+  {
+    "sample_index": 16,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛雅会在药房给兰多夫买5包耳塞。",
+    "reference_summary_zh": "玛雅会在药房为伦道夫买5包耳塞。",
+    "reference_summary_en": "Maya will buy 5 packs of earplugs for Randolph at the pharmacy.",
+    "dialogue": "Randolph: Honey\nRandolph: Are you still in the pharmacy?\nMaya: Yes\nRandolph: Buy me some earplugs please\nMaya: How many pairs?\nRandolph: 4 or 5 packs\nMaya: I'll get you 5\nRandolph: Thanks darling"
+  },
+  {
+    "sample_index": 17,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "林肯、法蒂玛和詹森去了一个关于艾琳的聚会。法蒂玛认为艾琳可能患有抑郁症。",
+    "reference_summary_zh": "法蒂玛很担心詹森和艾琳。艾琳遇上了一些问题。但林肯不希望法蒂玛为别人操心太多。",
+    "reference_summary_en": "Fatima is worried about Jenson and Alene. Alene has issues. Lincoln doesn't want Fatima to worry about others too much.",
+    "dialogue": "Lincoln: Heeyyy ;* whats up\r\nFatima: I talked to Jenson, he’s not too happy ;p\r\nLincoln: the place sucks??\r\nFatima: No, the place is ok, I think, we can go there, it’s about Alene\r\nLincoln: typical, dont worry about it\r\nFatima: He thinks she may have a depression :[\r\nLincoln: nothin new, everyone has it, she needs a doctor then\r\nFatima: But she won’t go ;/\r\nLincoln: so she’s destroying her life fuck it its not your problem\r\nFatima: It is, they’re both my friends!\r\nLincoln: you better think what to do if they break up\r\nFatima: Ehh yes Ill have a problem ;//\r\nLincoln: both blaming each other and talking with you about it, perfect\r\nFatima: Alene is just troubled… She’d been through a lot…\r\nLincoln: everyone has their problems, the question is are ya doin sth about them\r\nFatima: She has problems facing it, don’t be surprised :[\r\nLincoln: then it is her problem\r\nFatima: You are so cruel at times… o.O\r\nLincoln: maybe, for me its just a common sense\r\nFatima: Why can’t everyone be just happy???\r\nLincoln: youll not understand, you had good childhood, nice parents, you have no idea\r\nFatima: Probably, true… Well I can be just grateful o.o\r\nLincoln: do that and stop worrying about others, youre way to bautful for that <3\r\nFatima: :*:*:*"
+  },
+  {
+    "sample_index": 18,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰夫、莉娅、米科和吉姆要去参加一个乡村派对。",
+    "reference_summary_zh": "米科和杰夫要去参加村里的聚会，杰夫开车。",
+    "reference_summary_en": "Mico and Jeff will go to the village party. Jeff will drive.",
+    "dialogue": "Jeff: Should we go to the village party?\nLia: I'm too tired after hiking\nMico: I'd like to go, there may be some hot boys!\nLia: I doubt\nJim: like a real village boy?\nJim: who doesn't even speak English?\nMico: yes, the dummer, the better\nJim: haha, stupid fucks good, they say\nMico: I confirm!\nLia: not my cup of tea\nMico: I'll go there, who wants to join?\nJeff: I'll go as well\nMico: wanna drive?\nJeff: so you could drink?\nMico: would be nice, hahah\nJeff: not excited, but ok\nMico: thanks!"
+  },
+  {
+    "sample_index": 19,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "辛迪和埃拉发生了另一场争执。辛迪现在可以给埃拉打电话。",
+    "reference_summary_zh": "艾拉没有接哈利的电话。在哈利的请求下，辛迪给艾拉打了电话。",
+    "reference_summary_en": "Ela is not taking Harry's phone calls. Cindy calls Ela at Harry's request.",
+    "dialogue": "Harry: heyyyy are you there??\r\nCindy: Yes dear what is it?\r\nHarry: Can you call Ela and tell her i need to talk urgent please pick my call.\r\nCindy: what happened now? an other fight :O\r\nHarry: please tell her\r\nCindy: MAN! you guys... am i some kind of a messenger service here?\r\nHarry: PLEASEEEEEEEEE ?\r\nCindy: ok doing.... but thats the last time.\r\nHarry: Yes like always:P\r\nCindy: Hate you seriously man.\r\nHarry: Thank you\r\nCindy: Done you can call her now."
+  },
+  {
+    "sample_index": 20,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "肯想让格雷格拿回他的钱。",
+    "reference_summary_zh": "肯恩正试图捉弄格雷格。",
+    "reference_summary_en": "Ken is trying to play a prank on Greg.",
+    "dialogue": "Ken: Fuck you, you pimp\nGreg: What?\nKen: Fuck you man, I want my money back\nGreg: Was your account hacked by some prankster?\nKen: No, I'm the prankster, just having a laugh at your expense\nGreg: Well, fuck you too then XD"
+  },
+  {
+    "sample_index": 21,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "西蒙不会说话,因为他五点钟有空。",
+    "reference_summary_zh": "西蒙五分钟后会和阿德里安谈一谈。",
+    "reference_summary_en": "Simon will talk to Adrian in 5 minutes.",
+    "dialogue": "Adrian: Can you talk?\r\nSimon: Not really, anything important?\r\nAdrian: Not that much.\r\nSimon: I'll be free at 5\r\nAdrian: i'll you then"
+  },
+  {
+    "sample_index": 22,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "加布和凯特打算在加布家见面喝一杯。",
+    "reference_summary_zh": "加布想在线下和凯特见一面。但是凯特不喜欢加布的要求，所以她不会再和他说话了。",
+    "reference_summary_en": "Gab wants to meet Kat in real life. Kat doesn't like Gab's insisting so she won't to talk to him at all.",
+    "dialogue": "Gab: Ah that's better. Now we can message all we like.\r\nKat: :-)\r\nGab: So when can we meet up for a drink?\r\nKat: Fairly busy at the moment so I'm not sure when.\r\nGab: I'd love to meet you in real life.\r\nKat: I don't meet strange men from the internet.\r\nGab: Why not?\r\nKat: Not that sort of gal.\r\nGab: But you're talking to me, aren't you?\r\nKat: Yes, but that's different.\r\nGab: How so?\r\nKat: Just is.\r\nGab: But it would be so much nicer to do this cuddled up right next to you...\r\nKat: I think this was a mistake.\r\nGab: Are you there?\r\nGab: Where did you go?\r\nGab: Kat?"
+  },
+  {
+    "sample_index": 23,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "阿加莎的报告已经准备好了,她正在上经济学课。",
+    "reference_summary_zh": "阿加莎为自己感到骄傲，因为她已经完成了经济学相关的报告。她对经济学很感兴趣。",
+    "reference_summary_en": "Agatha is proud of herself because she has finished her presentation in Economics. She is very interested in Economics.",
+    "dialogue": "Agatha: My presentation is ready as we speak :)\r\nAdam: oh cool, what course?\r\nAgatha: Economics.\r\nAdam: Is it interesting? I mean... your presentation.\r\nAgatha: Definitely, I used recent research.\r\nAdam: Sounds like you know what you're doing :P\r\nAgatha: I'm just really into economics :)\r\nAdam: no doubt about that"
+  },
+  {
+    "sample_index": 24,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "香农推荐凯恩听听听《30 Seconds to March》。",
+    "reference_summary_zh": "凯恩向香农推荐30秒上火星乐队的新专辑。",
+    "reference_summary_en": "Kane recommends the new 30 Seconds to Mars album to Shannon.",
+    "dialogue": "Kane: have you heard the new 30 seconds to mars album?\r\nShannon: no, is it good?\r\nKane: you should so check it out\r\nShannon: ok thanks for the recommendation\r\nKane: no prob"
+  },
+  {
+    "sample_index": 25,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "安妮讨厌米兰达,因为她昨天给汤姆打了电话。",
+    "reference_summary_zh": "米兰达昨天打电话给汤姆，很甜蜜地和他讲话。安妮很生她的气，因为她正在和汤姆约会。",
+    "reference_summary_en": "Miranda called Tom yesterday and spoke to him in a sweet way. Anne is angry with her because Anne is dating Tom.",
+    "dialogue": "Anne: I hate that bitch!\r\nCatherine: What did she do again???\r\nNora: Who's the bitch?\r\nNora: Sorry I missed something\r\nCatherine: Miranda!!! \r\nCatherine: We all hate her\r\nAnne: Yesterday she called Tom, was all sweet with him you know how she can be....\r\nCatherine: No way she did it!! How dare she!! She knows you guys are dating.\r\nAnne: I think that's why she did it. She wants to take Tom away from me.\r\nNora: Oh, come on! She's not his type! "
+  },
+  {
+    "sample_index": 26,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "莉莉和一个叫托马斯的罗马尼亚人度过了一个美好的夜晚。",
+    "reference_summary_zh": "莉莉和托马斯度过了一个美好的夜晚。托马斯是罗马尼亚人，来自一个非常富有的家庭。",
+    "reference_summary_en": "Lily spent an amazing night with Thomas. Thomas is Romanian and comes from a very rich family.",
+    "dialogue": "Lily: I spent an amazing night with this guy\r\nKate: What's his name?\r\nLily: Thomas\r\nKate: Is he English?\r\nLily: He is Romanian, but from an extremely rich family, it seems\r\nKate: What does he do in London?\r\nLily: LSE\r\nKate: of course, so predictable \r\nLily: Hahah, but I expected him to be more banal and boring\r\nKate: but?\r\nLily: to be more mediocre...\r\nKate: in size, in passion or in wallet?\r\nLily: In everything. I've had so much pleasure that I have a headache\r\nKate: I'm glad to read that. You deserved some fun after the last weeks.\r\nLily: haha, I agree!"
+  },
+  {
+    "sample_index": 27,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰克为明天晚上7点预订了3张工作场地票。",
+    "reference_summary_zh": "杰克预定了三张明天晚上七点的票。他能享受七折优惠。",
+    "reference_summary_en": "Jake reserved 3 tickets for tomorrow 7 pm. He got 30% discount.",
+    "dialogue": "Bob: did you reserve the tickets for tomorrow?\r\nMelanie: Jake promised me he will do that\r\nMelanie: he has some workplace discount on them\r\nBob: Jake are you here?? Did you reserve the tickets?\r\nJake: yes I did, 3 tickets for tomorrow, 7 pm\r\nJake: and we got a 30% discount on them too :)"
+  },
+  {
+    "sample_index": 28,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "丽莎想锻炼一下。彼得有健身俱乐部的会员资格。丽莎建议他多锻炼身体。丽莎建议他多睡觉。",
+    "reference_summary_zh": "彼得最近一直在他们办公室附近的健身房锻炼以改善健康状况。为了更健康，丽莎正在考虑锻炼和更加合理饮食。",
+    "reference_summary_en": "Peter has been working out at the gym near their office lately to improve his health. Lisa is considering working out and eating better to be healthier.",
+    "dialogue": "Lisa: Hello Peter. What have you been doing off late?\r\nPeter: Bit busy with work.\r\nLisa: Too much of work, huh?\r\nPeter: Not really, I’ve been working out\r\nLisa:  Ohh, trying to get in shape?\r\nPeter: Nah, I don’t have much of weight to lose, just want to improve my health.\r\nLisa:  That’s a good thought. I was also thinking of working out a bit. What do you do? Do you go to a Gym?\r\nPeter: Yes, I hold a membership with the one near our office.\r\nLisa: Which exercises do you do regularly?\r\nPeter: I do weights and run on the treadmill.\r\nLisa:  Besides exercises, I think I need to eat better to help me keep in shape.\r\nPeter: Another major requirement for good health is sleep. On an average one requires at least 7-8 hours of sleep.\r\nLisa:  There are a lot of things we can do to stay healthy.\r\nPeter: Yes. One needs to maintain a regime to stay healthy for a long term."
+  },
+  {
+    "sample_index": 29,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰西卡在市中心的二手店买了一张桌子、六张椅子、一瓶花和一大堆衣服。",
+    "reference_summary_zh": "杰西卡在市中心的二手商店买了一张桌子、六把椅子、一个花瓶和一堆衣服。这些一共花了70欧元。",
+    "reference_summary_en": "Jessica bought a table, six chairs, a vase and a pile of clothes and the second hand shop downtown. She paid 70 euros for everything. ",
+    "dialogue": "Jessica: I went to the second hand shop downtown \nFrank: Cool\nRaphael: What did you get?\nJessica: Lots of stuff\nJessica: A table, six chairs, a vase, a pile of clothes\nFrank: That's really a lot of stuff :-)\nRaphael: send us pictures\nJessica: <photo_file>\nJessica: <photo_file>\nRaphael: Beautiful table\nRaphael: Is it wood?\nJessica: yes, oak \nRaphael: Awesome\nJessica: <photo_file>\nFrank: These are the clothes?\nFrank: I love the black dress\nJessica: It's absolutely beautiful\nJessica: As soon as I saw it I knew it would be mine\nJessica: I'm so happy with what I bought\nJessica: And the best is I paid only 70 euros for all of that!! "
+  },
+  {
+    "sample_index": 30,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "德西里想让卢西安把意大利面放在微波炉里。卢西安还没有做饭。",
+    "reference_summary_zh": "卢西恩不在家。德西蕾希望卢西恩把她的意大利面放在微波炉里。",
+    "reference_summary_en": "Lucian is not at home. Desiree wants Lucian to keep her pasta in the microwave.",
+    "dialogue": "Desiree: U both at home?\r\nLucian: No. I've just got ur msg. Why did u ask about it?\r\nDesiree: No reason. Keep my pasta in the microwave\r\nLucian: I haven't cooked anything"
+  },
+  {
+    "sample_index": 31,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "艾米丽、凯特和玛尔塔今天五点半要去中央车站x酒吧喝一杯。",
+    "reference_summary_zh": "艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。",
+    "reference_summary_en": "Emily, Kate and Marta are going to the Pub X at the central station today for a drink.",
+    "dialogue": "Emily: fancy a drink after work today?\r\nKate: sure!\r\nMarta: Good idea! \r\nMarta: Where? When?\r\nEmily: Maybe in the Pub X at the central station at 5.30?\r\nKate: I may be closer to 6, traffic on my way\r\nMarta: Fine for me.\r\nMarta: See you then, Ladies!\r\nEmily: Bye! see ya :*\r\nKate: :*"
+  },
+  {
+    "sample_index": 32,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛丽今天没去上学,所以她呆在家里。",
+    "reference_summary_zh": "今天玛丽没有去上学，她就待在家里。",
+    "reference_summary_en": "Today Mary didn't go to school, she stayed at home.",
+    "dialogue": "Mary: Hi my friend :*\r\nAlice: U re not at school?\r\nMary: No i stayed at home today.\r\nAlice: Lucky u!"
+  },
+  {
+    "sample_index": 33,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "克莉丝汀感冒了,她明天不去上学了。她感冒了。安妮会给克莉丝汀一些热感冒药。",
+    "reference_summary_zh": "克莉丝汀病了，明天不来上学了。安妮会把西拉夫的香囊放在邮箱里。克莉丝汀不想把病传染给她。",
+    "reference_summary_en": "Christine is sick and won't come to school tomorrow. Annie will leave Theraflu sachets in a mailbox. Christine doesn't want to get her sick.",
+    "dialogue": "Annie: Are you going to be at school?\r\nChristine: Not tomorrow. I am not well.\r\nAnnie: Oh noes! What happened?\r\nChristine: Got the flu, I think.\r\nAnnie: what's your temperature?\r\nChristine: Not high, I'm not running a fever or anything\r\nAnnie: Are you eating ok?\r\nChristine: Yeah. Just blocked nose, sore throat. Tired.\r\nAnnie: Sounds like you've got a cold. You need anything?\r\nChristine: I could do with some Theraflu.\r\nAnnie: OK, I think we've still got some sachets, should be in date. I'll drop them through your letterbox later on.\r\nChristine: Yeah. Don't call in because I'll feel bad if you catch this cold off me.\r\nAnnie: I think I probably had it already, but you might be sleeping.\r\nChristine: If the light in my room is on, call if you want."
+  },
+  {
+    "sample_index": 34,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "沙尔多娜要结婚了,但她没有时间亲自送邀请卡。",
+    "reference_summary_zh": "沙尔多纳通过手机发送了婚礼邀请，因为她没有时间亲自去送邀请函。",
+    "reference_summary_en": "Shaldona sends mobile invitations to her wedding, as she has no time to give them in person.",
+    "dialogue": "Shaldona: WE ARE GONNA GET MARRIED ❤️❤️\nShaldona: <file_others>\nShaldona: This is our mobile inviation for our wedding.\nShaldona: Invitation*\nPiper: Hey. You haven’t sent me any messages for a few years.\nPiper: And now you are sending me your wedding invitation \nPiper: THROUGH MESSENGER?\nShaldona: .....\nShaldona: Well..\nShaldona: I had no enough time to meet everybody and give this in person.\nShaldona: Hope you understand.\nPiper: If you don't have time to give the invitation card in person but expect people go to your wedding\nPiper: Shaldona, if so, you are too greedy."
+  },
+  {
+    "sample_index": 35,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "康拉德忘了带钥匙。他会在咖啡店等蒂芙妮和丽贝卡。",
+    "reference_summary_zh": "康拉德忘了带钥匙，所以回不了家。瑞贝卡和蒂芙妮回来得晚，他得在咖啡厅等。",
+    "reference_summary_en": "Conrad can't enter the house because he forgot his keys. Since Rebecca and Tiffany are coming back late, he'll wait in the coffee shop. ",
+    "dialogue": "Conrad: I'm outside the house\nConrad: I forgot my keys...\nRebecca: 💩\nTiffany: I'll be home at 10-11\nRebecca: I'm coming back even later\nConrad: Oh no...\nConrad: I'll wait in the coffee shop"
+  },
+  {
+    "sample_index": 36,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "卢迪米拉有一只爬行动物。雅科波稍后会告诉她为什么爬行动物。",
+    "reference_summary_zh": "卢德米拉小时候最喜欢的恐龙是三角龙。",
+    "reference_summary_en": "Ludmila's favourite dinosaur when she was little was the Triceratops.",
+    "dialogue": "Jacopo: hey, did you have a favorite dinosaur growing up?\r\nLudmila: yes, triceratops. why?\r\nJacopo: i'll tell you why later."
+  },
+  {
+    "sample_index": 37,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛丽亚和妮可喜欢克莱尔的裙子。",
+    "reference_summary_zh": "在玛丽亚和妮可的建议下，克莱尔正在订购她的婚纱。",
+    "reference_summary_en": "Claire is ordering her wedding dress, adviced by Maria and Nicole.",
+    "dialogue": "Claire: Check this out :)))\r\nClaire: <file_other>\r\nMaria: !!\r\nNicole: Absolutely perfect for you!!\r\nClaire: I guess so\r\nClaire: But it could be a bit darker, cause this color is not very vivid\r\nNicole: Noooooo, I think this color is perfectly good for the bride\r\nMaria: And it's no that expensive :)))\r\nClaire: Yes, the price appeals to me xD\r\nNicole: You should order that dress\r\nNicole: I think you won't regret\r\nMaria: Don't hesitate, it's incredibly beauty!!\r\nClaire: Ok, if you say so :))"
+  },
+  {
+    "sample_index": 38,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "布伦达和布兰登昨天在聚会上遇到了米罗。米罗的父亲来自阿尔巴尼亚,在上世纪九十年代初从阿尔巴尼亚移民到美国。米罗的父亲来自海滨阿尔巴尼亚。米罗的父亲来自蒂拉纳。",
+    "reference_summary_zh": "米罗和他的父母说阿尔巴尼亚语。他的家人在20世纪90年代非法出境离开了阿尔巴尼亚。",
+    "reference_summary_en": "Miro speaks Albanian with his parents. His family left Albania illegally in 1990s.",
+    "dialogue": "Abby: Have you talked to Miro?\r\nDylan: No, not really, I've never had an opportunity\r\nBrandon: me neither, but he seems a nice guy\r\nBrenda: you met him yesterday at the party?\r\nAbby: yes, he's so interesting\r\nAbby: told me the story of his father coming from Albania to the US in the early 1990s\r\nDylan: really, I had no idea he is Albanian\r\nAbby: he is, he speaks only Albanian with his parents\r\nDylan: fascinating, where does he come from in Albania?\r\nAbby: from the seacoast\r\nAbby: Duress I believe, he told me they are not from Tirana\r\nDylan: what else did he tell you?\r\nAbby: That they left kind of illegally\r\nAbby: it was a big mess and extreme poverty everywhere\r\nAbby: then suddenly the border was open and they just left \r\nAbby: people were boarding available ships, whatever, just to get out of there\r\nAbby: he showed me some pictures, like <file_photo>\r\nDylan: insane\r\nAbby: yes, and his father was among the people\r\nDylan: scary but interesting\r\nAbby: very!"
+  },
+  {
+    "sample_index": 39,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "丹、蒂姆、克里斯、汤姆和马丁周六要去参加一个聚会。",
+    "reference_summary_zh": "丹、蒂姆、克里斯和马丁8点碰面。丹和马丁这次会放松一下。汤姆来不了，因为他岳父岳母家有个聚会。",
+    "reference_summary_en": "Dan,Tim, Chris and Martin will meet at 8. Dan and Martin will take it easy this time. Tom can't make it as he has a party at in-laws.",
+    "dialogue": "Dan: Guys, so are we going out on Sat?\r\nTim: I'm ready when you are\r\nChris: I'm OK too, in the centre right?\r\nTom: I'm out guys sorry. \r\nDan: come on Tom, what's wring this time\r\nTom: told ya before. party at in-laws\r\nChris: always the same story right\r\nMartin: right guys, so what time?\r\nTim: start @8? finish. 8 if we're lucky\r\nDan: yeah, i need to be home at 2 and ready to drive on Sunday noon\r\nChris: so you takin it easy this time\r\nMartin: i guess i'd have to as well\r\nTim: guys you sound like 60 yos\r\nChris: Tim, are the last two standing or what?\r\nTim: i gather\r\nDan: you two will also grow up one day. "
+  },
+  {
+    "sample_index": 40,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "迪玛的笔记本电脑坏了,她明天九点要交翻译。她想借给娜达的笔记本电脑。娜达把笔记本电脑给了她的哥哥。迪玛一小时后会来取笔记本电脑。",
+    "reference_summary_zh": "迪玛的笔记本电脑坏了，因为她的猫把咖啡洒在笔记本电脑上。 迪玛很担心，因为她明天必须为trados提供翻译。一个小时后迪玛会来纳达家，借纳达的笔记本电脑。",
+    "reference_summary_en": "Dima's laptop is broken, as her cat spilled coffee on the laptop. Dima is worried, because she has to deliver a translation for Trados tomorrow. Dima will come to Nada in an hour to borrow Nada's laptop. ",
+    "dialogue": "Dima: hello! \nNada: hey girl, what's up?\nDima: I'm in a huge trouble, my laptop is broken and I have to deliver a translation tomorrow @9 😱😱\nNada: fuck what happened??\nDima: the stupid cat spilled coffee on it 😣😣 I'm freaking out!\nDima: you still have your old laptop? is it possible to lend it to me please?\nNada: no sorry, I've given it to my brother - but you're lucky! I've taken these two days off so you can take mine\nDima: ooh man! thank you sooo much!!! if it weren't for Trados, I wouldn't be panicking :( \nNada: no worries, it happened... but I always think about this... like man, we need some back up laptops!\nDima: I know! but I always change my mind and spend the money elsewhere lol\nNada: yeah, but it's like our only tool! so we need to invest in it\nDima: yup, true !\nDima: can I come in an hour to pick it up?\nNada: yes :) ttyl!"
+  },
+  {
+    "sample_index": 41,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰瑞40分钟后会到珍妮特家。珍妮特的老板有时很烦人。",
+    "reference_summary_zh": "杰瑞40分钟后到家。",
+    "reference_summary_en": "Jerry will be home in 40 minutes. ",
+    "dialogue": "Jerry: Hi sweetie :)\r\nJanet: Hi sugar ;)\r\nJerry: I'm coming home\r\nJanet: Can't wait ;)\r\nJerry: I should be there in 40 minutes\r\nJanet: Ok, I'm waiting for you :)\r\nJerry: How was your day?\r\nJanet: Oh, it was ok but my boss is a pain in the ass sometimes\r\nJerry: I know, she can be a bitch :P\r\nJanet: Yes she can! ;)\r\nJerry: See you later darling\r\nJanet: <3"
+  },
+  {
+    "sample_index": 42,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "简和格雷格对娜塔莉的八卦很感兴趣。娜塔莉怀孕了。她的父亲是迈克。",
+    "reference_summary_zh": "娜塔莉怀了戴夫的孩子。简认为萨莉不应该告诉别人，因为娜塔莉是私下告诉他们的。亨利埃特和格雷格很惊讶，孩子的父亲居然是戴夫而不是迈克。",
+    "reference_summary_en": "Natalie is pregnant with Dave. Jane didn't think Sally should share it with others as Natalie told them that in confidence. Henriette and Greg are surprised that the father is Dave not Mike.",
+    "dialogue": "Sally: Hi guys have you heard about Natalie?\r\nTom: No. What about her?\r\nJane: You're such a gossip girl, Sally!\r\nSally: Come on! I'm sure you're all curious.\r\nTom: I am. \r\nSally: Relax Jane, what's your problem?!\r\nJane: She told us in confidence, I don't think we should share it with others.\r\nGreg: Now I'm also curious\r\nHenriette: Tell us! \r\nHenriette: Is she pregnant? \r\nSally: 💣💣💣\r\nSally: Guess who's the father!!!\r\nHenriette: I knew it!\r\nHenriette: Is it Mike?\r\nSally: Dave!!! \r\nHenriette: WHAT????\r\nGreg: That's insane! "
+  },
+  {
+    "sample_index": 43,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "黛西想在晚上11点前回家。丽莎还没回家。",
+    "reference_summary_zh": "丽莎还没回家，黛西想要她晚上11点前回来。",
+    "reference_summary_en": "Lisa isn't going home yet. Daisy wants her to be back before 11 p.m.",
+    "dialogue": "Daisy: going home?\r\nLisa: not yet\r\nDaisy: please be back before 11 pm\r\nLisa: ok"
+  },
+  {
+    "sample_index": 44,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "辛迪很伤心,因为发生了一些事,她不想谈论这件事。",
+    "reference_summary_zh": "辛迪很伤心，但不愿意说出原因。艾莉还没看那个疯传的搞笑视频。",
+    "reference_summary_en": "Cindy is sad, but doesn't want to talk about the reason. Ellie hasn't seen the funny video that went viral. ",
+    "dialogue": "Cindy: <file_gif>\r\nEllie: Why are you so sad? Something’s happened?\r\nCindy: I don’t want to talk about it…\r\nEllie: Cheer up! Tomorrow’s another day 😊\r\nCindy: <file_video>\r\nCindy: Have you seen it? It’s viral on the internet\r\nEllie: Nope, but it’s very funny 😊\r\nEllie: <file_gif>"
+  },
+  {
+    "sample_index": 45,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "凯瑟琳和本要去拜访史蒂夫叔叔。本不喜欢这种方式。",
+    "reference_summary_zh": "本不会和凯瑟琳一起去看望史蒂夫叔叔。他会去看望凯瑟琳和孩子们。",
+    "reference_summary_en": "Ben won't go with Catherine to visit uncle Steve. He will visit her and the boys. ",
+    "dialogue": "Catherine: We're going to visit uncle Steve, want to come with us?\r\nBen: why would I?\r\nCatherine: He's family and we haven't seen him in a long time.\r\nBen: you know very well that I'm not fond of such visits\r\nBen: they stress me out\r\nCatherine: Come on, even you can do it from time to time.\r\nBen: maybe I can but I don't want to\r\nBen: it will end the same way as usual\r\nBen: with me being pissed at everyone\r\nCatherine: The boys want to see you\r\nBen: I can visit you and play with them some other day\r\nBen: I don't have to drive to another city to do it\r\nCatherine: You know that he'll be disappointed?\r\nBen: uncle Steve?\r\nCatherine: Yes.\r\nBen: I don't think so, we don't have anything in common\r\nBen: all he ever does is bothering me with stupid questions about my private life\r\nCatherine: Maybe that's his way of showing that he cares about you\r\nBen: yes... sure... sometimes I wonder if you're thinking about what you type :P\r\nCatherine: Depends on the day\r\nCatherine: Today I'm tired so I can't guarantee it\r\nBen: you should rest then\r\nBen: instead of asking me to do stuff I don't like\r\nCatherine: Alright, don't worry, I'll stop\r\nCatherine: But still the part about the boys missing you was true\r\nCatherine: So come and visit them when you'll have the chance\r\nBen: I will"
+  },
+  {
+    "sample_index": 46,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "妈妈给史蒂夫安装了一台洗碗机。",
+    "reference_summary_zh": "史蒂夫很高兴他装了一台新的洗碗机。",
+    "reference_summary_en": "Steve is happy that he got a new dishwasher installed.",
+    "dialogue": "Steve: hiya the dishwasher has turned up\r\nMum: good did they install it for you\r\nSteve: yes they did a good job\r\nSteve: <file_photo>\r\nMum: looks really nice\r\nSteve: yes it does its nice and quiet\r\nMum: is it a 12 place setting one?\r\nSteve: I think so, not that I ever have 12 for dinner lol\r\nMum: not but you dont have to put it on every day\r\nSteve: no every other\r\nMum: yes I'm glad you are pleased with it xx\r\nSteve: I am thanks mum xxx"
+  },
+  {
+    "sample_index": 47,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "亨利想预定咖啡馆,但是咖啡馆的facebook页面不见了。朱莉娅和她的表妹去了ligly's,但那里的房租太贵了。亨利和朱莉娅去了ligly's。",
+    "reference_summary_zh": "茱莉亚上周去了考文特花园附近的kohaku咖啡馆，但现在这家店关门了，这让她和亨利大吃一惊。她联系了店主，但还没收到回复。亨利和他的表妹最后去了莉莉家，但那里的气氛不一样。",
+    "reference_summary_en": "Julia was at cafe Kohaku near Covent Garden last week, but it's closed down now to her and Henry's surprise. She contacted the owners, but they haven't replied yet. Henry and his cousin went to the Lily's in the end, but it had a different vibe.",
+    "dialogue": "Henry: Do you know what happened to cafe Kohaku?\r\nJulia: The one near Covent Garden?\r\nHenry: Yeah. I wanted to reserve a table, but I can't find them anywhere. Their Facebook page disappeared.\r\nJulia: I'm afraid they're closed :(\r\nHenry: For good?!\r\nJulia: Afraid so. I've been there last week and wanted to take my cousin there, but the place's empty\r\nJulia: Probably the rent was too high.\r\nHenry: Oh no, I loved that place\r\nJulia: Me too. I checked online for the owners and contacted them, but they haven't replied yet. I hope they will reopen somewhere else\r\nHenry: Unless they do it far away, the location was perfect. It was a real gem in this touristy district\r\nJulia: I know, I know... We went the Lilly's in the end, my cousin and I, but it's not the same\r\nHenry: Eh, that's a pity then, I was so looking forward to their brownie\r\nHenry: How was the Lilly's?\r\nJulia: It's all right, it's a different vibe though. I think you should go to the Japan Centre for the same\r\nHenry: Uhm, don't think so. It's always awfully crowded and there are more tourists than normal people like us"
+  },
+  {
+    "sample_index": 48,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "汤姆和卡米拉这周末要去都柏林两天。",
+    "reference_summary_zh": "卡米拉和汤姆这个周末要去都柏林。",
+    "reference_summary_en": "Camilla and Tom will go to Dublin this weekend.",
+    "dialogue": "Tom: Have you ever been to Dublin?\r\nCamilla: Never in Ireland!\r\nTom: So let's go there this weekend!\r\nCamilla: for 2 days?\r\nTom: Yes, the weather forecast is great!\r\nCamilla: I love your crazy ideas!\r\nTom: ok, so I'm buying the tickets\r\nCamilla: <3"
+  },
+  {
+    "sample_index": 49,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰森今天没来。杰森预约了牙医。",
+    "reference_summary_zh": "杰森今天约了牙医，所以他没来。",
+    "reference_summary_en": "Jason had a dental appointment today and that's why he was absent.",
+    "dialogue": "Megan: Any word from Jason?\r\nNathan: Why do you ask?\r\nMegan: He was absent today :c\r\nSusy: He had a dental appointment.\r\nMegan: Thanks for the info :)"
+  },
+  {
+    "sample_index": 50,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "吉尔每天工作40到35个小时。",
+    "reference_summary_zh": "到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。",
+    "reference_summary_en": "Jill did 20 or 30 so far, 3-4 per day, 40 or 35 hours, so the same as Ally.",
+    "dialogue": "Ally: how many did you do so far?\nJill: like 20 or 30\nJill: I can't do more than 3-4 per day\nAlly: how many hours?\nJill: 40? maybe 35...\nAlly: ok, same here"
+  },
+  {
+    "sample_index": 51,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "詹姆斯和艾米莉亚明天要去埃文斯教授的画展。米娅会和他们一起去,因为她不认识艾米莉亚。",
+    "reference_summary_zh": "詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。",
+    "reference_summary_en": "James and Mia want to go to an art exhibition tomorrow. James wants Amelia to go with them but Mia isn't sure about it. James and Mia will go to his place afterwards.",
+    "dialogue": "James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! \r\nJames: I'm talking about this guy who taught us ethics.\r\nJames: Amelia recommends it :D\r\nMia: No way...! :D Professor Evans and art exhibition :D What has happened to this world?\r\nMia: But you know what? I would actually like to see it! :D\r\nJames: ME TOO, of course! :p Can Amelia go with us?\r\nMia: To the exhibition or to the exhibition and to the cinema? You remember that we have plans for tomorrow...?\r\nJames: both\r\nJames: yes, I do\r\nMia: ok\r\nJames: Are you mad at me?\r\nJames: Babe, the fact that I suggested that we might go out with Amelia doesn't mean that I don't value time that we spend together, just the two of us.\r\nMia: I know, I said ok.\r\nJames: Are you sure you're fine with this?\r\nMia: Yup. :)\r\nMia: I just don't know her very well, it's gonna be stressful for me.\r\nJames: :) But you know me, don't you?\r\nMia: Maybe I do :D\r\nJames: Really, there's nothing to worry about. Amelia is quite laid-back and likable. ;)\r\nJames: Afterwards we can go to my place and hang out, cuddle and so on... :*\r\nMia: Sounds good :) :*\r\nJames: So we're good, right?\r\nMia: Right. ;)"
+  },
+  {
+    "sample_index": 52,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "史蒂芬研讨会的下一节稿子在打印店没有。亚瑟也去了,但稿子没有。丽塔明天早上会问是否有稿子。",
+    "reference_summary_zh": "彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。",
+    "reference_summary_en": "Chae-yeong and Arthur inform Mariana that the readings for the next session of Stephen's seminar weren't available in the print shop on Monday. Rita decides to go and chcek if the situation's changed tomorrow and she'll let everyone know.",
+    "dialogue": "Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?\r\nRita: No idea, sorry\r\nChae-yeong: The only thing I know is that they were not yet there on Monday\r\nArthur: Yer, I’ve made the mistake of going on Monday as well and I can confirm the texts were not there and the staff was as rude as always\r\nMariana: Sounds familiar\r\nRita: I’ll go tomorrow morning and let you know if the texts are available\r\nRita: I can’t buy the copies for you because they never have enough at hand but I’ll just ask them to print more for later\r\nChae-yeong: No worries\r\nArthur: Yeah, just let us know if they’re ready, that’s a huge favour already\r\nRita: Cool. Will do! xx"
+  },
+  {
+    "sample_index": 53,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "罗德尼、特鲁曼和罗斯对在校园里被殴打和抢劫的人感到震惊。",
+    "reference_summary_zh": "有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。",
+    "reference_summary_en": "A person was beaten and mugged on campus and had to be hospitalised. The attacker wore a mask. An official statement will be released, along with a newspaper article. Truman and Rodney think the campus security is subpar, even though there are cameras around.",
+    "dialogue": "Rodney: Have you heard a guy got beaten and mugged on campus?\r\nTruman: Oh, man is he ok?\r\nRoss: Do they have any idea who did it?\r\nRodney: They're gonna give an official statement about. There's also gonna be an article in the paper. As far as I know the assailant had a mask on.\r\nTruman: And what about the beaten guy?\r\nRodney: He's in the hospital, but it seems like he'll be fine.\r\nRoss: You think it was a student?\r\nRodney: Who knows what those jocks are capable of.\r\nRoss: They could do it just for fun.\r\nTruman: On the other hand its easy to get on campus without being detected\r\nRoss: There are cameras.\r\nTruman: If your masked it don't matter. You know how those security guards are\r\nRodney: They don't give a fuck\r\nRoss: True that\r\nTruman: Hope they catch the guy soon"
+  },
+  {
+    "sample_index": 54,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "朱迪的女朋友在那里纹身,她花了1000 美元。",
+    "reference_summary_zh": "哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。",
+    "reference_summary_en": "Javier was initially eager to have a tatoo done at Warsaw Ink but the price turned out to be too high. Javier decided to have a tatoo done in Colombia.",
+    "dialogue": "Javier: Hey do you know any tattoo parlors over here with English speaking employees?\r\nJudie: Oh there's Warsaw ink\r\nJavier: the name sounds neat... have you had a tattoo done there?\r\nJudie: nope but my gf has\r\nJavier: got a pic?\r\nJudie: <file_photo>\r\nJavier: wow that looks amazing\r\nJavier: how much did she pay?\r\nJudie: it was a 1000\r\nJavier: fuck\r\nJavier: let me just get a tatttoo back in colombia then, thx"
+  },
+  {
+    "sample_index": 55,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "佐伊和托马斯在热带天气。他们周日在贝尔琴山上散步。",
+    "reference_summary_zh": "托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。",
+    "reference_summary_en": "The temperatures where Thomas stays are -3 at night. There is frost in the morning. Zoey is in the tropics. Thomas had a walk around Belchen's summit on Sunday.",
+    "dialogue": "Zoey: Hello dear friends, here something to cheer you up on a cold day.\r\nZoey: <file_gif>\r\nThomas: LOL\r\nThomas: Hi there in the tropics! How are you doing?\r\nZoey: Staying healthy? Everything's ok?\r\nThomas: We are fine, thanks. Everything here is ok. At night the temps fall to -3. Nice white ground frost in the morning.\r\nThomas: <file_photo>\r\nZoey: Looks so pretty! But we're happy to give these views a miss for a while :)\r\nThomas: On Sunday we had a walk around the summit of Belchen - in icy wind but by brilliant sunshine. I think we even got some suntan!\r\nThomas: <file_photo>\r\nZoey: Gosh! That's pretty! You'll hear from us soon. Take care!\r\nThomas: You too!"
+  },
+  {
+    "sample_index": 56,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "下一次asEEEs会议将在旧金山召开。",
+    "reference_summary_zh": "詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。",
+    "reference_summary_en": "James informs that the next ASEEES conference will be held in San Francisco. Chloe was hoping for Hawaii. James doesn't think there will be a conference in Hawaii soon due to the high cost of travel.",
+    "dialogue": "Emily: Does anybody now where the next ASEEES conference takes place?\r\nChloe: Actually I have no idea, but a good question\r\nJames: I've heard somewhere in California\r\nJames: Yes, San Francisco!\r\nChloe: not bad, but I really hoped for Hawaii \r\nJames: hahaha, oh yes, but it won't happen too soon\r\nChloe: why do you think so?\r\nJames: The last conference there in 1993 was criticised for the high costs of traveling to the place\r\nChloes: I see, pity"
+  },
+  {
+    "sample_index": 57,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "罗伯、格雷格、安娜和威尔要开始每天锻炼30分钟。",
+    "reference_summary_zh": "罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。",
+    "reference_summary_en": "Rob wants to start doing 30 minutes of physical activity every day. Greg is already doing 60 minutes. Anna wants to start exercising just like Rob. ",
+    "dialogue": "Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.\r\nGreg: way ahead of you mate! at least 60 min a day!\r\nRob: good for you! 30 min a day is gonna be challenging for me!\r\nGreg: good luck then!\r\nWill: don't be too hard on yourself. better to be realistic. fingers crossed!\r\nAnna: i'm in! 30 min sounds reasonable! \r\nGreg: look for variety of exercises such as walking, biking, swimming whatever you enjoy!\r\nAnna: i'm gonna need lots of support from you guys!"
+  },
+  {
+    "sample_index": 58,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "沃克会带着他的xbox游戏机。",
+    "reference_summary_zh": "沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。",
+    "reference_summary_en": "Walker and Booker plan to play games all night. Walker will bring his Xbox console at Booker's request.",
+    "dialogue": "Booker: dont forget to carry your Xbox console\r\nWalker: i thought you dont like the console\r\nWalker: the grip is amazing\r\nBooker: haha, yeah it is\r\nWalker: okay then, ill come with one\r\nBooker: gaming all night is the plan\r\nWalker: yaas"
+  },
+  {
+    "sample_index": 59,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "马利奥今天在卢森堡的每一个机场都降落了。",
+    "reference_summary_zh": "马里奥正在卢森堡的机场候机。",
+    "reference_summary_en": "Mario is waiting on the airport in Luxemburg now.",
+    "dialogue": "Mario: I’ve landed in every airport in Europe today - completely whacked out dude.\r\nKlara: Where are you now?\r\nMario: Waiting in Luxembourg now.\r\nEddie: Have fun dude.\r\nMoe: Only because you love flying so much 😉\r\nMario: weather was good for flying everywhere 🙂 Otherwise it would have been trains everywhere 🙂\r\nMoe: Mario  be safe bro\r\nMario: You too bro 🙂"
+  },
+  {
+    "sample_index": 60,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "马特和约翰今天要练习。",
+    "reference_summary_zh": "约翰不确定今天是否有训练，但马特说有。",
+    "reference_summary_en": "John is not sure if there is practice today but Matt claims there is.",
+    "dialogue": "John: do we have practice today?\r\nMatt: yea think so\r\nJohn: great thanks see ya there\r\nMatt: see ya "
+  },
+  {
+    "sample_index": 61,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "马丁会给亚历克斯买两瓶牛奶。",
+    "reference_summary_zh": "马丁完成计划后将给亚历克斯买两瓶牛奶。",
+    "reference_summary_en": "Martin will get Alex two bottles of milk after he finishes the project.",
+    "dialogue": "Alex: Hon, could you buy some milk?\r\nMartin: You kiddin me, I just bought two yesterday\r\nAlex: Well, I have nothing for my defense, I'm just craving milk lately:D\r\nMartin: You're lucky that I love you, two milks coming up in couple of hours, I gotta finish the project\r\nAlex: You are my hero!"
+  },
+  {
+    "sample_index": 62,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "布莱尔和恰克将在诺娜丽塔家见面。布莱尔和恰克将在诺娜丽塔家见面。",
+    "reference_summary_zh": "布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。",
+    "reference_summary_en": "Blair and Chuck are going to meet the wedding planner after work at Nonna Rita's. The tagliatelle served at Nonna Rita's are very good.",
+    "dialogue": "Blair: Remember we are seeing the wedding planner after work\r\nChuck: Sure, where are we meeting her?\r\nBlair: At Nonna Rita's\r\nChuck: Can I order their seafood tagliatelle or are we just having coffee with her? I've been dreaming about it since we went there last month\r\nBlair: Haha sure why not\r\nChuck: Well we both remmber the spaghetti pomodoro disaster from our last meeting with Diane\r\nBlair: Omg hahaha it was all over her white blouse\r\nChuck: :D\r\nBlair: :P"
+  },
+  {
+    "sample_index": 63,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "路易斯和科尔的室友在同一个房间。",
+    "reference_summary_zh": "科尔和路易斯坐在同一个房间里，却在发短信。",
+    "reference_summary_en": "Cole and Luis are sitting in the same room and yet they're texting each other. ",
+    "dialogue": "Cole: hey roomie XD XD\r\nLuis: dude we are in the SAME DAMN ROOM\r\nCole: its funny XD\r\nLuis: -_-\r\nCole: pass me my pillow xD\r\nLuis: not until you say it to my face\r\nCole: dude cmon \r\nLuis: ...\r\nCole: oh youre not gonna talk to your roommate now\r\nLuis: im not gonna text an idiot whos practically sitting just a few inches from me -_-\r\nCole: xD"
+  },
+  {
+    "sample_index": 64,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "雅各布没有看切尔西的比赛,梅森整个下午都在忙着。达米安和雅各布认为哈德斯菲尔德是个好主意。",
+    "reference_summary_zh": "切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。",
+    "reference_summary_en": "Chelsea won a game with Huddersfield this afternoon. Higuain scored twice. Damian's happy about it and he hopes it will be a turning point for Chelsea. ",
+    "dialogue": "Damian: guys did u watch Chelsea game\nJacob: no\nMason: nah, i was busy all afternoon\nDamian: Higuain scored twice! so happy for him\nDamian: I know it was just Huddersfield, but finally something positive happened\nJacob: having a striker makes a difference\nDamian: yup\nMason: but cmon huddersfield is abysmal\nDamian: don't be like that, im happy for the team, maybe this will be a turning point\nJacob: no, I don't think so\nMason: ha good luck with that"
+  },
+  {
+    "sample_index": 65,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛琳半小时后要去城里。巴里在凯撒店。他想给丽塔买个礼物。玛琳想买39美元的。",
+    "reference_summary_zh": "玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。",
+    "reference_summary_en": "Marleen will be leaving in half an hour to go to town. She will get a present for Rita - silk kerchief with a yellow pattern from Kaiser's. It costs 39, and Barley will share the cost 50/50 with Marleen.",
+    "dialogue": "Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.\r\nMarleen: Text me here with your ideas for a present for her.\r\nBarry: But I've got none! I leave the choice entirely to you.\r\nBarry: I'm at home now.\r\nMarleen: Am at Kaiser's. Lovely silk kerchiefs.  What do you think?\r\nBarry: One can't have too many!\r\nMarleen: But isn't it a bit too personal?\r\nBarry: Not at all.\r\nMarleen: <file_photo>\r\nMarleen: Which?\r\nBarry: The one with yellow pattern, definitely. She loves yellow.\r\nMarleen: The most expensive of the five.\r\nBarry: How much?\r\nMarleen: 39\r\nBarry: Oh come on. Not so bad.\r\nMarleen: Shall we go 50/50?\r\nBarry: OK"
+  },
+  {
+    "sample_index": 66,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "布鲁克建议吉尔去看望她,因为昨天发生了什么事。",
+    "reference_summary_zh": "布鲁克要盖尔过来看看昨天发生了什么。",
+    "reference_summary_en": "Brook wants Gyle to come and see what happened yesterday. ",
+    "dialogue": "Brook: something happened yesterday, you need to come and see\r\nGyle: is it bad?\r\nBrook: you better come home\r\nGyle: On my way"
+  },
+  {
+    "sample_index": 67,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "凯特和雷吉娜对他们的报告很满意。",
+    "reference_summary_zh": "凯特、米丽娜和里贾娜的演讲进行得很顺利，三个人来听他们的演讲。",
+    "reference_summary_en": "Kate, Milena and Regina's presentation went well. Three people came to listen to them.",
+    "dialogue": "Milena: How was the presentation?\nKate: very good\nRegina: yes, we had a good feedback\nMilena: how many people came to listen to you?\nRegina: 3 but we new it will be very cosy, friendly thing\nMilena: sometimes a small but interested audience is better than random bored people\nKate: exactly"
+  },
+  {
+    "sample_index": 68,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰克想买一个托特。",
+    "reference_summary_zh": "杰克今年拿到了第一个totw ，汤姆的团队并不出色。",
+    "reference_summary_en": "Jake has got his first TOTW this year. Tom doesn't have a great team. ",
+    "dialogue": "Jake: dude, I just pulled a TOTW\nJake: my first this year!\nTom: grats!\nTom: gonna sell it?\nJake: yeah\nJake: I'll try him in one or two matches\nJake: he's not a good fit for my squads\nTom: you'll have plenty of coins to buy someone that fits\nJake: that's the plan\nJake: I got lucky with this one\nTom: my pull luck sucks this year\nTom: not a single great player \nJake: you're good at the game\nJake: you don't need help :P\nTom: I like shiny things :P"
+  },
+  {
+    "sample_index": 69,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "乔丹收到了卡斯的生日卡和钱。卡斯特别挑选了托马斯的坦克发动机。乔丹11岁了。卡斯喜欢托马斯。",
+    "reference_summary_zh": "凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。",
+    "reference_summary_en": "Cass sent her grandson Jordan £20 and a birthday card for his 11th birthday. ",
+    "dialogue": "Cass: Hi darling, did you get your birthday card and money on time?\r\nJordan: hello Nanna! Thanks for the £20. Sorry I didn't ring you before.\r\nCass: you still like Thomas the Tank engine don't you? I picked it specially.\r\nJordan: Yes, Nanna. I will always love him! Next time, get me a football one or something. I mean, I'm 11 now!\r\nCass: I know, you are so grown up. Love you xxxxx\r\nJordan: Love you, Nan xx"
+  },
+  {
+    "sample_index": 70,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰西卡和米基去过意大利的帕勒莫。帕勒莫有8千具尸首。杰西卡和奥利都很喜欢这个地方。",
+    "reference_summary_zh": "对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。",
+    "reference_summary_en": "The scariest place for Jessica was the Capuchin Catacombs in Palermo.",
+    "dialogue": "Kelly: Oh! Oh! Can I pick the first question?\r\nJessica: Sure. Go for it!\r\nKelly: What's the scariest place you've been to!\r\nJessica: I'll start: Palermo in Italy.\r\nMickey: And what's so scary about that? Did you break your nail? :P\r\nJessica: Shut it, Mickey! No, there are the Capuchin Catacombs with 8000 corpses! \r\nKelly: Ewwww! Corpses? Rly?\r\nJessica: Yeah! And you can look at them like museum exhibits. I think they're divided somehow, but have no clue how!\r\nOllie: That's so cool! Do you get to see the bones or are they covered up?\r\nJessica: Well, partly. Most of them were exhibited in their clothes. Basically only skulls and hands. \r\nMickey: I'm writing this one down! That's so precious!\r\nOllie: Me too!"
+  },
+  {
+    "sample_index": 71,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "西蒙给查理发了一张关于欧盟政策的视频。",
+    "reference_summary_zh": "西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。",
+    "reference_summary_en": "Simon and Charlie admire Poland for its anti-immigration policy and the way it defends its values and interests. ",
+    "dialogue": "Simon: <file_photo>\r\nSimon: It's funny and scary at the same time.\r\nSimon: BTW it's so annoying that people can't see that such immigration policy reduces safety level for citizens of EU significantly\r\nCharlie: This photo is great. It totally shows what do we all mean when we criticize EU policy. \r\nCharlie: Berlin has put concrete blocks around Christmas fair, Belgium has soldiers running armed around cities and Paris has mass demonstrations and car arsons happening all over the city.\r\nCharlie: Poland though...\r\nCharlie: One of the last countries unspoilt by uncontrolled migration and terrorism\r\nCharlie: The question is - for how long...\r\nSimon: I always say that there is advantage of the polish situation\r\nSimon: I mean being economically delayed for few decades\r\nSimon: Poland has a chance to develop in fast pace and at the same time has a position to avoid all the mistakes other western powers made.\r\nSimon: The worst thing is that the country is being ostracized by defending it's values and interests. \r\nCharlie: Yup. And as long as there are people in Poland ready to defend that values, the country will be marginalized by every other nation.\r\nSimon: I admire Poles.\r\nSimon: I admire them for they will to fight.\r\nSimon: They never give up.\r\nCharlie: Different countries tried to eliminate them from the map.\r\nSimon: I tell you, there will be time, when only Poland will have power to fight with internal problems of Europe.\r\nCharlie: Maybe. But there is a risk that internal conflict will rip the country apart.\r\nSimon: Let's hope not.\r\nCharlie: Yup. To conclude: Christmas in Poland will be the best Christmas in Europe :D\r\nSimon: I agree :)"
+  },
+  {
+    "sample_index": 72,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "爱德、瓦莱丽、克里斯、洛尔、杰西卡和马特都认为性爱是罪恶的。",
+    "reference_summary_zh": "艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。",
+    "reference_summary_en": "Ed, Valerie, Chris, Lor, Atnee, Jessica, Matt are laughing at the sinfulness of the sex without marriage.",
+    "dialogue": "Ed: Sinners!! Sex is for married people\r\nValerie:  double sin if it’s anything but missionary style!\r\nChris: Then you go get married & leave us all alone\r\nLor: You better hope all non sin living is worth it or your consciousness after death is going to be butt hurt for eternity lol\r\nAtnee: Ed, take it easy\r\nJessica: And the only purpose for sex is to make babies! !! That's it, hahaha 😂\r\nAtnee: Lol\r\nEd: Valerie , triple sin if you enjoy it!\r\nJessica: And only for procreation. :-))) And not to be enjoyed. :-)))\r\nMatt: Ed, Ok. See you in hell !! 😂\r\nEd: Matt , No you won’t. I don’t even look on the direction of another man"
+  },
+  {
+    "sample_index": 73,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "迈克在伦敦。",
+    "reference_summary_zh": "迈克在伦敦。",
+    "reference_summary_en": "Mike is in London.",
+    "dialogue": "Jake: Maaaan! you in london?!\r\nMike: <file_photo>\r\nMike: yeah mate! dreams coming true!\r\nJake: cool! congrats!"
+  },
+  {
+    "sample_index": 74,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "里奇、克莱和荷西喜欢他的投篮。",
+    "reference_summary_zh": "里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。",
+    "reference_summary_en": "Richie and Clay saw a very good football game, with one football player chopping the ball back to his foot, which was particularly exciting. Jose has trust in that player. ",
+    "dialogue": "Richie: Pogba\r\nClay: Pogboom\r\nRichie: what a s strike yoh!\r\nClay: was off the seat the moment he chopped the ball back to his right foot\r\nRichie: me too dude\r\nClay: hope his form lasts\r\nRichie: This season he's more mature\r\nClay: Yeah, Jose has his trust in him\r\nRichie: everyone does\r\nClay: yeah, he really deserved to score after his first 60 minutes\r\nRichie: reward\r\nClay: yeah man\r\nRichie: cool then \r\nClay: cool"
+  },
+  {
+    "sample_index": 75,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "亚历克给亚历克发了一个链接,链接无效。亚历克和亚历克喜欢这个链接。亚历克认为亚历克最优秀的女孩。亚历克认为亚历克最优秀的女孩之一。亚历克认为亚历克最优秀的女孩之一。",
+    "reference_summary_zh": "亚历克看到美国的达人秀，他发了个链接给亚莉克莎。",
+    "reference_summary_en": "Alec saw America's got talent. He sent a link to Alexa.",
+    "dialogue": "Alec: Have you seen the last America's got talent?\r\nAlexa: No. \r\nAlexa: Interesting? \r\nAlec: <file_other>\r\nAlexa: The link doesn't work. \r\nAlec: Give me a sec.\r\nAlec: <file _other>\r\nAlexa: Now it's working!\r\nAlec: good, watch it, u'll like it\r\nAlexa: you're right, I like it :)\r\nAlexa: The girl is amazing!\r\nAlec: :)\r\nAlexa: I wish I have had half her skills when I was her age! \r\nAlec: She's very good, that's true. \r\nAlec: I even thik she might win the edition.\r\nAlexa: Did you see all candidates?\r\nAlec: yes\r\nAlec: And there're a few good, but I personally think she's the best!\r\nAlexa: I'd be glad if she wins :)"
+  },
+  {
+    "sample_index": 76,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "詹姆斯不看比赛,他要去上班。",
+    "reference_summary_zh": "詹姆斯要去上班，所以他不看比赛。",
+    "reference_summary_en": "James is heading to work so he's not watching the game.",
+    "dialogue": "Hannah: Are you watching the game?\r\nJames: No I am head to work : ( \r\nHannah: Oh okay"
+  },
+  {
+    "sample_index": 77,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "齐格勒明天会把护照带来。",
+    "reference_summary_zh": "在多尔夫的提醒下，齐格勒明天会把护照带来。",
+    "reference_summary_en": "Ziggler will bring the passport tomorrow as reminded by Dolph.",
+    "dialogue": "Dolph: hey\r\nDolph: remember to bring your passport tomorrow\r\nZiggler: Cool, i will"
+  },
+  {
+    "sample_index": 78,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "威廉正在做意大利面。他会给奥利维亚和贝丝买些新鲜的西红柿和巧克力。",
+    "reference_summary_zh": "威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。",
+    "reference_summary_en": "William is making spaghetti. Olivia will buy fresh tomatoes for William. Beth will buy chocolate.",
+    "dialogue": "William: hey im making spaghetti\nWilliam: could you please buy some fresh tomatoes\nWilliam: pretty please :)\nOlivia: no problem dear :)\nWilliam: and Beth? it wouldn't hurt to have some chocolate for after the dinner :D\nBeth: I'm on it :D"
+  },
+  {
+    "sample_index": 79,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "蒂娜正在寻找帕特里克。蒂娜和黛米正在组织研讨会。",
+    "reference_summary_zh": "蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。",
+    "reference_summary_en": "Tina has to learn Demi's approach how to transfer from hating men to dating them.",
+    "dialogue": "Tina: Hey, Facebook is constantly non stop suggesting Patrick\r\nDemi: Hahahahaha \r\nTina: I think I have to catch a bit of your approach\r\nDemi: He's a god. What do you mean...?\r\nTina: I have to learn how to transfer from hating men to fucking them haha\r\nDemi: (Y)\r\nTina: as soon as possible\r\nDemi: Haha! Yeah. I did it, you're right. But i worked on it hard after a huge heartbreak\r\nTina: <file_gif>\r\nDemi: (Y) currently i like men. you have to be chilled with them ;)\r\nTina: <file_gif>\r\nDemi: :D maybe its a mistake... i dont know. Lets organize workshops on that :D\r\nTina: I only like one type :D yes plz do it haha\r\nDemi: Done! but maybe you should chill a bit, look around for ather types ...and see what happens\r\nTina: I only dont what my mood depend so much on other people\r\nDemi: I know! I know it well!\r\nTina: this renting case is eating me\r\nDemi: you have to isolate one bit inside that will be always independent\r\nTina: we have to meet, crazy girl!\r\nDemi: for sure. if youre homeless i will take under my roof\r\nTina: between the guyshaha\r\nDemi: we ll find something\r\nTina: <3"
+  },
+  {
+    "sample_index": 80,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "埃文和伊森讨论了这次活动。埃文会设法让伊森来。",
+    "reference_summary_zh": "埃文会让伊森来的。",
+    "reference_summary_en": "Evan will try to make Ethan come.",
+    "dialogue": "Allison: You talked to Ethan about the function? \r\nEvan: Yeah I did\r\nAllison: What did he say?\r\nEvan: He might not come\r\nAllison: Can you do something about that?\r\nEvan: I will try to make him come\r\nAllison: K"
+  },
+  {
+    "sample_index": 81,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "巴特的经济学期末考得不好。阿德里安认为巴特没有学习得好。巴特开始玩《星球大战》游戏。阿德里安建议巴特不要在学校的时候玩游戏。",
+    "reference_summary_zh": "巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。",
+    "reference_summary_en": "Bart didn't do well this semester because he didn't study much. He played a lot fo StarCraft. Adrian did well thanks to paying attention in class",
+    "dialogue": "Adrian: Did you get your grades yet?\r\nBart: Yeah. My whole semester is screwed up now.\r\nAdrian: Wait whaaat? Why?\r\nBart: Well, I bombed my economy final and ended up with a bad score..\r\nAdrian: Ouch. That must hurt :/ \r\nBart: Well, it's my fault because I didn't study as much as I should have.\r\nAdrian: Why don't you re-take the class next year?\r\nBart: That's what I plan on doing unless I keep screwing up. How did you do this semester?\r\nAdrian: I didn't do that bad. I ended up with a reasonable grade.\r\nBart: Well someone did his homework :p\r\nAdrian: I just pay attention during class, I don't study that much actually.\r\nBart: Classes are boring, can't pay attention for too long...\r\nAdrian: Anyway, why didn't you study for the economy final? \r\nBart: Let's just say I screwed up more than my econ class.\r\nAdrian: What happened?\r\nBart: I started playing StarCraft and ended up wasting a lot of time.\r\nAdrian: Oooohh I know that game but you better stop slacking off.\r\nBart: You're right. I'm not going to play games during school anymore.\r\nAdrian: You can play them, just don't loose focus and study for the exams :p\r\nBart: Let's see how it goes xD"
+  },
+  {
+    "sample_index": 82,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "肖恩的灵性动物是一只海龟。",
+    "reference_summary_zh": "肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。",
+    "reference_summary_en": "Sean believes his spirit animal is a tortoise and Tiffany's could be a wasp. ",
+    "dialogue": "Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.\r\nTiffany: That would explain a lot.\r\nSean: You would be a wasp.\r\nTiffany: Are you sure you're a turtle? Maybe you're just haunted."
+  },
+  {
+    "sample_index": 83,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "凯特和乔治明天要去杂货店给学校买些水果。",
+    "reference_summary_zh": "凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。",
+    "reference_summary_en": "Kate is buying apples for herself and George. They have to wait for tangerines until next week.",
+    "dialogue": "Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?\r\nGeorge: Oh yes please, an apple would be great\r\nKate: Okay, I'm getting me one too\r\nGeorge: Do they have tangerines yet?\r\nKate: No the're coming next week, I asked already:D\r\nGeorge: Okat then we have to wait"
+  },
+  {
+    "sample_index": 84,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "朱莉娅和罗纳德周末过得很开心。朱莉娅的父母在争吵,朱莉娅不想再和他们一起吃饭了。罗纳德回来后会给朱莉娅打电话。",
+    "reference_summary_zh": "茱莉亚回来后会给罗纳德打电话，他有事要告诉她。",
+    "reference_summary_en": "Julia will call Ronald when she gets back. He has something to tell her.",
+    "dialogue": "Ronald: How's your weekend?\r\nJulia: Fine I guess...\r\nRonald: Doesn't sound like you're enjoying it\r\nJulia: Ehh. My parents are having a fight over where should we eat\r\nJulia: And honestly I don't event want to eat with them anymore\r\nRonald: I'm sorry\r\nJulia: Yup. Me too.\r\nRonald: Call me when you get back.\r\nRonald: I've got something to tell you, and I'm sure you're gonna piss rainbows\r\nJulia: Hahaha. I can see the giraffe from Skittles comercial :D\r\nRonald: Sth like that"
+  },
+  {
+    "sample_index": 85,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "马修得了感冒,需要丽莎的帮助。",
+    "reference_summary_zh": "马修感冒了，他要喝些橙汁，然后去睡觉。",
+    "reference_summary_en": "Matthew has a cold. He will drink some orange juice and go to sleep.",
+    "dialogue": "Matthew: I have a cold. Need y'all support. It's painful\r\nLisa: Fight it. Drink orange juice. Make some soup\r\nMatthew: I'll try\r\nLisa: I believe in u \r\nMatthew: Thank u. Apparently it's an allergy mixed up with virus\r\nLisa: Ahh it sucks. \r\nLisa: Take a rest from evrthg.  \r\nMatthew: Ikr. Hitting the hay now\r\nLisa: Good night 'Thew! "
+  },
+  {
+    "sample_index": 86,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "斯蒂芬诺和乔西在讨论福考特的《小摆子》。斯蒂芬诺喜欢福考特的小摆子。乔西读了萨尔曼·拉希迪的《小摆子》,萨尔曼·拉希迪在80年代评论了小摆子。",
+    "reference_summary_zh": "乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。",
+    "reference_summary_en": "Josie finds Eco's novel \"Foucault's Pendulum\" nerdy. Josie would like to read Eco in Italian, but she's unsure of her language abilities. Stefano considers Eco's two novels and finds them difficult. Josie has read an unfavorable review of \"Foucault's Pendulum\" by Salman Rushdie.",
+    "dialogue": "Stefano: Hi, Josie!\r\nJosie: Ciao, Stefano!\r\nStefano: So, what about Foucault's Pendulum? Do you like it?\r\nJosie: It's... weird. Was it really written by an Italian guy? It's so... nerdy.\r\nStefano: Oh well, in a sense Eco was the king of nerds. And, you know, not all Italian books are about pizza, mafia and mandolino. :P\r\nJosie: Yes, I know... I should try and read one of his novels in the original, but I'm not sure my level of Italian is adequate.\r\nStefano: The Name of the Rose is really difficult for a foreign speaker of Italian, you know.\r\nJosie: And what about Foucault's Pendulum?\r\nStefano: Well, it's set in the 1980s, so the language is definitely more comprehensible. The content, however, is just as complicated as in the other novel.\r\nJosie: Btw, I read Salman Rushdie's review of Pendulum, published in the 80s.\r\nStefano: Really? What did he say?\r\nJosie: He hated it and said that it's not a novel, but rather a computer game.\r\nStefano: What? Rotfl!\r\nJosie: That's what Salman said...\r\nStefano: Oh well, de gustipus non est disputandum...\r\nJosie: De gustiBus!\r\nStefano: I know, it was a typo!\r\nJosie: Disgusting pus!\r\nStefano: Hahaha.\r\nJosie: Yuk! That's so creepy.\r\nStefano: You're the one who said it!\r\nJosie: I know. ;)"
+  },
+  {
+    "sample_index": 87,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "正在下雨。瓦尔和坎迪半小时后见面。",
+    "reference_summary_zh": "下雨了，所以瓦尔和坎迪要等半小时才走。",
+    "reference_summary_en": "It's raining, so Val and Candy will wait half an hour before they go.",
+    "dialogue": "Val: it's raining!\r\nCandy: I know, just started...\r\nVal: r we going? we will be wet\r\nCandy: maybe wait a little? see if stops\r\nVal: ok. let's wait half h and than see\r\nCandy: god idea, I call u then\r\nVal: great :)"
+  },
+  {
+    "sample_index": 88,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "托马斯没有拿到补助金。塞拉没有,杰里米也没有。托马斯的银行账户上没问题。塞拉会借给托马斯一些钱。",
+    "reference_summary_zh": "托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。",
+    "reference_summary_en": "Tomas, Sierra and Jeremy have still not received the grant. Tomas is broke and is checking his bank account every hour. Sierra offers to lend him some money.",
+    "dialogue": "Tomas: Has anybody received the grant yet?\r\nSierra: no, not yet\r\nJeremy: I haven't checked even\r\nTomas: I'm completely broke\r\nTomas: checking my bank account every hour\r\nTomas: but nothing's happening there\r\nSierra: lol\r\nSierra: be patient. If you need money I can lend you some, don't worry\r\nTomas: Thanks, I hope they'll arrive any minute"
+  },
+  {
+    "sample_index": 89,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "查尔斯和卡米拉这周末要去拜访伯明翰和曼彻斯特的德国市场。卡米拉喜欢香肠和啤酒。查尔斯和卡米拉去年在圣诞节做了香肠,但没人喝了。卡米拉宿醉了。",
+    "reference_summary_zh": "卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。",
+    "reference_summary_en": "Camilla has some errands to do on Saturday. Charles is visiting the German markets this weekend. They are talking about Christmas food and drinks.",
+    "dialogue": "Charles: What are you up to this weekend?\r\nCamilla: Not much. Just some work and errands on Saturday, show Saturday night. Day of nothingness on Sundy.\r\nCharles: Sounds good. We are going to visit the German markets this weekend. Birmingham and Manchester both. Sausage overload!\r\nCamilla: Ooh, that sounds really good!\r\nCharles: Allegedly there are Christmas things going on but I just go for the sausage and beer!\r\nCamilla: What a shocker.\r\nCharles: I know!\r\nCamilla: I'll have to try to get there this year. I've not been for ages.\r\nCharles: Oh, yeah, they are good. Try the mulled wine too. That's nice.\r\nCamilla: Never had it. Is it served hot?\r\nCharles: Yes, exactly. And lots of spices. Usually a red but sometimes they offer a mulled white.\r\nCamilla: I'm good with red.\r\nCharles: Inspired us to make our own at Christmas last year, but nobody else drank it.\r\nCamilla: Bummer!\r\nCharles: More for me! But oh the hangover.\r\nCamilla: LOL!\r\nCharles: Anyway, that's the plan. Hope you have fun.\r\nCamilla: You too! \r\nCharles: Thanks!"
+  },
+  {
+    "sample_index": 90,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "拉斯塞尔给戴安娜和戴安娜买了一个礼物。",
+    "reference_summary_zh": "戴安娜和拉塞尔在给妈妈买礼物。",
+    "reference_summary_en": "Diana and Russel are buying a present for mum.",
+    "dialogue": "Russel: <file_other>\r\nRussel: look at this\r\nRussel: It's a perfect present fo mum :D\r\nDiana: haha, so true! It's not that expensive either!\r\nDiana: are we buying it?\r\nRussel: yeah, let's do it :D"
+  },
+  {
+    "sample_index": 91,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "简想让英斯利帮她写论文。英斯利感冒了,每隔两秒就喷嚏。",
+    "reference_summary_zh": "安斯利病了，所以她现在不能帮简写论文。",
+    "reference_summary_en": "Ainsley is sick, so she's not able to help Jane with her thesis now.",
+    "dialogue": "Jane: Are u free now? Could u help me with that thesis?\r\nAinsley: I'm sick won't be of much help sorry. I've got a cold and I'm sneezing like a little bitch every 2 seconds\r\nJane: Oh... hmm ok. Hope u will get better soon..."
+  },
+  {
+    "sample_index": 92,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "菲奥娜和康拉德在一起。康拉德是菲奥娜的学生。菲奥娜和康拉德在一起的时间太长了。菲奥娜想和康拉德在一起,但康拉德比她年轻5岁。",
+    "reference_summary_zh": "菲奥娜爱上了他的学生康拉德。",
+    "reference_summary_en": "Fiona fell in love with his student, Conrad.",
+    "dialogue": "Fiona: I just can’t stand it\r\nWanda: What again\r\nFiona: When I’m in one room with him… I just go crazy\r\nWanda: Conrad?\r\nFiona: Yesss, he’s absolutely lovely!!\r\nWanda: IT IS YOUR STUDENT\r\nFiona: So what? I mean sure, I know it’s… inappropriate xd but still, he’s only 5 years younger than me\r\nWanda: It’s so fucked up, I knew you are crazy before but it’s too much\r\nFiona: I knoooow when I come back home after the class I can’t do anything for like an hour or two, I just listen to the music\r\nWanda: You’re literally in love with him\r\nFiona: I mean I don’t expect anything, we’re from different worlds but… Yes, I just want to be around him. All the time xd\r\nWanda: So you need to do something about it\r\nFiona: Are you crazy, I can’t!!\r\nWanda: Why not\r\nFiona: What would my boss say if she knew\r\nWanda: Will she know?\r\nFiona: How can I know what will he do, he can tell his mother as well\r\nWanda: Just go for it!!"
+  },
+  {
+    "sample_index": 93,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛格丽特、伊万斯和玛格丽特将在12月4日和11日10点或11点左右见面。如果玛格丽特不在,他们会在14日10点见面。",
+    "reference_summary_zh": "玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。",
+    "reference_summary_en": "Margaret and Evans plan to meet at 10 on 4th and at 11 on 11th. They both are not sure when they will be able to meet next, so they will come up with a date later.",
+    "dialogue": "Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. \r\nEvans: Hi, 4th - we can meet at 10:00.\r\nEvans: And 11th - at 11:00. \r\nMargaret: Okey. And what about 18th?\r\nEvans: I'm not sure about 18th. \r\nEvans: I might not be in town. \r\nMargaret: Okey, so we'll see. \r\nEvans: Yes. And I'll let you know next week. \r\nMargaret: If it's not 18th, maybe we could meet on 17th?\r\nEvans: If I go away, I won't also be 17th.\r\nMargaret: Okey, I get it. \r\nEvans: But we could meet 14th, if you like?\r\nMargaret: Hm, I'm not sure whether I'm avaliable. \r\nEvans: So let's set these dates later, ok?\r\nMargaret: Okey and we see each other 4th 10:00. \r\nEvans: Yes!"
+  },
+  {
+    "sample_index": 94,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "路易斯给阿奇发了一张梅兰妮的照片。",
+    "reference_summary_zh": "通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。",
+    "reference_summary_en": "By looking at the photos, Archie thinks that Melanie looked nicer with curly hair. Louis disagrees.",
+    "dialogue": "Louis: <file_gif>\nArchie: Wtf? Lol!\nLouis: <file_gif>\nArchie: That one looks like Melanie\nLouis: True! Hahahahah\nArchie: Just like in this pic\nArchie: <file_photo>\nLouis: Lol! It's her!\nArchie: By the way, she was way hotter when she had cury hair\nLouis: I disagree, sir! She looks absolutely gorgeous with straight hair\nArchie: Oh well, you have the right to an opinion even if it's wrong XD"
+  },
+  {
+    "sample_index": 95,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "琳达错过了去阿姆斯特丹的火车。",
+    "reference_summary_zh": "琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。",
+    "reference_summary_en": "Linda missed her train and the next one is in one hour. A return to Amsterdam was 80 euros.",
+    "dialogue": "Linda: I missed the train\nJoseph: When is the next one?\nLinda: In one hour\nDarcy: Not a tragedy\nLinda: It was 80 euros\nLinda: Return to Amsterdam\nLinda: I was shocked!! "
+  },
+  {
+    "sample_index": 96,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "卢旺多娃得了麻疹住院了,她必须接受疫苗接种。乔安娜的论文导师是卢旺多娃,她从上学期起就没见过她。乔安娜将在18号工作前去接种她。",
+    "reference_summary_zh": "莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。",
+    "reference_summary_en": "Lewandowska has measles. There are vaccinations in the main building from 17th until 19th for everyone who had contact with her. ",
+    "dialogue": "Joanna: They are sending emails about Lewandowska.\r\nMerve: What happened?\r\nJoanna: <file_photo> \r\nMerve: Wooow!\r\nJoanna: She is hospitalized because she has measles.\r\nMerve: She had what?\r\nJoanna: Anyone who had contact with her within the last couple of days must get vaccinated.\r\nMerve: Luckily I didn't see her since the last semester...\r\nJoanna: I did, she is my thesis mentor :(\r\nMerve: What will you do?\r\nJoanna: They are organizing vaccinations in the main building from 17th until 19th.\r\nMerve: You have to go!\r\nJoanna: I know... And I just started working so I really don't have a lot of time.\r\nMerve: Come on, this is really important.\r\nJoanna: I will try to do it before work on 18th, hopefully I won't lose the entire day..."
+  },
+  {
+    "sample_index": 97,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "卡尔还在等梅格,梅格的钥匙丢了。",
+    "reference_summary_zh": "卡尔在等梅格，她找不到钥匙，要迟到了。",
+    "reference_summary_en": "Carl is waiting for Meg who's running late as she can't find her key. ",
+    "dialogue": "Carl: Where are u?\r\nCarl: I'm still waiting for u!!!\r\nMeg: I need 5 minutes more, I've lost my key somewhere :("
+  },
+  {
+    "sample_index": 98,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛丽亚厌倦了她的工作。",
+    "reference_summary_zh": "玛丽亚厌倦了她的工作。",
+    "reference_summary_en": "Maria is tired of her job. ",
+    "dialogue": "Maria: I'm tired of this job, I can't stand it anymore\nAnastasia: I know, but calm down\nFelix: don't make decisions in this rash\nMaria: :("
+  },
+  {
+    "sample_index": 99,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "卢克今天开始冲浪了。他明天下午2点22分去那里。埃里克认为在潮汐中的时候最好,因为那里有岩石。",
+    "reference_summary_zh": "卢克明天下午2点22分要去冲浪。",
+    "reference_summary_en": "Luke will go surfing at 2:22 pm tomorrow.",
+    "dialogue": "Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)\r\nKen: Yaaaay welcome to the tumble dry club - some days is great others just a knock about\r\nSummer: I almost lost my tooth one time ;) Hopefully next time is better!\r\nLuke: low tide is 2:22PM tomorrow. I'll be out there\r\nEric: I thought mid tide is generally the best ?\r\nLuke: Oh yeah? Yesterday was low tide. I thought that's best cuz you can see the rocks\r\nEric: Seeing rocks is a bad thing. I mean, you want to be aware of where they are for sure. But rocks in your vision = no bueno\r\nLuke: well I'd rather seem than** run into them. When the tide is out you're not surfing over the rocks"
+  }
+]
