@@ -1,20 +1,4 @@
-__pycache__/
-*.pyc
 .DS_Store
-.env
+__pycache__/
+.ipynb_checkpoints/
 .venv/
-models/
-.gitkeep
-
-# Raw data files
-data/raw/*.json
-!data/raw/.gitkeep
-
-# Outputs and model checkpoints
-outputs/
-analysis_results/
-checkpoints/
-*.bin
-*.pt
-*.safetensors
-font*
