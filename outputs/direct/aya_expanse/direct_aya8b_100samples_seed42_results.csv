@@ -1,11 +1,9 @@
 sample_index,model_name,generated_summary_zh,reference_summary_zh,reference_summary_en,dialogue
-0,aya-expanse:8b,"马克斯询问佩顿是否知道哪里可以买到好衣服。佩顿分享了多个购物网站链接，表示这些网站有不同的商品。马克斯表示这些网站很多，而佩顿解释说她通常会从两个或三个网站购买，因为每个网站都有独特商品。
+0,aya-expanse:8b,"麦克斯问派顿是否知道哪里可以买到好衣服。派顿列出了几个网站，但表示通常会从两个或三个网站购买，因为每个网站都有不同的商品。麦克斯表示会查看这些网站。
 
-马克斯表示会查看这些网站。佩顿没有问题地回应。随后，马克斯问佩顿是否喜欢购物，佩顿回答既是又不是。她喜欢浏览、试穿和看镜子，但并不总是买。马克斯好奇为什么不总是买，佩顿开玩笑说这是显而易见的。
+派顿坦言对购物既喜欢又不喜欢。她喜欢浏览、试穿和看镜子，但并不总是买。麦克斯好奇为什么，派顿开玩笑说如果她买了所有喜欢的东西，就没什么可生活了。
 
-马克斯道歉，表示理解。佩顿解释说，如果她买了所有喜欢的东西，就没有生活费用了。他们都同意，虽然购物习惯可能不同。
-
-佩顿通常会购买衣服和书籍。她非常喜欢阅读，喜欢读各种各样的书。",佩顿给麦克斯提供了卖衣服的网站。他喜欢浏览、试穿衣服，但不一定都会买。他经常买衣服和书，因为他也喜欢阅读。,Payton provides Max with websites selling clothes. Payton likes browsing and trying on the clothes but not necessarily buying them. Payton usually buys clothes and books as he loves reading.,"Max: Know any good sites to buy clothes from?
+派顿通常会购买衣服和书籍。她热爱阅读，喜欢读各种各样的书。",佩顿给麦克斯提供了卖衣服的网站。他喜欢浏览、试穿衣服，但不一定都会买。他经常买衣服和书，因为他也喜欢阅读。,Payton provides Max with websites selling clothes. Payton likes browsing and trying on the clothes but not necessarily buying them. Payton usually buys clothes and books as he loves reading.,"Max: Know any good sites to buy clothes from?
 Payton: Sure :) <file_other> <file_other> <file_other> <file_other> <file_other> <file_other> <file_other>
 Max: That's a lot of them!
 Payton: Yeah, but they have different things so I usually buy things from 2 or 3 of them.
@@ -33,11 +31,7 @@ Max: Gr8! What books do u read?
 Payton: Everything I can get my hands on :)
 Max: Srsly?
 Payton: Yup :)"
-1,aya-expanse:8b,"奥利（Ollie）、凯利（Kelly）、米奇（Mickey）和杰西卡（Jessica）在讨论令人毛骨悚然的地方。凯利分享了一个芬兰的雕塑花园，那里有大量的人形雕塑，它们表现出各种活动中的人脸，让她感到不安。
-
-奥利则介绍了日本纳戈罗村（Nagoro village），一个与凯利的地点类似但更令人不安的地方，因为村庄里除了居民外，还有比人高的木制人物，数量甚至超过了真正的居民！
-
-米奇和杰西卡都表示这些地方很可怕，并决定永远不会去。奥利认为自己的选择最令人毛骨悚然，但其他人并不同意。最终，他们告别并结束了对话。",凯利很害怕芬兰雕塑花园里的人物，因为她觉得那些人物的脸非常病态。对奥利来说，这就像日本的人偶村，令人毛骨悚然。,"Kelly is scared of sculpture garden figures in Finnland, she finds figure's faces morbid. For Ollie it's Nagoro village in Japan, it's creepy. ","Ollie: Okay, Kelly! Ur up nxt!
+1,aya-expanse:8b,奥利、凯利、米奇和杰西卡在聊天，分享他们认为最可怕或最令人印象深刻的地方。凯利提到芬兰的一个雕塑花园，那里有大量看起来有些诡异的雕塑人像。奥利则介绍了日本纳戈尔村，描述它与凯利的经历相似，但更加令人不安，因为村庄里的人比雕塑还多。讨论中充满了幽默和惊恐的元素，最终米奇表示要结束聊天，大家互道再见。,凯利很害怕芬兰雕塑花园里的人物，因为她觉得那些人物的脸非常病态。对奥利来说，这就像日本的人偶村，令人毛骨悚然。,"Kelly is scared of sculpture garden figures in Finnland, she finds figure's faces morbid. For Ollie it's Nagoro village in Japan, it's creepy. ","Ollie: Okay, Kelly! Ur up nxt!
 Kelly: Me? I don't wanna.
 Mickey: C'mon!
 Jessica: Yeah! What's yours?
@@ -65,21 +59,7 @@ Mickey: Listen, guys, fun talking to u, bt gotta go.
 Kelly: Yeah, me too. Bye!
 Jessica: Bye!
 Ollie: Cu!"
-2,aya-expanse:8b,"艾瑞克：贝拉，今天老板房间里发生了什么？他生气了吗？
-
-贝拉：不，绝对不是！他非常赞赏我们拒绝客户请求的勇敢决定。
-
-艾瑞克：真的？他赞赏这个决定？
-
-贝拉：是的，他确实如此。我也对他的反应感到惊讶。
-
-艾瑞克：这有什么可能导致这种结果呢？也就是说，他们是潜在客户...
-
-贝拉：他说他期待着引入新的客户，而这些新客户是我们当前客户的竞争对手。
-
-艾瑞克：哦，这可能是原因所在。不管怎样，你得到了赞赏！恭喜你！
-
-贝拉：哈哈，真是幸运的转折（祝福）。",贝拉和埃里克拒绝了一个客户的要求。他们老板很赞赏这个决定。他会吸引新的客户来。,Bella and Eric dismissed a request of a client. Their boss appreciated the decision. He brings in new clients.,"Eric: Hey Bella, What happened today in boss's room?? Was he angry??
+2,aya-expanse:8b,埃里克问贝拉今天老板房间里发生了什么，老板是否生气。贝拉回答说老板并没有生气，反而对他们拒绝客户请求的决定表示赞赏。埃里克惊讶地发现原来如此。贝拉解释说，老板希望吸引竞争对手的潜在客户。埃里克祝贺贝拉得到老板的认可。,贝拉和埃里克拒绝了一个客户的要求。他们老板很赞赏这个决定。他会吸引新的客户来。,Bella and Eric dismissed a request of a client. Their boss appreciated the decision. He brings in new clients.,"Eric: Hey Bella, What happened today in boss's room?? Was he angry??
 Bella: NO NO!!! He wasn't angry at all.. He actually appreciated on our brave deccision to dismiss the request of client..
 Eric: REALLY!! He appreciated this decision..
 Bella: Yeah he really did.. I too was astounded by his reaction...
@@ -87,12 +67,12 @@ Eric: What could possibly lead to this?? I mean , they were potential clients...
 Bella: What he told me was that he was looking forward to bring in new clients which were our current client's competitor..
 Eric: Oh that could possibly be the reason.Well anyways you got appreciation xD congo	
 Bella: hahaha Blessing in disguise xD"
-3,aya-expanse:8b,"玛丽：嘿，我现在没钱了，能借我几百元吗？
-卡特：好吧，给我一个小时，我在火车站。
-玛丽：太棒了，谢谢！",玛丽的钱用完了，卡特打算一小时后借给她一点。,Mary ran out of money. Carter is going to lend her some in an hour.,"Mary: hey, im kinda broke, lend me a few box
+3,aya-expanse:8b,"玛丽：嘿，我有点缺钱，能借我几百元吗？
+卡特：好的，给我一个小时，我在火车站。
+玛丽：行，谢谢！",玛丽的钱用完了，卡特打算一小时后借给她一点。,Mary ran out of money. Carter is going to lend her some in an hour.,"Mary: hey, im kinda broke, lend me a few box
 Carter: okay, give me an hour, im at the train station
 Mary: cool, thanks"
-4,aya-expanse:8b,杰克提议后来喝鸡尾酒，五月兴奋地同意。杰克感觉五月今天有点紧张，五月也承认了这一点，并认为喝点酒会好一些。杰克建议可能要喝两杯。,杰克和梅一会儿要喝鸡尾酒。,Jack and May will drink cocktails later.,"Jack: Cocktails later?
+4,aya-expanse:8b,杰克提议后来喝鸡尾酒，梅激动地回应“是！”她表示自己确实很紧张。杰克猜测了，梅叹了口气，承认确实有点紧张。她认为喝点酒会好一些，杰克建议可能要两杯。,杰克和梅一会儿要喝鸡尾酒。,Jack and May will drink cocktails later.,"Jack: Cocktails later?
 May: YES!!!
 May: You read my mind...
 Jack: Possibly a little tightly strung today?
@@ -100,7 +80,7 @@ May: Sigh... without question.
 Jack: Thought so.
 May: A little drink will help!
 Jack: Maybe two!"
-5,aya-expanse:8b,约瑟夫发送了一张模糊的照片，上面是两头小牛。艾拉看了之后，惊呼“宝宝牛？”，并表达了对这些小牛的喜爱和想触摸它们的情绪。约瑟夫回复说，他的叔叔Janek有这两头小牛。艾拉开心地表示支持，并称赞这很酷。,约瑟夫给艾拉发了一张乌耶克·雅内克家双胞胎奶牛的照片，艾拉很高兴。,Joseph has sent Ella a photo of Wujek Janek's twin baby cows. Ella is delighted.,"Joseph: It's fuzzy but I think you can recognize what's that(^_-)-☆
+5,aya-expanse:8b,约瑟夫发了一张模糊的照片，上面是两头小牛。艾拉看了之后兴奋地猜测是小牛，并表达了想要触摸它们的愿望。约瑟夫确认照片中的牛是他的表兄扬的牛，并纠正了艾拉的“双胞胎”为“一对”。艾拉对拥有两头牛感到高兴，并表达了对它们的好奇心。,约瑟夫给艾拉发了一张乌耶克·雅内克家双胞胎奶牛的照片，艾拉很高兴。,Joseph has sent Ella a photo of Wujek Janek's twin baby cows. Ella is delighted.,"Joseph: It's fuzzy but I think you can recognize what's that(^_-)-☆
 Joseph: <file_photo>
 Ella: Ooooo
 Ella: Baby cows??(/◕ヮ◕)/(/◕ヮ◕)/(/◕ヮ◕)/
@@ -109,7 +89,7 @@ Ella: Twins* darling xD
 Joseph: Oh yeah, sorry Twins*
 Ella: Good for him!! So cool❤️❤️
 Ella: Wanna touch them❤️❤️❤️"
-6,aya-expanse:8b,阿黛尔告诉洛拉她养了一只新的狗，是一只4个月大的小黄狗，品种是饼干实验室犬。洛拉好奇其他宠物如何反应，阿黛尔回答说猫们保持距离，波皮和露露似乎很照顾它，斯皮迪想和他玩。阿黛尔提到幼犬通常比成年犬更容易被其他动物接受，尤其是母犬。她还开玩笑说这只小狗很胖，所以取名“骨头”（Bones）很合适。洛拉表示期待见到这只可爱的狗。,之前阿黛尔得到了一只新的可爱的拉布拉多狗，4个月大，名叫秋伊。她的猫咪们和她保持着距离，而小狗波比和露露都很像它们的妈妈秋伊和斯皮迪，都想出去玩。,"Adele got a new biscuit Labrador Chewy that is 4 months. Her cats keep their distance, and Poppy and Lulu seem to mother Chewy and Speedy wants to play.","Lola: hey girlfriend, what's up?
+6,aya-expanse:8b,阿黛尔告诉洛拉她养了一只新的狗，是一只4个月大的小黄狗，名叫骨头（Bones）。其他宠物对新成员反应平静，猫保持距离，而波皮和露露似乎像母亲一样照顾它。斯皮迪想和他一起玩耍。阿黛尔提到幼犬通常比成年狗更容易被其他动物接受。洛拉开玩笑说女狗喜欢打架，但阿黛尔也同意这一点。他们决定给新狗取名骨头，因为它很胖。洛拉期待着见到这只可爱的狗。,之前阿黛尔得到了一只新的可爱的拉布拉多狗，4个月大，名叫秋伊。她的猫咪们和她保持着距离，而小狗波比和露露都很像它们的妈妈秋伊和斯皮迪，都想出去玩。,"Adele got a new biscuit Labrador Chewy that is 4 months. Her cats keep their distance, and Poppy and Lulu seem to mother Chewy and Speedy wants to play.","Lola: hey girlfriend, what's up?
 Adele: Oh, hi Lols, not much.
 Adele: got a new dog.
 Lola: another one?
@@ -125,26 +105,34 @@ Adele: that too :P
 Lola: haha. true though.
 Adele: I know, right. Anyway, called him Bones. He's so plump it kinda fit.
 Lola: cute. can't wait to see him."
-7,aya-expanse:8b,劳拉在询问明天去哪里，林达建议去一家意大利餐厅。劳拉同意了，并提到那里的面条很棒，还有不那么甜的布朗尼，这让她惊讶，因为她以为林达不吃甜食。,琳达和劳拉明天要去一家意大利餐馆。,Linda and Laura are going to an Italian restaurant tomorrow.,"Laura: where will we go tommorow?
+7,aya-expanse:8b,劳拉问明天去哪里，林达建议意大利餐厅。劳拉同意了。林达说她喜欢那里的面条和布朗尼，尽管她平时不吃甜食。,琳达和劳拉明天要去一家意大利餐馆。,Linda and Laura are going to an Italian restaurant tomorrow.,"Laura: where will we go tommorow?
 Linda: maybe this italian restaurant?
 Laura: hmm ok
 Linda: i love their pasta
 Linda: and brownie :)
 Laura: i thouht you dont eat sweets
 Linda: this brownie is not so sweet"
-8,aya-expanse:8b,米娅向埃利奥特询问是否可以下班后出门，得到他的同意。她计划和朋友们一起出去喝酒，享受一个女孩子们的夜晚。埃利奥特鼓励她尽情享受，但提醒她不要太晚回家，如果需要接她，随时打电话给他。,米娅今晚下班后要和她的女性朋友一起出去。如果她愿意，艾略特会来接她。,"Mia is going out after work tonight with her female friends. If she wants, Elliot will come and pick her up.","Mia: babe, do you mind if i go out after work tonight?
+8,aya-expanse:8b,"米亚：亲爱的，我今晚下班后可以出去吗？
+埃利奥特：当然可以，去吧！😊
+米亚：谢谢你，亲爱的。我们要度过一个女孩子们的外出夜晚。
+埃利奥特：你们在做什么呢？
+米亚：好吧，我们会去喝点饮料，享受一下工作之外的时光。
+埃利奥特：请不要太晚回家，如果需要我来接你，就给我打电话。",米娅今晚下班后要和她的女性朋友一起出去。如果她愿意，艾略特会来接她。,"Mia is going out after work tonight with her female friends. If she wants, Elliot will come and pick her up.","Mia: babe, do you mind if i go out after work tonight?
 Elliot: yeah, sure. go for it ;) 
 Mia: thanks, babe. it's gonna be girls night out 
 Elliot: what're u up to?
 Mia: well, you know we gonna grab some drinks have some nice time outside of work
 Elliot: don't be too late please and if you need me to pick u up just give me a ring "
-9,aya-expanse:8b,瑞安表示对当前局势有不好的预感，并分享了一份文件。塞巴斯蒂安回应称乌克兰局势令人担忧，认为俄罗斯的“马戏团”永远不会结束。两人都希望各国领导人能对此做出反应。,瑞安和塞巴斯蒂安担心乌克兰的政治局势。,Ryan and Sebastian are worried about the political situation in Ukraine.,"Ryan: I have a bad feeling about this
+9,aya-expanse:8b,"瑞安：我感觉不对劲，看了这个文件（<file_other>）。
+塞巴斯蒂安：乌克兰... 这个俄罗斯的闹剧永远不会结束...
+瑞安：希望各国领导人能对这种情况做出反应。
+塞巴斯蒂安：我也希望如此...",瑞安和塞巴斯蒂安担心乌克兰的政治局势。,Ryan and Sebastian are worried about the political situation in Ukraine.,"Ryan: I have a bad feeling about this
 Ryan: <file_other>
 Sebastian: Ukraine...
 Sebastian: This russian circus will never end...
 Ryan: I hope the leaders of of nations will react somehow to this shit.
 Sebastian: I hope so too :("
-10,aya-expanse:8b,芬（Finn）和扎迪（Zadie）计划明天一起去象与城堡（Elephant and Castle）这个社区，那里聚集了许多拉丁美洲文化。芬提到由于资本主义的影响，这个社区可能很快就会被拆除，因此这是体验当地文化的最后机会。扎迪表示同意，并建议在傍晚约2点见面。他们计划参观该社区的购物中心内的各个地方。扎迪感谢芬记得邀请她，芬则开玩笑说这是个模糊的计划，但扎迪喜欢这样的冒险。他们约定明天见，并互道再见。,费恩和查蒂明天2点去象堡，他们会在正门碰头。,Finn and Zadie are going to Elephant and Castle tomorrow at 2. They will meet at the main entrance.,"Finn: Hey
+10,aya-expanse:8b,芬恩提议明天去象与城堡（Elephant and Castle）这个社区，那里充满了拉丁美洲风情的小店和餐厅。扎迪对这个计划很感兴趣，因为她很久没有吃过拉丁美洲美食了。他们计划在下午两点在购物中心的主入口见面，探索这个即将被拆迁的社区。扎迪表示会及时联系芬恩，如果迷路了。,费恩和查蒂明天2点去象堡，他们会在正门碰头。,Finn and Zadie are going to Elephant and Castle tomorrow at 2. They will meet at the main entrance.,"Finn: Hey
 Zadie: Hi there! What's up?
 Finn: All fine. You? 
 Zadie: Not bad, thanks 
@@ -168,12 +156,12 @@ Finn: See you tomorrow then
 Zadie: Yep Call me if you get lost
 Finn: I will I will 🤙 byeeee 
 Zadie: Toodles"
-11,aya-expanse:8b,汤姆和本决定在下午2点在椭圆室开会。汤姆指示本带上所有文件，因为这将是一场激烈的战斗，并提醒他无情地对付对手，不留余地。本笑着表示他们必须赢得这场战斗。汤姆坚信他们会获胜，因为正义站在他们这一边。,汤姆下午2点会在椭圆形会议室与本会面。他会先告诉对方把文件带来。,Tom will meet Ben in the Oval Room at 2pm and tells him to bring the papers. ,"Tom: Ben. We've decided. 2pm in the Oval Room.
+11,aya-expanse:8b,汤姆告诉本：2点在椭圆房间见，带上所有文件，这将是一场战斗！记住，无情地战斗，不留活口。本笑着回应，他们一定能赢，正义在他们这一边。,汤姆下午2点会在椭圆形会议室与本会面。他会先告诉对方把文件带来。,Tom will meet Ben in the Oval Room at 2pm and tells him to bring the papers. ,"Tom: Ben. We've decided. 2pm in the Oval Room.
 Ben: Ok, I'll be there
 Tom: Take all your papers, it's going to be a fight! And remember: take no prisoners, shoot to kill!
 Ben: hahaha, we have to win this battle.
 Tom: We will, the justice is on our side."
-12,aya-expanse:8b,埃利奥特（Elliot）表示目前很忙，无法立即交谈，并提议两小时后再通话。乔丹（Jordan）回应他要去参加同事布拉德（Brad）的葬礼，并约定晚上八点打电话给埃利奥特。埃利奥特对布拉德的去世表示同情，并承诺会在指定时间联系乔丹。,艾略特现在没空和乔丹说话，他很忙。晚上6点他会给乔丹回电话。乔丹要去参加布拉德的葬礼，布拉德因肝癌去世了。,"Elliot can't talk to Jordan now, he's busy. He'll call him back at 8 pm. Jordan is going to Brad's funeral. He had liver cancer.","Elliot: i can't talk rn, i'm rly busy
+12,aya-expanse:8b,埃利奥特现在很忙，无法接听电话，提议两小时后再打电话。乔丹正在去参加同事布拉德的葬礼，晚上八点会打电话给埃利奥特。埃利奥特表示了慰问，并承诺在晚上八点打电话。布拉德因肝癌去世，乔丹之前已经提到过这个情况。,艾略特现在没空和乔丹说话，他很忙。晚上6点他会给乔丹回电话。乔丹要去参加布拉德的葬礼，布拉德因肝癌去世了。,"Elliot can't talk to Jordan now, he's busy. He'll call him back at 8 pm. Jordan is going to Brad's funeral. He had liver cancer.","Elliot: i can't talk rn, i'm rly busy
 Elliot: can i call u back in about 2 hours?
 Jordan: Not really, I'm going to a funeral.
 Jordan: I'll call you tonight, ok?
@@ -183,22 +171,26 @@ Jordan: My colleague's, Brad.
 Jordan: I told you about him, he had a liver cancer.
 Elliot: i'm so sorry man, i hope u're ok
 Elliot: i'll call u at 8 pm"
-13,aya-expanse:8b,Flo 抱怨她无法在6号之前去美发沙龙，因为他们太忙了。她担心自己会变灰白。Gina建议她在特易购（Tesco）买一个修色套装。Flo表示无奈，只能这样做。,弗洛要到6号才能预约到做头发。她担心自己头发会变成灰色，所以必须在特易购买一套补色工具。,Flo cannot get an appointment at the salon until the 6th. Flo worries she's going to be gray. Flo will have to get a touch-up kit at Tesco.,"Flo: OMG, I can't get into the salon until the 6th!
+13,aya-expanse:8b,"Flo：天啊，我要到第六天才能去美发沙龙！
+Gina：什么？为什么？
+Flo：他们太忙了。我快要变灰白头发了！哈哈！
+Gina：那你去超市买个染发套装吧！
+Flo：没办法了！",弗洛要到6号才能预约到做头发。她担心自己头发会变成灰色，所以必须在特易购买一套补色工具。,Flo cannot get an appointment at the salon until the 6th. Flo worries she's going to be gray. Flo will have to get a touch-up kit at Tesco.,"Flo: OMG, I can't get into the salon until the 6th!
 Gina: What? Why?
 Flo: They're just too busy. I'm going to be gray! LOL!
 Gina: Get you a touch-up kit at Tesco!
 Flo: Gonna have to!"
-14,aya-expanse:8b,杰克西认为大卫昨天说的对，关于承担责任等事情。大卫回应他记得了，他们可以稍后再谈，杰克西表示乐意，并承诺下班后给大卫打电话。,根据杰克所说，理应由大卫承担责任。等杰克回家后他们再谈。,"According to Jacky, David did the right thing taking the blame. They will talk when Jack comes back home.","Jacky: I think you were right yesterday. 
+14,aya-expanse:8b,杰克西认为大卫昨天说得对，关于承担责任等问题。大卫回应他记得了，约定稍后再谈，杰克西下班后会打电话给大卫。,根据杰克所说，理应由大卫承担责任。等杰克回家后他们再谈。,"According to Jacky, David did the right thing taking the blame. They will talk when Jack comes back home.","Jacky: I think you were right yesterday. 
 David: What about? I'm right about most things :P
 Jacky: Yeah, whole you ;)
 Jacky: About taking the blame etc. 
 David: Okey, I remeber. We'll talk later?
 Jacky: With pleasure. I'll call you when I get home."
-15,aya-expanse:8b,皮特问阿德尔是否清洁了仓鼠笼。阿德尔回答没有，并询问是不是轮到她了。皮特确认是，并要求她在放学后一定要打扫，不许找借口。阿德尔无奈地同意了。,阿黛尔放学后得打扫仓鼠笼。,Adelle has to clean the hamster cage after school.,"Pete: Did you clean the hamster cage?
+15,aya-expanse:8b,皮特问阿德尔是否清洁了仓鼠笼。阿德尔回答没有，并询问是不是轮到她了。皮特说是在学校后，没有借口。阿德尔无奈地同意了。,阿黛尔放学后得打扫仓鼠笼。,Adelle has to clean the hamster cage after school.,"Pete: Did you clean the hamster cage?
 Adelle: No. Is it my turn?
 Pete: Yes. After school, no excuses.
 Adelle: Fine."
-16,aya-expanse:8b,兰道夫要求玛雅在药店买4到5包耳塞。玛雅回答会买5包。兰道夫表示感谢。,玛雅会在药房为伦道夫买5包耳塞。,Maya will buy 5 packs of earplugs for Randolph at the pharmacy.,"Randolph: Honey
+16,aya-expanse:8b,兰道夫问玛雅还在药店吗，并请求她买4到5包耳塞。玛雅回答会买5包。兰道夫感谢她。,玛雅会在药房为伦道夫买5包耳塞。,Maya will buy 5 packs of earplugs for Randolph at the pharmacy.,"Randolph: Honey
 Randolph: Are you still in the pharmacy?
 Maya: Yes
 Randolph: Buy me some earplugs please
@@ -206,7 +198,7 @@ Maya: How many pairs?
 Randolph: 4 or 5 packs
 Maya: I'll get you 5
 Randolph: Thanks darling"
-17,aya-expanse:8b,林克林和法蒂玛在讨论他们的朋友阿莱恩（Alene）的心理健康问题。法蒂玛表示，她可能患有抑郁症，但阿莱恩拒绝寻求帮助。林克林认为这不是法蒂玛应该担忧的事情，并建议她为可能的分手做好准备。法蒂玛表达了她的无助和对他人幸福的渴望。林克林则安慰她，让她专注于自己，不要过多担心他人，因为她很美丽。,法蒂玛很担心詹森和艾琳。艾琳遇上了一些问题。但林肯不希望法蒂玛为别人操心太多。,Fatima is worried about Jenson and Alene. Alene has issues. Lincoln doesn't want Fatima to worry about others too much.,"Lincoln: Heeyyy ;* whats up
+17,aya-expanse:8b,法蒂玛告诉林肯，她和杰森谈过，杰森对某个地方不太满意。林肯认为那地方没什么问题，但关心的是阿莱恩的情况。法蒂玛认为阿莱恩可能患有抑郁症，但她拒绝就医。林肯认为这不是法蒂玛的责任，并建议她为可能的分手做好准备。法蒂玛觉得阿莱恩只是有点困扰，因为她经历了很多。林肯直言不讳地说每个人都有问题，关键是自己是否在解决它们。法蒂玛感到伤心，但意识到自己的成长环境比阿莱恩好得多，决定感激当下。林肯鼓励她不要过多担忧他人，并赞美她的美丽。,法蒂玛很担心詹森和艾琳。艾琳遇上了一些问题。但林肯不希望法蒂玛为别人操心太多。,Fatima is worried about Jenson and Alene. Alene has issues. Lincoln doesn't want Fatima to worry about others too much.,"Lincoln: Heeyyy ;* whats up
 Fatima: I talked to Jenson, he’s not too happy ;p
 Lincoln: the place sucks??
 Fatima: No, the place is ok, I think, we can go there, it’s about Alene
@@ -230,7 +222,7 @@ Lincoln: youll not understand, you had good childhood, nice parents, you have no
 Fatima: Probably, true… Well I can be just grateful o.o
 Lincoln: do that and stop worrying about others, youre way to bautful for that <3
 Fatima: :*:*:*"
-18,aya-expanse:8b,杰夫、莉亚、米科和吉姆讨论是否参加村庄派对。莉亚因爬山疲惫而拒绝，而米科则表示想去，因为可能有帅气的男孩。吉姆开玩笑说村里的男孩可能不会说英语。米科同意并邀请其他人一起去，杰夫也表示会参加。米科提议开车去，以便可以喝酒，杰夫虽然不兴奋但同意了。,米科和杰夫要去参加村里的聚会，杰夫开车。,Mico and Jeff will go to the village party. Jeff will drive.,"Jeff: Should we go to the village party?
+18,aya-expanse:8b,杰夫和利亚因为刚从徒步旅行回来，都感到很累，所以没有兴趣去村庄派对。米科则表示想去，因为可能有帅气的男孩。吉姆开玩笑说，村里的男孩可能不讲英语，更愚蠢。米科同意了。利亚仍然不感兴趣，而杰夫虽然不热情，但也同意一起去。米科问谁要一起开车，以便他可以喝酒，杰夫表示无所谓。,米科和杰夫要去参加村里的聚会，杰夫开车。,Mico and Jeff will go to the village party. Jeff will drive.,"Jeff: Should we go to the village party?
 Lia: I'm too tired after hiking
 Mico: I'd like to go, there may be some hot boys!
 Lia: I doubt
@@ -247,7 +239,7 @@ Jeff: so you could drink?
 Mico: would be nice, hahah
 Jeff: not excited, but ok
 Mico: thanks!"
-19,aya-expanse:8b,哈利要求辛迪给埃拉打电话，表示他需要紧急谈话，并请她接他的电话。辛迪怀疑这是另一场争吵，但还是同意了。她表达了对哈利的不满，但最后还是完成了任务，让哈利可以联系埃拉。,艾拉没有接哈利的电话。在哈利的请求下，辛迪给艾拉打了电话。,Ela is not taking Harry's phone calls. Cindy calls Ela at Harry's request.,"Harry: heyyyy are you there??
+19,aya-expanse:8b,哈利急切地要求辛迪给埃拉打电话，说有紧急事情要讨论。辛迪抱怨说，他们总是让她充当传话筒，但这次之后不会再这样做了。她已经完成任务，哈利现在可以给埃拉打电话了。,艾拉没有接哈利的电话。在哈利的请求下，辛迪给艾拉打了电话。,Ela is not taking Harry's phone calls. Cindy calls Ela at Harry's request.,"Harry: heyyyy are you there??
 Cindy: Yes dear what is it?
 Harry: Can you call Ela and tell her i need to talk urgent please pick my call.
 Cindy: what happened now? an other fight :O
@@ -259,27 +251,22 @@ Harry: Yes like always:P
 Cindy: Hate you seriously man.
 Harry: Thank you
 Cindy: Done you can call her now."
-20,aya-expanse:8b,"肯（Ken）：你这个卖淫者，给我退钱！
-格雷格（Greg）：什么？
-肯：我说，你这个卖淫者，我要我的钱回来。
-格雷格：你的账户被恶作剧者黑了吗？
-肯：不，我是恶作剧者，只是开你的玩笑。
-格雷格：那我们也是（对你）同样的（态度）。",肯恩正试图捉弄格雷格。,Ken is trying to play a prank on Greg.,"Ken: Fuck you, you pimp
+20,aya-expanse:8b,肯对格雷格说：“你这个卖淫的，给我退钱。” 格雷格怀疑是账号被黑客攻击，但肯解释说他是开玩笑。格雷格也回击了同样的侮辱。,肯恩正试图捉弄格雷格。,Ken is trying to play a prank on Greg.,"Ken: Fuck you, you pimp
 Greg: What?
 Ken: Fuck you man, I want my money back
 Greg: Was your account hacked by some prankster?
 Ken: No, I'm the prankster, just having a laugh at your expense
 Greg: Well, fuck you too then XD"
-21,aya-expanse:8b,"阿德里安：能通话吗？
-西蒙：不方便，有什么重要事吗？
+21,aya-expanse:8b,"阿德里安：你能接电话吗？
+西蒙：不方便，有什么重要的事吗？
 阿德里安：不是很重要。
 西蒙：我五点左右可以空出时间。
-阿德里安：那我们五点聊吧。",西蒙五分钟后会和阿德里安谈一谈。,Simon will talk to Adrian in 5 minutes.,"Adrian: Can you talk?
+阿德里安：那我等你。",西蒙五分钟后会和阿德里安谈一谈。,Simon will talk to Adrian in 5 minutes.,"Adrian: Can you talk?
 Simon: Not really, anything important?
 Adrian: Not that much.
 Simon: I'll be free at 5
 Adrian: i'll you then"
-22,aya-expanse:8b,加布（Gab）和凯特（Kat）在聊天中讨论了见面喝酒的计划。凯特表示自己目前很忙，不确定何时能见面。加布表达了想在现实中见面的愿望，但凯特拒绝了，称自己不是那样的人。加布试图解释这种交流的不同之处，但凯特认为这只是不同的方式。加布建议一起亲密地聊天，但凯特觉得这是一个错误，并突然断了联系。,加布想在线下和凯特见一面。但是凯特不喜欢加布的要求，所以她不会再和他说话了。,Gab wants to meet Kat in real life. Kat doesn't like Gab's insisting so she won't to talk to him at all.,"Gab: Ah that's better. Now we can message all we like.
+22,aya-expanse:8b,加布表示现在可以随意发消息，并询问何时能见面喝酒。凯特很忙，不确定何时有空。加布希望在现实中见到她，但凯特拒绝了，称自己不是这样的人。加布试图解释他们的交流方式不同，但凯特认为这是个错误。加布确认凯特是否离线，但凯特没有回应。,加布想在线下和凯特见一面。但是凯特不喜欢加布的要求，所以她不会再和他说话了。,Gab wants to meet Kat in real life. Kat doesn't like Gab's insisting so she won't to talk to him at all.,"Gab: Ah that's better. Now we can message all we like.
 Kat: :-)
 Gab: So when can we meet up for a drink?
 Kat: Fairly busy at the moment so I'm not sure when.
@@ -296,14 +283,13 @@ Kat: I think this was a mistake.
 Gab: Are you there?
 Gab: Where did you go?
 Gab: Kat?"
-23,aya-expanse:8b,"阿加莎：我的演讲准备好了！😊
+23,aya-expanse:8b,"阿加莎：我的演讲准备好了！
 亚当：太棒了，是什么主题？
 阿加莎：经济学。
-亚当：听起来有趣吗？
-阿加莎：绝对有趣，我使用了最新的研究数据。
-亚当：看来你对这个主题非常了解呢！😄
-阿加莎：我对经济学情有独钟！🤩
-亚当：这点没疑问！",阿加莎为自己感到骄傲，因为她已经完成了经济学相关的报告。她对经济学很感兴趣。,Agatha is proud of herself because she has finished her presentation in Economics. She is very interested in Economics.,"Agatha: My presentation is ready as we speak :)
+亚当：听起来有意思吗？
+阿加莎：当然，我使用了最新的研究数据。
+亚当：看来你很了解这个领域呢！
+阿加莎：我对经济学非常感兴趣。",阿加莎为自己感到骄傲，因为她已经完成了经济学相关的报告。她对经济学很感兴趣。,Agatha is proud of herself because she has finished her presentation in Economics. She is very interested in Economics.,"Agatha: My presentation is ready as we speak :)
 Adam: oh cool, what course?
 Agatha: Economics.
 Adam: Is it interesting? I mean... your presentation.
@@ -311,12 +297,12 @@ Agatha: Definitely, I used recent research.
 Adam: Sounds like you know what you're doing :P
 Agatha: I'm just really into economics :)
 Adam: no doubt about that"
-24,aya-expanse:8b,凯恩问香农是否听过30秒至火星的新专辑，香农表示还没有。凯恩推荐她应该听一听，香农感谢了他的建议。,凯恩向香农推荐30秒上火星乐队的新专辑。,Kane recommends the new 30 Seconds to Mars album to Shannon.,"Kane: have you heard the new 30 seconds to mars album?
+24,aya-expanse:8b,凯恩问沙农是否听过30秒至火星的新专辑，沙农表示没有。凯恩推荐她听，沙农表示会去听的。,凯恩向香农推荐30秒上火星乐队的新专辑。,Kane recommends the new 30 Seconds to Mars album to Shannon.,"Kane: have you heard the new 30 seconds to mars album?
 Shannon: no, is it good?
 Kane: you should so check it out
 Shannon: ok thanks for the recommendation
 Kane: no prob"
-25,aya-expanse:8b,安妮、凯瑟琳和诺拉在讨论一个她们都讨厌的女人，名叫米兰达。据安妮说，米兰达昨天打电话给汤姆，表现得非常甜蜜，这让她很生气。凯瑟琳和诺拉也表示对米兰达的厌恶，因为她知道安妮和汤姆正在约会，却还试图夺走汤姆。诺拉认为米兰达不适合汤姆。,米兰达昨天打电话给汤姆，很甜蜜地和他讲话。安妮很生她的气，因为她正在和汤姆约会。,Miranda called Tom yesterday and spoke to him in a sweet way. Anne is angry with her because Anne is dating Tom.,"Anne: I hate that bitch!
+25,aya-expanse:8b,安妮讨厌那个“恶女”！凯瑟琳和诺拉都好奇她又做什么了。凯瑟琳指的是在镜达。大家都对她很反感。昨天，镜达打电话给汤姆，表现得非常甜蜜，这让安妮怀疑她想夺走汤姆。凯瑟琳不认为镜达有这个可能，因为她觉得镜达不是汤姆的类型。,米兰达昨天打电话给汤姆，很甜蜜地和他讲话。安妮很生她的气，因为她正在和汤姆约会。,Miranda called Tom yesterday and spoke to him in a sweet way. Anne is angry with her because Anne is dating Tom.,"Anne: I hate that bitch!
 Catherine: What did she do again???
 Nora: Who's the bitch?
 Nora: Sorry I missed something
@@ -326,7 +312,7 @@ Anne: Yesterday she called Tom, was all sweet with him you know how she can be..
 Catherine: No way she did it!! How dare she!! She knows you guys are dating.
 Anne: I think that's why she did it. She wants to take Tom away from me.
 Nora: Oh, come on! She's not his type! "
-26,aya-expanse:8b,莉莉与一个叫托马斯的人度过了一晚，他是一个罗马尼亚人，来自一个非常富裕的家庭。托马斯在伦敦的LSE学习。莉莉原本以为他会很平凡和无聊，但实际上他让她感到非常愉悦，甚至头疼。凯特很高兴莉莉有这样一段乐趣，因为她最近经历了很多压力。,莉莉和托马斯度过了一个美好的夜晚。托马斯是罗马尼亚人，来自一个非常富有的家庭。,Lily spent an amazing night with Thomas. Thomas is Romanian and comes from a very rich family.,"Lily: I spent an amazing night with this guy
+26,aya-expanse:8b,莉莉和凯特聊天，莉莉说她和一位叫托马斯的人度过了一夜，他是一个罗马尼亚富家子，正在伦敦的LSE学习。莉莉惊讶于他并不像预期的那么平淡无奇，相反，他在各个方面都给她带来了极大的享受，让她头痛不已。凯特很高兴听到这个消息，认为莉莉值得拥有一些乐趣，因为最近几周她经历了很多压力。,莉莉和托马斯度过了一个美好的夜晚。托马斯是罗马尼亚人，来自一个非常富有的家庭。,Lily spent an amazing night with Thomas. Thomas is Romanian and comes from a very rich family.,"Lily: I spent an amazing night with this guy
 Kate: What's his name?
 Lily: Thomas
 Kate: Is he English?
@@ -341,13 +327,13 @@ Kate: in size, in passion or in wallet?
 Lily: In everything. I've had so much pleasure that I have a headache
 Kate: I'm glad to read that. You deserved some fun after the last weeks.
 Lily: haha, I agree!"
-27,aya-expanse:8b,鲍勃询问了明天门票的预订情况。梅兰妮表示杰克承诺会处理，并且他有工作场所折扣。鲍勃再次确认杰克是否已经预订了门票，杰克回复已预订三张明晚7点的门票，并享受了30%的折扣。,杰克预定了三张明天晚上七点的票。他能享受七折优惠。,Jake reserved 3 tickets for tomorrow 7 pm. He got 30% discount.,"Bob: did you reserve the tickets for tomorrow?
+27,aya-expanse:8b,鲍勃问梅兰妮是否预订了明天的票。梅兰妮说杰克承诺会做这件事，而且他有工作场所折扣。鲍勃再次确认杰克是否在场并预订了票。杰克回答已经预订了三张明天晚上七点的票，并且享受了30%的折扣。,杰克预定了三张明天晚上七点的票。他能享受七折优惠。,Jake reserved 3 tickets for tomorrow 7 pm. He got 30% discount.,"Bob: did you reserve the tickets for tomorrow?
 Melanie: Jake promised me he will do that
 Melanie: he has some workplace discount on them
 Bob: Jake are you here?? Did you reserve the tickets?
 Jake: yes I did, 3 tickets for tomorrow, 7 pm
 Jake: and we got a 30% discount on them too :)"
-28,aya-expanse:8b,丽莎和彼得在讨论最近的生活。彼得表示工作比较忙，但实际上他在锻炼身体。丽莎对彼得的健康理念表示赞同，并提到她也考虑开始锻炼。彼得告诉她，他定期去附近的健身房锻炼，主要做举重和跑步机运动。丽莎认为除了锻炼外，饮食也很重要，而彼得补充说充足的睡眠也是保持健康的关键，平均每人每天需要7-8小时的睡眠。他们都意识到保持健康需要长期坚持规律的生活习惯。,彼得最近一直在他们办公室附近的健身房锻炼以改善健康状况。为了更健康，丽莎正在考虑锻炼和更加合理饮食。,Peter has been working out at the gym near their office lately to improve his health. Lisa is considering working out and eating better to be healthier.,"Lisa: Hello Peter. What have you been doing off late?
+28,aya-expanse:8b,丽莎问彼得最近过得怎么样。彼得说工作很忙。丽莎认为他可能在为健康而努力，而不是减肥。彼得解释他想通过锻炼改善健康状况，并不需要减重。他们讨论了锻炼和饮食对保持健康的重要性，并同意长期坚持健康习惯非常重要。,彼得最近一直在他们办公室附近的健身房锻炼以改善健康状况。为了更健康，丽莎正在考虑锻炼和更加合理饮食。,Peter has been working out at the gym near their office lately to improve his health. Lisa is considering working out and eating better to be healthier.,"Lisa: Hello Peter. What have you been doing off late?
 Peter: Bit busy with work.
 Lisa: Too much of work, huh?
 Peter: Not really, I’ve been working out
@@ -361,7 +347,7 @@ Lisa:  Besides exercises, I think I need to eat better to help me keep in shape.
 Peter: Another major requirement for good health is sleep. On an average one requires at least 7-8 hours of sleep.
 Lisa:  There are a lot of things we can do to stay healthy.
 Peter: Yes. One needs to maintain a regime to stay healthy for a long term."
-29,aya-expanse:8b,杰西卡去了一家二手商店，买了很多东西，包括一张橡木桌、六把椅子、一个花瓶和一堆衣服。她发了照片给拉斐尔和弗兰克，他们都对桌子和黑色连衣裙赞不绝口。杰西卡对她的购买非常满意，尤其是花了70欧元就买到了所有这些物品。,杰西卡在市中心的二手商店买了一张桌子、六把椅子、一个花瓶和一堆衣服。这些一共花了70欧元。,"Jessica bought a table, six chairs, a vase and a pile of clothes and the second hand shop downtown. She paid 70 euros for everything. ","Jessica: I went to the second hand shop downtown 
+29,aya-expanse:8b,杰西卡去城里二手店买了很多东西，包括一张橡木桌、六把椅子、一个花瓶和一堆衣服。她发了照片给拉斐尔和弗兰克，他们都非常喜欢那张桌子，尤其是拉斐尔对黑色的连衣裙赞不绝口。杰西卡对自己的购买感到非常满意，更令人高兴的是，她只花了70欧元就买了所有这些东西！,杰西卡在市中心的二手商店买了一张桌子、六把椅子、一个花瓶和一堆衣服。这些一共花了70欧元。,"Jessica bought a table, six chairs, a vase and a pile of clothes and the second hand shop downtown. She paid 70 euros for everything. ","Jessica: I went to the second hand shop downtown 
 Frank: Cool
 Raphael: What did you get?
 Jessica: Lots of stuff
@@ -381,14 +367,11 @@ Jessica: It's absolutely beautiful
 Jessica: As soon as I saw it I knew it would be mine
 Jessica: I'm so happy with what I bought
 Jessica: And the best is I paid only 70 euros for all of that!! "
-30,aya-expanse:8b,"德西丽：你们在家吗？
-卢西安：不，我刚收到你的消息。为什么问这个？
-德西丽：没有特别的原因。请把我的面条放在微波炉里。
-卢西安：我还没做任何饭。",卢西恩不在家。德西蕾希望卢西恩把她的意大利面放在微波炉里。,Lucian is not at home. Desiree wants Lucian to keep her pasta in the microwave.,"Desiree: U both at home?
+30,aya-expanse:8b,Desiree 问 Lucian 两人是否在家，Lucian 表示刚收到消息，没有特别原因。Desiree 要求将面条放在微波炉里加热。Lucian 回答自己还没做饭。,卢西恩不在家。德西蕾希望卢西恩把她的意大利面放在微波炉里。,Lucian is not at home. Desiree wants Lucian to keep her pasta in the microwave.,"Desiree: U both at home?
 Lucian: No. I've just got ur msg. Why did u ask about it?
 Desiree: No reason. Keep my pasta in the microwave
 Lucian: I haven't cooked anything"
-31,aya-expanse:8b,艾米丽提议今天下班后一起喝点饮料，凯特和玛塔都表示同意。她们计划在中央车站的X酒吧见面，时间大约在5点30分左右，但凯特可能会晚一点到达，因为交通状况。玛塔确认了这个计划，并期待着与大家见面。艾米丽和凯特互致问候，表示再见。,艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。,"Emily, Kate and Marta are going to the Pub X at the central station today for a drink.","Emily: fancy a drink after work today?
+31,aya-expanse:8b,艾米丽提议今天下班后一起喝点东西，凯特和玛塔都同意了。他们计划在中央车站的X酒吧约定时间5：30见面，但凯特可能要晚一点到达，因为交通状况。玛塔表示没问题，并祝大家再见。,艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。,"Emily, Kate and Marta are going to the Pub X at the central station today for a drink.","Emily: fancy a drink after work today?
 Kate: sure!
 Marta: Good idea! 
 Marta: Where? When?
@@ -398,14 +381,14 @@ Marta: Fine for me.
 Marta: See you then, Ladies!
 Emily: Bye! see ya :*
 Kate: :*"
-32,aya-expanse:8b,"玛丽：嗨，我的朋友：*
-爱丽丝：你今天不上学吗？
+32,aya-expanse:8b,"玛丽：嗨，我的朋友😘
+爱丽丝：你今天不是去学校吗？
 玛丽：不，我今天待在家里。
 爱丽丝：幸运你！",今天玛丽没有去上学，她就待在家里。,"Today Mary didn't go to school, she stayed at home.","Mary: Hi my friend :*
 Alice: U re not at school?
 Mary: No i stayed at home today.
 Alice: Lucky u!"
-33,aya-expanse:8b,安妮问克里斯汀明天是否会在学校。克里斯汀回答她不会去，因为自己不舒服。她怀疑是感冒了，但体温没有高发烧。她有鼻塞、喉咙痛和疲劳感。安妮建议她吃Theraflu，并表示他们家还剩下几包，应该没过期。克里斯汀感谢安妮的帮助，但让她不要来访以免传染给安妮。安妮认为自己可能已经感染了病毒，但克里斯汀可能正在睡觉。如果房间灯亮着，安妮可以随时打电话。,克莉丝汀病了，明天不来上学了。安妮会把西拉夫的香囊放在邮箱里。克莉丝汀不想把病传染给她。,Christine is sick and won't come to school tomorrow. Annie will leave Theraflu sachets in a mailbox. Christine doesn't want to get her sick.,"Annie: Are you going to be at school?
+33,aya-expanse:8b,安妮询问克里斯汀是否会去学校。克里斯汀表示明天不会去，因为她感觉不舒服，可能得了流感。安妮关心她的体温和饮食情况，克里斯汀回答没有发烧，只是鼻塞、喉咙痛和疲劳。安妮建议她吃特拉弗（Theraflu），并表示会后来送一些给她。克里斯汀感谢安妮的帮助，但担心自己可能会传染给安妮，让安妮不要打电话。安妮开玩笑说自己可能已经感冒了，但如果克里斯汀醒着，可以随时打电话。,克莉丝汀病了，明天不来上学了。安妮会把西拉夫的香囊放在邮箱里。克莉丝汀不想把病传染给她。,Christine is sick and won't come to school tomorrow. Annie will leave Theraflu sachets in a mailbox. Christine doesn't want to get her sick.,"Annie: Are you going to be at school?
 Christine: Not tomorrow. I am not well.
 Annie: Oh noes! What happened?
 Christine: Got the flu, I think.
@@ -419,7 +402,7 @@ Annie: OK, I think we've still got some sachets, should be in date. I'll drop th
 Christine: Yeah. Don't call in because I'll feel bad if you catch this cold off me.
 Annie: I think I probably had it already, but you might be sleeping.
 Christine: If the light in my room is on, call if you want."
-34,aya-expanse:8b,沙尔多纳（Shaldona）通过消息告诉皮帕（Piper），她们即将结婚，并发送了一张移动婚礼邀请。皮帕感到惊讶，因为她们多年没有联系，而现在沙尔多纳却通过即时通讯软件发送邀请。沙尔多纳解释说，她时间紧迫，无法亲自向每个人传达邀请，希望皮帕能理解。然而，皮帕认为如果有人无法亲自收到邀请但期待他们参加婚礼，那么沙尔多纳就太贪心了。,沙尔多纳通过手机发送了婚礼邀请，因为她没有时间亲自去送邀请函。,"Shaldona sends mobile invitations to her wedding, as she has no time to give them in person.","Shaldona: WE ARE GONNA GET MARRIED ❤️❤️
+34,aya-expanse:8b,沙隆达宣布她要结婚，并发送了一张通过消息应用程序的婚礼邀请。皮珀感到惊讶，因为他们多年没有联系，而现在沙隆达才发来邀请。皮珀认为沙隆达太贪婪，期望别人参加她的婚礼，却没有时间亲自送邀请。,沙尔多纳通过手机发送了婚礼邀请，因为她没有时间亲自去送邀请函。,"Shaldona sends mobile invitations to her wedding, as she has no time to give them in person.","Shaldona: WE ARE GONNA GET MARRIED ❤️❤️
 Shaldona: <file_others>
 Shaldona: This is our mobile inviation for our wedding.
 Shaldona: Invitation*
@@ -432,21 +415,19 @@ Shaldona: I had no enough time to meet everybody and give this in person.
 Shaldona: Hope you understand.
 Piper: If you don't have time to give the invitation card in person but expect people go to your wedding
 Piper: Shaldona, if so, you are too greedy."
-35,aya-expanse:8b,康拉德（Conrad）在房子外忘记带钥匙，而瑞贝卡（Rebecca）和蒂芬妮（Tiffany）分别表示自己将在晚上10点到11点回家。瑞贝卡说她会比蒂芬妮更晚回来，康拉德决定在咖啡店等候。,康拉德忘了带钥匙，所以回不了家。瑞贝卡和蒂芙妮回来得晚，他得在咖啡厅等。,"Conrad can't enter the house because he forgot his keys. Since Rebecca and Tiffany are coming back late, he'll wait in the coffee shop. ","Conrad: I'm outside the house
+35,aya-expanse:8b,康拉德在房子外面，忘记带钥匙。雷贝卡和蒂芬尼有消息，蒂芬尼将于晚上10点到11点回家，而雷贝卡会更晚回来。康拉德决定在咖啡店等候。,康拉德忘了带钥匙，所以回不了家。瑞贝卡和蒂芙妮回来得晚，他得在咖啡厅等。,"Conrad can't enter the house because he forgot his keys. Since Rebecca and Tiffany are coming back late, he'll wait in the coffee shop. ","Conrad: I'm outside the house
 Conrad: I forgot my keys...
 Rebecca: 💩
 Tiffany: I'll be home at 10-11
 Rebecca: I'm coming back even later
 Conrad: Oh no...
 Conrad: I'll wait in the coffee shop"
-36,aya-expanse:8b,"雅各普：嗨，你小时候有喜欢的恐龙吗？
-
-柳米拉：有啊，三角龙。为什么问这个？
-
-雅各普：我后来会告诉你原因的。",卢德米拉小时候最喜欢的恐龙是三角龙。,Ludmila's favourite dinosaur when she was little was the Triceratops.,"Jacopo: hey, did you have a favorite dinosaur growing up?
+36,aya-expanse:8b,"雅各波：嗨，你小时候有喜欢的恐龙吗？
+柳米拉：有啊，三角龙。为什么？
+雅各波：我后来告诉你原因。",卢德米拉小时候最喜欢的恐龙是三角龙。,Ludmila's favourite dinosaur when she was little was the Triceratops.,"Jacopo: hey, did you have a favorite dinosaur growing up?
 Ludmila: yes, triceratops. why?
 Jacopo: i'll tell you why later."
-37,aya-expanse:8b,克莱尔分享了一件物品，并寻求玛丽亚和妮可的意见。玛丽亚和妮可认为这件商品非常适合克莱尔成为新娘，价格也合理。她们鼓励克莱尔购买它，表示她不会后悔的。克莱尔最终同意了，因为她们一致推荐。,在玛丽亚和妮可的建议下，克莱尔正在订购她的婚纱。,"Claire is ordering her wedding dress, adviced by Maria and Nicole.","Claire: Check this out :)))
+37,aya-expanse:8b,克莱尔分享了一件礼服（文件链接），玛丽亚和妮可都认为这件礼服非常适合新娘，价格也合理。克莱尔虽然觉得颜色有点暗，但最终被说服了，决定下单。,在玛丽亚和妮可的建议下，克莱尔正在订购她的婚纱。,"Claire is ordering her wedding dress, adviced by Maria and Nicole.","Claire: Check this out :)))
 Claire: <file_other>
 Maria: !!
 Nicole: Absolutely perfect for you!!
@@ -459,7 +440,7 @@ Nicole: You should order that dress
 Nicole: I think you won't regret
 Maria: Don't hesitate, it's incredibly beauty!!
 Claire: Ok, if you say so :))"
-38,aya-expanse:8b,阿比（Abby）讲述了她昨天在派对上认识的米罗（Miro）的故事。米罗的父亲在1990年代初从阿尔巴尼亚移民到美国。米罗只会说阿尔巴尼亚语给父母听，来自阿尔巴尼亚沿海城市杜勒斯（Duress）。他描述了一个充满混乱和极端贫困的场景，然后边境突然开放，人们为了逃离而挤上可用的船只。阿比分享了米罗展示的一些照片，让大家感到震惊和感兴趣。迪兰（Dylan）认为这个故事既吓人又引人入胜。,米罗和他的父母说阿尔巴尼亚语。他的家人在20世纪90年代非法出境离开了阿尔巴尼亚。,Miro speaks Albanian with his parents. His family left Albania illegally in 1990s.,"Abby: Have you talked to Miro?
+38,aya-expanse:8b,阿比（Abby）讲述了她昨天在派对上认识的米罗（Miro）的故事。米罗的父亲来自1990年代初的阿尔巴尼亚，他们非法离开了该国，逃离了极端贫困和动荡。米罗只会说阿尔巴尼亚语，并分享了他父亲通过不合法途径出国的经历，包括人们挤上任何可用的船只逃离该国的场景。,米罗和他的父母说阿尔巴尼亚语。他的家人在20世纪90年代非法出境离开了阿尔巴尼亚。,Miro speaks Albanian with his parents. His family left Albania illegally in 1990s.,"Abby: Have you talked to Miro?
 Dylan: No, not really, I've never had an opportunity
 Brandon: me neither, but he seems a nice guy
 Brenda: you met him yesterday at the party?
@@ -480,7 +461,7 @@ Dylan: insane
 Abby: yes, and his father was among the people
 Dylan: scary but interesting
 Abby: very!"
-39,aya-expanse:8b,丹（Dan）询问大家周六是否一起出去。蒂姆（Tim）表示随时准备，克里斯（Chris）也同意。汤姆（Tom）却因要参加女婿家聚会而无法参加。丹鼓励汤姆，但汤姆解释说这是一个持续发生的故事。马丁（Martin）建议确定时间，蒂姆提议晚上8点开始，尽量在8点前结束。丹需要在第二天中午12点之前回家和准备开车。克里斯认为这次他们会比较轻松。马丁表示也得如此。蒂姆调侃地说大家听起来像60岁的人。克里斯回应蒂姆似乎是最后两个还不成熟的人。,丹、蒂姆、克里斯和马丁8点碰面。丹和马丁这次会放松一下。汤姆来不了，因为他岳父岳母家有个聚会。,"Dan,Tim, Chris and Martin will meet at 8. Dan and Martin will take it easy this time. Tom can't make it as he has a party at in-laws.","Dan: Guys, so are we going out on Sat?
+39,aya-expanse:8b,丹问大家周六是否一起出去。蒂姆和克里斯都同意，但汤姆因要去女家参加派对而无法参加。克里斯和马丁也表示自己可能需要跟着放松。蒂姆调侃道大家像60岁的人。,丹、蒂姆、克里斯和马丁8点碰面。丹和马丁这次会放松一下。汤姆来不了，因为他岳父岳母家有个聚会。,"Dan,Tim, Chris and Martin will meet at 8. Dan and Martin will take it easy this time. Tom can't make it as he has a party at in-laws.","Dan: Guys, so are we going out on Sat?
 Tim: I'm ready when you are
 Chris: I'm OK too, in the centre right?
 Tom: I'm out guys sorry. 
@@ -496,7 +477,7 @@ Tim: guys you sound like 60 yos
 Chris: Tim, are the last two standing or what?
 Tim: i gather
 Dan: you two will also grow up one day. "
-40,aya-expanse:8b,迪玛（Dima）向纳达（Nada）求助，因为她的笔记本电脑坏了，明天需要交翻译任务。猫洒了咖啡导致笔记本损坏。纳达虽然自己没有旧笔记本可借，但她已经请假两天，可以让迪玛使用她的笔记本。迪玛非常感激，并提到如果不是Trados（翻译软件），她会更恐慌。纳达同意迪玛一小时后来取笔记本，同时她也认为应该为笔记本购买备用机。,迪玛的笔记本电脑坏了，因为她的猫把咖啡洒在笔记本电脑上。 迪玛很担心，因为她明天必须为trados提供翻译。一个小时后迪玛会来纳达家，借纳达的笔记本电脑。,"Dima's laptop is broken, as her cat spilled coffee on the laptop. Dima is worried, because she has to deliver a translation for Trados tomorrow. Dima will come to Nada in an hour to borrow Nada's laptop. ","Dima: hello! 
+40,aya-expanse:8b,迪玛的笔记本电脑坏了，明天需要交翻译，但 Nada 的旧笔记本电脑已经借给了她哥哥。 尽管如此，Nada 还是同意让迪玛使用她的笔记本电脑，因为她这两天都请假了。 迪玛表示非常感激，并承认他们应该为翻译工作准备备用笔记本电脑。 她想在一小时内来取笔记本电脑。,迪玛的笔记本电脑坏了，因为她的猫把咖啡洒在笔记本电脑上。 迪玛很担心，因为她明天必须为trados提供翻译。一个小时后迪玛会来纳达家，借纳达的笔记本电脑。,"Dima's laptop is broken, as her cat spilled coffee on the laptop. Dima is worried, because she has to deliver a translation for Trados tomorrow. Dima will come to Nada in an hour to borrow Nada's laptop. ","Dima: hello! 
 Nada: hey girl, what's up?
 Dima: I'm in a huge trouble, my laptop is broken and I have to deliver a translation tomorrow @9 😱😱
 Nada: fuck what happened??
@@ -510,7 +491,7 @@ Nada: yeah, but it's like our only tool! so we need to invest in it
 Dima: yup, true !
 Dima: can I come in an hour to pick it up?
 Nada: yes :) ttyl!"
-41,aya-expanse:8b,杰里（Jerry）告诉珍妮特（Janet）他即将回家，预计40分钟后到达。珍妮特表示期待他的归来。杰里问她今天过得怎么样，珍妮特回应说工作有些烦人，但提到她的老板有时会很苛刻。杰里开玩笑地同意了，并用“老婆”称呼她，他们约定稍后见。,杰瑞40分钟后到家。,Jerry will be home in 40 minutes. ,"Jerry: Hi sweetie :)
+41,aya-expanse:8b,杰里（Jerry）给珍妮特（Janet）发了个甜蜜的问候。珍妮特回应说期待他的归来。杰里表示大约40分钟后到家，珍妮特说她会等他。杰里询问了珍妮特的日常，珍妮特抱怨了下老板的烦人之处。他们互道再见，表达了爱意。,杰瑞40分钟后到家。,Jerry will be home in 40 minutes. ,"Jerry: Hi sweetie :)
 Janet: Hi sugar ;)
 Jerry: I'm coming home
 Janet: Can't wait ;)
@@ -522,7 +503,7 @@ Jerry: I know, she can be a bitch :P
 Janet: Yes she can! ;)
 Jerry: See you later darling
 Janet: <3"
-42,aya-expanse:8b,莎莉向大家传闻了娜塔莉的消息。简认为不应该散布这个消息，因为娜塔莉是口头承诺的。然而，其他人包括汤姆、格雷格和亨利特都感到好奇。当莎莉揭晓了父亲的身份时，大家惊讶地发现是戴夫，而不是他们预期的迈克。格雷格对此反应强烈，称这一消息令人难以置信。,娜塔莉怀了戴夫的孩子。简认为萨莉不应该告诉别人，因为娜塔莉是私下告诉他们的。亨利埃特和格雷格很惊讶，孩子的父亲居然是戴夫而不是迈克。,Natalie is pregnant with Dave. Jane didn't think Sally should share it with others as Natalie told them that in confidence. Henriette and Greg are surprised that the father is Dave not Mike.,"Sally: Hi guys have you heard about Natalie?
+42,aya-expanse:8b,莎莉向大家传闻娜塔莉的消息。尽管简不愿意分享，但其他人都感到好奇。当他们知道了消息时，大家惊讶地发现孩子的父亲是戴夫，而不是他们猜测的迈克。,娜塔莉怀了戴夫的孩子。简认为萨莉不应该告诉别人，因为娜塔莉是私下告诉他们的。亨利埃特和格雷格很惊讶，孩子的父亲居然是戴夫而不是迈克。,Natalie is pregnant with Dave. Jane didn't think Sally should share it with others as Natalie told them that in confidence. Henriette and Greg are surprised that the father is Dave not Mike.,"Sally: Hi guys have you heard about Natalie?
 Tom: No. What about her?
 Jane: You're such a gossip girl, Sally!
 Sally: Come on! I'm sure you're all curious.
@@ -539,11 +520,11 @@ Henriette: Is it Mike?
 Sally: Dave!!! 
 Henriette: WHAT????
 Greg: That's insane! "
-43,aya-expanse:8b,黛西问丽莎是否要回家，丽莎回答还不是在。黛西请求丽莎在11点前回来，丽莎同意了。,丽莎还没回家，黛西想要她晚上11点前回来。,Lisa isn't going home yet. Daisy wants her to be back before 11 p.m.,"Daisy: going home?
+43,aya-expanse:8b,黛西问丽莎是否要回家，丽莎回答还不算。黛西请求丽莎在11点前回来。丽莎同意了。,丽莎还没回家，黛西想要她晚上11点前回来。,Lisa isn't going home yet. Daisy wants her to be back before 11 p.m.,"Daisy: going home?
 Lisa: not yet
 Daisy: please be back before 11 pm
 Lisa: ok"
-44,aya-expanse:8b,辛迪（Cindy）发了一张GIF图片和一段视频给埃莉（Ellie），表示自己很伤心，不愿意谈论原因。埃莉鼓励她振作起来，并指出视频在网上很火，很有趣。,辛迪很伤心，但不愿意说出原因。艾莉还没看那个疯传的搞笑视频。,"Cindy is sad, but doesn't want to talk about the reason. Ellie hasn't seen the funny video that went viral. ","Cindy: <file_gif>
+44,aya-expanse:8b,Cindy 发了个 GIF 和视频给 Ellie，表示自己很伤心，不想谈论原因。 Ellie 鼓励 Cindy 乐观起来，并指出那段视频在网上很火，很有趣。,辛迪很伤心，但不愿意说出原因。艾莉还没看那个疯传的搞笑视频。,"Cindy is sad, but doesn't want to talk about the reason. Ellie hasn't seen the funny video that went viral. ","Cindy: <file_gif>
 Ellie: Why are you so sad? Something’s happened?
 Cindy: I don’t want to talk about it…
 Ellie: Cheer up! Tomorrow’s another day 😊
@@ -551,7 +532,7 @@ Cindy: <file_video>
 Cindy: Have you seen it? It’s viral on the internet
 Ellie: Nope, but it’s very funny 😊
 Ellie: <file_gif>"
-45,aya-expanse:8b,凯瑟琳邀请本一起去看望他们的叔叔史蒂夫，但本表示自己不喜欢这种拜访。他解释说这些访问让他感到压力，而且他担心最终会对所有人发怒。凯瑟琳试图说服他，指出孩子们很想见他，并建议他在有空时去看他们。本最初犹豫不决，认为叔叔史蒂夫和他们没有共同点，但他最后同意了，承认孩子们确实想念他。,本不会和凯瑟琳一起去看望史蒂夫叔叔。他会去看望凯瑟琳和孩子们。,Ben won't go with Catherine to visit uncle Steve. He will visit her and the boys. ,"Catherine: We're going to visit uncle Steve, want to come with us?
+45,aya-expanse:8b,凯瑟琳邀请本去看望他们家族中的叔叔史蒂夫，但本表示自己不喜欢这种拜访，觉得会让他感到压力。凯瑟琳试图说服他，说孩子们想见他，但本认为他们可以等他有空时再见面，无需特地前往另一个城市。凯瑟琳提到史蒂夫会失望，但本坚持认为史蒂夫可能不会太在意，因为他们没有共同话题，而且史蒂夫总是问他的私生活问题让他感到烦恼。尽管如此，凯瑟琳还是鼓励本去看望孩子们。本同意了，表示会尽快找到时间去看他们。,本不会和凯瑟琳一起去看望史蒂夫叔叔。他会去看望凯瑟琳和孩子们。,Ben won't go with Catherine to visit uncle Steve. He will visit her and the boys. ,"Catherine: We're going to visit uncle Steve, want to come with us?
 Ben: why would I?
 Catherine: He's family and we haven't seen him in a long time.
 Ben: you know very well that I'm not fond of such visits
@@ -578,7 +559,7 @@ Catherine: Alright, don't worry, I'll stop
 Catherine: But still the part about the boys missing you was true
 Catherine: So come and visit them when you'll have the chance
 Ben: I will"
-46,aya-expanse:8b,史蒂夫告诉妈妈，洗碗机已经安装好了，并且工作得很好。他发了一张照片给妈妈，表示洗碗机看起来很漂亮，而且运行安静。妈妈问它是12人份的吗，史蒂夫回答说他通常没那么多客人，但这并不意味着每天都用到它，每两天用一次就足够了。妈妈很高兴史蒂夫对洗碗机满意，并表达了她的爱。,史蒂夫很高兴他装了一台新的洗碗机。,Steve is happy that he got a new dishwasher installed.,"Steve: hiya the dishwasher has turned up
+46,aya-expanse:8b,史蒂夫告诉妈妈，洗碗机已经安装好了，并且做得很好。他发了一张照片给妈妈，显示洗碗机的样子。妈妈问它是12个餐盘的，史蒂夫说虽然他通常没有那么多客人，但这并不意味着每天都需要用到它，每隔一天就够了。妈妈很高兴史蒂夫对洗碗机满意。,史蒂夫很高兴他装了一台新的洗碗机。,Steve is happy that he got a new dishwasher installed.,"Steve: hiya the dishwasher has turned up
 Mum: good did they install it for you
 Steve: yes they did a good job
 Steve: <file_photo>
@@ -590,7 +571,7 @@ Mum: not but you dont have to put it on every day
 Steve: no every other
 Mum: yes I'm glad you are pleased with it xx
 Steve: I am thanks mum xxx"
-47,aya-expanse:8b,亨利询问了咖啡馆Kohaku的状况，朱莉娅确认它已经关门。亨利表示失望，因为他很喜欢那家店。朱莉娅推测可能是租金过高导致关闭。亨利和朱莉娅最终选择了其他地方用餐，但亨利对咖啡馆Kohaku的美味布朗尼感到遗憾。朱莉娅建议亨利去日本中心尝试类似美食，但亨利表示那里总是人满为患，游客比普通人多，不感兴趣。,茱莉亚上周去了考文特花园附近的kohaku咖啡馆，但现在这家店关门了，这让她和亨利大吃一惊。她联系了店主，但还没收到回复。亨利和他的表妹最后去了莉莉家，但那里的气氛不一样。,"Julia was at cafe Kohaku near Covent Garden last week, but it's closed down now to her and Henry's surprise. She contacted the owners, but they haven't replied yet. Henry and his cousin went to the Lily's in the end, but it had a different vibe.","Henry: Do you know what happened to cafe Kohaku?
+47,aya-expanse:8b,亨利想预订科哈库咖啡馆的桌子，但找不到任何信息，连其Facebook页面也消失了。朱莉娅证实咖啡馆已经关门，可能是因为租金过高。亨利和朱莉娅都对这家位于 Covent Garden 附近的咖啡馆很失望，并讨论了其他替代选择。,茱莉亚上周去了考文特花园附近的kohaku咖啡馆，但现在这家店关门了，这让她和亨利大吃一惊。她联系了店主，但还没收到回复。亨利和他的表妹最后去了莉莉家，但那里的气氛不一样。,"Julia was at cafe Kohaku near Covent Garden last week, but it's closed down now to her and Henry's surprise. She contacted the owners, but they haven't replied yet. Henry and his cousin went to the Lily's in the end, but it had a different vibe.","Henry: Do you know what happened to cafe Kohaku?
 Julia: The one near Covent Garden?
 Henry: Yeah. I wanted to reserve a table, but I can't find them anywhere. Their Facebook page disappeared.
 Julia: I'm afraid they're closed :(
@@ -605,7 +586,7 @@ Henry: Eh, that's a pity then, I was so looking forward to their brownie
 Henry: How was the Lilly's?
 Julia: It's all right, it's a different vibe though. I think you should go to the Japan Centre for the same
 Henry: Uhm, don't think so. It's always awfully crowded and there are more tourists than normal people like us"
-48,aya-expanse:8b,汤姆问卡米拉是否去过都柏林，卡米拉回答从未去过爱尔兰。汤姆提议周末去都柏林，持续两天，因为天气预报很好。卡米拉赞赏汤姆的疯狂想法，并同意他买票。,卡米拉和汤姆这个周末要去都柏林。,Camilla and Tom will go to Dublin this weekend.,"Tom: Have you ever been to Dublin?
+48,aya-expanse:8b,汤姆问卡米拉是否去过都柏林，卡米拉表示从未去过爱尔兰。汤姆提议周末去都柏林，持续两天，因为天气预报很好。卡米拉赞同汤姆的疯狂想法，并表示支持。汤姆说他会买票。,卡米拉和汤姆这个周末要去都柏林。,Camilla and Tom will go to Dublin this weekend.,"Tom: Have you ever been to Dublin?
 Camilla: Never in Ireland!
 Tom: So let's go there this weekend!
 Camilla: for 2 days?
@@ -613,23 +594,23 @@ Tom: Yes, the weather forecast is great!
 Camilla: I love your crazy ideas!
 Tom: ok, so I'm buying the tickets
 Camilla: <3"
-49,aya-expanse:8b,梅根询问杰森是否有消息，因为他今天缺席了。纳森解释说杰森有牙医预约。苏西确认了这个信息。梅根感谢他们的帮助。,杰森今天约了牙医，所以他没来。,Jason had a dental appointment today and that's why he was absent.,"Megan: Any word from Jason?
+49,aya-expanse:8b,梅根问纳森是否收到杰森的消息，因为杰森今天缺课。纳森解释说杰森有牙医预约。梅根感谢他的信息。,杰森今天约了牙医，所以他没来。,Jason had a dental appointment today and that's why he was absent.,"Megan: Any word from Jason?
 Nathan: Why do you ask?
 Megan: He was absent today :c
 Susy: He had a dental appointment.
 Megan: Thanks for the info :)"
-50,aya-expanse:8b,"盟友：到目前为止你完成了多少？
+50,aya-expanse:8b,"艾利：到目前为止你做了多少？
 吉尔：大概20到30个。
 吉尔：我每天最多只能做3到4个。
-盟友：每天几小时？
-吉尔：大约40个小时，也许是35个小时。
-盟友：好的，我也是这样。",到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,"Jill did 20 or 30 so far, 3-4 per day, 40 or 35 hours, so the same as Ally.","Ally: how many did you do so far?
+艾利：每天几小时？
+吉尔：可能40个小时，或者35个小时……
+艾利：好吧，我也是这样。",到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,"Jill did 20 or 30 so far, 3-4 per day, 40 or 35 hours, so the same as Ally.","Ally: how many did you do so far?
 Jill: like 20 or 30
 Jill: I can't do more than 3-4 per day
 Ally: how many hours?
 Jill: 40? maybe 35...
 Ally: ok, same here"
-51,aya-expanse:8b,詹姆斯告诉米娅，他们的哲学老师正在举办一场艺术展览，明天开幕。米娅对这个消息感到惊讶，但她也表示很想去看看。詹姆斯建议他们一起去，并邀请阿美利亚同行。米娅最初有些犹豫，因为她觉得这会有些尴尬，但詹姆斯解释说他只是希望他们能一起度过愉快的时光。最终，他们决定明天一起去艺术展览，然后到詹姆斯家放松和亲密相处。,詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。,James and Mia want to go to an art exhibition tomorrow. James wants Amelia to go with them but Mia isn't sure about it. James and Mia will go to his place afterwards.,"James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
+51,aya-expanse:8b,詹姆斯告诉米娅，他们的哲学讲师正在举办一场艺术展览，明天开幕。米娅对这个消息感到惊讶，但表示也想去看看。詹姆斯提议他们一起去，并邀请阿美利亚一起参加。米娅有些犹豫，因为她不了解阿美利亚，但詹姆斯安抚她，保证阿美利亚很随和。他们计划明天同时去展览和电影院，之后到詹姆斯家聚会。米娅表示同意，两人确认没有问题。,詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。,James and Mia want to go to an art exhibition tomorrow. James wants Amelia to go with them but Mia isn't sure about it. James and Mia will go to his place afterwards.,"James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
 James: I'm talking about this guy who taught us ethics.
 James: Amelia recommends it :D
 Mia: No way...! :D Professor Evans and art exhibition :D What has happened to this world?
@@ -652,7 +633,7 @@ James: Afterwards we can go to my place and hang out, cuddle and so on... :*
 Mia: Sounds good :) :*
 James: So we're good, right?
 Mia: Right. ;)"
-52,aya-expanse:8b,马里亚纳（Mariana）询问斯蒂芬（Stephen）的研讨会下一次会议的阅读材料是否在打印店。丽塔（Rita）和查英（Chae-yeong）表示不知道，而阿瑟（Arthur）确认材料周一没有到位，店员也如常粗鲁。丽塔将第二天早上去检查并通知大家材料是否准备就绪，她无法购买副本，但会请求他们为后续时间打印更多。查英和阿瑟感谢她的帮助。,彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。,Chae-yeong and Arthur inform Mariana that the readings for the next session of Stephen's seminar weren't available in the print shop on Monday. Rita decides to go and chcek if the situation's changed tomorrow and she'll let everyone know.,"Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?
+52,aya-expanse:8b,玛丽安娜询问斯蒂芬的研讨会下一次会议的阅读材料是否在打印店。丽塔和查英没有确切信息，亚瑟确认周一材料未到位且工作人员态度恶劣。丽塔将于第二天早上前往并告知大家材料是否准备就绪，她会请求加印更多。亚瑟和查英表示不介意。,彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。,Chae-yeong and Arthur inform Mariana that the readings for the next session of Stephen's seminar weren't available in the print shop on Monday. Rita decides to go and chcek if the situation's changed tomorrow and she'll let everyone know.,"Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?
 Rita: No idea, sorry
 Chae-yeong: The only thing I know is that they were not yet there on Monday
 Arthur: Yer, I’ve made the mistake of going on Monday as well and I can confirm the texts were not there and the staff was as rude as always
@@ -662,7 +643,7 @@ Rita: I can’t buy the copies for you because they never have enough at hand bu
 Chae-yeong: No worries
 Arthur: Yeah, just let us know if they’re ready, that’s a huge favour already
 Rita: Cool. Will do! xx"
-53,aya-expanse:8b,罗登（Rodney）告诉特曼（Truman）和罗斯（Ross），校园里有一名男子被殴打和抢劫了。他们不知道袭击者是谁，但学校将发布官方声明，报纸也会报道此事。袭击者戴着面具。受害者目前在医院，情况稳定。罗斯猜测可能是学生所为，特曼则认为可能只是为了好玩。罗斯提到校园有监控摄像头，但特曼认为戴着面具的话摄像头无用。他们都希望犯罪分子能尽快被抓获。,有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。,"A person was beaten and mugged on campus and had to be hospitalised. The attacker wore a mask. An official statement will be released, along with a newspaper article. Truman and Rodney think the campus security is subpar, even though there are cameras around.","Rodney: Have you heard a guy got beaten and mugged on campus?
+53,aya-expanse:8b,有个人在校园被打和抢，正在医院恢复。攻击者戴着面具，警方将发布官方声明并发表报纸文章。大家猜测攻击者可能是学生，甚至可能只是为了好玩。尽管校园有监控摄像头，但安全卫士效率不高。希望犯罪分子能尽快被捕。,有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。,"A person was beaten and mugged on campus and had to be hospitalised. The attacker wore a mask. An official statement will be released, along with a newspaper article. Truman and Rodney think the campus security is subpar, even though there are cameras around.","Rodney: Have you heard a guy got beaten and mugged on campus?
 Truman: Oh, man is he ok?
 Ross: Do they have any idea who did it?
 Rodney: They're gonna give an official statement about. There's also gonna be an article in the paper. As far as I know the assailant had a mask on.
@@ -677,7 +658,7 @@ Truman: If your masked it don't matter. You know how those security guards are
 Rodney: They don't give a fuck
 Ross: True that
 Truman: Hope they catch the guy soon"
-54,aya-expanse:8b,贾维埃尔（Javier）询问了当地是否有提供英语服务纹身店，朱迪（Judie）推荐了“华沙墨水”（Warsaw Ink）。贾维埃尔表示该名字很酷，并想知道朱迪的女友在那里纹身的经历。朱迪分享了一张她女友的纹身照片，贾维埃尔非常惊叹。当被问及纹身费用时，朱迪回答是1000。贾维埃尔对此表示惊讶，并决定回到哥伦比亚再做纹身。,哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,Javier was initially eager to have a tatoo done at Warsaw Ink but the price turned out to be too high. Javier decided to have a tatoo done in Colombia.,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
+54,aya-expanse:8b,Javier 问 Judie 是否知道当地有没有英语服务的老板纹身店。Judie 推荐了“Warsaw Ink”，并展示了他女朋友在那里纹身的照片。Javier 很喜欢，但考虑到价格是1000，决定还是回哥伦比亚纹身。,哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,Javier was initially eager to have a tatoo done at Warsaw Ink but the price turned out to be too high. Javier decided to have a tatoo done in Colombia.,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
 Judie: Oh there's Warsaw ink
 Javier: the name sounds neat... have you had a tattoo done there?
 Judie: nope but my gf has
@@ -688,7 +669,7 @@ Javier: how much did she pay?
 Judie: it was a 1000
 Javier: fuck
 Javier: let me just get a tatttoo back in colombia then, thx"
-55,aya-expanse:8b,Zoey 在一个寒冷的日子里向朋友们发送了一段鼓励的话和一段GIF。Thomas回复说他们在热带地区一切都好，晚上温度降到-3度，早上会形成美丽的白色霜冻。他们周日爬上了Belchen山顶，尽管有冰风，但阳光灿烂，甚至还晒到了太阳。Thomas发了一张照片给Zoey，她非常惊叹并期待着很快与他们取得联系，同时也祝愿Thomas一切顺利。,托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,The temperatures where Thomas stays are -3 at night. There is frost in the morning. Zoey is in the tropics. Thomas had a walk around Belchen's summit on Sunday.,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
+55,aya-expanse:8b,Zoe 发了一张冷天鼓励的GIF给朋友们，并询问他们的健康状况。Thomas回复说他们在热带地区，晚上温度降至-3度，早上有白霜。他们周末在冰风中爬上了Belchen山顶，享受了阳光明媚和意外的晒黑。Zoe表示很漂亮，但希望暂时避开这样的天气。他们约定很快联系。,托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,The temperatures where Thomas stays are -3 at night. There is frost in the morning. Zoey is in the tropics. Thomas had a walk around Belchen's summit on Sunday.,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
 Zoey: <file_gif>
 Thomas: LOL
 Thomas: Hi there in the tropics! How are you doing?
@@ -700,15 +681,7 @@ Thomas: On Sunday we had a walk around the summit of Belchen - in icy wind but b
 Thomas: <file_photo>
 Zoey: Gosh! That's pretty! You'll hear from us soon. Take care!
 Thomas: You too!"
-56,aya-expanse:8b,"艾米丽：有人知道下一次ASEEES会议在哪里举行吗？
- Chloe：我不知道，但这是一个好问题。
- 詹姆斯：我听说是在加州。
- 詹姆斯：是的，在旧金山！
- Chloe：不错，但我真希望是夏威夷。
- 詹姆斯：哈哈哈，当然，但不会太早了。
- Chloe：为什么你这么认为？
- 詹姆斯：上一次1993年在那里举行的会议因前往该地的高昂费用受到批评。
- Chloe：明白了，可惜。",詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,James informs that the next ASEEES conference will be held in San Francisco. Chloe was hoping for Hawaii. James doesn't think there will be a conference in Hawaii soon due to the high cost of travel.,"Emily: Does anybody now where the next ASEEES conference takes place?
+56,aya-expanse:8b,艾米丽问下一次ASEEES会议将在哪里举行。乔伊表示不知道，但这是一个好问题。詹姆斯听说过在加利福尼亚，具体是旧金山。乔伊希望会议能去夏威夷，但詹姆斯认为由于1993年最后一次在那里举行的会议因交通费用高而受到批评，未来可能不会太快实现。,詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,James informs that the next ASEEES conference will be held in San Francisco. Chloe was hoping for Hawaii. James doesn't think there will be a conference in Hawaii soon due to the high cost of travel.,"Emily: Does anybody now where the next ASEEES conference takes place?
 Chloe: Actually I have no idea, but a good question
 James: I've heard somewhere in California
 James: Yes, San Francisco!
@@ -717,7 +690,7 @@ James: hahaha, oh yes, but it won't happen too soon
 Chloe: why do you think so?
 James: The last conference there in 1993 was criticised for the high costs of traveling to the place
 Chloes: I see, pity"
-57,aya-expanse:8b,罗布发起“摆脱沙发”挑战，计划每天进行30分钟的运动。格雷格支持他，建议至少每天进行60分钟的运动。威尔鼓励罗布不要给自己太大压力，要保持现实的目标。安娜也加入挑战，并表示会需要大家的支持。格雷格建议选择自己喜欢的运动，如步行、骑自行车或游泳等多样化锻炼方式。,罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。,Rob wants to start doing 30 minutes of physical activity every day. Greg is already doing 60 minutes. Anna wants to start exercising just like Rob. ,"Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.
+57,aya-expanse:8b,罗布发起“离沙发挑战”，计划每天进行30分钟的运动。格雷格支持他，建议至少60分钟。威尔鼓励罗布保持现实，不要太苛刻。安娜也加入挑战，表示30分钟的运动是合理的。格雷格建议选择自己喜欢的运动，如步行、骑行或游泳等。安娜表示需要大家的支持。,罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。,Rob wants to start doing 30 minutes of physical activity every day. Greg is already doing 60 minutes. Anna wants to start exercising just like Rob. ,"Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.
 Greg: way ahead of you mate! at least 60 min a day!
 Rob: good for you! 30 min a day is gonna be challenging for me!
 Greg: good luck then!
@@ -725,14 +698,14 @@ Will: don't be too hard on yourself. better to be realistic. fingers crossed!
 Anna: i'm in! 30 min sounds reasonable! 
 Greg: look for variety of exercises such as walking, biking, swimming whatever you enjoy!
 Anna: i'm gonna need lots of support from you guys!"
-58,aya-expanse:8b,书可（Booker）提醒沃克（Walker）不要忘记带上他的Xbox游戏机。沃克认为书可不喜欢这个游戏机，但承认握把非常棒。书可表示同意。沃克决定也带一个游戏机一起来。他们计划一整夜玩游戏。,沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,Walker and Booker plan to play games all night. Walker will bring his Xbox console at Booker's request.,"Booker: dont forget to carry your Xbox console
+58,aya-expanse:8b,布克尔提醒沃克带上Xbox游戏机。沃克认为布克尔不喜欢这款游戏机，但提到它的握持感很棒。布克尔笑着同意了。沃克决定也带一个。他们计划通宵玩游戏。,沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,Walker and Booker plan to play games all night. Walker will bring his Xbox console at Booker's request.,"Booker: dont forget to carry your Xbox console
 Walker: i thought you dont like the console
 Walker: the grip is amazing
 Booker: haha, yeah it is
 Walker: okay then, ill come with one
 Booker: gaming all night is the plan
 Walker: yaas"
-59,aya-expanse:8b,马里奥今天在欧洲的各个机场着陆，感到非常兴奋和疲惫。他目前正在卢森堡等待。莫鼓励他安全出行，并提到如果天气不好，他可能需要乘坐火车。所有人都祝他旅途愉快。,马里奥正在卢森堡的机场候机。,Mario is waiting on the airport in Luxemburg now.,"Mario: I’ve landed in every airport in Europe today - completely whacked out dude.
+59,aya-expanse:8b,马里奥今天飞遍了欧洲所有机场，感到非常疲惫。他目前在卢森堡等待。埃迪鼓励他享受旅程。莫说这是因为马里奥喜欢飞行。天气良好，否则他可能不得不乘坐火车旅行。莫提醒马里奥注意安全。马里奥也向莫表示感谢。,马里奥正在卢森堡的机场候机。,Mario is waiting on the airport in Luxemburg now.,"Mario: I’ve landed in every airport in Europe today - completely whacked out dude.
 Klara: Where are you now?
 Mario: Waiting in Luxembourg now.
 Eddie: Have fun dude.
@@ -740,16 +713,16 @@ Moe: Only because you love flying so much 😉
 Mario: weather was good for flying everywhere 🙂 Otherwise it would have been trains everywhere 🙂
 Moe: Mario  be safe bro
 Mario: You too bro 🙂"
-60,aya-expanse:8b,约翰问今天有没有训练，马特回答说应该有。约翰高兴地表示感谢并约定在训练见。马特回复“见”。,约翰不确定今天是否有训练，但马特说有。,John is not sure if there is practice today but Matt claims there is.,"John: do we have practice today?
+60,aya-expanse:8b,约翰问今天有没有练习，马特回答说应该有。约翰高兴地表示感谢并约定在练习时见，马特回复了“见”。,约翰不确定今天是否有训练，但马特说有。,John is not sure if there is practice today but Matt claims there is.,"John: do we have practice today?
 Matt: yea think so
 John: great thanks see ya there
 Matt: see ya "
-61,aya-expanse:8b,亚历克斯要求马丁买牛奶，因为他最近很想喝。马丁刚买了两瓶昨天，但为了爱他的人，他将再买两瓶，并在几小时内送达。亚历克斯感激地称马丁为英雄。,马丁完成计划后将给亚历克斯买两瓶牛奶。,Martin will get Alex two bottles of milk after he finishes the project.,"Alex: Hon, could you buy some milk?
+61,aya-expanse:8b,亚历克斯请马丁买牛奶，马丁刚买了两天前。亚历克斯说最近想喝牛奶。马丁表示因为要完成项目，两小时后会给她买。亚历克斯称他为英雄。,马丁完成计划后将给亚历克斯买两瓶牛奶。,Martin will get Alex two bottles of milk after he finishes the project.,"Alex: Hon, could you buy some milk?
 Martin: You kiddin me, I just bought two yesterday
 Alex: Well, I have nothing for my defense, I'm just craving milk lately:D
 Martin: You're lucky that I love you, two milks coming up in couple of hours, I gotta finish the project
 Alex: You are my hero!"
-62,aya-expanse:8b,布莱尔和查克计划在下班后与婚礼策划师见面，地点是“Nonna Rita”餐厅。查克表达了对该餐厅海鲜塔利亚特利的喜爱，并提到上个月去过那里，一直期待着再次光顾。布莱尔开玩笑说，既然如此，为什么不点那道他们上次与黛安见面时遭遇的“番茄酱面条灾难”呢？两人都回忆起那次糟糕的经历，并调侃地提及了黛安的白衬衫被番茄酱弄脏的事。,布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。,Blair and Chuck are going to meet the wedding planner after work at Nonna Rita's. The tagliatelle served at Nonna Rita's are very good.,"Blair: Remember we are seeing the wedding planner after work
+62,aya-expanse:8b,布莱尔和查克计划在下班后见婚礼策划师，地点在非娜丽塔餐厅。查克想点这里的海鲜意面，但他们也记得上次见黛安时那场令人难忘的番茄酱灾难，两人不禁发笑。,布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。,Blair and Chuck are going to meet the wedding planner after work at Nonna Rita's. The tagliatelle served at Nonna Rita's are very good.,"Blair: Remember we are seeing the wedding planner after work
 Chuck: Sure, where are we meeting her?
 Blair: At Nonna Rita's
 Chuck: Can I order their seafood tagliatelle or are we just having coffee with her? I've been dreaming about it since we went there last month
@@ -758,7 +731,13 @@ Chuck: Well we both remmber the spaghetti pomodoro disaster from our last meetin
 Blair: Omg hahaha it was all over her white blouse
 Chuck: :D
 Blair: :P"
-63,aya-expanse:8b,科尔（Cole）和路易斯（Luis）是室友。科尔开玩笑地说他们在同一间房间，路易斯回应说这很无聊。科尔要求路易斯把枕头递给他，路易斯拒绝了，表示不会给“傻瓜”这样做，因为科尔就坐在他们之间几英寸的地方。,科尔和路易斯坐在同一个房间里，却在发短信。,Cole and Luis are sitting in the same room and yet they're texting each other. ,"Cole: hey roomie XD XD
+63,aya-expanse:8b,"科尔：嘿，室友（笑）
+路易斯：我们可是在同一间房间啊！
+科尔：哈哈，有趣。
+路易斯：唉，不要来要我的枕头了。
+科尔：来，说说吧。
+路易斯：不，我不会通过短信和你这种人说话——他正坐在我旁边几英寸远。
+科尔：（笑）",科尔和路易斯坐在同一个房间里，却在发短信。,Cole and Luis are sitting in the same room and yet they're texting each other. ,"Cole: hey roomie XD XD
 Luis: dude we are in the SAME DAMN ROOM
 Cole: its funny XD
 Luis: -_-
@@ -769,7 +748,7 @@ Luis: ...
 Cole: oh youre not gonna talk to your roommate now
 Luis: im not gonna text an idiot whos practically sitting just a few inches from me -_-
 Cole: xD"
-64,aya-expanse:8b,达米安（Damian）兴奋地告诉雅各布（Jacob）和梅森（Mason），切尔西（Chelsea）的希瓜因（Higuain）在对阵胡德尼特（Huddersfield）的比赛中进了两个球。尽管对手实力较弱，但这对切尔西来说是一个积极的变化。雅各布认为前锋的加入确实有帮助，而梅森则不乐观地表示胡德尼特的表现很糟糕。达米安希望这能成为球队的转折点，但雅各布并不这么认为。,切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,Chelsea won a game with Huddersfield this afternoon. Higuain scored twice. Damian's happy about it and he hopes it will be a turning point for Chelsea. ,"Damian: guys did u watch Chelsea game
+64,aya-expanse:8b,达米安告诉雅各布和梅森，切尔西队比赛中的希瓜因两度得分让他非常高兴。尽管对手是排名靠后的胡德尼特队，但这终于是一次积极的转变。雅各布认为这可能不是转折点，而梅森则表示胡德尼特队水平很低。达米安仍保持乐观，希望这能成为球队的转机。,切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,Chelsea won a game with Huddersfield this afternoon. Higuain scored twice. Damian's happy about it and he hopes it will be a turning point for Chelsea. ,"Damian: guys did u watch Chelsea game
 Jacob: no
 Mason: nah, i was busy all afternoon
 Damian: Higuain scored twice! so happy for him
@@ -780,7 +759,7 @@ Mason: but cmon huddersfield is abysmal
 Damian: don't be like that, im happy for the team, maybe this will be a turning point
 Jacob: no, I don't think so
 Mason: ha good luck with that"
-65,aya-expanse:8b,马伦（Marleen）即将前往城镇，并在半小时后出发。她希望巴里（Barry）能提供一些关于礼物给丽塔（Rita）的想法。马伦在凯瑟尔商店（Kaiser's）看到优质的丝巾，并发送了照片给巴里。巴里建议选择带有黄色图案的丝巾，因为丽塔喜欢黄色。马伦表示那是五种丝巾中最贵的一种，售价为39欧。巴里认为价格合理，并同意以50/50的比例分担费用。,玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。,"Marleen will be leaving in half an hour to go to town. She will get a present for Rita - silk kerchief with a yellow pattern from Kaiser's. It costs 39, and Barley will share the cost 50/50 with Marleen.","Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.
+65,aya-expanse:8b,马伦恩即将去城镇，建议巴里为丽塔挑选礼物。巴里没有想法，马伦恩在凯瑟商店看到了丝绸围巾，并发了照片给巴里。巴里建议选择带有黄色图案的围巾，因为丽塔喜欢黄色。马伦恩表示那是五件中最贵的一件，价格为39欧。巴里觉得不贵，同意以50/50的价格购买。,玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。,"Marleen will be leaving in half an hour to go to town. She will get a present for Rita - silk kerchief with a yellow pattern from Kaiser's. It costs 39, and Barley will share the cost 50/50 with Marleen.","Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.
 Marleen: Text me here with your ideas for a present for her.
 Barry: But I've got none! I leave the choice entirely to you.
 Barry: I'm at home now.
@@ -797,16 +776,16 @@ Marleen: 39
 Barry: Oh come on. Not so bad.
 Marleen: Shall we go 50/50?
 Barry: OK"
-66,aya-expanse:8b,布鲁克昨天发生了一件事情，要求盖尔回来看看。盖尔问情况是否严重，布鲁克建议他立即回家。盖尔正在路上。,布鲁克要盖尔过来看看昨天发生了什么。,Brook wants Gyle to come and see what happened yesterday. ,"Brook: something happened yesterday, you need to come and see
+66,aya-expanse:8b,昨天发生了点事，布鲁克让盖尔回来看看。盖尔问情况严重吗？布鲁克建议他回家。盖尔说马上就到。,布鲁克要盖尔过来看看昨天发生了什么。,Brook wants Gyle to come and see what happened yesterday. ,"Brook: something happened yesterday, you need to come and see
 Gyle: is it bad?
 Brook: you better come home
 Gyle: On my way"
 67,aya-expanse:8b,"米莱娜：演讲怎么样？
-凯特：很棒。
+凯特：很好。
 雷吉娜：是的，我们收到了积极的反馈。
-米莱娜：听你演讲的人有多少？
-雷吉娜：有3个人，但我们知道会是一个温馨、友好的氛围。
-米莱娜：有时候一个小但充满兴趣的观众比随机的无聊人群更好。
+米莱娜：你有多少人来听你的演讲？
+雷吉娜：三个人，但我们知道会是一个温馨、友好的氛围。
+米莱娜：有时候一个小但热情的观众比无聊的人群要好。
 凯特：完全同意。",凯特、米丽娜和里贾娜的演讲进行得很顺利，三个人来听他们的演讲。,"Kate, Milena and Regina's presentation went well. Three people came to listen to them.","Milena: How was the presentation?
 Kate: very good
 Regina: yes, we had a good feedback
@@ -814,7 +793,7 @@ Milena: how many people came to listen to you?
 Regina: 3 but we new it will be very cosy, friendly thing
 Milena: sometimes a small but interested audience is better than random bored people
 Kate: exactly"
-68,aya-expanse:8b,杰克刚在游戏里抽到了“TOTW”（本周球员）卡，这是他今年第一个。汤姆祝贺了他并询问是否要出售该卡。杰克表示会尝试在几场比赛中使用它，但它不适合他的队伍。汤姆认为杰克会有足够的硬币来购买更合适的球员。杰克承认自己运气不错。汤姆抱怨今年的抽奖运很差，没有抽到优秀球员。杰克安慰他说他游戏技巧高超，不需要帮助。汤姆开玩笑说自己喜欢闪亮的东西。,杰克今年拿到了第一个totw ，汤姆的团队并不出色。,Jake has got his first TOTW this year. Tom doesn't have a great team. ,"Jake: dude, I just pulled a TOTW
+68,aya-expanse:8b,杰克刚抽中了本年的首张“TOTW”卡。他计划在尝试过几场比赛后出售，因为该球员不适合他的阵容。汤姆表示今年运气不佳，没有抽到优秀球员。杰克安慰他说，作为游戏高手，他不需要帮助。,杰克今年拿到了第一个totw ，汤姆的团队并不出色。,Jake has got his first TOTW this year. Tom doesn't have a great team. ,"Jake: dude, I just pulled a TOTW
 Jake: my first this year!
 Tom: grats!
 Tom: gonna sell it?
@@ -829,23 +808,23 @@ Tom: not a single great player
 Jake: you're good at the game
 Jake: you don't need help :P
 Tom: I like shiny things :P"
-69,aya-expanse:8b,"卡丝：亲爱的，你生日卡和钱收到没？
+69,aya-expanse:8b,"卡丝：亲爱的，你生日卡片和钱收到了吗？
 
-乔丹：奶奶，谢谢20英镑！很抱歉之前没有给你打电话。
+乔丹：嗨，奶奶！谢谢20英镑。对不起，我没提前打电话给你。
 
-卡丝：你还是喜欢《托马斯与朋友》吧？我特意挑选的。
+卡丝：你还是喜欢托马斯小火车吧？我特意挑的。
 
-乔丹：是的，奶奶。我永远爱他！下次给我买一个足球主题的吧，我现在11岁了！
+乔丹：是的，奶奶。我永远爱他！下次，给我买一个足球主题的吧？我现在11岁了！
 
-卡丝：我知道，你已经长大了。爱你！
+卡丝：我知道，你长得很快。爱你！
 
-乔丹：也爱你，奶奶！",凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。,Cass sent her grandson Jordan £20 and a birthday card for his 11th birthday. ,"Cass: Hi darling, did you get your birthday card and money on time?
+乔丹：爱你，奶奶！",凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。,Cass sent her grandson Jordan £20 and a birthday card for his 11th birthday. ,"Cass: Hi darling, did you get your birthday card and money on time?
 Jordan: hello Nanna! Thanks for the £20. Sorry I didn't ring you before.
 Cass: you still like Thomas the Tank engine don't you? I picked it specially.
 Jordan: Yes, Nanna. I will always love him! Next time, get me a football one or something. I mean, I'm 11 now!
 Cass: I know, you are so grown up. Love you xxxxx
 Jordan: Love you, Nan xx"
-70,aya-expanse:8b,凯利和杰西卡、米奇和奥利正在进行一次对话。凯利提出了一个问题，询问了杰西卡最可怕的旅行地点。杰西卡回答说意大利的巴勒莫让她感到害怕，原因是在那里有著名的卡普奇尼地下墓穴，里面安息着8000具尸体。米奇开玩笑地问是否有人指甲被打破，杰西卡则解释了那里的情况：虽然可以看到这些尸体，但它们被分为不同的区域，她并不知道具体划分方式。奥利表示这很酷，并询问能否看到骨头，杰西卡回答说部分可以看到，大部分尸体都穿着衣服，只露出头骨和手。米奇对这个故事印象深刻，表示要记下来。奥利也表示同意。,对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,The scariest place for Jessica was the Capuchin Catacombs in Palermo.,"Kelly: Oh! Oh! Can I pick the first question?
+70,aya-expanse:8b,凯利想先回答问题。杰西卡分享了她在意大利巴勒莫的经历，提到那里有著名的卡普奇尼地下墓穴，里面有8000具尸体。她描述道，这些尸体被展示在像博物馆展品一样，大部分穿着衣服，只有头骨和手。米基和奥利对这个故事感到兴奋，决定记下来。,对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,The scariest place for Jessica was the Capuchin Catacombs in Palermo.,"Kelly: Oh! Oh! Can I pick the first question?
 Jessica: Sure. Go for it!
 Kelly: What's the scariest place you've been to!
 Jessica: I'll start: Palermo in Italy.
@@ -857,7 +836,11 @@ Ollie: That's so cool! Do you get to see the bones or are they covered up?
 Jessica: Well, partly. Most of them were exhibited in their clothes. Basically only skulls and hands. 
 Mickey: I'm writing this one down! That's so precious!
 Ollie: Me too!"
-71,aya-expanse:8b,西蒙和查理讨论了欧盟的移民政策对欧洲公民安全的影响，并特别提到了波兰的情况。他们认为波兰是少数未受到无控制移民和恐怖主义影响的国家，但面临被边缘化的风险。西蒙赞扬波兰人民捍卫价值观的决心和毅力，认为波兰有机会在经济上快速发展，同时避免其他西方国家犯下的错误。查理则担心内部冲突可能导致波兰分裂。尽管如此，他们都相信，圣诞节期间的波兰将是欧洲最好的庆祝地点。,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,Simon and Charlie admire Poland for its anti-immigration policy and the way it defends its values and interests. ,"Simon: <file_photo>
+71,aya-expanse:8b,"西蒙和查理讨论了欧盟的移民政策对欧洲各国安全的影响。他们分析了德国、比利时和巴黎在节日期间采取的安全措施，同时强调波兰作为最后一个未受到无控制移民和恐怖主义影响的国家的独特地位。
+
+西蒙认为波兰有机会在经济上落后几十年，但也可以避免其他西方国家犯下的错误，快速发展。他赞扬波兰人民捍卫价值观和利益的意志，并预测未来波兰可能成为欧洲内部解决问题的主要力量。
+
+查理则担忧波兰内部冲突的风险，但两人都希望波兰能度过难关，享受一个安宁的圣诞节。",西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,Simon and Charlie admire Poland for its anti-immigration policy and the way it defends its values and interests. ,"Simon: <file_photo>
 Simon: It's funny and scary at the same time.
 Simon: BTW it's so annoying that people can't see that such immigration policy reduces safety level for citizens of EU significantly
 Charlie: This photo is great. It totally shows what do we all mean when we criticize EU policy. 
@@ -879,15 +862,7 @@ Charlie: Maybe. But there is a risk that internal conflict will rip the country 
 Simon: Let's hope not.
 Charlie: Yup. To conclude: Christmas in Poland will be the best Christmas in Europe :D
 Simon: I agree :)"
-72,aya-expanse:8b,"这是一段关于性道德和宗教观点的对话摘录。主要观点和评论包括：
-
-1. Ed 认为性行为仅适用于已婚夫妇，并谴责非婚姻性关系为“双重罪过”。
-2. Valerie 进一步强调，如果性行为不是以正位式（可能指特定性姿势）进行的，则罪过加倍。
-3. Chris 调侃说，如果所有人都遵循这样的道德标准，那他们就需要结婚并让其他人“独处”。
-4. Lor 以幽默的方式表示，非罪的生活是否值得，因为在死后，良心可能将永远受到伤害。
-5. Atnee 和 Jessica 试图缓和紧张气氛。Jessica 坚称性行为的唯一目的是在于生育，不应享受性行为本身。
-6. Ed 对 Valerie 的观点做出回应，认为如果她享受性行为，那就是“三倍罪过”。
-7. Matt 开玩笑地对 Ed 说，他会去地狱见他，但 Ed 反驳说他不会去地狱，并且不看重其他男人的方向。",艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。,"Ed, Valerie, Chris, Lor, Atnee, Jessica, Matt are laughing at the sinfulness of the sex without marriage.","Ed: Sinners!! Sex is for married people
+72,aya-expanse:8b,Ed 认为性行为仅限已婚夫妇，并严厉批评其他人的观点。Valerie 和 Chris 反驳说，即使是传统任务式性行为也并非绝对正确。Lor 幽默地表示，如果不遵守这些规则，在来世可能会感到内疚。Atnee 和 Jessica 支持 Ed 的观点，认为性行为的唯一目的是生育。Matt 开玩笑地威胁要把Ed送入地狱。Ed 坚定地维护自己的立场，拒绝看其他男性。,艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。,"Ed, Valerie, Chris, Lor, Atnee, Jessica, Matt are laughing at the sinfulness of the sex without marriage.","Ed: Sinners!! Sex is for married people
 Valerie:  double sin if it’s anything but missionary style!
 Chris: Then you go get married & leave us all alone
 Lor: You better hope all non sin living is worth it or your consciousness after death is going to be butt hurt for eternity lol
@@ -898,11 +873,14 @@ Ed: Valerie , triple sin if you enjoy it!
 Jessica: And only for procreation. :-))) And not to be enjoyed. :-)))
 Matt: Ed, Ok. See you in hell !! 😂
 Ed: Matt , No you won’t. I don’t even look on the direction of another man"
-73,aya-expanse:8b,杰克惊讶地发现迈克在伦敦，并通过照片确认了这一点。迈克兴奋地表示梦想成真，杰克对此表示祝贺。,迈克在伦敦。,Mike is in London.,"Jake: Maaaan! you in london?!
+73,aya-expanse:8b,"杰克：天啊！你在伦敦？！
+迈克：（附照片）
+迈克：是的，兄弟！梦想成真了！
+杰克：酷！恭喜你！",迈克在伦敦。,Mike is in London.,"Jake: Maaaan! you in london?!
 Mike: <file_photo>
 Mike: yeah mate! dreams coming true!
 Jake: cool! congrats!"
-74,aya-expanse:8b,里奇和克莱讨论了足球选手波格巴（Pogba）的出色表现。里奇称赞波格巴的进球，并指出他在回传球后迅速调整位置。克莱表示希望波格巴能保持这种状态，并提到本赛季他更加成熟，教练何塞（Jose）对他的信任也增强了。两人都认为波格巴在比赛后60分钟内表现出色，值得得到进球奖励。他们都对此表示赞同。,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,"Richie and Clay saw a very good football game, with one football player chopping the ball back to his foot, which was particularly exciting. Jose has trust in that player. ","Richie: Pogba
+74,aya-expanse:8b,里奇和克莱讨论了波格巴的出色表现。里奇称赞波格巴的进球，并指出他在赛季中变得更加成熟。克莱同意，并认为波格巴值得在上半场后得到进球奖励。他们都对波格巴的表现感到高兴。,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,"Richie and Clay saw a very good football game, with one football player chopping the ball back to his foot, which was particularly exciting. Jose has trust in that player. ","Richie: Pogba
 Clay: Pogboom
 Richie: what a s strike yoh!
 Clay: was off the seat the moment he chopped the ball back to his right foot
@@ -916,7 +894,7 @@ Richie: reward
 Clay: yeah man
 Richie: cool then 
 Clay: cool"
-75,aya-expanse:8b,亚历克问艾丽卡是否看过最近的《美国达人秀》。艾丽卡表示没有。亚历克发送了一个文件链接，但最初无法打开。经过一会儿后，链接成功加载。亚历克建议艾丽卡观看，并认为她会喜欢。艾丽卡表示同意，并称赞表演者非常出色，甚至希望她能赢得该季比赛。亚历克确认他看过所有参赛者，并个人认为那个女孩是最优秀的。,亚历克看到美国的达人秀，他发了个链接给亚莉克莎。,Alec saw America's got talent. He sent a link to Alexa.,"Alec: Have you seen the last America's got talent?
+75,aya-expanse:8b,亚历克问艾丽莎是否看过最近的《美国达人秀》。艾丽莎没有看。亚历克发送了一个视频链接，但最初无法打开。经过一会儿，链接成功了。亚历克建议艾丽莎观看，并表示她会喜欢的。艾丽莎同意，并称赞那个女孩很棒。她表示希望自己年轻时有那女孩一半的技能。亚历克也认为那个女孩表现出色，甚至可能赢得该届比赛。艾丽莎问亚历克是否看过所有参赛者，亚历克回答是的，并表示他个人觉得那个女孩是最好的。艾丽莎希望她能获胜。,亚历克看到美国的达人秀，他发了个链接给亚莉克莎。,Alec saw America's got talent. He sent a link to Alexa.,"Alec: Have you seen the last America's got talent?
 Alexa: No. 
 Alexa: Interesting? 
 Alec: <file_other>
@@ -940,17 +918,17 @@ Alexa: I'd be glad if she wins :)"
 汉娜：哦，好的。",詹姆斯要去上班，所以他不看比赛。,James is heading to work so he's not watching the game.,"Hannah: Are you watching the game?
 James: No I am head to work : ( 
 Hannah: Oh okay"
-77,aya-expanse:8b,"多尔夫：明天记得带上护照。
+77,aya-expanse:8b,"多尔夫：明天记得带护照。
 齐格勒：好的，我会记住的。",在多尔夫的提醒下，齐格勒明天会把护照带来。,Ziggler will bring the passport tomorrow as reminded by Dolph.,"Dolph: hey
 Dolph: remember to bring your passport tomorrow
 Ziggler: Cool, i will"
-78,aya-expanse:8b,威廉正在做意大利面，请求奥利维亚买一些新鲜番茄。奥利维亚同意了。威廉也建议贝丝在晚餐后吃点巧克力，贝丝表示会处理。,威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。,William is making spaghetti. Olivia will buy fresh tomatoes for William. Beth will buy chocolate.,"William: hey im making spaghetti
+78,aya-expanse:8b,威廉正在做意大利面，请奥利维亚买一些新鲜番茄。贝丝会买点巧克力作为晚餐后甜点。,威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。,William is making spaghetti. Olivia will buy fresh tomatoes for William. Beth will buy chocolate.,"William: hey im making spaghetti
 William: could you please buy some fresh tomatoes
 William: pretty please :)
 Olivia: no problem dear :)
 William: and Beth? it wouldn't hurt to have some chocolate for after the dinner :D
 Beth: I'm on it :D"
-79,aya-expanse:8b,蒂娜（Tina）和德米（Demi）在讨论如何与男性建立关系。蒂娜表示Facebook不断建议她一个叫帕特里克（Patrick）的人，并开玩笑说她需要学习如何从仇视男人转变为与他们发生性关系。德米同意了，并提到她自己经历过一次重大心碎后，才学会了如何喜欢男人，并建议蒂娜要保持开放的心态，尝试了解其他类型的男性。蒂娜表示她只喜欢一种类型，但德米鼓励她不要过于依赖他人的情绪。他们还讨论了一个租房问题，并计划见面，德米表示如果蒂娜无家可归，她会让她住进自己的家。,蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。,Tina has to learn Demi's approach how to transfer from hating men to dating them.,"Tina: Hey, Facebook is constantly non stop suggesting Patrick
+79,aya-expanse:8b,蒂娜（Tina）抱怨Facebook不断推荐帕特里克（Patrick），德米（Demi）笑了。蒂娜表示她需要学习如何从仇视男性到与他们建立关系，并提到在经历重大心碎后，德米成功地改变了自己。她们讨论了关于喜欢不同类型男性的观点，并计划组织相关工作坊。蒂娜表示她只喜欢一种类型，但德米建议她放松一点，探索其他可能性。蒂娜表达了希望独立于他人情绪的需求，德米表示理解。她们约定见面，并开玩笑说如果蒂娜无家可归，德米会收留她。,蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。,Tina has to learn Demi's approach how to transfer from hating men to dating them.,"Tina: Hey, Facebook is constantly non stop suggesting Patrick
 Demi: Hahahahaha 
 Tina: I think I have to catch a bit of your approach
 Demi: He's a god. What do you mean...?
@@ -973,22 +951,14 @@ Demi: for sure. if youre homeless i will take under my roof
 Tina: between the guyshaha
 Demi: we ll find something
 Tina: <3"
-80,aya-expanse:8b,"艾莉森：你和伊桑讨论了那个功能吗？
-艾文：是的，我已经和他说过了。
-艾莉森：他说会来吗？
-艾文：他可能不会来。
-艾莉森：你能想办法让他来吗？
-艾文：我会尽量让他来。
-艾莉森：好的。",埃文会让伊森来的。,Evan will try to make Ethan come.,"Allison: You talked to Ethan about the function? 
+80,aya-expanse:8b,艾莉森问埃文是否和伊桑讨论了功能问题。埃文回答已经这样做了，并说伊桑可能不会来。艾莉森要求埃文想办法让伊桑来，埃文表示会尽力。,埃文会让伊森来的。,Evan will try to make Ethan come.,"Allison: You talked to Ethan about the function? 
 Evan: Yeah I did
 Allison: What did he say?
 Evan: He might not come
 Allison: Can you do something about that?
 Evan: I will try to make him come
 Allison: K"
-81,aya-expanse:8b,"巴特在经济课程的期末考试中表现不佳，导致整个学期的成绩受影响。他承认自己没有像应该那样努力学习。阿德里安建议他可以下学期再补这门课，但巴特表示如果继续出错，他可能就不得不这样做。
-
-巴特解释说，他开始玩《星际争霸》（StarCraft），因此没有充分准备期末考试。阿德里安提醒他要注意平衡游戏和学习时间。巴特同意，并承诺在学校期间不再玩游戏，而是专注于学习。",巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。,Bart didn't do well this semester because he didn't study much. He played a lot fo StarCraft. Adrian did well thanks to paying attention in class,"Adrian: Did you get your grades yet?
+81,aya-expanse:8b,巴特已经收到了自己的成绩单，发现整个学期都表现不佳。他因为经济学的最终考试失败而感到沮丧。阿德里安建议他下学期再考，并分享了自己的学习方法——上课认真听讲，不需要花太多时间复习。巴特承认自己因为玩《星际争霸》而分心，承诺不再在学校期间玩游戏，但表示会适量娱乐。,巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。,Bart didn't do well this semester because he didn't study much. He played a lot fo StarCraft. Adrian did well thanks to paying attention in class,"Adrian: Did you get your grades yet?
 Bart: Yeah. My whole semester is screwed up now.
 Adrian: Wait whaaat? Why?
 Bart: Well, I bombed my economy final and ended up with a bad score..
@@ -1008,17 +978,17 @@ Adrian: Oooohh I know that game but you better stop slacking off.
 Bart: You're right. I'm not going to play games during school anymore.
 Adrian: You can play them, just don't loose focus and study for the exams :p
 Bart: Let's see how it goes xD"
-82,aya-expanse:8b,肖恩在深思熟虑后决定自己的灵兽是乌龟。他最近才知道每个人都有一个，这让他感到迷失，开始质疑自己的身份。经过多日思考，他最终确定自己是乌龟。蒂芙尼认为这可以解释很多事情，但她也怀疑肖恩可能只是被某种东西所困扰，而不是真的成为了一只乌龟。,肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。,Sean believes his spirit animal is a tortoise and Tiffany's could be a wasp. ,"Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.
+82,aya-expanse:8b,肖恩经过深思熟虑后决定自己的精神动物是乌龟。他最近才知道每个人都有一个，感觉很迷失，不知道自己到底是谁。经过多日思考，他终于确定自己是乌龟。蒂芙尼认为他可能只是被困扰了，建议他可能不是乌龟，而是黄蜂。,肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。,Sean believes his spirit animal is a tortoise and Tiffany's could be a wasp. ,"Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.
 Tiffany: That would explain a lot.
 Sean: You would be a wasp.
 Tiffany: Are you sure you're a turtle? Maybe you're just haunted."
-83,aya-expanse:8b,凯特在超市，为明天的学校准备水果。乔治请求一个苹果，凯特也打算买一个。乔治问是否有橙子，但凯特回答下周才会有，她已经询问过店员了。乔治表示那就只能等到下周了。,凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。,Kate is buying apples for herself and George. They have to wait for tangerines until next week.,"Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?
+83,aya-expanse:8b,凯特在超市，乔治问她是否为明天学校买些水果。乔治想要一个苹果，凯特也打算买一个。乔治还询问橙子是否有货，凯特回答下周才到货。,凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。,Kate is buying apples for herself and George. They have to wait for tangerines until next week.,"Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?
 George: Oh yes please, an apple would be great
 Kate: Okay, I'm getting me one too
 George: Do they have tangerines yet?
 Kate: No the're coming next week, I asked already:D
 George: Okat then we have to wait"
-84,aya-expanse:8b,罗纳德问朱莉周末过得怎么样，朱莉回答还好，但实际上她的父母正在争吵吃什么，她甚至不想和他们一起吃饭。罗纳德表示同情，并建议朱莉回去后打电话给他，因为他有事情要告诉她，可能会让她开心起来（如彩虹般）。朱莉开玩笑说她看到了糖果广告中的长颈鹿。,茱莉亚回来后会给罗纳德打电话，他有事要告诉她。,Julia will call Ronald when she gets back. He has something to tell her.,"Ronald: How's your weekend?
+84,aya-expanse:8b,罗纳德问朱莉周末过得怎么样，朱莉回答还好但家里有些不和谐，父母在争论吃什么。朱莉表示不再想和他们一起吃饭。罗纳德表示同情并邀请朱莉周末后打电话给他，说有事情要告诉她，可能会让她开心起来。朱莉调侃地回应说她看到了“彩虹斑马”。,茱莉亚回来后会给罗纳德打电话，他有事要告诉她。,Julia will call Ronald when she gets back. He has something to tell her.,"Ronald: How's your weekend?
 Julia: Fine I guess...
 Ronald: Doesn't sound like you're enjoying it
 Julia: Ehh. My parents are having a fight over where should we eat
@@ -1029,21 +999,7 @@ Ronald: Call me when you get back.
 Ronald: I've got something to tell you, and I'm sure you're gonna piss rainbows
 Julia: Hahaha. I can see the giraffe from Skittles comercial :D
 Ronald: Sth like that"
-85,aya-expanse:8b,"马修：我感冒了，需要你们的支持。很痛苦。
-
-丽莎：加油！喝橙汁，做点汤。
-
-马修：我会试试。
-
-丽莎：我相信你。
-
-马修：谢谢。似乎是过敏加上病毒。
-
-丽莎：哎，真糟。休息一下吧。
-
-马修：知道了。现在去睡觉。
-
-丽莎：晚安！",马修感冒了，他要喝些橙汁，然后去睡觉。,Matthew has a cold. He will drink some orange juice and go to sleep.,"Matthew: I have a cold. Need y'all support. It's painful
+85,aya-expanse:8b,马修感冒了，需要大家支持。丽莎建议他喝橙汁，做点汤，并鼓励他坚持下去。马修表示会尝试。他透露可能是过敏加上病毒导致的。丽莎表示很抱歉，建议他休息，好好睡觉。马修同意，并祝晚安。,马修感冒了，他要喝些橙汁，然后去睡觉。,Matthew has a cold. He will drink some orange juice and go to sleep.,"Matthew: I have a cold. Need y'all support. It's painful
 Lisa: Fight it. Drink orange juice. Make some soup
 Matthew: I'll try
 Lisa: I believe in u 
@@ -1052,13 +1008,7 @@ Lisa: Ahh it sucks.
 Lisa: Take a rest from evrthg.  
 Matthew: Ikr. Hitting the hay now
 Lisa: Good night 'Thew! "
-86,aya-expanse:8b,"斯蒂法诺和乔西讨论了福柯的摆（Foucault's Pendulum）这本书。乔西觉得书很奇怪，怀疑作者是不是意大利人，并认为书很“宅”。斯蒂法诺回应说，埃科（Eco）是“宅”人的王，而且不所有意大利书籍都关于披萨、黑手党和曼陀林。
-
-乔西表示她想尝试读原版小说，但担心自己的意大利语水平不足。斯蒂法诺提醒她《玫瑰的名字》（The Name of the Rose）对非母语者来说非常困难。
-
-关于《福柯的摆》，斯蒂法诺解释说，因为故事发生在20世纪80年代，语言更容易理解，但内容和另一部小说一样复杂。乔西提到她读过萨曼·鲁什迪（Salman Rushdie）对这本书的评论，他不喜欢它，认为它不是小说，而是电脑游戏。
-
-两人开玩笑地讨论了这个评论，并用“德古斯不争”（de gustibus non est disputandum）来结束话题，意思是“品味不可争论”。",乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,"Josie finds Eco's novel ""Foucault's Pendulum"" nerdy. Josie would like to read Eco in Italian, but she's unsure of her language abilities. Stefano considers Eco's two novels and finds them difficult. Josie has read an unfavorable review of ""Foucault's Pendulum"" by Salman Rushdie.","Stefano: Hi, Josie!
+86,aya-expanse:8b,斯蒂芬诺和乔西讨论了福柯的摆（Foucault's Pendulum）。乔西觉得这本书很奇怪，而且怀疑作者是不是意大利人。斯蒂芬诺解释说，乌菲克·埃科（Umberto Eco）是个“书呆子”，而不是所有意大利书籍都关于披萨、黑手党和曼多林。乔西表示她想尝试读原版意大利文小说，但担心自己的意大利语水平不足。斯蒂芬诺提到《玫瑰的名字》（The Name of the Rose）对非母语者来说非常困难。他解释说，《福柯的摆》设定在80年代，语言更容易理解，但内容同样复杂。乔西分享了她读过的萨曼·鲁什迪（Salman Rushdie）对《福柯的摆》的负面评论，称它不像小说，而像电脑游戏。斯蒂芬诺开玩笑说这很荒谬。两人最后开玩笑调侃对方。,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,"Josie finds Eco's novel ""Foucault's Pendulum"" nerdy. Josie would like to read Eco in Italian, but she's unsure of her language abilities. Stefano considers Eco's two novels and finds them difficult. Josie has read an unfavorable review of ""Foucault's Pendulum"" by Salman Rushdie.","Stefano: Hi, Josie!
 Josie: Ciao, Stefano!
 Stefano: So, what about Foucault's Pendulum? Do you like it?
 Josie: It's... weird. Was it really written by an Italian guy? It's so... nerdy.
@@ -1080,14 +1030,14 @@ Stefano: Hahaha.
 Josie: Yuk! That's so creepy.
 Stefano: You're the one who said it!
 Josie: I know. ;)"
-87,aya-expanse:8b,瓦莱里（Val）注意到开始下雨了，并担心他们如果出门会变湿。糖果（Candy）建议先等待一段时间看看是否会停雨。瓦莱里同意等半个小时再决定是否出发，并约定在那时通过电话联系。,下雨了，所以瓦尔和坎迪要等半小时才走。,"It's raining, so Val and Candy will wait half an hour before they go.","Val: it's raining!
+87,aya-expanse:8b,下雨了！Val建议出门会湿，Candy认为先等一会儿看看是否停雨。Val同意等待半小时再决定，并约定在那时通过电话商量。,下雨了，所以瓦尔和坎迪要等半小时才走。,"It's raining, so Val and Candy will wait half an hour before they go.","Val: it's raining!
 Candy: I know, just started...
 Val: r we going? we will be wet
 Candy: maybe wait a little? see if stops
 Val: ok. let's wait half h and than see
 Candy: god idea, I call u then
 Val: great :)"
-88,aya-expanse:8b,托马斯（Tomas）询问是否有人收到补助金，西拉（Sierra）和杰里米（Jeremy）都表示还没有。托马斯表示自己已经破产了，每小时检查一次银行账户但没有任何变化。西拉安慰他要保持耐心，如果需要钱可以借给他。托马斯感谢她的支持，并希望补助金能很快到位。,托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。,"Tomas, Sierra and Jeremy have still not received the grant. Tomas is broke and is checking his bank account every hour. Sierra offers to lend him some money.","Tomas: Has anybody received the grant yet?
+88,aya-expanse:8b,托马斯和杰里米都还没有收到资助。托马斯因为资金短缺而焦急地每小时检查一次银行账户。西拉安慰他，表示如果需要可以借给他一些钱，并建议他保持耐心。,托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。,"Tomas, Sierra and Jeremy have still not received the grant. Tomas is broke and is checking his bank account every hour. Sierra offers to lend him some money.","Tomas: Has anybody received the grant yet?
 Sierra: no, not yet
 Jeremy: I haven't checked even
 Tomas: I'm completely broke
@@ -1096,7 +1046,7 @@ Tomas: but nothing's happening there
 Sierra: lol
 Sierra: be patient. If you need money I can lend you some, don't worry
 Tomas: Thanks, I hope they'll arrive any minute"
-89,aya-expanse:8b,查尔斯和卡米拉讨论了周末计划。查尔斯计划去伯明翰和曼彻斯特的德国市场，品尝香肠和啤酒。卡米拉表示很想去，但已经很久没有去了。查尔斯建议她尝试热红酒（通常为红酒，有时也有白酒版本），并提到它在圣诞节期间很受欢迎。他们还开玩笑说，自己去年尝试制作热红酒，但没人喝，导致他独自享用。最后，他们都对周末计划表示期待。,卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,Camilla has some errands to do on Saturday. Charles is visiting the German markets this weekend. They are talking about Christmas food and drinks.,"Charles: What are you up to this weekend?
+89,aya-expanse:8b,查尔斯和卡米拉讨论了周末计划。查尔斯计划去伯明翰和曼彻斯特的德国市场，品尝香肠和啤酒。卡米拉表示会尝试去，因为她很久没有去过。他们还聊到了热红酒（多加香料的红葡萄酒），查尔斯推荐一定要试试。他们都开玩笑说自己会喝得头痛。最后，他们互相祝愿周末愉快。,卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,Camilla has some errands to do on Saturday. Charles is visiting the German markets this weekend. They are talking about Christmas food and drinks.,"Charles: What are you up to this weekend?
 Camilla: Not much. Just some work and errands on Saturday, show Saturday night. Day of nothingness on Sundy.
 Charles: Sounds good. We are going to visit the German markets this weekend. Birmingham and Manchester both. Sausage overload!
 Camilla: Ooh, that sounds really good!
@@ -1115,7 +1065,7 @@ Camilla: LOL!
 Charles: Anyway, that's the plan. Hope you have fun.
 Camilla: You too! 
 Charles: Thanks!"
-90,aya-expanse:8b,Russell 分享了一张文件，并说这是一份给妈妈的完美礼物。Diana 表示同意，认为价格也合理。她们决定一起购买这份礼物。,戴安娜和拉塞尔在给妈妈买礼物。,Diana and Russel are buying a present for mum.,"Russel: <file_other>
+90,aya-expanse:8b,Russell 发送了一张文件，并说：“看看这个，这是给妈妈的完美礼物：D” Diana 笑着点头，表示价格很合理。然后她问：“我们买它吗？” Russell 兴奋地回答：“当然！”,戴安娜和拉塞尔在给妈妈买礼物。,Diana and Russel are buying a present for mum.,"Russel: <file_other>
 Russel: look at this
 Russel: It's a perfect present fo mum :D
 Diana: haha, so true! It's not that expensive either!
@@ -1125,10 +1075,10 @@ Russel: yeah, let's do it :D"
 
 安斯利：抱歉，我生病了，不太能帮上忙。我感冒了，每两秒就打一个喷嚏。
 
-简：哦……好吧，希望你很快好起来……",安斯利病了，所以她现在不能帮简写论文。,"Ainsley is sick, so she's not able to help Jane with her thesis now.","Jane: Are u free now? Could u help me with that thesis?
+简：哦...好吧，希望你很快好起来...",安斯利病了，所以她现在不能帮简写论文。,"Ainsley is sick, so she's not able to help Jane with her thesis now.","Jane: Are u free now? Could u help me with that thesis?
 Ainsley: I'm sick won't be of much help sorry. I've got a cold and I'm sneezing like a little bitch every 2 seconds
 Jane: Oh... hmm ok. Hope u will get better soon..."
-92,aya-expanse:8b,菲奥娜表达了对康拉德（她的学生）的强烈情感，称自己无法控制这种感觉。旺达提醒她这是不恰当的，并且指出康拉德比她小五岁。菲奥娜承认她在课后会感到迷失，只能听音乐。旺达认为菲奥娜已经爱上了他。尽管他们来自不同的世界，菲奥娜希望能够一直陪伴在他身边。旺达鼓励菲奥娜采取行动，但菲奥娜担心如果她的老板知道会怎么样，并质疑自己是否应该这样做。,菲奥娜爱上了他的学生康拉德。,"Fiona fell in love with his student, Conrad.","Fiona: I just can’t stand it
+92,aya-expanse:8b,菲奥娜无法忍受与康拉德（她的学生）在一起的感觉，即使他只有她五岁。万达认为这种情况太过分，并指出菲奥娜对他的感情已经超出界限。菲奥娜承认自己无法控制这种情感，担心如果被上司发现会造成麻烦。万达鼓励她勇敢面对并采取行动。,菲奥娜爱上了他的学生康拉德。,"Fiona fell in love with his student, Conrad.","Fiona: I just can’t stand it
 Wanda: What again
 Fiona: When I’m in one room with him… I just go crazy
 Wanda: Conrad?
@@ -1146,7 +1096,7 @@ Fiona: What would my boss say if she knew
 Wanda: Will she know?
 Fiona: How can I know what will he do, he can tell his mother as well
 Wanda: Just go for it!!"
-93,aya-expanse:8b,玛格丽特于12月提议在4日、11日和18日与埃文斯会面，并建议时间分别为10:00和11:00。埃文斯确认了4日的10:00和11日的11:00。玛格丽特询问了18日的情况，但埃文斯表示可能不在城里。他们同意如果18日不可行，可以考虑17日，但埃文斯指出自己也可能不在。最终，他们决定将具体日期安排于稍后，并确认在4日10:00见面。,玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,"Margaret and Evans plan to meet at 10 on 4th and at 11 on 11th. They both are not sure when they will be able to meet next, so they will come up with a date later.","Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
+93,aya-expanse:8b,玛格丽特提议在12月4日和11日10点或11点见面，埃文斯确认了这两个时间。玛格丽特还提到了18日，但埃文斯不确定是否能到。他们同意如果18日不可行，可以改到17日，但埃文斯可能也无法参加。最终决定在12月4日10点见面，并约定下周再讨论其他时间。,玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,"Margaret and Evans plan to meet at 10 on 4th and at 11 on 11th. They both are not sure when they will be able to meet next, so they will come up with a date later.","Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
 Evans: Hi, 4th - we can meet at 10:00.
 Evans: And 11th - at 11:00. 
 Margaret: Okey. And what about 18th?
@@ -1162,7 +1112,7 @@ Margaret: Hm, I'm not sure whether I'm avaliable.
 Evans: So let's set these dates later, ok?
 Margaret: Okey and we see each other 4th 10:00. 
 Evans: Yes!"
-94,aya-expanse:8b,路易斯和阿奇在讨论一个GIF图片，其中一位女性看起来像梅兰妮。阿奇认为她以前有卷发时更漂亮，而路易斯则坚称直发更美。尽管意见不同，他们仍以幽默的方式交流。,通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。,"By looking at the photos, Archie thinks that Melanie looked nicer with curly hair. Louis disagrees.","Louis: <file_gif>
+94,aya-expanse:8b,路易斯和阿奇在讨论一个GIF，看起来像梅兰妮。阿奇认为她以前留着卷发更漂亮，而路易斯则坚称直发更美。他们开玩笑地争论着，但都尊重对方的观点。,通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。,"By looking at the photos, Archie thinks that Melanie looked nicer with curly hair. Louis disagrees.","Louis: <file_gif>
 Archie: Wtf? Lol!
 Louis: <file_gif>
 Archie: That one looks like Melanie
@@ -1173,14 +1123,14 @@ Louis: Lol! It's her!
 Archie: By the way, she was way hotter when she had cury hair
 Louis: I disagree, sir! She looks absolutely gorgeous with straight hair
 Archie: Oh well, you have the right to an opinion even if it's wrong XD"
-95,aya-expanse:8b,林达错过了火车，约瑟夫询问下一班火车的时间，林达回答一小时后有火车。达西认为这不是大问题。林达表示票价高达80欧元，需要返回阿姆斯特丹，并表达了她的震惊。,琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。,Linda missed her train and the next one is in one hour. A return to Amsterdam was 80 euros.,"Linda: I missed the train
+95,aya-expanse:8b,林达错过了火车，约瑟夫询问下一次出发时间，得知一个小时后有下一班。达西安慰她这不是大灾难。林达表示票价高达80欧元，需要返回阿姆斯特丹，并表达了惊讶之情。,琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。,Linda missed her train and the next one is in one hour. A return to Amsterdam was 80 euros.,"Linda: I missed the train
 Joseph: When is the next one?
 Linda: In one hour
 Darcy: Not a tragedy
 Linda: It was 80 euros
 Linda: Return to Amsterdam
 Linda: I was shocked!! "
-96,aya-expanse:8b,乔安娜告诉默韦，莱万多夫斯基因患风疹被医院隔离。任何在过去几天内与她有过接触的人都需要接种疫苗。乔安娜是她的论文导师，但她最近刚开始工作，时间有限。默韦敦促她尽快去接种疫苗，最好在18号工作前完成。,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,Lewandowska has measles. There are vaccinations in the main building from 17th until 19th for everyone who had contact with her. ,"Joanna: They are sending emails about Lewandowska.
+96,aya-expanse:8b,他们正在通过邮件通知关于Lewandowska的情况。她因患上麻疹而住院。与她在过去几天内有过接触的人需要接种疫苗。乔安娜是她的论文导师，但幸运的是她没有在最近学期与她有过面对面的交流。学校将在17日至19日在主楼组织疫苗接种活动。乔安娜计划在18日工作前尽量完成接种。,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,Lewandowska has measles. There are vaccinations in the main building from 17th until 19th for everyone who had contact with her. ,"Joanna: They are sending emails about Lewandowska.
 Merve: What happened?
 Joanna: <file_photo> 
 Merve: Wooow!
@@ -1197,14 +1147,14 @@ Merve: Come on, this is really important.
 Joanna: I will try to do it before work on 18th, hopefully I won't lose the entire day..."
 97,aya-expanse:8b,"卡尔：你在哪里？
 卡尔：我还在等你！
-梅格：我还需要五分钟，我把钥匙丢了（在某个地方）。",卡尔在等梅格，她找不到钥匙，要迟到了。,Carl is waiting for Meg who's running late as she can't find her key. ,"Carl: Where are u?
+梅格：我还需要五分钟，我把钥匙丢了。",卡尔在等梅格，她找不到钥匙，要迟到了。,Carl is waiting for Meg who's running late as she can't find her key. ,"Carl: Where are u?
 Carl: I'm still waiting for u!!!
 Meg: I need 5 minutes more, I've lost my key somewhere :("
-98,aya-expanse:8b,玛丽亚表示她对这份工作感到厌倦，无法再继续下去。安娜斯塔西亚理解她的感受，但建议她冷静下来。费利克斯则建议她不要草率做出决定。玛丽亚表达了失望的情绪。,玛丽亚厌倦了她的工作。,Maria is tired of her job. ,"Maria: I'm tired of this job, I can't stand it anymore
+98,aya-expanse:8b,玛丽亚表示对工作感到厌倦，无法再忍受。安娜斯塔西亚理解她的感受，但建议她冷静下来。费利克斯也劝她不要冲动做出决定。玛丽亚感到伤心。,玛丽亚厌倦了她的工作。,Maria is tired of her job. ,"Maria: I'm tired of this job, I can't stand it anymore
 Anastasia: I know, but calm down
 Felix: don't make decisions in this rash
 Maria: :("
-99,aya-expanse:8b,卢克今天冲浪经历了糟糕的一天：零波浪、三次被冲走，还有一次被浪板击中头。尽管如此，他期待着下一次的冲浪。肯和夏尔也分享了他们冲浪时遭遇困难的故事。卢克提到明天的低潮是下午2点22分，他会去尝试。艾瑞克则表示中潮通常更适合冲浪，因为可以避免看到岩石。卢克回应说，虽然看到岩石可能不理想，但他宁愿提前看到而不是撞上它们。,卢克明天下午2点22分要去冲浪。,Luke will go surfing at 2:22 pm tomorrow.,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
+99,aya-expanse:8b,卢克今天冲浪经历了糟糕的一天：零波浪、三次被拍打，还有一次被板子击中头。尽管如此，他仍期待下一次冲浪。肯和夏尔也分享了自己类似的冲浪经历。卢克明天下午两点二十二分将再次尝试，并提到低潮时能更好地看到岩石。埃里克则认为中潮通常更理想，因为看到岩石可能很危险。,卢克明天下午2点22分要去冲浪。,Luke will go surfing at 2:22 pm tomorrow.,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
 Ken: Yaaaay welcome to the tumble dry club - some days is great others just a knock about
 Summer: I almost lost my tooth one time ;) Hopefully next time is better!
 Luke: low tide is 2:22PM tomorrow. I'll be out there

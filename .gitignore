@@ -2,3 +2,6 @@
 __pycache__/
 .ipynb_checkpoints/
 .venv/
+.hf_cache/
+.gitkeep
+
