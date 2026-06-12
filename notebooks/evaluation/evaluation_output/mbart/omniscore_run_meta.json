@@ -1,0 +1,30 @@
+{
+  "model": "QCRI/OmniScore-deberta-v3",
+  "max_seq_len": 512,
+  "score_names": [
+    "informativeness",
+    "clarity",
+    "plausibility",
+    "faithfulness"
+  ],
+  "score_range": [
+    1.0,
+    5.0
+  ],
+  "device": "cuda",
+  "batch_size": 8,
+  "input_csv": "/content/mbart_large50_100samples_seed42_results.csv",
+  "model_names": [
+    "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary"
+  ],
+  "n_examples_per_model": {
+    "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary": 100
+  },
+  "modes": [
+    "source_grounded",
+    "reference_based"
+  ],
+  "task_tag": "summarization",
+  "seed": 42,
+  "timestamp_utc": "2026-06-12T00:06:18.610112+00:00"
+}
