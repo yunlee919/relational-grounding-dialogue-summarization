@@ -1,0 +1,5 @@
+﻿model,n,avg_generated_tokens,avg_gold_tokens,avg_token_diff,median_token_diff,avg_token_ratio,std_generated_tokens,min_generated_tokens,max_generated_tokens
+mBART,100,26.45,29.85,-3.4,-4.0,1.02,19.33,5,146
+QWEN,100,73.49,29.85,43.64,38.0,2.9,32.77,21,174
+Gemma,100,62.37,29.85,32.52,28.5,2.39,32.63,13,157
+Aya-Expanse,100,85.48,29.85,55.63,49.5,3.34,41.09,20,227

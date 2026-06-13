@@ -1,0 +1,6 @@
+﻿Model,Generated summary length,n,std,median,min,max
+Gold / Reference,29.85,100,15.87,27.0,5,81
+mBART,26.45,100,19.33,,5,146
+QWEN,73.49,100,32.77,,21,174
+Gemma,62.37,100,32.63,,13,157
+Aya-Expanse,85.48,100,41.09,,20,227
