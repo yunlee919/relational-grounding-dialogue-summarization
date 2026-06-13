@@ -107,7 +107,7 @@ aya-expanse:8b,6,NO-ERROR,,之前阿黛尔得到了一只新的可爱的拉布�
  Lola: haha. true though.
  Adele: I know, right. Anyway, called him Bones. He's so plump it kinda fit.
  Lola: cute. can't wait to see him.",36.84,16,28.95,73.42,4.240030289,3.350047588,3.648197174,3.480582714
-aya-expanse:8b,7,OMIT;CIRC,,琳达和劳拉明天要去一家意大利餐馆。,劳拉问明天去哪里，林达建议意大利餐厅。劳拉同意了。林达说她喜欢那里的面条和布朗尼，尽管她平时不吃甜食。,"Laura: where will we go tommorow?
+aya-expanse:8b,7,NO-ERROR,,琳达和劳拉明天要去一家意大利餐馆。,劳拉问明天去哪里，林达建议意大利餐厅。劳拉同意了。林达说她喜欢那里的面条和布朗尼，尽管她平时不吃甜食。,"Laura: where will we go tommorow?
  Linda: maybe this italian restaurant?
  Laura: hmm ok
  Linda: i love their pasta
@@ -134,7 +134,7 @@ aya-expanse:8b,9,LANG,,瑞安和塞巴斯蒂安担心乌克兰的政治局势。
  Sebastian: This russian circus will never end...
  Ryan: I hope the leaders of of nations will react somehow to this shit.
  Sebastian: I hope so too :(",15.38,0,15.38,64.85,4.768485069,4.729489326,4.806512833,4.530059338
-aya-expanse:8b,10,OMIT;CIRC,,费恩和查蒂明天2点去象堡，他们会在正门碰头。,芬恩提议明天去象与城堡（Elephant and Castle）这个社区，那里充满了拉丁美洲风情的小店和餐厅。扎迪对这个计划很感兴趣，因为她很久没有吃过拉丁美洲美食了。他们计划在下午两点在购物中心的主入口见面，探索这个即将被拆迁的社区。扎迪表示会及时联系芬恩，如果迷路了。,"Finn: Hey
+aya-expanse:8b,10,NO-ERROR,,费恩和查蒂明天2点去象堡，他们会在正门碰头。,芬恩提议明天去象与城堡（Elephant and Castle）这个社区，那里充满了拉丁美洲风情的小店和餐厅。扎迪对这个计划很感兴趣，因为她很久没有吃过拉丁美洲美食了。他们计划在下午两点在购物中心的主入口见面，探索这个即将被拆迁的社区。扎迪表示会及时联系芬恩，如果迷路了。,"Finn: Hey
  Zadie: Hi there! What's up?
  Finn: All fine. You? 
  Zadie: Not bad, thanks 
@@ -182,13 +182,13 @@ aya-expanse:8b,13,LANG,,弗洛要到6号才能预约到做头发。她担心自�
  Flo: They're just too busy. I'm going to be gray! LOL!
  Gina: Get you a touch-up kit at Tesco!
  Flo: Gonna have to!",12.99,0,12.99,63.3,2.639774561,4.186728477,4.254627228,3.935045004
-aya-expanse:8b,14,NO-ERROR,,根据杰克所说，理应由大卫承担责任。等杰克回家后他们再谈。,杰克西认为大卫昨天说得对，关于承担责任等问题。大卫回应他记得了，约定稍后再谈，杰克西下班后会打电话给大卫。,"Jacky: I think you were right yesterday. 
+aya-expanse:8b,14,H-CIRC,,根据杰克所说，理应由大卫承担责任。等杰克回家后他们再谈。,杰克西认为大卫昨天说得对，关于承担责任等问题。大卫回应他记得了，约定稍后再谈，杰克西下班后会打电话给大卫。,"Jacky: I think you were right yesterday. 
  David: What about? I'm right about most things :P
  Jacky: Yeah, whole you ;)
  Jacky: About taking the blame etc. 
  David: Okey, I remeber. We'll talk later?
  Jacky: With pleasure. I'll call you when I get home.",40,0,26.67,71.7,2.291610479,3.353729486,3.467180729,2.3637321
-aya-expanse:8b,15,OMIT;ENT;CIRC;MOD;DISC,,阿黛尔放学后得打扫仓鼠笼。,皮特问阿德尔是否清洁了仓鼠笼。阿德尔回答没有，并询问是不是轮到她了。皮特说是在学校后，没有借口。阿德尔无奈地同意了。,"Pete: Did you clean the hamster cage?
+aya-expanse:8b,15,NO-ERROR,,阿黛尔放学后得打扫仓鼠笼。,皮特问阿德尔是否清洁了仓鼠笼。阿德尔回答没有，并询问是不是轮到她了。皮特说是在学校后，没有借口。阿德尔无奈地同意了。,"Pete: Did you clean the hamster cage?
  Adelle: No. Is it my turn?
  Pete: Yes. After school, no excuses.
  Adelle: Fine.",14.63,5.13,9.76,67.41,1.678278923,2.440844059,2.28647542,1.727886677
@@ -259,7 +259,7 @@ aya-expanse:8b,20,NO-ERROR,,肯恩正试图捉弄格雷格。,肯对格雷格说
  Greg: Was your account hacked by some prankster?
  Ken: No, I'm the prankster, just having a laugh at your expense
  Greg: Well, fuck you too then XD",5.26,0,5.26,62.29,2.903401852,4.906222343,4.910531044,4.704881191
-aya-expanse:8b,21,LANG;OMIT;CIRC,,西蒙五分钟后会和阿德里安谈一谈。,"阿德里安：你能接电话吗？
+aya-expanse:8b,21,LANG,,西蒙五分钟后会和阿德里安谈一谈。,"阿德里安：你能接电话吗？
  西蒙：不方便，有什么重要的事吗？
  阿德里安：不是很重要。
  西蒙：我五点左右可以空出时间。
@@ -463,7 +463,7 @@ aya-expanse:8b,38,NO-ERROR,,米罗和他的父母说阿尔巴尼亚语。他的�
  Abby: yes, and his father was among the people
  Dylan: scary but interesting
  Abby: very!",30.11,6.59,17.2,72.25,3.414439917,3.039075375,3.372362375,2.939797163
-aya-expanse:8b,39,NO-ERROR,,丹、蒂姆、克里斯和马丁8点碰面。丹和马丁这次会放松一下。汤姆来不了，因为他岳父岳母家有个聚会。,丹问大家周六是否一起出去。蒂姆和克里斯都同意，但汤姆因要去女家参加派对而无法参加。克里斯和马丁也表示自己可能需要跟着放松。蒂姆调侃道大家像60岁的人。,"Dan: Guys, so are we going out on Sat?
+aya-expanse:8b,39,H-ROLE,,丹、蒂姆、克里斯和马丁8点碰面。丹和马丁这次会放松一下。汤姆来不了，因为他岳父岳母家有个聚会。,丹问大家周六是否一起出去。蒂姆和克里斯都同意，但汤姆因要去女家参加派对而无法参加。克里斯和马丁也表示自己可能需要跟着放松。蒂姆调侃道大家像60岁的人。,"Dan: Guys, so are we going out on Sat?
  Tim: I'm ready when you are
  Chris: I'm OK too, in the centre right?
  Tom: I'm out guys sorry. 
@@ -522,7 +522,7 @@ aya-expanse:8b,42,NO-ERROR,,娜塔莉怀了戴夫的孩子。简认为萨莉不�
  Sally: Dave!!! 
  Henriette: WHAT????
  Greg: That's insane!",44.44,10.13,37.04,74.1,2.832807064,3.988991976,4.094557762,3.244558811
-aya-expanse:8b,43,OMIT;CIRC,,丽莎还没回家，黛西想要她晚上11点前回来。,黛西问丽莎是否要回家，丽莎回答还不算。黛西请求丽莎在11点前回来。丽莎同意了。,"Daisy: going home?
+aya-expanse:8b,43,NO-ERROR,,丽莎还没回家，黛西想要她晚上11点前回来。,黛西问丽莎是否要回家，丽莎回答还不算。黛西请求丽莎在11点前回来。丽莎同意了。,"Daisy: going home?
  Lisa: not yet
  Daisy: please be back before 11 pm
  Lisa: ok",47.06,25,41.18,79.48,1.814135551,2.360223293,2.448471546,1.994883776
@@ -596,7 +596,7 @@ aya-expanse:8b,48,NO-ERROR,,卡米拉和汤姆这个周末要去都柏林。,汤
  Camilla: I love your crazy ideas!
  Tom: ok, so I'm buying the tickets
  Camilla: <3",19.61,4.08,19.61,71.68,3.263855696,3.309886456,3.406723499,2.853101254
-aya-expanse:8b,49,CIRC;MOD;DISC,,杰森今天约了牙医，所以他没来。,梅根问纳森是否收到杰森的消息，因为杰森今天缺课。纳森解释说杰森有牙医预约。梅根感谢他的信息。,"Megan: Any word from Jason?
+aya-expanse:8b,49,H-ROLE,,杰森今天约了牙医，所以他没来。,梅根问纳森是否收到杰森的消息，因为杰森今天缺课。纳森解释说杰森有牙医预约。梅根感谢他的信息。,"Megan: Any word from Jason?
  Nathan: Why do you ask?
  Megan: He was absent today :c
  Susy: He had a dental appointment.
@@ -660,7 +660,7 @@ aya-expanse:8b,53,NO-ERROR,,有人在校园里遭到殴打和抢劫，不得不�
  Rodney: They don't give a fuck
  Ross: True that
  Truman: Hope they catch the guy soon",35.79,12.9,33.68,75.76,3.944164276,3.825985432,4.060833454,3.630801201
-aya-expanse:8b,54,NO-ERROR,,哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,Javier 问 Judie 是否知道当地有没有英语服务的老板纹身店。Judie 推荐了“Warsaw Ink”，并展示了他女朋友在那里纹身的照片。Javier 很喜欢，但考虑到价格是1000，决定还是回哥伦比亚纹身。,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
+aya-expanse:8b,54,LANG,,哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,Javier 问 Judie 是否知道当地有没有英语服务的老板纹身店。Judie 推荐了“Warsaw Ink”，并展示了他女朋友在那里纹身的照片。Javier 很喜欢，但考虑到价格是1000，决定还是回哥伦比亚纹身。,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
  Judie: Oh there's Warsaw ink
  Javier: the name sounds neat... have you had a tattoo done there?
  Judie: nope but my gf has
@@ -683,7 +683,7 @@ aya-expanse:8b,55,NO-ERROR,,托马斯住的地方晚上的温度是零下3摄氏
  Thomas: <file_photo>
  Zoey: Gosh! That's pretty! You'll hear from us soon. Take care!
  Thomas: You too!",18.56,0,14.43,67.13,3.407300234,4.483328819,4.663256645,3.583010912
-aya-expanse:8b,56,NO-ERROR,,詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,艾米丽问下一次ASEEES会议将在哪里举行。乔伊表示不知道，但这是一个好问题。詹姆斯听说过在加利福尼亚，具体是旧金山。乔伊希望会议能去夏威夷，但詹姆斯认为由于1993年最后一次在那里举行的会议因交通费用高而受到批评，未来可能不会太快实现。,"Emily: Does anybody now where the next ASEEES conference takes place?
+aya-expanse:8b,56,H-ENT,,詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,艾米丽问下一次ASEEES会议将在哪里举行。乔伊表示不知道，但这是一个好问题。詹姆斯听说过在加利福尼亚，具体是旧金山。乔伊希望会议能去夏威夷，但詹姆斯认为由于1993年最后一次在那里举行的会议因交通费用高而受到批评，未来可能不会太快实现。,"Emily: Does anybody now where the next ASEEES conference takes place?
  Chloe: Actually I have no idea, but a good question
  James: I've heard somewhere in California
  James: Yes, San Francisco!
@@ -719,7 +719,7 @@ aya-expanse:8b,60,NO-ERROR,,约翰不确定今天是否有训练，但马特说�
  Matt: yea think so
  John: great thanks see ya there
  Matt: see ya",30.77,0,30.77,74.03,2.005698204,2.639283657,2.517506838,1.983064175
-aya-expanse:8b,61,NO-ERROR,,马丁完成计划后将给亚历克斯买两瓶牛奶。,亚历克斯请马丁买牛奶，马丁刚买了两天前。亚历克斯说最近想喝牛奶。马丁表示因为要完成项目，两小时后会给她买。亚历克斯称他为英雄。,"Alex: Hon, could you buy some milk?
+aya-expanse:8b,61,H-CIRC,,马丁完成计划后将给亚历克斯买两瓶牛奶。,亚历克斯请马丁买牛奶，马丁刚买了两天前。亚历克斯说最近想喝牛奶。马丁表示因为要完成项目，两小时后会给她买。亚历克斯称他为英雄。,"Alex: Hon, could you buy some milk?
  Martin: You kiddin me, I just bought two yesterday
  Alex: Well, I have nothing for my defense, I'm just craving milk lately:D
  Martin: You're lucky that I love you, two milks coming up in couple of hours, I gotta finish the project
@@ -733,7 +733,7 @@ aya-expanse:8b,62,NO-ERROR,,布莱尔和恰克下班后要去诺娜·丽塔餐�
  Blair: Omg hahaha it was all over her white blouse
  Chuck: :D
  Blair: :P",29.03,3.33,25.81,72.83,3.253833771,3.608921528,3.680551291,2.826224804
-aya-expanse:8b,63,LANG;OMIT;CIRC,,科尔和路易斯坐在同一个房间里，却在发短信。,"科尔：嘿，室友（笑）
+aya-expanse:8b,63,LANG,,科尔和路易斯坐在同一个房间里，却在发短信。,"科尔：嘿，室友（笑）
  路易斯：我们可是在同一间房间啊！
  科尔：哈哈，有趣。
  路易斯：唉，不要来要我的枕头了。
@@ -831,7 +831,7 @@ aya-expanse:8b,69,LANG,,凯斯送给外孙乔丹20英镑和一张生日卡，作
  Jordan: Yes, Nanna. I will always love him! Next time, get me a football one or something. I mean, I'm 11 now!
  Cass: I know, you are so grown up. Love you xxxxx
  Jordan: Love you, Nan xx",17.86,3.64,12.5,59.77,4.872077465,4.852660179,4.915402412,4.743481159
-aya-expanse:8b,70,NO-ERROR,,对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,凯利想先回答问题。杰西卡分享了她在意大利巴勒莫的经历，提到那里有著名的卡普奇尼地下墓穴，里面有8000具尸体。她描述道，这些尸体被展示在像博物馆展品一样，大部分穿着衣服，只有头骨和手。米基和奥利对这个故事感到兴奋，决定记下来。,"Kelly: Oh! Oh! Can I pick the first question?
+aya-expanse:8b,70,H-EVT,,对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,凯利想先回答问题。杰西卡分享了她在意大利巴勒莫的经历，提到那里有著名的卡普奇尼地下墓穴，里面有8000具尸体。她描述道，这些尸体被展示在像博物馆展品一样，大部分穿着衣服，只有头骨和手。米基和奥利对这个故事感到兴奋，决定记下来。,"Kelly: Oh! Oh! Can I pick the first question?
  Jessica: Sure. Go for it!
  Kelly: What's the scariest place you've been to!
  Jessica: I'll start: Palermo in Italy.
@@ -843,7 +843,7 @@ aya-expanse:8b,70,NO-ERROR,,对杰西卡来说，最恐怖的地方是巴勒莫�
  Jessica: Well, partly. Most of them were exhibited in their clothes. Basically only skulls and hands. 
  Mickey: I'm writing this one down! That's so precious!
  Ollie: Me too!",20,5.13,12.5,64.78,2.843701839,2.71187067,2.963978529,2.64102459
-aya-expanse:8b,71,OMIT,,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,"西蒙和查理讨论了欧盟的移民政策对欧洲各国安全的影响。他们分析了德国、比利时和巴黎在节日期间采取的安全措施，同时强调波兰作为最后一个未受到无控制移民和恐怖主义影响的国家的独特地位。
+aya-expanse:8b,71,NO-ERROR,,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,"西蒙和查理讨论了欧盟的移民政策对欧洲各国安全的影响。他们分析了德国、比利时和巴黎在节日期间采取的安全措施，同时强调波兰作为最后一个未受到无控制移民和恐怖主义影响的国家的独特地位。
  
 
  西蒙认为波兰有机会在经济上落后几十年，但也可以避免其他西方国家犯下的错误，快速发展。他赞扬波兰人民捍卫价值观和利益的意志，并预测未来波兰可能成为欧洲内部解决问题的主要力量。
@@ -1017,7 +1017,7 @@ aya-expanse:8b,85,NO-ERROR,,马修感冒了，他要喝些橙汁，然后去睡�
  Lisa: Take a rest from evrthg.  
  Matthew: Ikr. Hitting the hay now
  Lisa: Good night 'Thew!",24.24,15.62,24.24,72.28,4.125738144,4.166101456,4.379142761,3.994560242
-aya-expanse:8b,86,OMIT;CIRC,,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,斯蒂芬诺和乔西讨论了福柯的摆（Foucault's Pendulum）。乔西觉得这本书很奇怪，而且怀疑作者是不是意大利人。斯蒂芬诺解释说，乌菲克·埃科（Umberto Eco）是个“书呆子”，而不是所有意大利书籍都关于披萨、黑手党和曼多林。乔西表示她想尝试读原版意大利文小说，但担心自己的意大利语水平不足。斯蒂芬诺提到《玫瑰的名字》（The Name of the Rose）对非母语者来说非常困难。他解释说，《福柯的摆》设定在80年代，语言更容易理解，但内容同样复杂。乔西分享了她读过的萨曼·鲁什迪（Salman Rushdie）对《福柯的摆》的负面评论，称它不像小说，而像电脑游戏。斯蒂芬诺开玩笑说这很荒谬。两人最后开玩笑调侃对方。,"Stefano: Hi, Josie!
+aya-expanse:8b,86,NO-ERROR,,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,斯蒂芬诺和乔西讨论了福柯的摆（Foucault's Pendulum）。乔西觉得这本书很奇怪，而且怀疑作者是不是意大利人。斯蒂芬诺解释说，乌菲克·埃科（Umberto Eco）是个“书呆子”，而不是所有意大利书籍都关于披萨、黑手党和曼多林。乔西表示她想尝试读原版意大利文小说，但担心自己的意大利语水平不足。斯蒂芬诺提到《玫瑰的名字》（The Name of the Rose）对非母语者来说非常困难。他解释说，《福柯的摆》设定在80年代，语言更容易理解，但内容同样复杂。乔西分享了她读过的萨曼·鲁什迪（Salman Rushdie）对《福柯的摆》的负面评论，称它不像小说，而像电脑游戏。斯蒂芬诺开玩笑说这很荒谬。两人最后开玩笑调侃对方。,"Stefano: Hi, Josie!
  Josie: Ciao, Stefano!
  Stefano: So, what about Foucault's Pendulum? Do you like it?
  Josie: It's... weird. Was it really written by an Italian guy? It's so... nerdy.
@@ -1055,7 +1055,7 @@ aya-expanse:8b,88,NO-ERROR,,托马斯、谢拉和杰里米仍然没有收到赠�
  Sierra: lol
  Sierra: be patient. If you need money I can lend you some, don't worry
  Tomas: Thanks, I hope they'll arrive any minute",49.28,17.91,37.68,79.22,2.938491821,3.341852188,3.576568365,2.738108635
-aya-expanse:8b,89,OMIT;CIRC,,卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,查尔斯和卡米拉讨论了周末计划。查尔斯计划去伯明翰和曼彻斯特的德国市场，品尝香肠和啤酒。卡米拉表示会尝试去，因为她很久没有去过。他们还聊到了热红酒（多加香料的红葡萄酒），查尔斯推荐一定要试试。他们都开玩笑说自己会喝得头痛。最后，他们互相祝愿周末愉快。,"Charles: What are you up to this weekend?
+aya-expanse:8b,89,NO-ERROR,,卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,查尔斯和卡米拉讨论了周末计划。查尔斯计划去伯明翰和曼彻斯特的德国市场，品尝香肠和啤酒。卡米拉表示会尝试去，因为她很久没有去过。他们还聊到了热红酒（多加香料的红葡萄酒），查尔斯推荐一定要试试。他们都开玩笑说自己会喝得头痛。最后，他们互相祝愿周末愉快。,"Charles: What are you up to this weekend?
  Camilla: Not much. Just some work and errands on Saturday, show Saturday night. Day of nothingness on Sundy.
  Charles: Sounds good. We are going to visit the German markets this weekend. Birmingham and Manchester both. Sausage overload!
  Camilla: Ooh, that sounds really good!
@@ -1141,7 +1141,7 @@ aya-expanse:8b,95,NO-ERROR,,琳达没赶上火车，下一班一小时后就到�
  Linda: It was 80 euros
  Linda: Return to Amsterdam
  Linda: I was shocked!!",37.5,16.13,25,75.06,3.775607586,3.845057487,3.985248566,3.3329041
-aya-expanse:8b,96,NO-ERROR,,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,他们正在通过邮件通知关于Lewandowska的情况。她因患上麻疹而住院。与她在过去几天内有过接触的人需要接种疫苗。乔安娜是她的论文导师，但幸运的是她没有在最近学期与她有过面对面的交流。学校将在17日至19日在主楼组织疫苗接种活动。乔安娜计划在18日工作前尽量完成接种。,"Joanna: They are sending emails about Lewandowska.
+aya-expanse:8b,96,H-ROLE;H-MOD,,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,他们正在通过邮件通知关于Lewandowska的情况。她因患上麻疹而住院。与她在过去几天内有过接触的人需要接种疫苗。乔安娜是她的论文导师，但幸运的是她没有在最近学期与她有过面对面的交流。学校将在17日至19日在主楼组织疫苗接种活动。乔安娜计划在18日工作前尽量完成接种。,"Joanna: They are sending emails about Lewandowska.
  Merve: What happened?
  Joanna: <file_photo> 
  Merve: Wooow!
@@ -1165,7 +1165,7 @@ aya-expanse:8b,98,NO-ERROR,,玛丽亚厌倦了她的工作。,玛丽亚表示对
  Anastasia: I know, but calm down
  Felix: don't make decisions in this rash
  Maria: :(",23.81,5,19.05,72.21,2.500673771,4.50196743,4.503023148,3.797319651
-aya-expanse:8b,99,OMIT;CIRC,,卢克明天下午2点22分要去冲浪。,卢克今天冲浪经历了糟糕的一天：零波浪、三次被拍打，还有一次被板子击中头。尽管如此，他仍期待下一次冲浪。肯和夏尔也分享了自己类似的冲浪经历。卢克明天下午两点二十二分将再次尝试，并提到低潮时能更好地看到岩石。埃里克则认为中潮通常更理想，因为看到岩石可能很危险。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
+aya-expanse:8b,99,NO-ERROR,,卢克明天下午2点22分要去冲浪。,卢克今天冲浪经历了糟糕的一天：零波浪、三次被拍打，还有一次被板子击中头。尽管如此，他仍期待下一次冲浪。肯和夏尔也分享了自己类似的冲浪经历。卢克明天下午两点二十二分将再次尝试，并提到低潮时能更好地看到岩石。埃里克则认为中潮通常更理想，因为看到岩石可能很危险。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
  Ken: Yaaaay welcome to the tumble dry club - some days is great others just a knock about
  Summer: I almost lost my tooth one time ;) Hopefully next time is better!
  Luke: low tide is 2:22PM tomorrow. I'll be out there
@@ -1201,7 +1201,7 @@ gemma4:e4b,0,NO-ERROR,,佩顿给麦克斯提供了卖衣服的网站。他喜欢
  Payton: Everything I can get my hands on :)
  Max: Srsly?
  Payton: Yup :)",45.98,18.82,41.38,73.57,3.588506699,3.372558355,3.688655615,3.415290356
-gemma4:e4b,1,NO-ERROR,,凯利很害怕芬兰雕塑花园里的人物，因为她觉得那些人物的脸非常病态。对奥利来说，这就像日本的人偶村，令人毛骨悚然。,大家分享了各自推荐的“恐怖”景点。凯莉介绍了芬兰的一个雕塑花园，虽然不是雕塑本身可怕，但因为数量多且雕像的面部表情（如拥抱、运动等）让人感到诡异，而且到处都是盯着人的脸。奥利则推荐了日本名古屋村，描述了一个与真人大小的雕像数量超过实际居民数量的村庄，气氛非常阴森恐怖。大家对这些地方都表示了惊悚感。最后，大家互相道别。,"Ollie: Okay, Kelly! Ur up nxt!
+gemma4:e4b,1,H-CIRC,,凯利很害怕芬兰雕塑花园里的人物，因为她觉得那些人物的脸非常病态。对奥利来说，这就像日本的人偶村，令人毛骨悚然。,大家分享了各自推荐的“恐怖”景点。凯莉介绍了芬兰的一个雕塑花园，虽然不是雕塑本身可怕，但因为数量多且雕像的面部表情（如拥抱、运动等）让人感到诡异，而且到处都是盯着人的脸。奥利则推荐了日本名古屋村，描述了一个与真人大小的雕像数量超过实际居民数量的村庄，气氛非常阴森恐怖。大家对这些地方都表示了惊悚感。最后，大家互相道别。,"Ollie: Okay, Kelly! Ur up nxt!
  Kelly: Me? I don't wanna.
  Mickey: C'mon!
  Jessica: Yeah! What's yours?
@@ -1240,7 +1240,7 @@ gemma4:e4b,2,NO-ERROR,,贝拉和埃里克拒绝了一个客户的要求。他们
 gemma4:e4b,3,NO-ERROR,,玛丽的钱用完了，卡特打算一小时后借给她一点。,玛丽向卡特借钱，卡特说一小时后在火车站给。,"Mary: hey, im kinda broke, lend me a few box
  Carter: okay, give me an hour, im at the train station
  Mary: cool, thanks",42.86,23.08,42.86,79.05,2.685648918,4.291168213,4.265293121,3.429137945
-gemma4:e4b,4,OMIT;CIRC;MOD;DISC,,杰克和梅一会儿要喝鸡尾酒。,杰克问玛雅稍后要不要喝鸡尾酒，玛雅非常兴奋地同意了。当杰克开玩笑说她今天有点紧张时，玛雅承认了这一点，并表示喝酒会有帮助，最后两人约定可以喝两杯。,"Jack: Cocktails later?
+gemma4:e4b,4,NO-ERROR,,杰克和梅一会儿要喝鸡尾酒。,杰克问玛雅稍后要不要喝鸡尾酒，玛雅非常兴奋地同意了。当杰克开玩笑说她今天有点紧张时，玛雅承认了这一点，并表示喝酒会有帮助，最后两人约定可以喝两杯。,"Jack: Cocktails later?
  May: YES!!!
  May: You read my mind...
  Jack: Possibly a little tightly strung today?
@@ -1346,7 +1346,7 @@ gemma4:e4b,15,NO-ERROR,,阿黛尔放学后得打扫仓鼠笼。,皮特让阿黛�
  Adelle: No. Is it my turn?
  Pete: Yes. After school, no excuses.
  Adelle: Fine.",32,17.39,32,74.54,1.302869558,1.568235397,1.562200308,1.298890948
-gemma4:e4b,16,OMIT;CIRC,,玛雅会在药房为伦道夫买5包耳塞。,兰道询问玛雅是否还在药店，并让她帮忙买四到五包耳塞。玛雅答应帮他买了五包。,"Randolph: Honey
+gemma4:e4b,16,NO-ERROR,,玛雅会在药房为伦道夫买5包耳塞。,兰道询问玛雅是否还在药店，并让她帮忙买四到五包耳塞。玛雅答应帮他买了五包。,"Randolph: Honey
  Randolph: Are you still in the pharmacy?
  Maya: Yes
  Randolph: Buy me some earplugs please
@@ -1413,7 +1413,7 @@ gemma4:e4b,20,NO-ERROR,,肯恩正试图捉弄格雷格。,肯指责格欠钱，�
  Greg: Was your account hacked by some prankster?
  Ken: No, I'm the prankster, just having a laugh at your expense
  Greg: Well, fuck you too then XD",0,0,0,60.39,2.344462395,4.931623936,4.923676491,4.772737503
-gemma4:e4b,21,OMIT;CIRC;MOD,,西蒙五分钟后会和阿德里安谈一谈。,亚德里安询问西蒙是否方便通话，但双方都表示没什么重要的事情。西蒙说下午五点有空，两人约定届时再联系。,"Adrian: Can you talk?
+gemma4:e4b,21,NO-ERROR,,西蒙五分钟后会和阿德里安谈一谈。,亚德里安询问西蒙是否方便通话，但双方都表示没什么重要的事情。西蒙说下午五点有空，两人约定届时再联系。,"Adrian: Can you talk?
  Simon: Not really, anything important?
  Adrian: Not that much.
  Simon: I'll be free at 5
@@ -1443,7 +1443,7 @@ gemma4:e4b,23,NO-ERROR,,阿加莎为自己感到骄傲，因为她已经完成�
  Adam: Sounds like you know what you're doing :P
  Agatha: I'm just really into economics :)
  Adam: no doubt about that",31.75,6.56,25.4,70.47,2.486590147,2.825810432,3.159506559,2.526101351
-gemma4:e4b,24,OMIT;CIRC,,凯恩向香农推荐30秒上火星乐队的新专辑。,凯恩向肖恩推荐了新的《致火星》专辑，肖恩表示感谢。,"Kane: have you heard the new 30 seconds to mars album?
+gemma4:e4b,24,H-ENT,,凯恩向香农推荐30秒上火星乐队的新专辑。,凯恩向肖恩推荐了新的《致火星》专辑，肖恩表示感谢。,"Kane: have you heard the new 30 seconds to mars album?
  Shannon: no, is it good?
  Kane: you should so check it out
  Shannon: ok thanks for the recommendation
@@ -1517,7 +1517,7 @@ gemma4:e4b,30,NO-ERROR,,卢西恩不在家。德西蕾希望卢西恩把她的�
  Lucian: No. I've just got ur msg. Why did u ask about it?
  Desiree: No reason. Keep my pasta in the microwave
  Lucian: I haven't cooked anything",28.57,15,28.57,76.14,2.974766254,4.642807961,4.671473503,4.032708168
-gemma4:e4b,31,OMIT;CIRC,,艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。,大家决定下班后去酒吧X小酌一杯，时间初步定在下午五点半左右，但凯特可能需要推迟到六点。,"Emily: fancy a drink after work today?
+gemma4:e4b,31,NO-ERROR,,艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。,大家决定下班后去酒吧X小酌一杯，时间初步定在下午五点半左右，但凯特可能需要推迟到六点。,"Emily: fancy a drink after work today?
  Kate: sure!
  Marta: Good idea! 
  Marta: Where? When?
@@ -1581,7 +1581,7 @@ gemma4:e4b,37,NO-ERROR,,在玛丽亚和妮可的建议下，克莱尔正在订�
  Nicole: I think you won't regret
  Maria: Don't hesitate, it's incredibly beauty!!
  Claire: Ok, if you say so :))",17.02,0,17.02,67.03,2.806132555,3.250799656,3.782974482,3.381476164
-gemma4:e4b,38,NO-ERROR,,米罗和他的父母说阿尔巴尼亚语。他的家人在20世纪90年代非法出境离开了阿尔巴尼亚。,艾比和迪伦讨论了与米罗的交谈。艾比提到，在派对上认识的米罗来自阿尔巴尼亚海岸地区，他的父亲曾在20世纪90年代初从那里来到美国，当时情况非常艰难，他们几乎是非法离开的。,"Abby: Have you talked to Miro?
+gemma4:e4b,38,OMIT,,米罗和他的父母说阿尔巴尼亚语。他的家人在20世纪90年代非法出境离开了阿尔巴尼亚。,艾比和迪伦讨论了与米罗的交谈。艾比提到，在派对上认识的米罗来自阿尔巴尼亚海岸地区，他的父亲曾在20世纪90年代初从那里来到美国，当时情况非常艰难，他们几乎是非法离开的。,"Abby: Have you talked to Miro?
  Dylan: No, not really, I've never had an opportunity
  Brandon: me neither, but he seems a nice guy
  Brenda: you met him yesterday at the party?
@@ -1602,7 +1602,7 @@ gemma4:e4b,38,NO-ERROR,,米罗和他的父母说阿尔巴尼亚语。他的家�
  Abby: yes, and his father was among the people
  Dylan: scary but interesting
  Abby: very!",42.25,17.39,33.8,74.32,2.81663084,2.867567301,3.204413414,2.636944771
-gemma4:e4b,39,OMIT;CIRC,,丹、蒂姆、克里斯和马丁8点碰面。丹和马丁这次会放松一下。汤姆来不了，因为他岳父岳母家有个聚会。,大家确认了周六是否要出去，地点在市中心。汤姆表示不能参加因为要去娘家参加派对。最后确定时间为晚上八点左右结束，但丹提到周日中午需要回家休息和开车准备。对话中还穿插了几句关于年龄和状态的玩笑话。,"Dan: Guys, so are we going out on Sat?
+gemma4:e4b,39,NO-ERROR,,丹、蒂姆、克里斯和马丁8点碰面。丹和马丁这次会放松一下。汤姆来不了，因为他岳父岳母家有个聚会。,大家确认了周六是否要出去，地点在市中心。汤姆表示不能参加因为要去娘家参加派对。最后确定时间为晚上八点左右结束，但丹提到周日中午需要回家休息和开车准备。对话中还穿插了几句关于年龄和状态的玩笑话。,"Dan: Guys, so are we going out on Sat?
  Tim: I'm ready when you are
  Chris: I'm OK too, in the centre right?
  Tom: I'm out guys sorry. 
@@ -1632,7 +1632,7 @@ gemma4:e4b,40,NO-ERROR,,迪玛的笔记本电脑坏了，因为她的猫把咖�
  Dima: yup, true !
  Dima: can I come in an hour to pick it up?
  Nada: yes :) ttyl!",33.33,8.93,22.81,71.87,4.785342693,4.030963898,4.098223686,4.029436111
-gemma4:e4b,41,OMIT;CIRC,,杰瑞40分钟后到家。,杰瑞告知珍妮特他将在四十分钟后到家，两人互相道别。珍妮特抱怨了工作中的老板让人烦恼。,"Jerry: Hi sweetie :)
+gemma4:e4b,41,NO-ERROR,,杰瑞40分钟后到家。,杰瑞告知珍妮特他将在四十分钟后到家，两人互相道别。珍妮特抱怨了工作中的老板让人烦恼。,"Jerry: Hi sweetie :)
  Janet: Hi sugar ;)
  Jerry: I'm coming home
  Janet: Can't wait ;)
@@ -1712,7 +1712,7 @@ gemma4:e4b,46,NO-ERROR,,史蒂夫很高兴他装了一台新的洗碗机。,史�
  Steve: no every other
  Mum: yes I'm glad you are pleased with it xx
  Steve: I am thanks mum xxx",19.61,0,11.76,69.06,4.337957859,3.926772833,4.089531898,3.935001373
-gemma4:e4b,47,OMIT;CIRC,,茱莉亚上周去了考文特花园附近的kohaku咖啡馆，但现在这家店关门了，这让她和亨利大吃一惊。她联系了店主，但还没收到回复。亨利和他的表妹最后去了莉莉家，但那里的气氛不一样。,亨利和茱莉亚谈论了常去的那家咖啡馆“Kohaku”，得知它可能永久关闭，让两人感到遗憾。茱莉亚提到她尝试联系店主但未获回复。最后，她们比较了另一家咖啡馆Lilly's，并讨论了其他替代选择，但亨利对人多的地方不感兴趣。,"Henry: Do you know what happened to cafe Kohaku?
+gemma4:e4b,47,NO-ERROR,,茱莉亚上周去了考文特花园附近的kohaku咖啡馆，但现在这家店关门了，这让她和亨利大吃一惊。她联系了店主，但还没收到回复。亨利和他的表妹最后去了莉莉家，但那里的气氛不一样。,亨利和茱莉亚谈论了常去的那家咖啡馆“Kohaku”，得知它可能永久关闭，让两人感到遗憾。茱莉亚提到她尝试联系店主但未获回复。最后，她们比较了另一家咖啡馆Lilly's，并讨论了其他替代选择，但亨利对人多的地方不感兴趣。,"Henry: Do you know what happened to cafe Kohaku?
  Julia: The one near Covent Garden?
  Henry: Yeah. I wanted to reserve a table, but I can't find them anywhere. Their Facebook page disappeared.
  Julia: I'm afraid they're closed :(
@@ -1740,7 +1740,7 @@ gemma4:e4b,49,NO-ERROR,,杰森今天约了牙医，所以他没来。,梅根询�
  Megan: He was absent today :c
  Susy: He had a dental appointment.
  Megan: Thanks for the info :)",33.33,0,26.67,70.64,2.352530241,2.820694923,2.993803263,2.3697083
-gemma4:e4b,50,CIRC,,到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,两人交流了各自的工作量和工作时长，大致在20到30个左右，每天能完成的量有限制，工时大约是35到40小时。,"Ally: how many did you do so far?
+gemma4:e4b,50,NO-ERROR,,到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,两人交流了各自的工作量和工作时长，大致在20到30个左右，每天能完成的量有限制，工时大约是35到40小时。,"Ally: how many did you do so far?
  Jill: like 20 or 30
  Jill: I can't do more than 3-4 per day
  Ally: how many hours?
@@ -1805,7 +1805,7 @@ gemma4:e4b,54,NO-ERROR,,哈维尔最初很想在warsaw ink纹身，但价格太�
  Judie: it was a 1000
  Javier: fuck
  Javier: let me just get a tatttoo back in colombia then, thx",38.36,11.27,30.14,73.01,3.053240061,3.026187658,3.321867466,2.795170307
-gemma4:e4b,55,OMIT;CIRC,,托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,佐伊和托马斯寒暄问候，分享了各自的近况。托马斯分享了当地天气和一次在贝尔申山顶徒步的照片，佐伊称赞了美景，并表示自己暂时无法欣赏这样的景色。两人互相道晚安，保持联系。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
+gemma4:e4b,55,NO-ERROR,,托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,佐伊和托马斯寒暄问候，分享了各自的近况。托马斯分享了当地天气和一次在贝尔申山顶徒步的照片，佐伊称赞了美景，并表示自己暂时无法欣赏这样的景色。两人互相道晚安，保持联系。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
  Zoey: <file_gif>
  Thomas: LOL
  Thomas: Hi there in the tropics! How are you doing?
@@ -1834,7 +1834,7 @@ gemma4:e4b,57,NO-ERROR,,罗伯想开始每天做30分钟的体育运动。格雷
  Anna: i'm in! 30 min sounds reasonable! 
  Greg: look for variety of exercises such as walking, biking, swimming whatever you enjoy!
  Anna: i'm gonna need lots of support from you guys!",21.05,10.81,18.42,66.3,3.141297817,4.138491631,4.323648453,3.398182631
-gemma4:e4b,58,NO-ERROR,,沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,博克提醒沃커带上Xbox主机，尽管之前似乎不喜欢，但沃커称赞了手柄的抓握感，两人决定彻夜游戏。,"Booker: dont forget to carry your Xbox console
+gemma4:e4b,58,LANG,,沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,博克提醒沃커带上Xbox主机，尽管之前似乎不喜欢，但沃커称赞了手柄的抓握感，两人决定彻夜游戏。,"Booker: dont forget to carry your Xbox console
  Walker: i thought you dont like the console
  Walker: the grip is amazing
  Booker: haha, yeah it is
@@ -1853,7 +1853,7 @@ gemma4:e4b,60,NO-ERROR,,约翰不确定今天是否有训练，但马特说有�
  Matt: yea think so
  John: great thanks see ya there
  Matt: see ya",48,17.39,48,81.55,1.345561028,1.579701185,1.597198248,1.326575279
-gemma4:e4b,61,NO-ERROR,,马丁完成计划后将给亚历克斯买两瓶牛奶。,亚历克斯让马丁买牛奶，马丁抱怨刚买过，但最终还是答应了，并称赞了他。,"Alex: Hon, could you buy some milk?
+gemma4:e4b,61,OMIT;H-ROLE,,马丁完成计划后将给亚历克斯买两瓶牛奶。,亚历克斯让马丁买牛奶，马丁抱怨刚买过，但最终还是答应了，并称赞了他。,"Alex: Hon, could you buy some milk?
  Martin: You kiddin me, I just bought two yesterday
  Alex: Well, I have nothing for my defense, I'm just craving milk lately:D
  Martin: You're lucky that I love you, two milks coming up in couple of hours, I gotta finish the project
@@ -1938,7 +1938,7 @@ gemma4:e4b,69,NO-ERROR,,凯斯送给外孙乔丹20英镑和一张生日卡，作
  Jordan: Yes, Nanna. I will always love him! Next time, get me a football one or something. I mean, I'm 11 now!
  Cass: I know, you are so grown up. Love you xxxxx
  Jordan: Love you, Nan xx",26.19,7.32,16.67,66.81,3.910068989,4.050773621,4.189815521,3.485344172
-gemma4:e4b,70,NO-ERROR,,对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,凯莉让杰西卡提问，关于“最可怕的地方”。杰西卡以意大利巴勒莫的修道院墓穴开场，提到那里有八千具尸体，可以像博物馆展品一样观看。奥利和米奇对此感到非常惊讶和兴奋。,"Kelly: Oh! Oh! Can I pick the first question?
+gemma4:e4b,70,H-ROLE,,对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,凯莉让杰西卡提问，关于“最可怕的地方”。杰西卡以意大利巴勒莫的修道院墓穴开场，提到那里有八千具尸体，可以像博物馆展品一样观看。奥利和米奇对此感到非常惊讶和兴奋。,"Kelly: Oh! Oh! Can I pick the first question?
  Jessica: Sure. Go for it!
  Kelly: What's the scariest place you've been to!
  Jessica: I'll start: Palermo in Italy.
@@ -1950,7 +1950,7 @@ gemma4:e4b,70,NO-ERROR,,对杰西卡来说，最恐怖的地方是巴勒莫的�
  Jessica: Well, partly. Most of them were exhibited in their clothes. Basically only skulls and hands. 
  Mickey: I'm writing this one down! That's so precious!
  Ollie: Me too!",27.12,10.53,27.12,68.61,2.651678085,2.732954264,2.861399174,2.456834316
-gemma4:e4b,71,OMIT,,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,两人讨论了欧洲当前的局势，认为欧盟的移民政策降低了公民安全水平。他们以柏林、比利时和巴黎等地发生的治安问题为例，对比波兰相对稳定，并认为波兰有机会在不重蹈西方国家覆辙的情况下快速发展。尽管有人担忧内部冲突，但双方都对波兰人民的抵抗精神表示钦佩，并预测未来波兰有潜力成为欧洲一股力量。,"Simon: <file_photo>
+gemma4:e4b,71,NO-ERROR,,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,两人讨论了欧洲当前的局势，认为欧盟的移民政策降低了公民安全水平。他们以柏林、比利时和巴黎等地发生的治安问题为例，对比波兰相对稳定，并认为波兰有机会在不重蹈西方国家覆辙的情况下快速发展。尽管有人担忧内部冲突，但双方都对波兰人民的抵抗精神表示钦佩，并预测未来波兰有潜力成为欧洲一股力量。,"Simon: <file_photo>
  Simon: It's funny and scary at the same time.
  Simon: BTW it's so annoying that people can't see that such immigration policy reduces safety level for citizens of EU significantly
  Charlie: This photo is great. It totally shows what do we all mean when we criticize EU policy. 
@@ -1987,7 +1987,7 @@ gemma4:e4b,73,NO-ERROR,,迈克在伦敦。,杰克惊讶地发现麦克在伦敦�
  Mike: <file_photo>
  Mike: yeah mate! dreams coming true!
  Jake: cool! congrats!",23.53,13.33,23.53,69.01,3.801056623,4.921051025,4.92524004,4.678279877
-gemma4:e4b,74,OMIT;CIRC,,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,两人都在讨论波格巴的精彩进球，并认为他本赛季更成熟了，也提到教练和队友都信任他。,"Richie: Pogba
+gemma4:e4b,74,NO-ERROR,,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,两人都在讨论波格巴的精彩进球，并认为他本赛季更成熟了，也提到教练和队友都信任他。,"Richie: Pogba
  Clay: Pogboom
  Richie: what a s strike yoh!
  Clay: was off the seat the moment he chopped the ball back to his right foot
@@ -2112,7 +2112,7 @@ gemma4:e4b,85,NO-ERROR,,马修感冒了，他要喝些橙汁，然后去睡觉�
  Lisa: Take a rest from evrthg.  
  Matthew: Ikr. Hitting the hay now
  Lisa: Good night 'Thew!",29.09,15.09,29.09,73.59,3.287437439,3.832593203,3.992823124,3.487934113
-gemma4:e4b,86,OMIT;CIRC,,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,两人讨论了埃科的《福柯的钟摆》，乔西觉得这本书很“书呆子气”，斯蒂法诺则辩解说意大利文学不只关于披萨和黑帮。他们谈到阅读难度时，提到《玫瑰的名字》对外国人来说很难，但认为《福柯的钟摆》因为背景设定在80年代，语言上可能更容易理解，尽管内容依然复杂。最后，乔西提到读到了萨尔曼·鲁什迪当年批评这本书的文章，说它更像电子游戏而非小说，引发了两人一番玩笑式的争论。,"Stefano: Hi, Josie!
+gemma4:e4b,86,NO-ERROR,,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,两人讨论了埃科的《福柯的钟摆》，乔西觉得这本书很“书呆子气”，斯蒂法诺则辩解说意大利文学不只关于披萨和黑帮。他们谈到阅读难度时，提到《玫瑰的名字》对外国人来说很难，但认为《福柯的钟摆》因为背景设定在80年代，语言上可能更容易理解，尽管内容依然复杂。最后，乔西提到读到了萨尔曼·鲁什迪当年批评这本书的文章，说它更像电子游戏而非小说，引发了两人一番玩笑式的争论。,"Stefano: Hi, Josie!
  Josie: Ciao, Stefano!
  Stefano: So, what about Foucault's Pendulum? Do you like it?
  Josie: It's... weird. Was it really written by an Italian guy? It's so... nerdy.
@@ -2196,7 +2196,7 @@ gemma4:e4b,92,NO-ERROR,,菲奥娜爱上了他的学生康拉德。,菲奥娜对�
  Wanda: Will she know?
  Fiona: How can I know what will he do, he can tell his mother as well
  Wanda: Just go for it!!",25.53,8.89,17.02,71.64,3.999073267,3.648634195,3.863526821,3.53651309
-gemma4:e4b,93,NO-ERROR,,玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,双方确定了12月4日上午10点会面，后续日期暂定，待进一步确认。,"Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
+gemma4:e4b,93,OMIT,,玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,双方确定了12月4日上午10点会面，后续日期暂定，待进一步确认。,"Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
  Evans: Hi, 4th - we can meet at 10:00.
  Evans: And 11th - at 11:00. 
  Margaret: Okey. And what about 18th?
@@ -2230,7 +2230,7 @@ gemma4:e4b,95,NO-ERROR,,琳达没赶上火车，下一班一小时后就到了�
  Linda: It was 80 euros
  Linda: Return to Amsterdam
  Linda: I was shocked!!",59.09,23.81,54.55,75.36,3.074016809,3.67150712,3.773428202,2.849592209
-gemma4:e4b,96,OMIT;CIRC,,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,关于Lewandowska生病（麻疹）的消息，她住院了。与她近期有接触的人需要接种疫苗。虽然Joanna的导师是她，但为了防疫，她计划在18日工作前去接种疫苗。,"Joanna: They are sending emails about Lewandowska.
+gemma4:e4b,96,OMIT,,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,关于Lewandowska生病（麻疹）的消息，她住院了。与她近期有接触的人需要接种疫苗。虽然Joanna的导师是她，但为了防疫，她计划在18日工作前去接种疫苗。,"Joanna: They are sending emails about Lewandowska.
  Merve: What happened?
  Joanna: <file_photo> 
  Merve: Wooow!
@@ -2252,7 +2252,7 @@ gemma4:e4b,98,NO-ERROR,,玛丽亚厌倦了她的工作。,玛丽亚对工作感�
  Anastasia: I know, but calm down
  Felix: don't make decisions in this rash
  Maria: :(",30.77,0,23.08,74.29,2.722225666,3.131009817,3.633162022,2.982535839
-gemma4:e4b,99,OMIT;CIRC,,卢克明天下午2点22分要去冲浪。,卢克今天冲浪非常惨，经历了零波浪、三次摔倒和一次被冲浪板击中头部，但仍期待下次。肯和夏默安慰他这是常态。关于最佳冲浪时间，卢克提到明天低潮时会去，而埃里克质疑了这一点，认为中潮更好；同时，两人讨论到在退潮时看到岩石的风险，最终结论是虽然能看清岩石，但不如直接避免与它们发生碰撞。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
+gemma4:e4b,99,OMIT;H-DISC,,卢克明天下午2点22分要去冲浪。,卢克今天冲浪非常惨，经历了零波浪、三次摔倒和一次被冲浪板击中头部，但仍期待下次。肯和夏默安慰他这是常态。关于最佳冲浪时间，卢克提到明天低潮时会去，而埃里克质疑了这一点，认为中潮更好；同时，两人讨论到在退潮时看到岩石的风险，最终结论是虽然能看清岩石，但不如直接避免与它们发生碰撞。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
  Ken: Yaaaay welcome to the tumble dry club - some days is great others just a knock about
  Summer: I almost lost my tooth one time ;) Hopefully next time is better!
  Luke: low tide is 2:22PM tomorrow. I'll be out there
@@ -2344,7 +2344,7 @@ qwen3.5:9b,5,NO-ERROR,,约瑟夫给艾拉发了一张乌耶克·雅内克家双�
  Joseph: Oh yeah, sorry Twins*
  Ella: Good for him!! So cool❤️❤️
  Ella: Wanna touch them❤️❤️❤️",31.58,10.91,24.56,74.55,3.28524828,3.726673126,3.96823597,3.542896748
-qwen3.5:9b,6,NO-ERROR,,之前阿黛尔得到了一只新的可爱的拉布拉多狗，4个月大，名叫秋伊。她的猫咪们和她保持着距离，而小狗波比和露露都很像它们的妈妈秋伊和斯皮迪，都想出去玩。,阿黛尔向罗拉介绍她刚领养的四个月大的拉布拉多幼犬“骨头”，性格活泼爱啃咬。家里的猫们保持距离，而两只母狗波皮和露露则像母亲一样照顾它，快嘴也愿意陪它玩，大家相处融洽没有打斗。两人讨论说雌性幼犬更容易被其他动物接纳，不像成年公狗那样需要隔离或容易好斗。阿黛尔觉得“骨头”很胖也很可爱，罗拉表示迫不及待想见到这位新成员。,"Lola: hey girlfriend, what's up?
+qwen3.5:9b,6,H-ENT,,之前阿黛尔得到了一只新的可爱的拉布拉多狗，4个月大，名叫秋伊。她的猫咪们和她保持着距离，而小狗波比和露露都很像它们的妈妈秋伊和斯皮迪，都想出去玩。,阿黛尔向罗拉介绍她刚领养的四个月大的拉布拉多幼犬“骨头”，性格活泼爱啃咬。家里的猫们保持距离，而两只母狗波皮和露露则像母亲一样照顾它，快嘴也愿意陪它玩，大家相处融洽没有打斗。两人讨论说雌性幼犬更容易被其他动物接纳，不像成年公狗那样需要隔离或容易好斗。阿黛尔觉得“骨头”很胖也很可爱，罗拉表示迫不及待想见到这位新成员。,"Lola: hey girlfriend, what's up?
  Adele: Oh, hi Lols, not much.
  Adele: got a new dog.
  Lola: another one?
@@ -2379,7 +2379,7 @@ qwen3.5:9b,9,NO-ERROR,,瑞安和塞巴斯蒂安担心乌克兰的政治局势。
  Sebastian: This russian circus will never end...
  Ryan: I hope the leaders of of nations will react somehow to this shit.
  Sebastian: I hope so too :(",16.22,0,16.22,69.6,2.875700712,3.521860361,3.458032608,2.765209198
-qwen3.5:9b,10,OMIT;CIRC,,费恩和查蒂明天2点去象堡，他们会在正门碰头。,芬恩邀请扎迪第二天去即将被拆除的象与城堡街区品尝拉丁美洲美食，两人约定下午两点在购物中心主入口见面。尽管计划细节模糊且充满幽默调侃，但扎迪欣然答应并感谢芬恩记得她的喜好，最终愉快地确认了行程。,"Finn: Hey
+qwen3.5:9b,10,NO-ERROR,,费恩和查蒂明天2点去象堡，他们会在正门碰头。,芬恩邀请扎迪第二天去即将被拆除的象与城堡街区品尝拉丁美洲美食，两人约定下午两点在购物中心主入口见面。尽管计划细节模糊且充满幽默调侃，但扎迪欣然答应并感谢芬恩记得她的喜好，最终愉快地确认了行程。,"Finn: Hey
  Zadie: Hi there! What's up?
  Finn: All fine. You? 
  Zadie: Not bad, thanks 
@@ -2429,11 +2429,11 @@ qwen3.5:9b,14,NO-ERROR,,根据杰克所说，理应由大卫承担责任。等�
  Jacky: About taking the blame etc. 
  David: Okey, I remeber. We'll talk later?
  Jacky: With pleasure. I'll call you when I get home.",25,0,20,70.98,2.261645317,2.929607868,3.253154993,2.44704771
-qwen3.5:9b,15,OMIT;ENT;MOD,,阿黛尔放学后得打扫仓鼠笼。,皮特问阿黛尔是否清理了仓鼠笼，她否认并询问是否是她的轮值。皮特确认是她的任务，强调放学后没有借口可以推脱，阿黛尔只好答应。,"Pete: Did you clean the hamster cage?
+qwen3.5:9b,15,NO-ERROR,,阿黛尔放学后得打扫仓鼠笼。,皮特问阿黛尔是否清理了仓鼠笼，她否认并询问是否是她的轮值。皮特确认是她的任务，强调放学后没有借口可以推脱，阿黛尔只好答应。,"Pete: Did you clean the hamster cage?
  Adelle: No. Is it my turn?
  Pete: Yes. After school, no excuses.
  Adelle: Fine.",23.81,10,14.29,70.57,2.028863907,2.943858385,2.854977608,2.127153635
-qwen3.5:9b,16,OMIT;CIRC,,玛雅会在药房为伦道夫买5包耳塞。,兰道夫问梅雅是否还在药店，并请她帮忙买四到五盒耳塞。梅雅答应会给他买五盒，兰道夫表示感谢。,"Randolph: Honey
+qwen3.5:9b,16,NO-ERROR,,玛雅会在药房为伦道夫买5包耳塞。,兰道夫问梅雅是否还在药店，并请她帮忙买四到五盒耳塞。梅雅答应会给他买五盒，兰道夫表示感谢。,"Randolph: Honey
  Randolph: Are you still in the pharmacy?
  Maya: Yes
  Randolph: Buy me some earplugs please
@@ -2500,12 +2500,12 @@ qwen3.5:9b,20,NO-ERROR,,肯恩正试图捉弄格雷格。,肯向格雷格索要�
  Greg: Was your account hacked by some prankster?
  Ken: No, I'm the prankster, just having a laugh at your expense
  Greg: Well, fuck you too then XD",5.56,0,5.56,62.52,2.626787663,4.883203506,4.905446053,4.773441315
-qwen3.5:9b,21,OMIT;CIRC,,西蒙五分钟后会和阿德里安谈一谈。,艾德里安询问西蒙能否说话，得知对方不太方便后便表示没什么重要的事。随后两人约定在五点见面交谈。,"Adrian: Can you talk?
+qwen3.5:9b,21,NO-ERROR,,西蒙五分钟后会和阿德里安谈一谈。,艾德里安询问西蒙能否说话，得知对方不太方便后便表示没什么重要的事。随后两人约定在五点见面交谈。,"Adrian: Can you talk?
  Simon: Not really, anything important?
  Adrian: Not that much.
  Simon: I'll be free at 5
  Adrian: i'll you then",6.06,0,6.06,64.1,2.609757662,3.787022114,3.70609951,2.757456303
-qwen3.5:9b,22,NO-ERROR,,加布想在线下和凯特见一面。但是凯特不喜欢加布的要求，所以她不会再和他说话了。,加布和凯特在聊天后约定见面，但凯特因担心网络交友风险而拒绝。尽管加布试图解释两人已建立联系并表达想亲近的愿望，凯特仍认为这是错误决定并最终离开，留下加布焦急寻找她的身影。,"Gab: Ah that's better. Now we can message all we like.
+qwen3.5:9b,22,H-EVT;H-DISC,,加布想在线下和凯特见一面。但是凯特不喜欢加布的要求，所以她不会再和他说话了。,加布和凯特在聊天后约定见面，但凯特因担心网络交友风险而拒绝。尽管加布试图解释两人已建立联系并表达想亲近的愿望，凯特仍认为这是错误决定并最终离开，留下加布焦急寻找她的身影。,"Gab: Ah that's better. Now we can message all we like.
  Kat: :-)
  Gab: So when can we meet up for a drink?
  Kat: Fairly busy at the moment so I'm not sure when.
@@ -2530,7 +2530,7 @@ qwen3.5:9b,23,NO-ERROR,,阿加莎为自己感到骄傲，因为她已经完成�
  Adam: Sounds like you know what you're doing :P
  Agatha: I'm just really into economics :)
  Adam: no doubt about that",32,4.17,20,69.43,2.46599865,2.994155645,3.271962881,2.483258247
-qwen3.5:9b,24,OMIT;CIRC,,凯恩向香农推荐30秒上火星乐队的新专辑。,凯恩问香农是否听说三十秒到火星的新专辑，并推荐她听听看。香农感谢了他的建议。,"Kane: have you heard the new 30 seconds to mars album?
+qwen3.5:9b,24,NO-ERROR,,凯恩向香农推荐30秒上火星乐队的新专辑。,凯恩问香农是否听说三十秒到火星的新专辑，并推荐她听听看。香农感谢了他的建议。,"Kane: have you heard the new 30 seconds to mars album?
  Shannon: no, is it good?
  Kane: you should so check it out
  Shannon: ok thanks for the recommendation
@@ -2668,7 +2668,7 @@ qwen3.5:9b,37,NO-ERROR,,在玛丽亚和妮可的建议下，克莱尔正在订�
  Nicole: I think you won't regret
  Maria: Don't hesitate, it's incredibly beauty!!
  Claire: Ok, if you say so :))",30,13.79,23.33,71.75,2.806389809,3.11401391,3.485513926,2.782365799
-qwen3.5:9b,38,NO-ERROR,,米罗和他的父母说阿尔巴尼亚语。他的家人在20世纪90年代非法出境离开了阿尔巴尼亚。,艾比询问是否见过米罗，戴伦和布兰登表示尚未有机会接触。布伦达提到昨天在派对上曾与米罗见面，艾比称赞他很有趣并讲述了其父亲上世纪 90 年代初从阿尔巴尼亚沿海城市杜雷斯非法逃离至美国的经历：当时当地极度贫困、秩序混乱，人们争相登上任何可用船只以离开故土；照片中甚至包括他的父亲。戴伦对此感到既令人震惊又着迷。,"Abby: Have you talked to Miro?
+qwen3.5:9b,38,OMIT;H-ROLE,,米罗和他的父母说阿尔巴尼亚语。他的家人在20世纪90年代非法出境离开了阿尔巴尼亚。,艾比询问是否见过米罗，戴伦和布兰登表示尚未有机会接触。布伦达提到昨天在派对上曾与米罗见面，艾比称赞他很有趣并讲述了其父亲上世纪 90 年代初从阿尔巴尼亚沿海城市杜雷斯非法逃离至美国的经历：当时当地极度贫困、秩序混乱，人们争相登上任何可用船只以离开故土；照片中甚至包括他的父亲。戴伦对此感到既令人震惊又着迷。,"Abby: Have you talked to Miro?
  Dylan: No, not really, I've never had an opportunity
  Brandon: me neither, but he seems a nice guy
  Brenda: you met him yesterday at the party?
@@ -2827,7 +2827,7 @@ qwen3.5:9b,49,NO-ERROR,,杰森今天约了牙医，所以他没来。,梅根询�
  Megan: He was absent today :c
  Susy: He had a dental appointment.
  Megan: Thanks for the info :)",41.67,0,25,72.33,2.506156683,2.901375771,3.106712103,2.415285587
-qwen3.5:9b,50,OMIT;CIRC,,到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,艾莉询问进度，吉尔表示已完成约二十到三十个，每天最多只能做三四个。当被问及耗时时，吉尔回答大约四十小时或三十五小时左右，艾莉回应自己情况相同。,"Ally: how many did you do so far?
+qwen3.5:9b,50,NO-ERROR,,到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,艾莉询问进度，吉尔表示已完成约二十到三十个，每天最多只能做三四个。当被问及耗时时，吉尔回答大约四十小时或三十五小时左右，艾莉回应自己情况相同。,"Ally: how many did you do so far?
  Jill: like 20 or 30
  Jill: I can't do more than 3-4 per day
  Ally: how many hours?
@@ -2881,7 +2881,7 @@ qwen3.5:9b,53,NO-ERROR,,有人在校园里遭到殴打和抢劫，不得不住�
  Rodney: They don't give a fuck
  Ross: True that
  Truman: Hope they catch the guy soon",31.48,9.43,29.63,71.63,3.752975702,3.767813206,3.965777636,3.470577717
-qwen3.5:9b,54,NO-ERROR,,哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,贾维尔询问是否有提供英语服务的纹身店，朱迪推荐了 Warsaw Ink。虽然她本人未做过，但女友曾在那里纹过并分享了照片，贾维尔称赞效果很棒却对 1000 美元的价格感到震惊，因此决定回哥伦比亚再纹一个。,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
+qwen3.5:9b,54,H-CIRC,,哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,贾维尔询问是否有提供英语服务的纹身店，朱迪推荐了 Warsaw Ink。虽然她本人未做过，但女友曾在那里纹过并分享了照片，贾维尔称赞效果很棒却对 1000 美元的价格感到震惊，因此决定回哥伦比亚再纹一个。,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
  Judie: Oh there's Warsaw ink
  Javier: the name sounds neat... have you had a tattoo done there?
  Judie: nope but my gf has
@@ -2892,7 +2892,7 @@ qwen3.5:9b,54,NO-ERROR,,哈维尔最初很想在warsaw ink纹身，但价格太�
  Judie: it was a 1000
  Javier: fuck
  Javier: let me just get a tatttoo back in colombia then, thx",32.1,10.13,22.22,70.9,2.730079651,2.888867855,3.252229452,2.736395121
-qwen3.5:9b,55,OMIT;CIRC,,托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,佐伊向朋友们分享了一张在寒冷日子里令人振奋的图片，托马斯则从热带地区回应问候。他提到当地夜间气温降至零下三度，清晨有白霜，并展示了周日在贝尔琴山顶迎着寒风和阳光散步的照片，甚至晒了日光浴。两人互相称赞景色美丽，约定不久后联系，并互道保重。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
+qwen3.5:9b,55,NO-ERROR,,托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,佐伊向朋友们分享了一张在寒冷日子里令人振奋的图片，托马斯则从热带地区回应问候。他提到当地夜间气温降至零下三度，清晨有白霜，并展示了周日在贝尔琴山顶迎着寒风和阳光散步的照片，甚至晒了日光浴。两人互相称赞景色美丽，约定不久后联系，并互道保重。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
  Zoey: <file_gif>
  Thomas: LOL
  Thomas: Hi there in the tropics! How are you doing?
@@ -2965,7 +2965,7 @@ qwen3.5:9b,63,NO-ERROR,,科尔和路易斯坐在同一个房间里，却在发�
  Cole: oh youre not gonna talk to your roommate now
  Luis: im not gonna text an idiot whos practically sitting just a few inches from me -_-
  Cole: xD",34.62,20,30.77,73.9,2.533147573,4.529297829,4.603283882,3.955175877
-qwen3.5:9b,64,NO-ERROR,,切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,戴米安询问大家是否观看了切尔西的比赛，雅各布和梅森表示没看。戴米安兴奋地提到伊瓜因梅开二度，认为这是球队的一个积极转折点，尽管对手赫尔城表现糟糕。然而，雅各布对此持怀疑态度，而梅森则半开玩笑地祝他好运。,"Damian: guys did u watch Chelsea game
+qwen3.5:9b,64,H-ENT,,切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,戴米安询问大家是否观看了切尔西的比赛，雅各布和梅森表示没看。戴米安兴奋地提到伊瓜因梅开二度，认为这是球队的一个积极转折点，尽管对手赫尔城表现糟糕。然而，雅各布对此持怀疑态度，而梅森则半开玩笑地祝他好运。,"Damian: guys did u watch Chelsea game
  Jacob: no
  Mason: nah, i was busy all afternoon
  Damian: Higuain scored twice! so happy for him
@@ -3037,7 +3037,7 @@ qwen3.5:9b,70,NO-ERROR,,对杰西卡来说，最恐怖的地方是巴勒莫的�
  Jessica: Well, partly. Most of them were exhibited in their clothes. Basically only skulls and hands. 
  Mickey: I'm writing this one down! That's so precious!
  Ollie: Me too!",18.56,4.21,16.49,65.7,3.547765732,2.855694532,3.153225422,3.033360958
-qwen3.5:9b,71,OMIT;MOD;DISC,,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,西蒙和查理讨论欧盟移民政策带来的安全隐患，指出柏林、比利时和巴黎已出现安全措施升级与社会动荡，而波兰因经济滞后反而暂时避免了这些问题。两人认为波兰若能坚持自身价值观并快速发展，将有机会纠正西方国家的错误；但同时也担忧外部压力可能导致国家分裂或边缘化。尽管存在风险，他们仍赞赏波兰人的坚韧精神，并希望未来只有波兰能解决欧洲内部问题，最终祝愿在波兰过圣诞节是欧洲最好的选择。,"Simon: <file_photo>
+qwen3.5:9b,71,H-DISC,,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,西蒙和查理讨论欧盟移民政策带来的安全隐患，指出柏林、比利时和巴黎已出现安全措施升级与社会动荡，而波兰因经济滞后反而暂时避免了这些问题。两人认为波兰若能坚持自身价值观并快速发展，将有机会纠正西方国家的错误；但同时也担忧外部压力可能导致国家分裂或边缘化。尽管存在风险，他们仍赞赏波兰人的坚韧精神，并希望未来只有波兰能解决欧洲内部问题，最终祝愿在波兰过圣诞节是欧洲最好的选择。,"Simon: <file_photo>
  Simon: It's funny and scary at the same time.
  Simon: BTW it's so annoying that people can't see that such immigration policy reduces safety level for citizens of EU significantly
  Charlie: This photo is great. It totally shows what do we all mean when we criticize EU policy. 
@@ -3074,7 +3074,7 @@ qwen3.5:9b,73,NO-ERROR,,迈克在伦敦。,杰克惊讶地发现迈克在伦敦�
  Mike: <file_photo>
  Mike: yeah mate! dreams coming true!
  Jake: cool! congrats!",24,17.39,24,69.71,3.036485195,4.933595181,4.922379494,4.497117996
-qwen3.5:9b,74,OMIT;CIRC,,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,里奇和克莱讨论博格巴的精彩进球，称赞其技术动作成熟且值得信任。两人认为他本赛季表现更沉稳，教练约瑟对他充满信心，并在前 60 分钟的表现后理应获得这个奖励。,"Richie: Pogba
+qwen3.5:9b,74,NO-ERROR,,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,里奇和克莱讨论博格巴的精彩进球，称赞其技术动作成熟且值得信任。两人认为他本赛季表现更沉稳，教练约瑟对他充满信心，并在前 60 分钟的表现后理应获得这个奖励。,"Richie: Pogba
  Clay: Pogboom
  Richie: what a s strike yoh!
  Clay: was off the seat the moment he chopped the ball back to his right foot
@@ -3142,7 +3142,7 @@ qwen3.5:9b,79,NO-ERROR,,蒂娜必须学习黛米的方法，即如何从讨厌�
  Tina: between the guyshaha
  Demi: we ll find something
  Tina: <3",21.74,4.44,15.22,68.24,3.527745962,3.549866438,3.823762655,3.238847733
-qwen3.5:9b,80,OMIT,,埃文会让伊森来的。,艾莉森问伊万是否跟埃坦谈过关于活动的事，伊万确认了并告知埃坦可能不会来。艾莉森请求他帮忙解决，伊万答应会尽力让埃坦出席，艾莉森表示知道了。,"Allison: You talked to Ethan about the function? 
+qwen3.5:9b,80,NO-ERROR,,埃文会让伊森来的。,艾莉森问伊万是否跟埃坦谈过关于活动的事，伊万确认了并告知埃坦可能不会来。艾莉森请求他帮忙解决，伊万答应会尽力让埃坦出席，艾莉森表示知道了。,"Allison: You talked to Ethan about the function? 
  Evan: Yeah I did
  Allison: What did he say?
  Evan: He might not come
@@ -3199,7 +3199,7 @@ qwen3.5:9b,85,NO-ERROR,,马修感冒了，他要喝些橙汁，然后去睡觉�
  Lisa: Take a rest from evrthg.  
  Matthew: Ikr. Hitting the hay now
  Lisa: Good night 'Thew!",25,14.81,25,70.21,4.272987366,4.224686623,4.535951614,3.968979359
-qwen3.5:9b,86,OMIT;CIRC,,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,"斯蒂法诺与乔西讨论《傅科摆》，乔西认为其风格怪异且过于学术，担心自己的意大利语水平不足以阅读原著。斯蒂法诺指出该书语言比《玫瑰的名字》更易理解但内容同样复杂。乔西提到萨尔曼·拉什迪曾批评该作并非小说而是“电脑游戏”，两人对此展开幽默调侃；对话中因拼写错误引发""de gustibus non est disputandum（口味无可争辩）”的玩笑，最终在笑声与互相打趣中结束。","Stefano: Hi, Josie!
+qwen3.5:9b,86,NO-ERROR,,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,"斯蒂法诺与乔西讨论《傅科摆》，乔西认为其风格怪异且过于学术，担心自己的意大利语水平不足以阅读原著。斯蒂法诺指出该书语言比《玫瑰的名字》更易理解但内容同样复杂。乔西提到萨尔曼·拉什迪曾批评该作并非小说而是“电脑游戏”，两人对此展开幽默调侃；对话中因拼写错误引发""de gustibus non est disputandum（口味无可争辩）”的玩笑，最终在笑声与互相打趣中结束。","Stefano: Hi, Josie!
  Josie: Ciao, Stefano!
  Stefano: So, what about Foucault's Pendulum? Do you like it?
  Josie: It's... weird. Was it really written by an Italian guy? It's so... nerdy.
@@ -3237,7 +3237,7 @@ qwen3.5:9b,88,NO-ERROR,,托马斯、谢拉和杰里米仍然没有收到赠款�
  Sierra: lol
  Sierra: be patient. If you need money I can lend you some, don't worry
  Tomas: Thanks, I hope they'll arrive any minute",43.9,12.5,29.27,73.72,3.151232004,3.906750679,4.129818916,3.739835262
-qwen3.5:9b,89,OMIT;CIRC,,卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,查尔斯计划周末前往伯明翰和曼彻斯特逛德国市场，主要品尝香肠、啤酒以及热红酒。卡米拉对此很感兴趣并打算今年去一次，两人还聊到了去年查尔斯自制的热红酒无人问津的趣事，最后互祝对方玩得开心。,"Charles: What are you up to this weekend?
+qwen3.5:9b,89,NO-ERROR,,卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,查尔斯计划周末前往伯明翰和曼彻斯特逛德国市场，主要品尝香肠、啤酒以及热红酒。卡米拉对此很感兴趣并打算今年去一次，两人还聊到了去年查尔斯自制的热红酒无人问津的趣事，最后互祝对方玩得开心。,"Charles: What are you up to this weekend?
  Camilla: Not much. Just some work and errands on Saturday, show Saturday night. Day of nothingness on Sundy.
  Charles: Sounds good. We are going to visit the German markets this weekend. Birmingham and Manchester both. Sausage overload!
  Camilla: Ooh, that sounds really good!
@@ -3317,7 +3317,7 @@ qwen3.5:9b,95,NO-ERROR,,琳达没赶上火车，下一班一小时后就到了�
  Linda: It was 80 euros
  Linda: Return to Amsterdam
  Linda: I was shocked!!",44.44,19.23,37.04,76.63,3.538371325,4.00132513,3.931852102,3.110635996
-qwen3.5:9b,96,OMIT;CIRC,,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,乔安娜收到关于莱万多夫斯卡的邮件，得知她因患麻疹住院。由于近期接触过她的同事需要接种疫苗，而乔安娜是她的论文导师且刚入职时间紧张，梅尔韦强烈建议她在 18 日工作前去主楼参加组织于 17 日至 19 日的疫苗接种活动，希望不必耽误整天工作时间。,"Joanna: They are sending emails about Lewandowska.
+qwen3.5:9b,96,H-ROLE,,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,乔安娜收到关于莱万多夫斯卡的邮件，得知她因患麻疹住院。由于近期接触过她的同事需要接种疫苗，而乔安娜是她的论文导师且刚入职时间紧张，梅尔韦强烈建议她在 18 日工作前去主楼参加组织于 17 日至 19 日的疫苗接种活动，希望不必耽误整天工作时间。,"Joanna: They are sending emails about Lewandowska.
  Merve: What happened?
  Joanna: <file_photo> 
  Merve: Wooow!
@@ -3339,7 +3339,7 @@ qwen3.5:9b,98,NO-ERROR,,玛丽亚厌倦了她的工作。,玛丽亚厌倦了这�
  Anastasia: I know, but calm down
  Felix: don't make decisions in this rash
  Maria: :(",35.71,15.38,28.57,75.62,2.457654476,3.16257,3.735431194,3.012894869
-qwen3.5:9b,99,OMIT;CIRC,,卢克明天下午2点22分要去冲浪。,卢克今天冲浪惨败，零波次、三次落水还撞了头板；肯欢迎他加入“摔落俱乐部”，夏末也分享了自己差点掉牙的经历。关于最佳潮汐时间，埃里克认为中潮最好，但卢克坚持低潮更好因为能看清岩石且不会在礁石上冲浪，而埃里克则指出看到岩石意味着危险，虽然知道位置很重要，但若视线受阻就十分糟糕；两人最终达成共识：宁愿看见岩石也不愿撞上它们。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
+qwen3.5:9b,99,OMIT;H-DISC,,卢克明天下午2点22分要去冲浪。,卢克今天冲浪惨败，零波次、三次落水还撞了头板；肯欢迎他加入“摔落俱乐部”，夏末也分享了自己差点掉牙的经历。关于最佳潮汐时间，埃里克认为中潮最好，但卢克坚持低潮更好因为能看清岩石且不会在礁石上冲浪，而埃里克则指出看到岩石意味着危险，虽然知道位置很重要，但若视线受阻就十分糟糕；两人最终达成共识：宁愿看见岩石也不愿撞上它们。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
  Ken: Yaaaay welcome to the tumble dry club - some days is great others just a knock about
  Summer: I almost lost my tooth one time ;) Hopefully next time is better!
  Luke: low tide is 2:22PM tomorrow. I'll be out there
