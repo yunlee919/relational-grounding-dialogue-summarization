@@ -1,0 +1,4 @@
+﻿model_name,n,rouge1,rouge2,rougeL,bs_f1_raw
+aya-expanse:8b,100,26.53,7.89,20.84,70.11
+gemma4:e4b,100,30.27,8.32,23.68,70.85
+qwen3.5:9b,100,28.35,7.62,22.42,70.47
