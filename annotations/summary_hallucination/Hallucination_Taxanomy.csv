@@ -5,6 +5,6 @@ ROLE,Semantic role / speaker attribution hallucination,"Use when the event is ro
 CIRC,Time / place / number / condition hallucination,"Use when the summary gets circumstantial details wrong, such as time, place, number, quantity, condition, or schedule."
 MOD,Negation / modality / uncertainty hallucination,"Use when the summary changes negation, uncertainty, intention, obligation, or modality, such as “might” becoming “will,” or “did not” becoming “did.”"
 DISC,Discourse relation / final outcome hallucination,"Use when the summary misrepresents the discourse relation or final outcome, such as cause-effect, contrast, temporal order, decision, agreement, or conclusion."
-OVER-SUP,Supported over-generation,"Use when the summary includes extra details beyond the reference summary, but those details are still supported by the source dialogue. This is not hallucination."
 OMIT,Salient omission,"Use when the summary misses a salient event, participant, reason, decision, or final outcome that is important for understanding the dialogue."
 LANG,Language / format issue,"Use when the output has language, translation, fluency, formatting, or instruction-following issues, such as English leakage, malformed Chinese, repeated text, or non-summary output."
+NO-ERROR,,
