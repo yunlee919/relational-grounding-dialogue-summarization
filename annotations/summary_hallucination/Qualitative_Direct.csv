@@ -2260,7 +2260,7 @@ gemma4:e4b,99,OMIT;H-DISC,,卢克明天下午2点22分要去冲浪。,卢克今�
  Luke: Oh yeah? Yesterday was low tide. I thought that's best cuz you can see the rocks
  Eric: Seeing rocks is a bad thing. I mean, you want to be aware of where they are for sure. But rocks in your vision = no bueno
  Luke: well I'd rather seem than** run into them. When the tide is out you're not surfing over the rocks",8.6,0,6.45,59.76,1.962229371,3.702095985,4.003997803,2.578030109,8.687500
-qwen3.5:9b,0,NO-ERROR,,佩顿给麦克斯提供了卖衣服的网站。他喜欢浏览、试穿衣服，但不一定都会买。他经常买衣服和书，因为他也喜欢阅读。,Max 询问购买衣物的网站，Payton 推荐了多个并解释自己通常只从其中两三个选购。随后两人讨论购物习惯：Payton 喜欢浏览和试穿但未必每次都买，因为若买下所有喜欢的东西就没钱生活了；他也坦言难以抗拒衣物和书籍这两样爱好，尤其热爱阅读各类图书。,"Max: Know any good sites to buy clothes from?
+qwen3.5:9b,0,NO-ERROR,NO-ERROR,佩顿给麦克斯提供了卖衣服的网站。他喜欢浏览、试穿衣服，但不一定都会买。他经常买衣服和书，因为他也喜欢阅读。,Max 询问购买衣物的网站，Payton 推荐了多个并解释自己通常只从其中两三个选购。随后两人讨论购物习惯：Payton 喜欢浏览和试穿但未必每次都买，因为若买下所有喜欢的东西就没钱生活了；他也坦言难以抗拒衣物和书籍这两样爱好，尤其热爱阅读各类图书。,"Max: Know any good sites to buy clothes from?
  Payton: Sure :) <file_other> <file_other> <file_other> <file_other> <file_other> <file_other> <file_other>
  Max: That's a lot of them!
  Payton: Yeah, but they have different things so I usually buy things from 2 or 3 of them.
@@ -2288,7 +2288,7 @@ qwen3.5:9b,0,NO-ERROR,,佩顿给麦克斯提供了卖衣服的网站。他喜欢
  Payton: Everything I can get my hands on :)
  Max: Srsly?
  Payton: Yup :)",37.38,13.33,26.17,71.98,3.839015961,3.237888813,3.698937416,3.58937335,2.301887
-qwen3.5:9b,1,NO-ERROR,,凯利很害怕芬兰雕塑花园里的人物，因为她觉得那些人物的脸非常病态。对奥利来说，这就像日本的人偶村，令人毛骨悚然。,奥利、凯莉、米奇和杰西卡讨论各自认为可怕的地方：凯莉提到芬兰的一座雕塑园，那里有上百张表情阴郁的雕像脸；奥利则描述日本的一个村庄，里面的人形雕像数量甚至超过实际居民。大家觉得这些场景都很诡异，最后米奇因有事先行离开，其他人也道别了。,"Ollie: Okay, Kelly! Ur up nxt!
+qwen3.5:9b,1,NO-ERROR,NO-ERROR,凯利很害怕芬兰雕塑花园里的人物，因为她觉得那些人物的脸非常病态。对奥利来说，这就像日本的人偶村，令人毛骨悚然。,奥利、凯莉、米奇和杰西卡讨论各自认为可怕的地方：凯莉提到芬兰的一座雕塑园，那里有上百张表情阴郁的雕像脸；奥利则描述日本的一个村庄，里面的人形雕像数量甚至超过实际居民。大家觉得这些场景都很诡异，最后米奇因有事先行离开，其他人也道别了。,"Ollie: Okay, Kelly! Ur up nxt!
  Kelly: Me? I don't wanna.
  Mickey: C'mon!
  Jessica: Yeah! What's yours?
@@ -2316,7 +2316,7 @@ qwen3.5:9b,1,NO-ERROR,,凯利很害怕芬兰雕塑花园里的人物，因为她
  Kelly: Yeah, me too. Bye!
  Jessica: Bye!
  Ollie: Cu!",25.74,2.02,19.8,67.02,2.791634083,3.145394802,3.517898798,2.920724869,2.109091
-qwen3.5:9b,2,NO-ERROR,,贝拉和埃里克拒绝了一个客户的要求。他们老板很赞赏这个决定。他会吸引新的客户来。,老板并未因拒绝客户请求而生气，反而赞赏了我们的勇敢决定。原来他期待引入新客户（即当前客户的竞争对手），这一举动实为“塞翁失马”。,"Eric: Hey Bella, What happened today in boss's room?? Was he angry??
+qwen3.5:9b,2,NO-ERROR,H-ROLE. Used “we” instead of third-person perspective.,贝拉和埃里克拒绝了一个客户的要求。他们老板很赞赏这个决定。他会吸引新的客户来。,老板并未因拒绝客户请求而生气，反而赞赏了我们的勇敢决定。原来他期待引入新客户（即当前客户的竞争对手），这一举动实为“塞翁失马”。,"Eric: Hey Bella, What happened today in boss's room?? Was he angry??
  Bella: NO NO!!! He wasn't angry at all.. He actually appreciated on our brave deccision to dismiss the request of client..
  Eric: REALLY!! He appreciated this decision..
  Bella: Yeah he really did.. I too was astounded by his reaction...
@@ -2324,10 +2324,10 @@ qwen3.5:9b,2,NO-ERROR,,贝拉和埃里克拒绝了一个客户的要求。他们
  Bella: What he told me was that he was looking forward to bring in new clients which were our current client's competitor..
  Eric: Oh that could possibly be the reason.Well anyways you got appreciation xD congo 
  Bella: hahaha Blessing in disguise xD",41.38,7.14,27.59,70.09,3.893776178,3.601319313,3.688149929,3.177253723,1.641026
-qwen3.5:9b,3,NO-ERROR,,玛丽的钱用完了，卡特打算一小时后借给她一点。,玛丽因手头拮据向卡特借钱，卡特表示一小时后在火车站取钱给她。,"Mary: hey, im kinda broke, lend me a few box
+qwen3.5:9b,3,NO-ERROR,H-EVT. “Withdraw money at the train station.”,玛丽的钱用完了，卡特打算一小时后借给她一点。,玛丽因手头拮据向卡特借钱，卡特表示一小时后在火车站取钱给她。,"Mary: hey, im kinda broke, lend me a few box
  Carter: okay, give me an hour, im at the train station
  Mary: cool, thanks",42.42,19.35,42.42,77.9,3.020068645,4.607963562,4.567552567,3.577811718,1.363636
-qwen3.5:9b,4,NO-ERROR,,杰克和梅一会儿要喝鸡尾酒。,杰克提议稍后喝鸡尾酒，迈伊非常赞同并感叹他读懂了自己的心思。当杰克询问她今天是否有些紧张时，迈伊承认确实如此，于是两人决定各喝一杯甚至两杯来缓解情绪。,"Jack: Cocktails later?
+qwen3.5:9b,4,NO-ERROR,H-CIRC. “They decided to drink one or two cocktails.” Decision is not explicitly expressed. “One or two” is incorrectly interpreted as exact numbers of drinks while “some” might be the intention instead.,杰克和梅一会儿要喝鸡尾酒。,杰克提议稍后喝鸡尾酒，迈伊非常赞同并感叹他读懂了自己的心思。当杰克询问她今天是否有些紧张时，迈伊承认确实如此，于是两人决定各喝一杯甚至两杯来缓解情绪。,"Jack: Cocktails later?
  May: YES!!!
  May: You read my mind...
  Jack: Possibly a little tightly strung today?
@@ -2335,7 +2335,7 @@ qwen3.5:9b,4,NO-ERROR,,杰克和梅一会儿要喝鸡尾酒。,杰克提议稍�
  Jack: Thought so.
  May: A little drink will help!
  Jack: Maybe two!",12,4.17,12,64.88,2.699651241,3.110146284,3.064198017,2.455954552,5.769231
-qwen3.5:9b,5,NO-ERROR,,约瑟夫给艾拉发了一张乌耶克·雅内克家双胞胎奶牛的照片，艾拉很高兴。,约瑟夫分享了一张模糊的照片，显示 Wujek Janek 家的小牛犊。艾拉认出它们是双胞胎小牛并为此感到兴奋和喜爱，还表达了想摸摸它们的愿望。,"Joseph: It's fuzzy but I think you can recognize what's that(^_-)-☆
+qwen3.5:9b,5,NO-ERROR,NO-ERROR,约瑟夫给艾拉发了一张乌耶克·雅内克家双胞胎奶牛的照片，艾拉很高兴。,约瑟夫分享了一张模糊的照片，显示 Wujek Janek 家的小牛犊。艾拉认出它们是双胞胎小牛并为此感到兴奋和喜爱，还表达了想摸摸它们的愿望。,"Joseph: It's fuzzy but I think you can recognize what's that(^_-)-☆
  Joseph: <file_photo>
  Ella: Ooooo
  Ella: Baby cows??(/◕ヮ◕)/(/◕ヮ◕)/(/◕ヮ◕)/
@@ -2344,7 +2344,7 @@ qwen3.5:9b,5,NO-ERROR,,约瑟夫给艾拉发了一张乌耶克·雅内克家双�
  Joseph: Oh yeah, sorry Twins*
  Ella: Good for him!! So cool❤️❤️
  Ella: Wanna touch them❤️❤️❤️",31.58,10.91,24.56,74.55,3.28524828,3.726673126,3.96823597,3.542896748,2.060606
-qwen3.5:9b,6,H-ENT,,之前阿黛尔得到了一只新的可爱的拉布拉多狗，4个月大，名叫秋伊。她的猫咪们和她保持着距离，而小狗波比和露露都很像它们的妈妈秋伊和斯皮迪，都想出去玩。,阿黛尔向罗拉介绍她刚领养的四个月大的拉布拉多幼犬“骨头”，性格活泼爱啃咬。家里的猫们保持距离，而两只母狗波皮和露露则像母亲一样照顾它，快嘴也愿意陪它玩，大家相处融洽没有打斗。两人讨论说雌性幼犬更容易被其他动物接纳，不像成年公狗那样需要隔离或容易好斗。阿黛尔觉得“骨头”很胖也很可爱，罗拉表示迫不及待想见到这位新成员。,"Lola: hey girlfriend, what's up?
+qwen3.5:9b,6,H-ENT,H-ENT. “Female puppy.”,之前阿黛尔得到了一只新的可爱的拉布拉多狗，4个月大，名叫秋伊。她的猫咪们和她保持着距离，而小狗波比和露露都很像它们的妈妈秋伊和斯皮迪，都想出去玩。,阿黛尔向罗拉介绍她刚领养的四个月大的拉布拉多幼犬“骨头”，性格活泼爱啃咬。家里的猫们保持距离，而两只母狗波皮和露露则像母亲一样照顾它，快嘴也愿意陪它玩，大家相处融洽没有打斗。两人讨论说雌性幼犬更容易被其他动物接纳，不像成年公狗那样需要隔离或容易好斗。阿黛尔觉得“骨头”很胖也很可爱，罗拉表示迫不及待想见到这位新成员。,"Lola: hey girlfriend, what's up?
  Adele: Oh, hi Lols, not much.
  Adele: got a new dog.
  Lola: another one?
@@ -2360,26 +2360,26 @@ qwen3.5:9b,6,H-ENT,,之前阿黛尔得到了一只新的可爱的拉布拉多狗
  Lola: haha. true though.
  Adele: I know, right. Anyway, called him Bones. He's so plump it kinda fit.
  Lola: cute. can't wait to see him.",32.62,7.19,22.7,70.33,4.196930885,3.241421938,3.606773376,3.543322563,2.164384
-qwen3.5:9b,7,NO-ERROR,,琳达和劳拉明天要去一家意大利餐馆。,劳拉询问明天去哪里，琳达提议去一家意大利餐厅。虽然劳拉记得琳达不吃甜食，但琳达表示那里的意面很棒且布朗尼并不甜，因此同意了她的建议。,"Laura: where will we go tommorow?
+qwen3.5:9b,7,NO-ERROR,H-DISC. Two causal relations wrong.,琳达和劳拉明天要去一家意大利餐馆。,劳拉询问明天去哪里，琳达提议去一家意大利餐厅。虽然劳拉记得琳达不吃甜食，但琳达表示那里的意面很棒且布朗尼并不甜，因此同意了她的建议。,"Laura: where will we go tommorow?
  Linda: maybe this italian restaurant?
  Laura: hmm ok
  Linda: i love their pasta
  Linda: and brownie :)
  Laura: i thouht you dont eat sweets
  Linda: this brownie is not so sweet",24.49,8.51,20.41,73.14,2.600305557,3.647182226,3.573027611,2.697498083,3.882353
-qwen3.5:9b,8,NO-ERROR,,米娅今晚下班后要和她的女性朋友一起出去。如果她愿意，艾略特会来接她。,米娅下班后想出去参加女生聚会，埃利奥特表示同意并提醒她别太晚，如果需要接人随时打电话。,"Mia: babe, do you mind if i go out after work tonight?
+qwen3.5:9b,8,NO-ERROR,H-ROLE. Incorrect (or unclear) about who needs to be picked up. ,米娅今晚下班后要和她的女性朋友一起出去。如果她愿意，艾略特会来接她。,米娅下班后想出去参加女生聚会，埃利奥特表示同意并提醒她别太晚，如果需要接人随时打电话。,"Mia: babe, do you mind if i go out after work tonight?
  Elliot: yeah, sure. go for it ;) 
  Mia: thanks, babe. it's gonna be girls night out 
  Elliot: what're u up to?
  Mia: well, you know we gonna grab some drinks have some nice time outside of work
  Elliot: don't be too late please and if you need me to pick u up just give me a ring",34.15,5.13,29.27,71.66,2.982085943,4.030499458,4.095852852,3.487190485,1.264706
-qwen3.5:9b,9,NO-ERROR,,瑞安和塞巴斯蒂安担心乌克兰的政治局势。,瑞安对局势感到不安，认为俄罗斯的闹剧永无止境，并希望各国领导人能对此做出反应。塞巴斯蒂安表示赞同并表达了同样的担忧。,"Ryan: I have a bad feeling about this
+qwen3.5:9b,9,NO-ERROR,OMIT. Did not mention Ukraine.,瑞安和塞巴斯蒂安担心乌克兰的政治局势。,瑞安对局势感到不安，认为俄罗斯的闹剧永无止境，并希望各国领导人能对此做出反应。塞巴斯蒂安表示赞同并表达了同样的担忧。,"Ryan: I have a bad feeling about this
  Ryan: <file_other>
  Sebastian: Ukraine...
  Sebastian: This russian circus will never end...
  Ryan: I hope the leaders of of nations will react somehow to this shit.
  Sebastian: I hope so too :(",16.22,0,16.22,69.6,2.875700712,3.521860361,3.458032608,2.765209198,3.052632
-qwen3.5:9b,10,NO-ERROR,,费恩和查蒂明天2点去象堡，他们会在正门碰头。,芬恩邀请扎迪第二天去即将被拆除的象与城堡街区品尝拉丁美洲美食，两人约定下午两点在购物中心主入口见面。尽管计划细节模糊且充满幽默调侃，但扎迪欣然答应并感谢芬恩记得她的喜好，最终愉快地确认了行程。,"Finn: Hey
+qwen3.5:9b,10,NO-ERROR,"H-ENT. Incorrect object. Zadie thanked Finn for remembering to invite her, not remembering what she likes. Later when Zadie said “I love those”, those refers to “ill-defined plan” jokingly, meaning she likes spontaneous plans.",费恩和查蒂明天2点去象堡，他们会在正门碰头。,芬恩邀请扎迪第二天去即将被拆除的象与城堡街区品尝拉丁美洲美食，两人约定下午两点在购物中心主入口见面。尽管计划细节模糊且充满幽默调侃，但扎迪欣然答应并感谢芬恩记得她的喜好，最终愉快地确认了行程。,"Finn: Hey
  Zadie: Hi there! What's up?
  Finn: All fine. You? 
  Zadie: Not bad, thanks 
@@ -2403,12 +2403,12 @@ qwen3.5:9b,10,NO-ERROR,,费恩和查蒂明天2点去象堡，他们会在正门�
  Zadie: Yep Call me if you get lost
  Finn: I will I will 🤙 byeeee 
  Zadie: Toodles",6.06,0,6.06,62.05,3.889509916,3.710515261,3.949609995,3.681459665,4.363636
-qwen3.5:9b,11,NO-ERROR,,汤姆下午2点会在椭圆形会议室与本会面。他会先告诉对方把文件带来。,汤姆和班决定下午两点在椭圆室见面，并警告对方带上所有文件准备一场激烈较量。两人以幽默的口吻表示必须赢得这场战斗，因为正义站在他们这边。,"Tom: Ben. We've decided. 2pm in the Oval Room.
+qwen3.5:9b,11,NO-ERROR,H-EVT. The action “warning” is not explicit in the dialogue.,汤姆下午2点会在椭圆形会议室与本会面。他会先告诉对方把文件带来。,汤姆和班决定下午两点在椭圆室见面，并警告对方带上所有文件准备一场激烈较量。两人以幽默的口吻表示必须赢得这场战斗，因为正义站在他们这边。,"Tom: Ben. We've decided. 2pm in the Oval Room.
  Ben: Ok, I'll be there
  Tom: Take all your papers, it's going to be a fight! And remember: take no prisoners, shoot to kill!
  Ben: hahaha, we have to win this battle.
  Tom: We will, the justice is on our side.",21.43,0,21.43,70.78,4.153835297,4.196231842,4.260410786,3.344904661,2.093750
-qwen3.5:9b,12,NO-ERROR,,艾略特现在没空和乔丹说话，他很忙。晚上6点他会给乔丹回电话。乔丹要去参加布拉德的葬礼，布拉德因肝癌去世了。,埃利奥特因忙碌无法通话，询问能否两小时后回电。乔丹表示将参加同事布拉德的葬礼（其患有肝癌），并约定今晚再联系。得知消息后，埃利奥特表达了哀悼与关心，并确认晚上 8 点致电。,"Elliot: i can't talk rn, i'm rly busy
+qwen3.5:9b,12,NO-ERROR,NO-ERROR,艾略特现在没空和乔丹说话，他很忙。晚上6点他会给乔丹回电话。乔丹要去参加布拉德的葬礼，布拉德因肝癌去世了。,埃利奥特因忙碌无法通话，询问能否两小时后回电。乔丹表示将参加同事布拉德的葬礼（其患有肝癌），并约定今晚再联系。得知消息后，埃利奥特表达了哀悼与关心，并确认晚上 8 点致电。,"Elliot: i can't talk rn, i'm rly busy
  Elliot: can i call u back in about 2 hours?
  Jordan: Not really, I'm going to a funeral.
  Jordan: I'll call you tonight, ok?
@@ -2418,22 +2418,22 @@ qwen3.5:9b,12,NO-ERROR,,艾略特现在没空和乔丹说话，他很忙。晚�
  Jordan: I told you about him, he had a liver cancer.
  Elliot: i'm so sorry man, i hope u're ok
  Elliot: i'll call u at 8 pm",32.94,9.64,23.53,71.42,3.552396774,3.985081196,4.125954628,3.581448555,1.584906
-qwen3.5:9b,13,NO-ERROR,,弗洛要到6号才能预约到做头发。她担心自己头发会变成灰色，所以必须在特易购买一套补色工具。,弗洛因沙龙预约已满直到 6 号才能染发，担心变白发愁；吉娜建议她去特易购买补染套装，弗洛只好答应。,"Flo: OMG, I can't get into the salon until the 6th!
+qwen3.5:9b,13,NO-ERROR,H-DISC. The prediction incorrectly implied that Flo was pressured by Gina to buy the kit.,弗洛要到6号才能预约到做头发。她担心自己头发会变成灰色，所以必须在特易购买一套补色工具。,弗洛因沙龙预约已满直到 6 号才能染发，担心变白发愁；吉娜建议她去特易购买补染套装，弗洛只好答应。,"Flo: OMG, I can't get into the salon until the 6th!
  Gina: What? Why?
  Flo: They're just too busy. I'm going to be gray! LOL!
  Gina: Get you a touch-up kit at Tesco!
  Flo: Gonna have to!",39.29,7.41,32.14,74.47,2.815153837,3.370194912,3.612179518,2.990657806,1.068182
-qwen3.5:9b,14,NO-ERROR,,根据杰克所说，理应由大卫承担责任。等杰克回家后他们再谈。,杰基承认昨天大卫说得对，特别是关于承担责任的事；两人约定稍后详谈，杰凯表示回家后会给大卫打电话。,"Jacky: I think you were right yesterday. 
+qwen3.5:9b,14,NO-ERROR,NO-ERROR,根据杰克所说，理应由大卫承担责任。等杰克回家后他们再谈。,杰基承认昨天大卫说得对，特别是关于承担责任的事；两人约定稍后详谈，杰凯表示回家后会给大卫打电话。,"Jacky: I think you were right yesterday. 
  David: What about? I'm right about most things :P
  Jacky: Yeah, whole you ;)
  Jacky: About taking the blame etc. 
  David: Okey, I remeber. We'll talk later?
  Jacky: With pleasure. I'll call you when I get home.",25,0,20,70.98,2.261645317,2.929607868,3.253154993,2.44704771,1.714286
-qwen3.5:9b,15,NO-ERROR,,阿黛尔放学后得打扫仓鼠笼。,皮特问阿黛尔是否清理了仓鼠笼，她否认并询问是否是她的轮值。皮特确认是她的任务，强调放学后没有借口可以推脱，阿黛尔只好答应。,"Pete: Did you clean the hamster cage?
+qwen3.5:9b,15,NO-ERROR,NO-ERROR,阿黛尔放学后得打扫仓鼠笼。,皮特问阿黛尔是否清理了仓鼠笼，她否认并询问是否是她的轮值。皮特确认是她的任务，强调放学后没有借口可以推脱，阿黛尔只好答应。,"Pete: Did you clean the hamster cage?
  Adelle: No. Is it my turn?
  Pete: Yes. After school, no excuses.
  Adelle: Fine.",23.81,10,14.29,70.57,2.028863907,2.943858385,2.854977608,2.127153635,4.692308
-qwen3.5:9b,16,NO-ERROR,,玛雅会在药房为伦道夫买5包耳塞。,兰道夫问梅雅是否还在药店，并请她帮忙买四到五盒耳塞。梅雅答应会给他买五盒，兰道夫表示感谢。,"Randolph: Honey
+qwen3.5:9b,16,NO-ERROR,"H-DISC. “After school” is time of cleaning, not the reason for “no excuse”.",玛雅会在药房为伦道夫买5包耳塞。,兰道夫问梅雅是否还在药店，并请她帮忙买四到五盒耳塞。梅雅答应会给他买五盒，兰道夫表示感谢。,"Randolph: Honey
  Randolph: Are you still in the pharmacy?
  Maya: Yes
  Randolph: Buy me some earplugs please
@@ -2441,7 +2441,7 @@ qwen3.5:9b,16,NO-ERROR,,玛雅会在药房为伦道夫买5包耳塞。,兰道夫
  Randolph: 4 or 5 packs
  Maya: I'll get you 5
  Randolph: Thanks darling",22.86,0,11.43,73.02,2.529180288,2.903502464,2.963160038,2.381199598,2.812500
-qwen3.5:9b,17,NO-ERROR,,法蒂玛很担心詹森和艾琳。艾琳遇上了一些问题。但林肯不希望法蒂玛为别人操心太多。,林克和法蒂玛讨论朋友艾琳的困境：她可能患有抑郁症且拒绝就医，导致生活陷入混乱。两人因是否应介入而争执，林克认为这是艾琳自己的问题并指责其童年幸福无需担忧他人，法蒂玛则坚持作为朋友必须帮助她们解决矛盾。,"Lincoln: Heeyyy ;* whats up
+qwen3.5:9b,17,NO-ERROR,H-ROLE. Incorrect subject for “happy childhood”.,法蒂玛很担心詹森和艾琳。艾琳遇上了一些问题。但林肯不希望法蒂玛为别人操心太多。,林克和法蒂玛讨论朋友艾琳的困境：她可能患有抑郁症且拒绝就医，导致生活陷入混乱。两人因是否应介入而争执，林克认为这是艾琳自己的问题并指责其童年幸福无需担忧他人，法蒂玛则坚持作为朋友必须帮助她们解决矛盾。,"Lincoln: Heeyyy ;* whats up
  Fatima: I talked to Jenson, he’s not too happy ;p
  Lincoln: the place sucks??
  Fatima: No, the place is ok, I think, we can go there, it’s about Alene
@@ -2465,7 +2465,7 @@ qwen3.5:9b,17,NO-ERROR,,法蒂玛很担心詹森和艾琳。艾琳遇上了一�
  Fatima: Probably, true… Well I can be just grateful o.o
  Lincoln: do that and stop worrying about others, youre way to bautful for that <3
  Fatima: :*:*:*",20.51,0,17.95,66.84,3.948274851,3.029812813,3.470219374,3.371641874,2.564103
-qwen3.5:9b,18,NO-ERROR,,米科和杰夫要去参加村里的聚会，杰夫开车。,Lia 因徒步太累不想参加乡村派对，而 Mico 想去寻找“帅哥”，Jim 则调侃那些不会说英语的土著男孩。尽管 Lia 不感兴趣，Jeff 和 Mico 决定前往，并提议开车以便喝酒，Jeff 虽兴致不高但也同意同行。,"Jeff: Should we go to the village party?
+qwen3.5:9b,18,NO-ERROR,H-ROLE; H-ENT. Incorrect subject for “driving”. “Indigenous boys” wrong.,米科和杰夫要去参加村里的聚会，杰夫开车。,Lia 因徒步太累不想参加乡村派对，而 Mico 想去寻找“帅哥”，Jim 则调侃那些不会说英语的土著男孩。尽管 Lia 不感兴趣，Jeff 和 Mico 决定前往，并提议开车以便喝酒，Jeff 虽兴致不高但也同意同行。,"Jeff: Should we go to the village party?
  Lia: I'm too tired after hiking
  Mico: I'd like to go, there may be some hot boys!
  Lia: I doubt
@@ -2482,7 +2482,7 @@ qwen3.5:9b,18,NO-ERROR,,米科和杰夫要去参加村里的聚会，杰夫开�
  Mico: would be nice, hahah
  Jeff: not excited, but ok
  Mico: thanks!",16.22,0,10.81,66.94,4.25179863,3.444293737,3.85265708,3.841755629,5.000000
-qwen3.5:9b,19,NO-ERROR,,艾拉没有接哈利的电话。在哈利的请求下，辛迪给艾拉打了电话。,哈利请辛迪帮忙紧急联系艾拉通话，辛迪抱怨他总把自己当传声筒后答应转达并告知任务完成。,"Harry: heyyyy are you there??
+qwen3.5:9b,19,NO-ERROR,NO-ERROR,艾拉没有接哈利的电话。在哈利的请求下，辛迪给艾拉打了电话。,哈利请辛迪帮忙紧急联系艾拉通话，辛迪抱怨他总把自己当传声筒后答应转达并告知任务完成。,"Harry: heyyyy are you there??
  Cindy: Yes dear what is it?
  Harry: Can you call Ela and tell her i need to talk urgent please pick my call.
  Cindy: what happened now? an other fight :O
