@@ -74,7 +74,7 @@ aya-expanse:8b,3,LANG,LANG. Output is formatted as dialogue translation rather t
  玛丽：行，谢谢！","Mary: hey, im kinda broke, lend me a few box
  Carter: okay, give me an hour, im at the train station
  Mary: cool, thanks",20.83,4.35,16.67,68.02,3.70424366,4.922637939,4.911532879,4.406132221,2.090909
-aya-expanse:8b,4,H-CIRC,H-CIRC. Adds a specific suggestion of two drinks; the dialogue only makes a joking “maybe two” comment.,杰克和梅一会儿要喝鸡尾酒。,杰克提议后来喝鸡尾酒，梅激动地回应“是！”她表示自己确实很紧张。杰克猜测了，梅叹了口气，承认确实有点紧张。她认为喝点酒会好一些，杰克建议可能要两杯。,"Jack: Cocktails later?
+aya-expanse:8b,4,NO-ERROR,NO-ERROR. “Maybe two” is preserved as Jack’s suggestion rather than an agreed exact number.,杰克和梅一会儿要喝鸡尾酒。,杰克提议后来喝鸡尾酒，梅激动地回应“是！”她表示自己确实很紧张。杰克猜测了，梅叹了口气，承认确实有点紧张。她认为喝点酒会好一些，杰克建议可能要两杯。,"Jack: Cocktails later?
  May: YES!!!
  May: You read my mind...
  Jack: Possibly a little tightly strung today?
@@ -373,7 +373,7 @@ aya-expanse:8b,30,H-EVT,"H-EVT. Adds heating the pasta in the microwave, while D
  Lucian: No. I've just got ur msg. Why did u ask about it?
  Desiree: No reason. Keep my pasta in the microwave
  Lucian: I haven't cooked anything",18.87,11.76,18.87,70.16,3.770260096,3.69122076,3.901396275,3.579610825,2.689655
-aya-expanse:8b,31,H-CIRC,"H-CIRC. States the meeting time as 5:30 only, while Kate may arrive closer to 6.",艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。,艾米丽提议今天下班后一起喝点东西，凯特和玛塔都同意了。他们计划在中央车站的X酒吧约定时间5：30见面，但凯特可能要晚一点到达，因为交通状况。玛塔表示没问题，并祝大家再见。,"Emily: fancy a drink after work today?
+aya-expanse:8b,31,NO-ERROR,"NO-ERROR. The summary keeps the Pub X location, 5:30 plan, and Kate’s possible later arrival.",艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。,艾米丽提议今天下班后一起喝点东西，凯特和玛塔都同意了。他们计划在中央车站的X酒吧约定时间5：30见面，但凯特可能要晚一点到达，因为交通状况。玛塔表示没问题，并祝大家再见。,"Emily: fancy a drink after work today?
  Kate: sure!
  Marta: Good idea! 
  Marta: Where? When?
@@ -2252,7 +2252,7 @@ gemma4:e4b,98,NO-ERROR,NO-ERROR. Summary is supported by the dialogue.,玛丽亚
  Anastasia: I know, but calm down
  Felix: don't make decisions in this rash
  Maria: :(",30.77,0,23.08,74.29,2.722225666,3.131009817,3.633162022,2.982535839,3.545455
-gemma4:e4b,99,H-CIRC;H-DISC,H-CIRC;H-DISC. Omits the exact 2:22 pm time and adds a final conclusion about avoiding rocks.,卢克明天下午2点22分要去冲浪。,卢克今天冲浪非常惨，经历了零波浪、三次摔倒和一次被冲浪板击中头部，但仍期待下次。肯和夏默安慰他这是常态。关于最佳冲浪时间，卢克提到明天低潮时会去，而埃里克质疑了这一点，认为中潮更好；同时，两人讨论到在退潮时看到岩石的风险，最终结论是虽然能看清岩石，但不如直接避免与它们发生碰撞。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
+gemma4:e4b,99,OMIT;H-DISC,OMIT;H-DISC. Omits the salient exact 2:22 pm time and adds a final conclusion about avoiding rocks.,卢克明天下午2点22分要去冲浪。,卢克今天冲浪非常惨，经历了零波浪、三次摔倒和一次被冲浪板击中头部，但仍期待下次。肯和夏默安慰他这是常态。关于最佳冲浪时间，卢克提到明天低潮时会去，而埃里克质疑了这一点，认为中潮更好；同时，两人讨论到在退潮时看到岩石的风险，最终结论是虽然能看清岩石，但不如直接避免与它们发生碰撞。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
  Ken: Yaaaay welcome to the tumble dry club - some days is great others just a knock about
  Summer: I almost lost my tooth one time ;) Hopefully next time is better!
  Luke: low tide is 2:22PM tomorrow. I'll be out there
@@ -2604,7 +2604,7 @@ qwen3.5:9b,30,H-ENT,H-ENT. Uses the wrong speaker name Debbie for Desiree.,卢�
  Lucian: No. I've just got ur msg. Why did u ask about it?
  Desiree: No reason. Keep my pasta in the microwave
  Lucian: I haven't cooked anything",32.65,17.02,32.65,75.99,3.372957945,3.317246437,3.775010824,3.727492332,2.137931
-qwen3.5:9b,31,OMIT,OMIT. Omits that Marta is also joining Emily and Kate.,艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。,艾米丽提议下班后去中央车站的 Pub X 喝一杯，凯特和玛塔表示赞同。考虑到交通状况，凯特预计六点到达，大家约定届时见。,"Emily: fancy a drink after work today?
+qwen3.5:9b,31,NO-ERROR,"NO-ERROR. The summary mentions Emily, Kate, Marta, Pub X at the central station, and Kate’s later arrival.",艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。,艾米丽提议下班后去中央车站的 Pub X 喝一杯，凯特和玛塔表示赞同。考虑到交通状况，凯特预计六点到达，大家约定届时见。,"Emily: fancy a drink after work today?
  Kate: sure!
  Marta: Good idea! 
  Marta: Where? When?
@@ -3339,7 +3339,7 @@ qwen3.5:9b,98,NO-ERROR,NO-ERROR. Summary is supported by the dialogue.,玛丽亚
  Anastasia: I know, but calm down
  Felix: don't make decisions in this rash
  Maria: :(",35.71,15.38,28.57,75.62,2.457654476,3.16257,3.735431194,3.012894869,4.000000
-qwen3.5:9b,99,H-CIRC;H-DISC,H-CIRC;H-DISC. Omits the exact 2:22 pm time and fabricates a final agreement about the rocks.,卢克明天下午2点22分要去冲浪。,卢克今天冲浪惨败，零波次、三次落水还撞了头板；肯欢迎他加入“摔落俱乐部”，夏末也分享了自己差点掉牙的经历。关于最佳潮汐时间，埃里克认为中潮最好，但卢克坚持低潮更好因为能看清岩石且不会在礁石上冲浪，而埃里克则指出看到岩石意味着危险，虽然知道位置很重要，但若视线受阻就十分糟糕；两人最终达成共识：宁愿看见岩石也不愿撞上它们。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
+qwen3.5:9b,99,OMIT;H-DISC,OMIT;H-DISC. Omits the salient exact 2:22 pm time and fabricates a final agreement about the rocks.,卢克明天下午2点22分要去冲浪。,卢克今天冲浪惨败，零波次、三次落水还撞了头板；肯欢迎他加入“摔落俱乐部”，夏末也分享了自己差点掉牙的经历。关于最佳潮汐时间，埃里克认为中潮最好，但卢克坚持低潮更好因为能看清岩石且不会在礁石上冲浪，而埃里克则指出看到岩石意味着危险，虽然知道位置很重要，但若视线受阻就十分糟糕；两人最终达成共识：宁愿看见岩石也不愿撞上它们。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
  Ken: Yaaaay welcome to the tumble dry club - some days is great others just a knock about
  Summer: I almost lost my tooth one time ;) Hopefully next time is better!
  Luke: low tide is 2:22PM tomorrow. I'll be out there
