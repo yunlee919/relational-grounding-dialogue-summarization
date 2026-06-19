@@ -3347,7 +3347,7 @@ qwen3.5:9b,99,H-CIRC|H-DISC,It changes visible rocks into obstructed vision and 
  Luke: Oh yeah? Yesterday was low tide. I thought that's best cuz you can see the rocks
  Eric: Seeing rocks is a bad thing. I mean, you want to be aware of where they are for sure. But rocks in your vision = no bueno
  Luke: well I'd rather seem than** run into them. When the tide is out you're not surfing over the rocks",3.88,0,3.88,56.95,1.533067584,3.847376347,4.192974091,2.581417561,10.000000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,0,"","",佩顿给麦克斯提供了卖衣服的网站。他喜欢浏览、试穿衣服，但不一定都会买。他经常买衣服和书，因为他也喜欢阅读。,马克斯会去佩顿的服装店买东西。,"Max: Know any good sites to buy clothes from?
+mBART-large,0,"","",佩顿给麦克斯提供了卖衣服的网站。他喜欢浏览、试穿衣服，但不一定都会买。他经常买衣服和书，因为他也喜欢阅读。,马克斯会去佩顿的服装店买东西。,"Max: Know any good sites to buy clothes from?
  Payton: Sure :) <file_other> <file_other> <file_other> <file_other> <file_other> <file_other> <file_other>
  Max: That's a lot of them!
  Payton: Yeah, but they have different things so I usually buy things from 2 or 3 of them.
@@ -3375,7 +3375,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,0,"","",佩顿给麦克斯提�
  Payton: Everything I can get my hands on :)
  Max: Srsly?
  Payton: Yup :)",18.18,0.0,13.64,71.03,2.782179356,3.165592432,3.637459993,3.170931578,0.283019
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,1,"","",凯利很害怕芬兰雕塑花园里的人物，因为她觉得那些人物的脸非常病态。对奥利来说，这就像日本的人偶村，令人毛骨悚然。,凯莉和米基要去日本纳戈罗村。,"Ollie: Okay, Kelly! Ur up nxt!
+mBART-large,1,"","",凯利很害怕芬兰雕塑花园里的人物，因为她觉得那些人物的脸非常病态。对奥利来说，这就像日本的人偶村，令人毛骨悚然。,凯莉和米基要去日本纳戈罗村。,"Ollie: Okay, Kelly! Ur up nxt!
  Kelly: Me? I don't wanna.
  Mickey: C'mon!
  Jessica: Yeah! What's yours?
@@ -3403,7 +3403,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,1,"","",凯利很害怕芬兰�
  Kelly: Yeah, me too. Bye!
  Jessica: Bye!
  Ollie: Cu!",9.52,0.0,9.52,60.94,1.262564659,4.237750053,4.387088776,2.593000889,0.254545
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,2,"","",贝拉和埃里克拒绝了一个客户的要求。他们老板很赞赏这个决定。他会吸引新的客户来。,埃里克和贝拉对老板的反应感到惊讶。,"Eric: Hey Bella, What happened today in boss's room?? Was he angry??
+mBART-large,2,"","",贝拉和埃里克拒绝了一个客户的要求。他们老板很赞赏这个决定。他会吸引新的客户来。,埃里克和贝拉对老板的反应感到惊讶。,"Eric: Hey Bella, What happened today in boss's room?? Was he angry??
  Bella: NO NO!!! He wasn't angry at all.. He actually appreciated on our brave deccision to dismiss the request of client..
  Eric: REALLY!! He appreciated this decision..
  Bella: Yeah he really did.. I too was astounded by his reaction...
@@ -3411,10 +3411,10 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,2,"","",贝拉和埃里克拒�
  Bella: What he told me was that he was looking forward to bring in new clients which were our current client's competitor..
  Eric: Oh that could possibly be the reason.Well anyways you got appreciation xD congo 
  Bella: hahaha Blessing in disguise xD",31.25,0.0,18.75,71.09,2.714427471,3.287241697,3.365443945,2.545741081,0.435897
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,3,"","",玛丽的钱用完了，卡特打算一小时后借给她一点。,玛丽要卡特借几箱钱。卡特在火车站。,"Mary: hey, im kinda broke, lend me a few box
+mBART-large,3,"","",玛丽的钱用完了，卡特打算一小时后借给她一点。,玛丽要卡特借几箱钱。卡特在火车站。,"Mary: hey, im kinda broke, lend me a few box
  Carter: okay, give me an hour, im at the train station
  Mary: cool, thanks",32.0,8.7,32.0,71.71,3.322364092,4.623607635,4.693160057,4.288039207,0.772727
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,4,"","",杰克和梅一会儿要喝鸡尾酒。,杰克和梅今天会喝几杯鸡尾酒。,"Jack: Cocktails later?
+mBART-large,4,"","",杰克和梅一会儿要喝鸡尾酒。,杰克和梅今天会喝几杯鸡尾酒。,"Jack: Cocktails later?
  May: YES!!!
  May: You read my mind...
  Jack: Possibly a little tightly strung today?
@@ -3422,7 +3422,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,4,"","",杰克和梅一会儿�
  Jack: Thought so.
  May: A little drink will help!
  Jack: Maybe two!",66.67,30.77,66.67,88.28,1.355673790,2.299840450,2.153730869,1.478765249,1.076923
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,5,"","",约瑟夫给艾拉发了一张乌耶克·雅内克家双胞胎奶牛的照片，艾拉很高兴。,"约瑟夫给艾拉发了一张小奶牛的照片。艾拉给约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛","Joseph: It's fuzzy but I think you can recognize what's that(^_-)-☆
+mBART-large,5,"","",约瑟夫给艾拉发了一张乌耶克·雅内克家双胞胎奶牛的照片，艾拉很高兴。,"约瑟夫给艾拉发了一张小奶牛的照片。艾拉给约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛","Joseph: It's fuzzy but I think you can recognize what's that(^_-)-☆
  Joseph: <file_photo>
  Ella: Ooooo
  Ella: Baby cows??(/◕ヮ◕)/(/◕ヮ◕)/(/◕ヮ◕)/
@@ -3431,7 +3431,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,5,"","",约瑟夫给艾拉发�
  Joseph: Oh yeah, sorry Twins*
  Ella: Good for him!! So cool❤️❤️
  Ella: Wanna touch them❤️❤️❤️",20.56,15.24,18.69,73.06,3.684649467,4.688859940,4.838646889,4.839158058,4.727273
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,6,"","",之前阿黛尔得到了一只新的可爱的拉布拉多狗，4个月大，名叫秋伊。她的猫咪们和她保持着距离，而小狗波比和露露都很像它们的妈妈秋伊和斯皮迪，都想出去玩。,"阿黛尔养了一只小狗,名叫骨头。","Lola: hey girlfriend, what's up?
+mBART-large,6,"","",之前阿黛尔得到了一只新的可爱的拉布拉多狗，4个月大，名叫秋伊。她的猫咪们和她保持着距离，而小狗波比和露露都很像它们的妈妈秋伊和斯皮迪，都想出去玩。,"阿黛尔养了一只小狗,名叫骨头。","Lola: hey girlfriend, what's up?
  Adele: Oh, hi Lols, not much.
  Adele: got a new dog.
  Lola: another one?
@@ -3447,26 +3447,26 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,6,"","",之前阿黛尔得到�
  Lola: haha. true though.
  Adele: I know, right. Anyway, called him Bones. He's so plump it kinda fit.
  Lola: cute. can't wait to see him.",18.52,7.69,14.81,70.56,3.297068834,3.044372559,3.538498163,3.181971788,0.205479
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,7,"","",琳达和劳拉明天要去一家意大利餐馆。,琳达和劳拉明天要去一家意大利餐厅。,"Laura: where will we go tommorow?
+mBART-large,7,"","",琳达和劳拉明天要去一家意大利餐馆。,琳达和劳拉明天要去一家意大利餐厅。,"Laura: where will we go tommorow?
  Linda: maybe this italian restaurant?
  Laura: hmm ok
  Linda: i love their pasta
  Linda: and brownie :)
  Laura: i thouht you dont eat sweets
  Linda: this brownie is not so sweet",88.89,87.5,88.89,99.46,2.073270321,2.858272552,2.863378525,2.209657669,1.000000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,8,"","",米娅今晚下班后要和她的女性朋友一起出去。如果她愿意，艾略特会来接她。,米娅和埃利奥特今晚要出去。他们要出去喝一杯。埃利奥特会去接米娅。,"Mia: babe, do you mind if i go out after work tonight?
+mBART-large,8,"","",米娅今晚下班后要和她的女性朋友一起出去。如果她愿意，艾略特会来接她。,米娅和埃利奥特今晚要出去。他们要出去喝一杯。埃利奥特会去接米娅。,"Mia: babe, do you mind if i go out after work tonight?
  Elliot: yeah, sure. go for it ;) 
  Mia: thanks, babe. it's gonna be girls night out 
  Elliot: what're u up to?
  Mia: well, you know we gonna grab some drinks have some nice time outside of work
  Elliot: don't be too late please and if you need me to pick u up just give me a ring",38.89,5.88,33.33,74.53,3.267544031,4.172677517,4.184740067,3.776502848,0.941176
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,9,"","",瑞安和塞巴斯蒂安担心乌克兰的政治局势。,瑞安和塞巴斯蒂安对乌克兰感到失望。,"Ryan: I have a bad feeling about this
+mBART-large,9,"","",瑞安和塞巴斯蒂安担心乌克兰的政治局势。,瑞安和塞巴斯蒂安对乌克兰感到失望。,"Ryan: I have a bad feeling about this
  Ryan: <file_other>
  Sebastian: Ukraine...
  Sebastian: This russian circus will never end...
  Ryan: I hope the leaders of of nations will react somehow to this shit.
  Sebastian: I hope so too :(",57.14,33.33,57.14,85.38,1.481430531,4.273035049,3.946722269,1.986217499,0.894737
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,10,"","",费恩和查蒂明天2点去象堡，他们会在正门碰头。,扎迪和芬要去一家叫“象牙城”的购物中心。他们将在2点左右在主入口处见面。,"Finn: Hey
+mBART-large,10,"","",费恩和查蒂明天2点去象堡，他们会在正门碰头。,扎迪和芬要去一家叫“象牙城”的购物中心。他们将在2点左右在主入口处见面。,"Finn: Hey
  Zadie: Hi there! What's up?
  Finn: All fine. You? 
  Zadie: Not bad, thanks 
@@ -3490,12 +3490,12 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,10,"","",费恩和查蒂明天
  Zadie: Yep Call me if you get lost
  Finn: I will I will 🤙 byeeee 
  Zadie: Toodles",22.86,6.06,17.14,72.43,2.726076603,3.878701925,4.169811249,3.773244619,1.636364
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,11,"","",汤姆下午2点会在椭圆形会议室与本会面。他会先告诉对方把文件带来。,汤姆和本将在下午2点在椭圆形房间见面。他们将进行一场战斗。,"Tom: Ben. We've decided. 2pm in the Oval Room.
+mBART-large,11,"","",汤姆下午2点会在椭圆形会议室与本会面。他会先告诉对方把文件带来。,汤姆和本将在下午2点在椭圆形房间见面。他们将进行一场战斗。,"Tom: Ben. We've decided. 2pm in the Oval Room.
  Ben: Ok, I'll be there
  Tom: Take all your papers, it's going to be a fight! And remember: take no prisoners, shoot to kill!
  Ben: hahaha, we have to win this battle.
  Tom: We will, the justice is on our side.",38.89,11.76,33.33,76.82,2.866280079,4.146781921,4.041984558,2.503079891,0.906250
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,12,"","",艾略特现在没空和乔丹说话，他很忙。晚上6点他会给乔丹回电话。乔丹要去参加布拉德的葬礼，布拉德因肝癌去世了。,乔丹要去参加他的同事布拉德的葬礼。布拉德患有肝癌。埃利奥特晚上8点会给乔丹打电话。,"Elliot: i can't talk rn, i'm rly busy
+mBART-large,12,"","",艾略特现在没空和乔丹说话，他很忙。晚上6点他会给乔丹回电话。乔丹要去参加布拉德的葬礼，布拉德因肝癌去世了。,乔丹要去参加他的同事布拉德的葬礼。布拉德患有肝癌。埃利奥特晚上8点会给乔丹打电话。,"Elliot: i can't talk rn, i'm rly busy
  Elliot: can i call u back in about 2 hours?
  Jordan: Not really, I'm going to a funeral.
  Jordan: I'll call you tonight, ok?
@@ -3505,22 +3505,22 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,12,"","",艾略特现在没空
  Jordan: I told you about him, he had a liver cancer.
  Elliot: i'm so sorry man, i hope u're ok
  Elliot: i'll call u at 8 pm",53.57,29.63,35.71,83.25,3.123049259,4.067075253,4.088306427,3.557396889,0.773585
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,13,"","",弗洛要到6号才能预约到做头发。她担心自己头发会变成灰色，所以必须在特易购买一套补色工具。,弗洛必须在6号前去理发店。,"Flo: OMG, I can't get into the salon until the 6th!
+mBART-large,13,"","",弗洛要到6号才能预约到做头发。她担心自己头发会变成灰色，所以必须在特易购买一套补色工具。,弗洛必须在6号前去理发店。,"Flo: OMG, I can't get into the salon until the 6th!
  Gina: What? Why?
  Flo: They're just too busy. I'm going to be gray! LOL!
  Gina: Get you a touch-up kit at Tesco!
  Flo: Gonna have to!",29.41,12.5,17.65,71.7,2.790063381,4.763585091,4.566149712,3.128115416,0.295455
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,14,"","",根据杰克所说，理应由大卫承担责任。等杰克回家后他们再谈。,大卫和杰基昨天对大多数事情都持了正确的态度。杰基回家后会给大卫打电话。,"Jacky: I think you were right yesterday. 
+mBART-large,14,"","",根据杰克所说，理应由大卫承担责任。等杰克回家后他们再谈。,大卫和杰基昨天对大多数事情都持了正确的态度。杰基回家后会给大卫打电话。,"Jacky: I think you were right yesterday. 
  David: What about? I'm right about most things :P
  Jacky: Yeah, whole you ;)
  Jacky: About taking the blame etc. 
  David: Okey, I remeber. We'll talk later?
  Jacky: With pleasure. I'll call you when I get home.",17.14,0.0,17.14,66.52,2.338574409,4.103478909,3.940204382,2.707733631,1.250000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,15,"","",阿黛尔放学后得打扫仓鼠笼。,艾黛尔没打扫仓鼠笼。皮特放学后打扫了。,"Pete: Did you clean the hamster cage?
+mBART-large,15,"","",阿黛尔放学后得打扫仓鼠笼。,艾黛尔没打扫仓鼠笼。皮特放学后打扫了。,"Pete: Did you clean the hamster cage?
  Adelle: No. Is it my turn?
  Pete: Yes. After school, no excuses.
  Adelle: Fine.",55.56,37.5,33.33,87.28,1.451961398,2.405750275,2.213283539,1.518676996,1.461538
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,16,"","",玛雅会在药房为伦道夫买5包耳塞。,玛雅会在药房给兰多夫买5包耳塞。,"Randolph: Honey
+mBART-large,16,"","",玛雅会在药房为伦道夫买5包耳塞。,玛雅会在药房给兰多夫买5包耳塞。,"Randolph: Honey
  Randolph: Are you still in the pharmacy?
  Maya: Yes
  Randolph: Buy me some earplugs please
@@ -3528,7 +3528,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,16,"","",玛雅会在药房为
  Randolph: 4 or 5 packs
  Maya: I'll get you 5
  Randolph: Thanks darling",80.0,66.67,80.0,95.28,1.989381790,2.615578651,2.494250536,1.961837292,1.000000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,17,"","",法蒂玛很担心詹森和艾琳。艾琳遇上了一些问题。但林肯不希望法蒂玛为别人操心太多。,林肯、法蒂玛和詹森去了一个关于艾琳的聚会。法蒂玛认为艾琳可能患有抑郁症。,"Lincoln: Heeyyy ;* whats up
+mBART-large,17,"","",法蒂玛很担心詹森和艾琳。艾琳遇上了一些问题。但林肯不希望法蒂玛为别人操心太多。,林肯、法蒂玛和詹森去了一个关于艾琳的聚会。法蒂玛认为艾琳可能患有抑郁症。,"Lincoln: Heeyyy ;* whats up
  Fatima: I talked to Jenson, he’s not too happy ;p
  Lincoln: the place sucks??
  Fatima: No, the place is ok, I think, we can go there, it’s about Alene
@@ -3552,7 +3552,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,17,"","",法蒂玛很担心詹
  Fatima: Probably, true… Well I can be just grateful o.o
  Lincoln: do that and stop worrying about others, youre way to bautful for that <3
  Fatima: :*:*:*",47.62,0.0,23.81,72.36,3.363484383,3.042096376,3.408021450,3.002865553,0.923077
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,18,"","",米科和杰夫要去参加村里的聚会，杰夫开车。,杰夫、莉娅、米科和吉姆要去参加一个乡村派对。,"Jeff: Should we go to the village party?
+mBART-large,18,"","",米科和杰夫要去参加村里的聚会，杰夫开车。,杰夫、莉娅、米科和吉姆要去参加一个乡村派对。,"Jeff: Should we go to the village party?
  Lia: I'm too tired after hiking
  Mico: I'd like to go, there may be some hot boys!
  Lia: I doubt
@@ -3569,7 +3569,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,18,"","",米科和杰夫要去
  Mico: would be nice, hahah
  Jeff: not excited, but ok
  Mico: thanks!",56.0,26.09,40.0,80.43,2.975368023,3.358061790,3.874364853,3.516910315,1.100000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,19,"","",艾拉没有接哈利的电话。在哈利的请求下，辛迪给艾拉打了电话。,辛迪和埃拉发生了另一场争执。辛迪现在可以给埃拉打电话。,"Harry: heyyyy are you there??
+mBART-large,19,"","",艾拉没有接哈利的电话。在哈利的请求下，辛迪给艾拉打了电话。,辛迪和埃拉发生了另一场争执。辛迪现在可以给埃拉打电话。,"Harry: heyyyy are you there??
  Cindy: Yes dear what is it?
  Harry: Can you call Ela and tell her i need to talk urgent please pick my call.
  Cindy: what happened now? an other fight :O
@@ -3581,18 +3581,18 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,19,"","",艾拉没有接哈利
  Cindy: Hate you seriously man.
  Harry: Thank you
  Cindy: Done you can call her now.",23.53,6.25,17.65,73.07,2.553472042,4.946052551,4.945017815,4.846244812,0.931034
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,20,"","",肯恩正试图捉弄格雷格。,肯想让格雷格拿回他的钱。,"Ken: Fuck you, you pimp
+mBART-large,20,"","",肯恩正试图捉弄格雷格。,肯想让格雷格拿回他的钱。,"Ken: Fuck you, you pimp
  Greg: What?
  Ken: Fuck you man, I want my money back
  Greg: Was your account hacked by some prankster?
  Ken: No, I'm the prankster, just having a laugh at your expense
  Greg: Well, fuck you too then XD",16.67,0.0,16.67,76.39,2.294545412,4.821699142,4.864399910,4.626416683,1.090909
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,21,"","",西蒙五分钟后会和阿德里安谈一谈。,"西蒙不会说话,因为他五点钟有空。","Adrian: Can you talk?
+mBART-large,21,"","",西蒙五分钟后会和阿德里安谈一谈。,"西蒙不会说话,因为他五点钟有空。","Adrian: Can you talk?
  Simon: Not really, anything important?
  Adrian: Not that much.
  Simon: I'll be free at 5
  Adrian: i'll you then",14.29,0.0,14.29,63.32,2.276015759,4.951228142,4.942491531,4.794196129,1.000000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,22,"","",加布想在线下和凯特见一面。但是凯特不喜欢加布的要求，所以她不会再和他说话了。,加布和凯特打算在加布家见面喝一杯。,"Gab: Ah that's better. Now we can message all we like.
+mBART-large,22,"","",加布想在线下和凯特见一面。但是凯特不喜欢加布的要求，所以她不会再和他说话了。,加布和凯特打算在加布家见面喝一杯。,"Gab: Ah that's better. Now we can message all we like.
  Kat: :-)
  Gab: So when can we meet up for a drink?
  Kat: Fairly busy at the moment so I'm not sure when.
@@ -3609,7 +3609,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,22,"","",加布想在线下和
  Gab: Are you there?
  Gab: Where did you go?
  Gab: Kat?",23.53,6.25,23.53,73.4,2.198583126,4.954428673,4.943972588,4.824373245,0.447368
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,23,"","",阿加莎为自己感到骄傲，因为她已经完成了经济学相关的报告。她对经济学很感兴趣。,"阿加莎的报告已经准备好了,她正在上经济学课。","Agatha: My presentation is ready as we speak :)
+mBART-large,23,"","",阿加莎为自己感到骄傲，因为她已经完成了经济学相关的报告。她对经济学很感兴趣。,"阿加莎的报告已经准备好了,她正在上经济学课。","Agatha: My presentation is ready as we speak :)
  Adam: oh cool, what course?
  Agatha: Economics.
  Adam: Is it interesting? I mean... your presentation.
@@ -3617,12 +3617,12 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,23,"","",阿加莎为自己感
  Adam: Sounds like you know what you're doing :P
  Agatha: I'm just really into economics :)
  Adam: no doubt about that",48.48,12.9,36.36,73.65,1.938710451,2.463255882,2.508587599,1.984101534,0.578947
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,24,"","",凯恩向香农推荐30秒上火星乐队的新专辑。,香农推荐凯恩听听听《30 Seconds to March》。,"Kane: have you heard the new 30 seconds to mars album?
+mBART-large,24,"","",凯恩向香农推荐30秒上火星乐队的新专辑。,香农推荐凯恩听听听《30 Seconds to March》。,"Kane: have you heard the new 30 seconds to mars album?
  Shannon: no, is it good?
  Kane: you should so check it out
  Shannon: ok thanks for the recommendation
  Kane: no prob",33.33,9.09,25.0,70.32,1.806120992,3.097413778,2.667104959,1.958136320,1.400000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,25,"","",米兰达昨天打电话给汤姆，很甜蜜地和他讲话。安妮很生她的气，因为她正在和汤姆约会。,"安妮讨厌米兰达,因为她昨天给汤姆打了电话。","Anne: I hate that bitch!
+mBART-large,25,"","",米兰达昨天打电话给汤姆，很甜蜜地和他讲话。安妮很生她的气，因为她正在和汤姆约会。,"安妮讨厌米兰达,因为她昨天给汤姆打了电话。","Anne: I hate that bitch!
  Catherine: What did she do again???
  Nora: Who's the bitch?
  Nora: Sorry I missed something
@@ -3632,7 +3632,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,25,"","",米兰达昨天打电
  Catherine: No way she did it!! How dare she!! She knows you guys are dating.
  Anne: I think that's why she did it. She wants to take Tom away from me.
  Nora: Oh, come on! She's not his type!",43.24,17.14,27.03,79.26,2.680433750,3.812200069,3.830722094,2.905334949,0.525000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,26,"","",莉莉和托马斯度过了一个美好的夜晚。托马斯是罗马尼亚人，来自一个非常富有的家庭。,莉莉和一个叫托马斯的罗马尼亚人度过了一个美好的夜晚。,"Lily: I spent an amazing night with this guy
+mBART-large,26,"","",莉莉和托马斯度过了一个美好的夜晚。托马斯是罗马尼亚人，来自一个非常富有的家庭。,莉莉和一个叫托马斯的罗马尼亚人度过了一个美好的夜晚。,"Lily: I spent an amazing night with this guy
  Kate: What's his name?
  Lily: Thomas
  Kate: Is he English?
@@ -3647,13 +3647,13 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,26,"","",莉莉和托马斯度
  Lily: In everything. I've had so much pleasure that I have a headache
  Kate: I'm glad to read that. You deserved some fun after the last weeks.
  Lily: haha, I agree!",74.29,42.42,51.43,85.74,2.604447126,3.944193840,3.982151270,2.705586433,0.666667
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,27,"","",杰克预定了三张明天晚上七点的票。他能享受七折优惠。,杰克为明天晚上7点预订了3张工作场地票。,"Bob: did you reserve the tickets for tomorrow?
+mBART-large,27,"","",杰克预定了三张明天晚上七点的票。他能享受七折优惠。,杰克为明天晚上7点预订了3张工作场地票。,"Bob: did you reserve the tickets for tomorrow?
  Melanie: Jake promised me he will do that
  Melanie: he has some workplace discount on them
  Bob: Jake are you here?? Did you reserve the tickets?
  Jake: yes I did, 3 tickets for tomorrow, 7 pm
  Jake: and we got a 30% discount on them too :)",37.04,8.0,29.63,81.34,3.047861099,3.219581127,3.036199808,2.480778694,0.800000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,28,"","",彼得最近一直在他们办公室附近的健身房锻炼以改善健康状况。为了更健康，丽莎正在考虑锻炼和更加合理饮食。,丽莎想锻炼一下。彼得有健身俱乐部的会员资格。丽莎建议他多锻炼身体。丽莎建议他多睡觉。,"Lisa: Hello Peter. What have you been doing off late?
+mBART-large,28,"","",彼得最近一直在他们办公室附近的健身房锻炼以改善健康状况。为了更健康，丽莎正在考虑锻炼和更加合理饮食。,丽莎想锻炼一下。彼得有健身俱乐部的会员资格。丽莎建议他多锻炼身体。丽莎建议他多睡觉。,"Lisa: Hello Peter. What have you been doing off late?
  Peter: Bit busy with work.
  Lisa: Too much of work, huh?
  Peter: Not really, I’ve been working out
@@ -3667,7 +3667,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,28,"","",彼得最近一直在
  Peter: Another major requirement for good health is sleep. On an average one requires at least 7-8 hours of sleep.
  Lisa: There are a lot of things we can do to stay healthy.
  Peter: Yes. One needs to maintain a regime to stay healthy for a long term.",24.0,4.17,20.0,68.18,3.079861879,3.405360460,3.764969110,3.190762520,0.840000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,29,"","",杰西卡在市中心的二手商店买了一张桌子、六把椅子、一个花瓶和一堆衣服。这些一共花了70欧元。,杰西卡在市中心的二手店买了一张桌子、六张椅子、一瓶花和一大堆衣服。,"Jessica: I went to the second hand shop downtown 
+mBART-large,29,"","",杰西卡在市中心的二手商店买了一张桌子、六把椅子、一个花瓶和一堆衣服。这些一共花了70欧元。,杰西卡在市中心的二手店买了一张桌子、六张椅子、一瓶花和一大堆衣服。,"Jessica: I went to the second hand shop downtown 
  Frank: Cool
  Raphael: What did you get?
  Jessica: Lots of stuff
@@ -3687,11 +3687,11 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,29,"","",杰西卡在市中心
  Jessica: As soon as I saw it I knew it would be mine
  Jessica: I'm so happy with what I bought
  Jessica: And the best is I paid only 70 euros for all of that!!",62.22,37.21,57.78,90.97,4.063908577,4.138125896,4.294858932,3.741244793,0.733333
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,30,"","",卢西恩不在家。德西蕾希望卢西恩把她的意大利面放在微波炉里。,德西里想让卢西安把意大利面放在微波炉里。卢西安还没有做饭。,"Desiree: U both at home?
+mBART-large,30,"","",卢西恩不在家。德西蕾希望卢西恩把她的意大利面放在微波炉里。,德西里想让卢西安把意大利面放在微波炉里。卢西安还没有做饭。,"Desiree: U both at home?
  Lucian: No. I've just got ur msg. Why did u ask about it?
  Desiree: No reason. Keep my pasta in the microwave
  Lucian: I haven't cooked anything",42.42,25.81,36.36,84.3,2.842496395,4.782608032,4.785410881,4.472670078,1.000000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,31,"","",艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。,艾米丽、凯特和玛尔塔今天五点半要去中央车站x酒吧喝一杯。,"Emily: fancy a drink after work today?
+mBART-large,31,"","",艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。,艾米丽、凯特和玛尔塔今天五点半要去中央车站x酒吧喝一杯。,"Emily: fancy a drink after work today?
  Kate: sure!
  Marta: Good idea! 
  Marta: Where? When?
@@ -3701,11 +3701,11 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,31,"","",艾米丽、凯特和
  Marta: See you then, Ladies!
  Emily: Bye! see ya :*
  Kate: :*",75.86,51.85,75.86,94.06,3.391972542,3.543252945,3.711133718,3.085014343,1.120000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,32,"","",今天玛丽没有去上学，她就待在家里。,"玛丽今天没去上学,所以她呆在家里。","Mary: Hi my friend :*
+mBART-large,32,"","",今天玛丽没有去上学，她就待在家里。,"玛丽今天没去上学,所以她呆在家里。","Mary: Hi my friend :*
  Alice: U re not at school?
  Mary: No i stayed at home today.
  Alice: Lucky u!",60.0,22.22,50.0,92.2,2.767001629,4.121089935,3.796085119,3.093449116,1.000000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,33,"","",克莉丝汀病了，明天不来上学了。安妮会把西拉夫的香囊放在邮箱里。克莉丝汀不想把病传染给她。,"克莉丝汀感冒了,她明天不去上学了。她感冒了。安妮会给克莉丝汀一些热感冒药。","Annie: Are you going to be at school?
+mBART-large,33,"","",克莉丝汀病了，明天不来上学了。安妮会把西拉夫的香囊放在邮箱里。克莉丝汀不想把病传染给她。,"克莉丝汀感冒了,她明天不去上学了。她感冒了。安妮会给克莉丝汀一些热感冒药。","Annie: Are you going to be at school?
  Christine: Not tomorrow. I am not well.
  Annie: Oh noes! What happened?
  Christine: Got the flu, I think.
@@ -3719,7 +3719,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,33,"","",克莉丝汀病了，
  Christine: Yeah. Don't call in because I'll feel bad if you catch this cold off me.
  Annie: I think I probably had it already, but you might be sleeping.
  Christine: If the light in my room is on, call if you want.",50.98,24.49,43.14,78.94,3.968817234,4.154882908,4.419750214,4.019822121,0.840909
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,34,"","",沙尔多纳通过手机发送了婚礼邀请，因为她没有时间亲自去送邀请函。,"沙尔多娜要结婚了,但她没有时间亲自送邀请卡。","Shaldona: WE ARE GONNA GET MARRIED ❤️❤️
+mBART-large,34,"","",沙尔多纳通过手机发送了婚礼邀请，因为她没有时间亲自去送邀请函。,"沙尔多娜要结婚了,但她没有时间亲自送邀请卡。","Shaldona: WE ARE GONNA GET MARRIED ❤️❤️
  Shaldona: <file_others>
  Shaldona: This is our mobile inviation for our wedding.
  Shaldona: Invitation*
@@ -3732,17 +3732,17 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,34,"","",沙尔多纳通过手
  Shaldona: Hope you understand.
  Piper: If you don't have time to give the invitation card in person but expect people go to your wedding
  Piper: Shaldona, if so, you are too greedy.",45.16,20.69,45.16,83.06,3.215148449,4.088059425,4.240790844,4.126367569,0.709677
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,35,"","",康拉德忘了带钥匙，所以回不了家。瑞贝卡和蒂芙妮回来得晚，他得在咖啡厅等。,康拉德忘了带钥匙。他会在咖啡店等蒂芙妮和丽贝卡。,"Conrad: I'm outside the house
+mBART-large,35,"","",康拉德忘了带钥匙，所以回不了家。瑞贝卡和蒂芙妮回来得晚，他得在咖啡厅等。,康拉德忘了带钥匙。他会在咖啡店等蒂芙妮和丽贝卡。,"Conrad: I'm outside the house
  Conrad: I forgot my keys...
  Rebecca: 💩
  Tiffany: I'll be home at 10-11
  Rebecca: I'm coming back even later
  Conrad: Oh no...
  Conrad: I'll wait in the coffee shop",45.71,30.3,40.0,85.2,3.020132780,4.851704597,4.809212685,4.050263405,0.666667
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,36,"","",卢德米拉小时候最喜欢的恐龙是三角龙。,卢迪米拉有一只爬行动物。雅科波稍后会告诉她为什么爬行动物。,"Jacopo: hey, did you have a favorite dinosaur growing up?
+mBART-large,36,"","",卢德米拉小时候最喜欢的恐龙是三角龙。,卢迪米拉有一只爬行动物。雅科波稍后会告诉她为什么爬行动物。,"Jacopo: hey, did you have a favorite dinosaur growing up?
  Ludmila: yes, triceratops. why?
  Jacopo: i'll tell you why later.",8.33,0.0,8.33,65.87,2.462828159,4.117691994,3.357690811,2.434417963,1.611111
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,37,"","",在玛丽亚和妮可的建议下，克莱尔正在订购她的婚纱。,玛丽亚和妮可喜欢克莱尔的裙子。,"Claire: Check this out :)))
+mBART-large,37,"","",在玛丽亚和妮可的建议下，克莱尔正在订购她的婚纱。,玛丽亚和妮可喜欢克莱尔的裙子。,"Claire: Check this out :)))
  Claire: <file_other>
  Maria: !!
  Nicole: Absolutely perfect for you!!
@@ -3755,7 +3755,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,37,"","",在玛丽亚和妮可
  Nicole: I think you won't regret
  Maria: Don't hesitate, it's incredibly beauty!!
  Claire: Ok, if you say so :))",47.62,21.05,47.62,79.02,1.857773542,3.124198914,3.237626076,2.268554449,0.625000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,38,"","",米罗和他的父母说阿尔巴尼亚语。他的家人在20世纪90年代非法出境离开了阿尔巴尼亚。,"布伦达和布兰登昨天在聚会上遇到了米罗。米罗的父亲来自阿尔巴尼亚,在上世纪九十年代初从阿尔巴尼亚移民到美国。米罗的父亲来自海滨阿尔巴尼亚。米罗的父亲来自蒂拉纳。","Abby: Have you talked to Miro?
+mBART-large,38,"","",米罗和他的父母说阿尔巴尼亚语。他的家人在20世纪90年代非法出境离开了阿尔巴尼亚。,"布伦达和布兰登昨天在聚会上遇到了米罗。米罗的父亲来自阿尔巴尼亚,在上世纪九十年代初从阿尔巴尼亚移民到美国。米罗的父亲来自海滨阿尔巴尼亚。米罗的父亲来自蒂拉纳。","Abby: Have you talked to Miro?
  Dylan: No, not really, I've never had an opportunity
  Brandon: me neither, but he seems a nice guy
  Brenda: you met him yesterday at the party?
@@ -3776,7 +3776,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,38,"","",米罗和他的父母
  Abby: yes, and his father was among the people
  Dylan: scary but interesting
  Abby: very!",29.03,0.0,19.35,74.18,2.675416231,3.030648708,3.312504530,2.540234566,1.926829
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,39,"","",丹、蒂姆、克里斯和马丁8点碰面。丹和马丁这次会放松一下。汤姆来不了，因为他岳父岳母家有个聚会。,丹、蒂姆、克里斯、汤姆和马丁周六要去参加一个聚会。,"Dan: Guys, so are we going out on Sat?
+mBART-large,39,"","",丹、蒂姆、克里斯和马丁8点碰面。丹和马丁这次会放松一下。汤姆来不了，因为他岳父岳母家有个聚会。,丹、蒂姆、克里斯、汤姆和马丁周六要去参加一个聚会。,"Dan: Guys, so are we going out on Sat?
  Tim: I'm ready when you are
  Chris: I'm OK too, in the centre right?
  Tom: I'm out guys sorry. 
@@ -3792,7 +3792,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,39,"","",丹、蒂姆、克里
  Chris: Tim, are the last two standing or what?
  Tim: i gather
  Dan: you two will also grow up one day.",44.44,27.91,40.0,77.0,1.888975859,3.782048464,3.980650187,2.522383213,0.531915
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,40,"","",迪玛的笔记本电脑坏了，因为她的猫把咖啡洒在笔记本电脑上。 迪玛很担心，因为她明天必须为trados提供翻译。一个小时后迪玛会来纳达家，借纳达的笔记本电脑。,"迪玛的笔记本电脑坏了,她明天九点要交翻译。她想借给娜达的笔记本电脑。娜达把笔记本电脑给了她的哥哥。迪玛一小时后会来取笔记本电脑。","Dima: hello! 
+mBART-large,40,"","",迪玛的笔记本电脑坏了，因为她的猫把咖啡洒在笔记本电脑上。 迪玛很担心，因为她明天必须为trados提供翻译。一个小时后迪玛会来纳达家，借纳达的笔记本电脑。,"迪玛的笔记本电脑坏了,她明天九点要交翻译。她想借给娜达的笔记本电脑。娜达把笔记本电脑给了她的哥哥。迪玛一小时后会来取笔记本电脑。","Dima: hello! 
  Nada: hey girl, what's up?
  Dima: I'm in a huge trouble, my laptop is broken and I have to deliver a translation tomorrow @9 😱😱
  Nada: fuck what happened??
@@ -3806,7 +3806,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,40,"","",迪玛的笔记本电
  Dima: yup, true !
  Dima: can I come in an hour to pick it up?
  Nada: yes :) ttyl!",51.35,25.0,37.84,80.47,4.830294609,4.151448250,4.256240845,4.361533642,0.842105
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,41,"","",杰瑞40分钟后到家。,杰瑞40分钟后会到珍妮特家。珍妮特的老板有时很烦人。,"Jerry: Hi sweetie :)
+mBART-large,41,"","",杰瑞40分钟后到家。,杰瑞40分钟后会到珍妮特家。珍妮特的老板有时很烦人。,"Jerry: Hi sweetie :)
  Janet: Hi sugar ;)
  Jerry: I'm coming home
  Janet: Can't wait ;)
@@ -3818,7 +3818,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,41,"","",杰瑞40分钟后到�
  Janet: Yes she can! ;)
  Jerry: See you later darling
  Janet: <3",50.0,22.22,50.0,79.7,2.652403355,4.593513489,4.519863129,3.824852705,2.600000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,42,"","",娜塔莉怀了戴夫的孩子。简认为萨莉不应该告诉别人，因为娜塔莉是私下告诉他们的。亨利埃特和格雷格很惊讶，孩子的父亲居然是戴夫而不是迈克。,简和格雷格对娜塔莉的八卦很感兴趣。娜塔莉怀孕了。她的父亲是迈克。,"Sally: Hi guys have you heard about Natalie?
+mBART-large,42,"","",娜塔莉怀了戴夫的孩子。简认为萨莉不应该告诉别人，因为娜塔莉是私下告诉他们的。亨利埃特和格雷格很惊讶，孩子的父亲居然是戴夫而不是迈克。,简和格雷格对娜塔莉的八卦很感兴趣。娜塔莉怀孕了。她的父亲是迈克。,"Sally: Hi guys have you heard about Natalie?
  Tom: No. What about her?
  Jane: You're such a gossip girl, Sally!
  Sally: Come on! I'm sure you're all curious.
@@ -3835,11 +3835,11 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,42,"","",娜塔莉怀了戴夫
  Sally: Dave!!! 
  Henriette: WHAT????
  Greg: That's insane!",39.29,3.7,32.14,72.43,2.945960522,3.690025806,3.845680237,3.317949057,0.484848
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,43,"","",丽莎还没回家，黛西想要她晚上11点前回来。,黛西想在晚上11点前回家。丽莎还没回家。,"Daisy: going home?
+mBART-large,43,"","",丽莎还没回家，黛西想要她晚上11点前回来。,黛西想在晚上11点前回家。丽莎还没回家。,"Daisy: going home?
  Lisa: not yet
  Daisy: please be back before 11 pm
  Lisa: ok",69.57,57.14,34.78,88.73,2.681720257,2.722105742,2.907267332,2.768266678,0.952381
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,44,"","",辛迪很伤心，但不愿意说出原因。艾莉还没看那个疯传的搞笑视频。,"辛迪很伤心,因为发生了一些事,她不想谈论这件事。","Cindy: <file_gif>
+mBART-large,44,"","",辛迪很伤心，但不愿意说出原因。艾莉还没看那个疯传的搞笑视频。,"辛迪很伤心,因为发生了一些事,她不想谈论这件事。","Cindy: <file_gif>
  Ellie: Why are you so sad? Something’s happened?
  Cindy: I don’t want to talk about it…
  Ellie: Cheer up! Tomorrow’s another day 😊
@@ -3847,7 +3847,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,44,"","",辛迪很伤心，但
  Cindy: Have you seen it? It’s viral on the internet
  Ellie: Nope, but it’s very funny 😊
  Ellie: <file_gif>",29.41,18.75,29.41,68.75,4.029466152,4.943325043,4.930007935,4.460193634,0.800000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,45,"","",本不会和凯瑟琳一起去看望史蒂夫叔叔。他会去看望凯瑟琳和孩子们。,凯瑟琳和本要去拜访史蒂夫叔叔。本不喜欢这种方式。,"Catherine: We're going to visit uncle Steve, want to come with us?
+mBART-large,45,"","",本不会和凯瑟琳一起去看望史蒂夫叔叔。他会去看望凯瑟琳和孩子们。,凯瑟琳和本要去拜访史蒂夫叔叔。本不喜欢这种方式。,"Catherine: We're going to visit uncle Steve, want to come with us?
  Ben: why would I?
  Catherine: He's family and we haven't seen him in a long time.
  Ben: you know very well that I'm not fond of such visits
@@ -3874,7 +3874,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,45,"","",本不会和凯瑟琳
  Catherine: But still the part about the boys missing you was true
  Catherine: So come and visit them when you'll have the chance
  Ben: I will",46.67,21.43,33.33,77.54,3.794450521,3.586933613,3.992335081,3.795386791,0.774194
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,46,"","",史蒂夫很高兴他装了一台新的洗碗机。,妈妈给史蒂夫安装了一台洗碗机。,"Steve: hiya the dishwasher has turned up
+mBART-large,46,"","",史蒂夫很高兴他装了一台新的洗碗机。,妈妈给史蒂夫安装了一台洗碗机。,"Steve: hiya the dishwasher has turned up
  Mum: good did they install it for you
  Steve: yes they did a good job
  Steve: <file_photo>
@@ -3886,7 +3886,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,46,"","",史蒂夫很高兴他
  Steve: no every other
  Mum: yes I'm glad you are pleased with it xx
  Steve: I am thanks mum xxx",50.0,14.29,50.0,82.15,2.337402344,3.855615377,3.884388208,3.320119619,0.882353
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,47,"","",茱莉亚上周去了考文特花园附近的kohaku咖啡馆，但现在这家店关门了，这让她和亨利大吃一惊。她联系了店主，但还没收到回复。亨利和他的表妹最后去了莉莉家，但那里的气氛不一样。,"亨利想预定咖啡馆,但是咖啡馆的facebook页面不见了。朱莉娅和她的表妹去了ligly's,但那里的房租太贵了。亨利和朱莉娅去了ligly's。","Henry: Do you know what happened to cafe Kohaku?
+mBART-large,47,"","",茱莉亚上周去了考文特花园附近的kohaku咖啡馆，但现在这家店关门了，这让她和亨利大吃一惊。她联系了店主，但还没收到回复。亨利和他的表妹最后去了莉莉家，但那里的气氛不一样。,"亨利想预定咖啡馆,但是咖啡馆的facebook页面不见了。朱莉娅和她的表妹去了ligly's,但那里的房租太贵了。亨利和朱莉娅去了ligly's。","Henry: Do you know what happened to cafe Kohaku?
  Julia: The one near Covent Garden?
  Henry: Yeah. I wanted to reserve a table, but I can't find them anywhere. Their Facebook page disappeared.
  Julia: I'm afraid they're closed :(
@@ -3901,7 +3901,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,47,"","",茱莉亚上周去了
  Henry: How was the Lilly's?
  Julia: It's all right, it's a different vibe though. I think you should go to the Japan Centre for the same
  Henry: Uhm, don't think so. It's always awfully crowded and there are more tourists than normal people like us",47.31,21.98,30.11,73.39,2.464019537,3.212378263,3.629264832,2.759820938,0.848837
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,48,"","",卡米拉和汤姆这个周末要去都柏林。,汤姆和卡米拉这周末要去都柏林两天。,"Tom: Have you ever been to Dublin?
+mBART-large,48,"","",卡米拉和汤姆这个周末要去都柏林。,汤姆和卡米拉这周末要去都柏林两天。,"Tom: Have you ever been to Dublin?
  Camilla: Never in Ireland!
  Tom: So let's go there this weekend!
  Camilla: for 2 days?
@@ -3909,18 +3909,18 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,48,"","",卡米拉和汤姆这
  Camilla: I love your crazy ideas!
  Tom: ok, so I'm buying the tickets
  Camilla: <3",82.35,40.0,58.82,93.44,1.620524764,3.716606617,3.146130085,1.957372189,1.062500
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,49,"","",杰森今天约了牙医，所以他没来。,杰森今天没来。杰森预约了牙医。,"Megan: Any word from Jason?
+mBART-large,49,"","",杰森今天约了牙医，所以他没来。,杰森今天没来。杰森预约了牙医。,"Megan: Any word from Jason?
  Nathan: Why do you ask?
  Megan: He was absent today :c
  Susy: He had a dental appointment.
  Megan: Thanks for the info :)",55.56,25.0,44.44,86.52,2.489193439,3.199855566,3.304942846,3.005995989,1.000000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,50,"","",到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,吉尔每天工作40到35个小时。,"Ally: how many did you do so far?
+mBART-large,50,"","",到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,吉尔每天工作40到35个小时。,"Ally: how many did you do so far?
  Jill: like 20 or 30
  Jill: I can't do more than 3-4 per day
  Ally: how many hours?
  Jill: 40? maybe 35...
  Ally: ok, same here",35.29,0.0,23.53,73.17,1.811356068,2.796926975,2.443172932,1.767888308,0.375000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,51,"","",詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。,"詹姆斯和艾米莉亚明天要去埃文斯教授的画展。米娅会和他们一起去,因为她不认识艾米莉亚。","James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
+mBART-large,51,"","",詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。,"詹姆斯和艾米莉亚明天要去埃文斯教授的画展。米娅会和他们一起去,因为她不认识艾米莉亚。","James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
  James: I'm talking about this guy who taught us ethics.
  James: Amelia recommends it :D
  Mia: No way...! :D Professor Evans and art exhibition :D What has happened to this world?
@@ -3943,7 +3943,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,51,"","",詹姆斯和米娅明
  Mia: Sounds good :) :*
  James: So we're good, right?
  Mia: Right. ;)",44.07,21.05,37.29,82.07,2.344622612,3.170104980,3.579042912,2.748843431,0.724138
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,52,"","",彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。,"史蒂芬研讨会的下一节稿子在打印店没有。亚瑟也去了,但稿子没有。丽塔明天早上会问是否有稿子。","Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?
+mBART-large,52,"","",彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。,"史蒂芬研讨会的下一节稿子在打印店没有。亚瑟也去了,但稿子没有。丽塔明天早上会问是否有稿子。","Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?
  Rita: No idea, sorry
  Chae-yeong: The only thing I know is that they were not yet there on Monday
  Arthur: Yer, I’ve made the mistake of going on Monday as well and I can confirm the texts were not there and the staff was as rude as always
@@ -3953,7 +3953,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,52,"","",彩英和亚瑟通知
  Chae-yeong: No worries
  Arthur: Yeah, just let us know if they’re ready, that’s a huge favour already
  Rita: Cool. Will do! xx",42.42,6.25,30.3,71.97,2.687309265,3.281435728,3.362022400,2.578125000,0.681818
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,53,"","",有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。,罗德尼、特鲁曼和罗斯对在校园里被殴打和抢劫的人感到震惊。,"Rodney: Have you heard a guy got beaten and mugged on campus?
+mBART-large,53,"","",有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。,罗德尼、特鲁曼和罗斯对在校园里被殴打和抢劫的人感到震惊。,"Rodney: Have you heard a guy got beaten and mugged on campus?
  Truman: Oh, man is he ok?
  Ross: Do they have any idea who did it?
  Rodney: They're gonna give an official statement about. There's also gonna be an article in the paper. As far as I know the assailant had a mask on.
@@ -3968,7 +3968,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,53,"","",有人在校园里遭
  Rodney: They don't give a fuck
  Ross: True that
  Truman: Hope they catch the guy soon",32.14,14.81,21.43,69.72,3.036589622,3.607667923,3.773799181,2.936125755,0.383562
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,54,"","",哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,"朱迪的女朋友在那里纹身,她花了1000 美元。","Javier: Hey do you know any tattoo parlors over here with English speaking employees?
+mBART-large,54,"","",哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,"朱迪的女朋友在那里纹身,她花了1000 美元。","Javier: Hey do you know any tattoo parlors over here with English speaking employees?
  Judie: Oh there's Warsaw ink
  Javier: the name sounds neat... have you had a tattoo done there?
  Judie: nope but my gf has
@@ -3979,7 +3979,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,54,"","",哈维尔最初很想
  Judie: it was a 1000
  Javier: fuck
  Javier: let me just get a tatttoo back in colombia then, thx",29.41,6.25,29.41,64.75,2.586500645,2.800255775,2.922630787,2.485916138,0.564103
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,55,"","",托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,佐伊和托马斯在热带天气。他们周日在贝尔琴山上散步。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
+mBART-large,55,"","",托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,佐伊和托马斯在热带天气。他们周日在贝尔琴山上散步。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
  Zoey: <file_gif>
  Thomas: LOL
  Thomas: Hi there in the tropics! How are you doing?
@@ -3991,7 +3991,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,55,"","",托马斯住的地方
  Thomas: <file_photo>
  Zoey: Gosh! That's pretty! You'll hear from us soon. Take care!
  Thomas: You too!",30.77,5.41,30.77,74.84,1.933831215,4.897323132,4.908100128,3.614304066,0.531915
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,56,"","",詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,下一次asEEEs会议将在旧金山召开。,"Emily: Does anybody now where the next ASEEES conference takes place?
+mBART-large,56,"","",詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,下一次asEEEs会议将在旧金山召开。,"Emily: Does anybody now where the next ASEEES conference takes place?
  Chloe: Actually I have no idea, but a good question
  James: I've heard somewhere in California
  James: Yes, San Francisco!
@@ -4000,7 +4000,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,56,"","",詹姆斯通知说下
  Chloe: why do you think so?
  James: The last conference there in 1993 was criticised for the high costs of traveling to the place
  Chloes: I see, pity",30.77,21.62,30.77,76.57,2.402767181,2.507826090,2.654252768,2.308356524,0.306452
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,57,"","",罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。,罗伯、格雷格、安娜和威尔要开始每天锻炼30分钟。,"Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.
+mBART-large,57,"","",罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。,罗伯、格雷格、安娜和威尔要开始每天锻炼30分钟。,"Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.
  Greg: way ahead of you mate! at least 60 min a day!
  Rob: good for you! 30 min a day is gonna be challenging for me!
  Greg: good luck then!
@@ -4008,14 +4008,14 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,57,"","",罗伯想开始每天
  Anna: i'm in! 30 min sounds reasonable! 
  Greg: look for variety of exercises such as walking, biking, swimming whatever you enjoy!
  Anna: i'm gonna need lots of support from you guys!",58.82,25.0,35.29,77.89,2.027363300,4.293515205,4.553894997,2.002716064,0.558140
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,58,"","",沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,沃克会带着他的xbox游戏机。,"Booker: dont forget to carry your Xbox console
+mBART-large,58,"","",沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,沃克会带着他的xbox游戏机。,"Booker: dont forget to carry your Xbox console
  Walker: i thought you dont like the console
  Walker: the grip is amazing
  Booker: haha, yeah it is
  Walker: okay then, ill come with one
  Booker: gaming all night is the plan
  Walker: yaas",36.36,20.0,36.36,78.98,2.375785589,4.003159046,4.114387989,3.603649855,0.468750
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,59,"","",马里奥正在卢森堡的机场候机。,马利奥今天在卢森堡的每一个机场都降落了。,"Mario: I’ve landed in every airport in Europe today - completely whacked out dude.
+mBART-large,59,"","",马里奥正在卢森堡的机场候机。,马利奥今天在卢森堡的每一个机场都降落了。,"Mario: I’ve landed in every airport in Europe today - completely whacked out dude.
  Klara: Where are you now?
  Mario: Waiting in Luxembourg now.
  Eddie: Have fun dude.
@@ -4023,16 +4023,16 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,59,"","",马里奥正在卢森
  Mario: weather was good for flying everywhere 🙂 Otherwise it would have been trains everywhere 🙂
  Moe: Mario be safe bro
  Mario: You too bro 🙂",33.33,12.5,33.33,81.67,2.252228260,4.907570839,4.892995358,3.040570259,1.428571
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,60,"","",约翰不确定今天是否有训练，但马特说有。,马特和约翰今天要练习。,"John: do we have practice today?
+mBART-large,60,"","",约翰不确定今天是否有训练，但马特说有。,马特和约翰今天要练习。,"John: do we have practice today?
  Matt: yea think so
  John: great thanks see ya there
  Matt: see ya",33.33,0.0,22.22,75.14,1.599450469,3.192947149,2.380756378,1.649447441,0.578947
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,61,"","",马丁完成计划后将给亚历克斯买两瓶牛奶。,马丁会给亚历克斯买两瓶牛奶。,"Alex: Hon, could you buy some milk?
+mBART-large,61,"","",马丁完成计划后将给亚历克斯买两瓶牛奶。,马丁会给亚历克斯买两瓶牛奶。,"Alex: Hon, could you buy some milk?
  Martin: You kiddin me, I just bought two yesterday
  Alex: Well, I have nothing for my defense, I'm just craving milk lately:D
  Martin: You're lucky that I love you, two milks coming up in couple of hours, I gotta finish the project
  Alex: You are my hero!",70.59,53.33,70.59,90.57,2.521783829,4.683188915,4.584491730,3.505254984,0.736842
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,62,"","",布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。,布莱尔和恰克将在诺娜丽塔家见面。布莱尔和恰克将在诺娜丽塔家见面。,"Blair: Remember we are seeing the wedding planner after work
+mBART-large,62,"","",布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。,布莱尔和恰克将在诺娜丽塔家见面。布莱尔和恰克将在诺娜丽塔家见面。,"Blair: Remember we are seeing the wedding planner after work
  Chuck: Sure, where are we meeting her?
  Blair: At Nonna Rita's
  Chuck: Can I order their seafood tagliatelle or are we just having coffee with her? I've been dreaming about it since we went there last month
@@ -4041,7 +4041,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,62,"","",布莱尔和恰克下
  Blair: Omg hahaha it was all over her white blouse
  Chuck: :D
  Blair: :P",20.51,10.81,20.51,72.76,2.470785141,3.401456356,3.353164911,2.443446636,0.727273
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,63,"","",科尔和路易斯坐在同一个房间里，却在发短信。,路易斯和科尔的室友在同一个房间。,"Cole: hey roomie XD XD
+mBART-large,63,"","",科尔和路易斯坐在同一个房间里，却在发短信。,路易斯和科尔的室友在同一个房间。,"Cole: hey roomie XD XD
  Luis: dude we are in the SAME DAMN ROOM
  Cole: its funny XD
  Luis: -_-
@@ -4052,7 +4052,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,63,"","",科尔和路易斯坐
  Cole: oh youre not gonna talk to your roommate now
  Luis: im not gonna text an idiot whos practically sitting just a few inches from me -_-
  Cole: xD",63.16,11.76,31.58,83.43,2.253954411,4.910867691,4.908542633,4.634258270,0.761905
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,64,"","",切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,"雅各布没有看切尔西的比赛,梅森整个下午都在忙着。达米安和雅各布认为哈德斯菲尔德是个好主意。","Damian: guys did u watch Chelsea game
+mBART-large,64,"","",切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,"雅各布没有看切尔西的比赛,梅森整个下午都在忙着。达米安和雅各布认为哈德斯菲尔德是个好主意。","Damian: guys did u watch Chelsea game
  Jacob: no
  Mason: nah, i was busy all afternoon
  Damian: Higuain scored twice! so happy for him
@@ -4063,7 +4063,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,64,"","",切尔西今天下午
  Damian: don't be like that, im happy for the team, maybe this will be a turning point
  Jacob: no, I don't think so
  Mason: ha good luck with that",34.62,16.0,26.92,71.16,2.778449774,3.272936344,3.550759315,2.640626431,0.900000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,65,"","",玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。,玛琳半小时后要去城里。巴里在凯撒店。他想给丽塔买个礼物。玛琳想买39美元的。,"Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.
+mBART-large,65,"","",玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。,玛琳半小时后要去城里。巴里在凯撒店。他想给丽塔买个礼物。玛琳想买39美元的。,"Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.
  Marleen: Text me here with your ideas for a present for her.
  Barry: But I've got none! I leave the choice entirely to you.
  Barry: I'm at home now.
@@ -4080,18 +4080,18 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,65,"","",玛伦半小时后就
  Barry: Oh come on. Not so bad.
  Marleen: Shall we go 50/50?
  Barry: OK",34.48,3.57,24.14,75.38,2.793288231,4.006569386,4.097448349,3.313334465,0.666667
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,66,"","",布鲁克要盖尔过来看看昨天发生了什么。,"布鲁克建议吉尔去看望她,因为昨天发生了什么事。","Brook: something happened yesterday, you need to come and see
+mBART-large,66,"","",布鲁克要盖尔过来看看昨天发生了什么。,"布鲁克建议吉尔去看望她,因为昨天发生了什么事。","Brook: something happened yesterday, you need to come and see
  Gyle: is it bad?
  Brook: you better come home
  Gyle: On my way",47.62,31.58,47.62,82.72,3.651548147,3.807826996,3.954660654,3.592124224,1.277778
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,67,"","",凯特、米丽娜和里贾娜的演讲进行得很顺利，三个人来听他们的演讲。,凯特和雷吉娜对他们的报告很满意。,"Milena: How was the presentation?
+mBART-large,67,"","",凯特、米丽娜和里贾娜的演讲进行得很顺利，三个人来听他们的演讲。,凯特和雷吉娜对他们的报告很满意。,"Milena: How was the presentation?
  Kate: very good
  Regina: yes, we had a good feedback
  Milena: how many people came to listen to you?
  Regina: 3 but we new it will be very cosy, friendly thing
  Milena: sometimes a small but interested audience is better than random bored people
  Kate: exactly",35.71,7.69,28.57,76.46,1.876269460,3.533278465,3.154183388,1.853727102,0.516129
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,68,"","",杰克今年拿到了第一个totw ，汤姆的团队并不出色。,杰克想买一个托特。,"Jake: dude, I just pulled a TOTW
+mBART-large,68,"","",杰克今年拿到了第一个totw ，汤姆的团队并不出色。,杰克想买一个托特。,"Jake: dude, I just pulled a TOTW
  Jake: my first this year!
  Tom: grats!
  Tom: gonna sell it?
@@ -4106,13 +4106,13 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,68,"","",杰克今年拿到了
  Jake: you're good at the game
  Jake: you don't need help :P
  Tom: I like shiny things :P",11.11,0.0,11.11,66.2,1.944757700,4.927706718,4.922049046,4.738416195,0.360000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,69,"","",凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。,乔丹收到了卡斯的生日卡和钱。卡斯特别挑选了托马斯的坦克发动机。乔丹11岁了。卡斯喜欢托马斯。,"Cass: Hi darling, did you get your birthday card and money on time?
+mBART-large,69,"","",凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。,乔丹收到了卡斯的生日卡和钱。卡斯特别挑选了托马斯的坦克发动机。乔丹11岁了。卡斯喜欢托马斯。,"Cass: Hi darling, did you get your birthday card and money on time?
  Jordan: hello Nanna! Thanks for the £20. Sorry I didn't ring you before.
  Cass: you still like Thomas the Tank engine don't you? I picked it specially.
  Jordan: Yes, Nanna. I will always love him! Next time, get me a football one or something. I mean, I'm 11 now!
  Cass: I know, you are so grown up. Love you xxxxx
  Jordan: Love you, Nan xx",32.56,4.88,23.26,68.42,3.724305153,4.436783791,4.461249352,3.827091694,1.483871
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,70,"","",对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,杰西卡和米基去过意大利的帕勒莫。帕勒莫有8千具尸首。杰西卡和奥利都很喜欢这个地方。,"Kelly: Oh! Oh! Can I pick the first question?
+mBART-large,70,"","",对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,杰西卡和米基去过意大利的帕勒莫。帕勒莫有8千具尸首。杰西卡和奥利都很喜欢这个地方。,"Kelly: Oh! Oh! Can I pick the first question?
  Jessica: Sure. Go for it!
  Kelly: What's the scariest place you've been to!
  Jessica: I'll start: Palermo in Italy.
@@ -4124,7 +4124,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,70,"","",对杰西卡来说，
  Jessica: Well, partly. Most of them were exhibited in their clothes. Basically only skulls and hands. 
  Mickey: I'm writing this one down! That's so precious!
  Ollie: Me too!",21.05,0.0,15.79,67.31,2.638297081,2.817353964,2.920375347,2.452367544,1.576923
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,71,"","",西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,西蒙给查理发了一张关于欧盟政策的视频。,"Simon: <file_photo>
+mBART-large,71,"","",西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,西蒙给查理发了一张关于欧盟政策的视频。,"Simon: <file_photo>
  Simon: It's funny and scary at the same time.
  Simon: BTW it's so annoying that people can't see that such immigration policy reduces safety level for citizens of EU significantly
  Charlie: This photo is great. It totally shows what do we all mean when we criticize EU policy. 
@@ -4146,7 +4146,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,71,"","",西蒙和查理钦佩
  Simon: Let's hope not.
  Charlie: Yup. To conclude: Christmas in Poland will be the best Christmas in Europe :D
  Simon: I agree :)",23.08,0.0,23.08,68.71,1.255585551,4.016633987,4.284291267,2.283375263,0.633333
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,72,"","",艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。,爱德、瓦莱丽、克里斯、洛尔、杰西卡和马特都认为性爱是罪恶的。,"Ed: Sinners!! Sex is for married people
+mBART-large,72,"","",艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。,爱德、瓦莱丽、克里斯、洛尔、杰西卡和马特都认为性爱是罪恶的。,"Ed: Sinners!! Sex is for married people
  Valerie: double sin if it’s anything but missionary style!
  Chris: Then you go get married & leave us all alone
  Lor: You better hope all non sin living is worth it or your consciousness after death is going to be butt hurt for eternity lol
@@ -4157,11 +4157,11 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,72,"","",艾德、瓦莱丽、
  Jessica: And only for procreation. :-))) And not to be enjoyed. :-)))
  Matt: Ed, Ok. See you in hell !! 😂
  Ed: Matt , No you won’t. I don’t even look on the direction of another man",56.41,21.62,51.28,86.28,2.557562828,2.695882797,3.066805840,2.598201752,0.833333
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,73,"","",迈克在伦敦。,迈克在伦敦。,"Jake: Maaaan! you in london?!
+mBART-large,73,"","",迈克在伦敦。,迈克在伦敦。,"Jake: Maaaan! you in london?!
  Mike: <file_photo>
  Mike: yeah mate! dreams coming true!
  Jake: cool! congrats!",100.0,100.0,100.0,100.0,2.538809776,4.881930828,4.862944603,4.436966896,1.000000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,74,"","",里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,里奇、克莱和荷西喜欢他的投篮。,"Richie: Pogba
+mBART-large,74,"","",里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,里奇、克莱和荷西喜欢他的投篮。,"Richie: Pogba
  Clay: Pogboom
  Richie: what a s strike yoh!
  Clay: was off the seat the moment he chopped the ball back to his right foot
@@ -4175,7 +4175,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,74,"","",里奇和克莱看了
  Clay: yeah man
  Richie: cool then 
  Clay: cool",26.32,0.0,15.79,67.24,1.874252319,3.152172327,3.321356773,2.189800262,0.300000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,75,"","",亚历克看到美国的达人秀，他发了个链接给亚莉克莎。,"亚历克给亚历克发了一个链接,链接无效。亚历克和亚历克喜欢这个链接。亚历克认为亚历克最优秀的女孩。亚历克认为亚历克最优秀的女孩之一。亚历克认为亚历克最优秀的女孩之一。","Alec: Have you seen the last America's got talent?
+mBART-large,75,"","",亚历克看到美国的达人秀，他发了个链接给亚莉克莎。,"亚历克给亚历克发了一个链接,链接无效。亚历克和亚历克喜欢这个链接。亚历克认为亚历克最优秀的女孩。亚历克认为亚历克最优秀的女孩之一。亚历克认为亚历克最优秀的女孩之一。","Alec: Have you seen the last America's got talent?
  Alexa: No. 
  Alexa: Interesting? 
  Alec: <file_other>
@@ -4194,19 +4194,19 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,75,"","",亚历克看到美国
  Alec: yes
  Alec: And there're a few good, but I personally think she's the best!
  Alexa: I'd be glad if she wins :)",18.18,0.0,10.91,69.1,2.161313534,4.872452736,4.873985291,4.720060349,3.416667
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,76,"","",詹姆斯要去上班，所以他不看比赛。,"詹姆斯不看比赛,他要去上班。","Hannah: Are you watching the game?
+mBART-large,76,"","",詹姆斯要去上班，所以他不看比赛。,"詹姆斯不看比赛,他要去上班。","Hannah: Are you watching the game?
  James: No I am head to work : ( 
  Hannah: Oh okay",77.78,25.0,44.44,91.4,1.259712100,4.662987709,4.328064919,4.067931175,0.875000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,77,"","",在多尔夫的提醒下，齐格勒明天会把护照带来。,齐格勒明天会把护照带来。,"Dolph: hey
+mBART-large,77,"","",在多尔夫的提醒下，齐格勒明天会把护照带来。,齐格勒明天会把护照带来。,"Dolph: hey
  Dolph: remember to bring your passport tomorrow
  Ziggler: Cool, i will",63.16,58.82,63.16,87.92,1.779727697,4.950949669,4.947023869,4.847006798,0.571429
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,78,"","",威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。,威廉正在做意大利面。他会给奥利维亚和贝丝买些新鲜的西红柿和巧克力。,"William: hey im making spaghetti
+mBART-large,78,"","",威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。,威廉正在做意大利面。他会给奥利维亚和贝丝买些新鲜的西红柿和巧克力。,"William: hey im making spaghetti
  William: could you please buy some fresh tomatoes
  William: pretty please :)
  Olivia: no problem dear :)
  William: and Beth? it wouldn't hurt to have some chocolate for after the dinner :D
  Beth: I'm on it :D",55.56,29.41,55.56,88.48,2.197388172,4.930430412,4.897927284,4.380059242,1.000000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,79,"","",蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。,蒂娜正在寻找帕特里克。蒂娜和黛米正在组织研讨会。,"Tina: Hey, Facebook is constantly non stop suggesting Patrick
+mBART-large,79,"","",蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。,蒂娜正在寻找帕特里克。蒂娜和黛米正在组织研讨会。,"Tina: Hey, Facebook is constantly non stop suggesting Patrick
  Demi: Hahahahaha 
  Tina: I think I have to catch a bit of your approach
  Demi: He's a god. What do you mean...?
@@ -4229,14 +4229,14 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,79,"","",蒂娜必须学习黛
  Tina: between the guyshaha
  Demi: we ll find something
  Tina: <3",29.63,0.0,22.22,65.15,2.103327990,2.783995867,3.193013191,2.547893047,0.827586
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,80,"","",埃文会让伊森来的。,埃文和伊森讨论了这次活动。埃文会设法让伊森来。,"Allison: You talked to Ethan about the function? 
+mBART-large,80,"","",埃文会让伊森来的。,埃文和伊森讨论了这次活动。埃文会设法让伊森来。,"Allison: You talked to Ethan about the function? 
  Evan: Yeah I did
  Allison: What did he say?
  Evan: He might not come
  Allison: Can you do something about that?
  Evan: I will try to make him come
  Allison: K",44.44,25.0,44.44,78.53,2.088210583,2.495992661,2.555510998,2.112314701,2.555556
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,81,"","",巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。,巴特的经济学期末考得不好。阿德里安认为巴特没有学习得好。巴特开始玩《星球大战》游戏。阿德里安建议巴特不要在学校的时候玩游戏。,"Adrian: Did you get your grades yet?
+mBART-large,81,"","",巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。,巴特的经济学期末考得不好。阿德里安认为巴特没有学习得好。巴特开始玩《星球大战》游戏。阿德里安建议巴特不要在学校的时候玩游戏。,"Adrian: Did you get your grades yet?
  Bart: Yeah. My whole semester is screwed up now.
  Adrian: Wait whaaat? Why?
  Bart: Well, I bombed my economy final and ended up with a bad score..
@@ -4256,17 +4256,17 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,81,"","",巴特这学期成绩
  Bart: You're right. I'm not going to play games during school anymore.
  Adrian: You can play them, just don't loose focus and study for the exams :p
  Bart: Let's see how it goes xD",32.14,7.41,28.57,72.06,2.666457891,3.892837286,4.158588409,3.490972281,1.319149
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,82,"","",肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。,肖恩的灵性动物是一只海龟。,"Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.
+mBART-large,82,"","",肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。,肖恩的灵性动物是一只海龟。,"Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.
  Tiffany: That would explain a lot.
  Sean: You would be a wasp.
  Tiffany: Are you sure you're a turtle? Maybe you're just haunted.",31.58,0.0,31.58,73.53,2.913821697,4.295945168,4.142793655,2.985357523,0.590909
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,83,"","",凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。,凯特和乔治明天要去杂货店给学校买些水果。,"Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?
+mBART-large,83,"","",凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。,凯特和乔治明天要去杂货店给学校买些水果。,"Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?
  George: Oh yes please, an apple would be great
  Kate: Okay, I'm getting me one too
  George: Do they have tangerines yet?
  Kate: No the're coming next week, I asked already:D
  George: Okat then we have to wait",34.48,7.41,27.59,74.39,2.488608360,3.940947056,3.829249620,2.708291054,0.740741
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,84,"","",茱莉亚回来后会给罗纳德打电话，他有事要告诉她。,"朱莉娅和罗纳德周末过得很开心。朱莉娅的父母在争吵,朱莉娅不想再和他们一起吃饭了。罗纳德回来后会给朱莉娅打电话。","Ronald: How's your weekend?
+mBART-large,84,"","",茱莉亚回来后会给罗纳德打电话，他有事要告诉她。,"朱莉娅和罗纳德周末过得很开心。朱莉娅的父母在争吵,朱莉娅不想再和他们一起吃饭了。罗纳德回来后会给朱莉娅打电话。","Ronald: How's your weekend?
  Julia: Fine I guess...
  Ronald: Doesn't sound like you're enjoying it
  Julia: Ehh. My parents are having a fight over where should we eat
@@ -4277,7 +4277,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,84,"","",茱莉亚回来后会
  Ronald: I've got something to tell you, and I'm sure you're gonna piss rainbows
  Julia: Hahaha. I can see the giraffe from Skittles comercial :D
  Ronald: Sth like that",26.67,9.3,17.78,75.72,2.659103870,4.666608810,4.716152668,4.391364574,2.391304
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,85,"","",马修感冒了，他要喝些橙汁，然后去睡觉。,"马修得了感冒,需要丽莎的帮助。","Matthew: I have a cold. Need y'all support. It's painful
+mBART-large,85,"","",马修感冒了，他要喝些橙汁，然后去睡觉。,"马修得了感冒,需要丽莎的帮助。","Matthew: I have a cold. Need y'all support. It's painful
  Lisa: Fight it. Drink orange juice. Make some soup
  Matthew: I'll try
  Lisa: I believe in u 
@@ -4286,7 +4286,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,85,"","",马修感冒了，他
  Lisa: Take a rest from evrthg.  
  Matthew: Ikr. Hitting the hay now
  Lisa: Good night 'Thew!",38.1,0.0,28.57,72.01,1.972265005,4.944372177,4.942333698,4.838849545,0.789474
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,86,"","",乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,"斯蒂芬诺和乔西在讨论福考特的《小摆子》。斯蒂芬诺喜欢福考特的小摆子。乔西读了萨尔曼·拉希迪的《小摆子》,萨尔曼·拉希迪在80年代评论了小摆子。","Stefano: Hi, Josie!
+mBART-large,86,"","",乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,"斯蒂芬诺和乔西在讨论福考特的《小摆子》。斯蒂芬诺喜欢福考特的小摆子。乔西读了萨尔曼·拉希迪的《小摆子》,萨尔曼·拉希迪在80年代评论了小摆子。","Stefano: Hi, Josie!
  Josie: Ciao, Stefano!
  Stefano: So, what about Foucault's Pendulum? Do you like it?
  Josie: It's... weird. Was it really written by an Italian guy? It's so... nerdy.
@@ -4308,14 +4308,14 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,86,"","",乔茜觉得艾柯的
  Josie: Yuk! That's so creepy.
  Stefano: You're the one who said it!
  Josie: I know. ;)",22.68,0.0,22.68,71.31,2.028780460,3.094584227,3.551257610,2.626121044,0.788889
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,87,"","",下雨了，所以瓦尔和坎迪要等半小时才走。,正在下雨。瓦尔和坎迪半小时后见面。,"Val: it's raining!
+mBART-large,87,"","",下雨了，所以瓦尔和坎迪要等半小时才走。,正在下雨。瓦尔和坎迪半小时后见面。,"Val: it's raining!
  Candy: I know, just started...
  Val: r we going? we will be wet
  Candy: maybe wait a little? see if stops
  Val: ok. let's wait half h and than see
  Candy: god idea, I call u then
  Val: great :)",50.0,11.11,50.0,80.52,3.097179174,3.953363419,4.147726059,3.852966785,0.894737
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,88,"","",托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。,"托马斯没有拿到补助金。塞拉没有,杰里米也没有。托马斯的银行账户上没问题。塞拉会借给托马斯一些钱。","Tomas: Has anybody received the grant yet?
+mBART-large,88,"","",托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。,"托马斯没有拿到补助金。塞拉没有,杰里米也没有。托马斯的银行账户上没问题。塞拉会借给托马斯一些钱。","Tomas: Has anybody received the grant yet?
  Sierra: no, not yet
  Jeremy: I haven't checked even
  Tomas: I'm completely broke
@@ -4324,7 +4324,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,88,"","",托马斯、谢拉和
  Sierra: lol
  Sierra: be patient. If you need money I can lend you some, don't worry
  Tomas: Thanks, I hope they'll arrive any minute",43.64,15.09,40.0,77.37,2.967628002,3.727366209,3.896539450,3.223612547,0.979592
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,89,"","",卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,"查尔斯和卡米拉这周末要去拜访伯明翰和曼彻斯特的德国市场。卡米拉喜欢香肠和啤酒。查尔斯和卡米拉去年在圣诞节做了香肠,但没人喝了。卡米拉宿醉了。","Charles: What are you up to this weekend?
+mBART-large,89,"","",卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,"查尔斯和卡米拉这周末要去拜访伯明翰和曼彻斯特的德国市场。卡米拉喜欢香肠和啤酒。查尔斯和卡米拉去年在圣诞节做了香肠,但没人喝了。卡米拉宿醉了。","Charles: What are you up to this weekend?
  Camilla: Not much. Just some work and errands on Saturday, show Saturday night. Day of nothingness on Sundy.
  Charles: Sounds good. We are going to visit the German markets this weekend. Birmingham and Manchester both. Sausage overload!
  Camilla: Ooh, that sounds really good!
@@ -4343,16 +4343,16 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,89,"","",卡米拉周六有一
  Charles: Anyway, that's the plan. Hope you have fun.
  Camilla: You too! 
  Charles: Thanks!",29.03,10.0,19.35,73.44,1.477290154,4.003025055,4.249877930,2.478814363,1.707317
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,90,"","",戴安娜和拉塞尔在给妈妈买礼物。,拉斯塞尔给戴安娜和戴安娜买了一个礼物。,"Russel: <file_other>
+mBART-large,90,"","",戴安娜和拉塞尔在给妈妈买礼物。,拉斯塞尔给戴安娜和戴安娜买了一个礼物。,"Russel: <file_other>
  Russel: look at this
  Russel: It's a perfect present fo mum :D
  Diana: haha, so true! It's not that expensive either!
  Diana: are we buying it?
  Russel: yeah, let's do it :D",55.56,12.5,44.44,81.33,2.048030376,4.730670929,3.830121040,2.497040987,1.266667
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,91,"","",安斯利病了，所以她现在不能帮简写论文。,"简想让英斯利帮她写论文。英斯利感冒了,每隔两秒就喷嚏。","Jane: Are u free now? Could u help me with that thesis?
+mBART-large,91,"","",安斯利病了，所以她现在不能帮简写论文。,"简想让英斯利帮她写论文。英斯利感冒了,每隔两秒就喷嚏。","Jane: Are u free now? Could u help me with that thesis?
  Ainsley: I'm sick won't be of much help sorry. I've got a cold and I'm sneezing like a little bitch every 2 seconds
  Jane: Oh... hmm ok. Hope u will get better soon...",29.63,8.0,14.81,70.5,2.970142603,4.502413750,4.426957607,3.868455648,1.421053
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,92,"","",菲奥娜爱上了他的学生康拉德。,"菲奥娜和康拉德在一起。康拉德是菲奥娜的学生。菲奥娜和康拉德在一起的时间太长了。菲奥娜想和康拉德在一起,但康拉德比她年轻5岁。","Fiona: I just can’t stand it
+mBART-large,92,"","",菲奥娜爱上了他的学生康拉德。,"菲奥娜和康拉德在一起。康拉德是菲奥娜的学生。菲奥娜和康拉德在一起的时间太长了。菲奥娜想和康拉德在一起,但康拉德比她年轻5岁。","Fiona: I just can’t stand it
  Wanda: What again
  Fiona: When I’m in one room with him… I just go crazy
  Wanda: Conrad?
@@ -4370,7 +4370,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,92,"","",菲奥娜爱上了他
  Wanda: Will she know?
  Fiona: How can I know what will he do, he can tell his mother as well
  Wanda: Just go for it!!",22.22,4.65,17.78,74.76,4.122883797,3.435144186,3.737301350,3.545615435,4.428571
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,93,"","",玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,"玛格丽特、伊万斯和玛格丽特将在12月4日和11日10点或11点左右见面。如果玛格丽特不在,他们会在14日10点见面。","Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
+mBART-large,93,"","",玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,"玛格丽特、伊万斯和玛格丽特将在12月4日和11日10点或11点左右见面。如果玛格丽特不在,他们会在14日10点见面。","Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
  Evans: Hi, 4th - we can meet at 10:00.
  Evans: And 11th - at 11:00. 
  Margaret: Okey. And what about 18th?
@@ -4386,7 +4386,7 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,93,"","",玛格丽特和埃文
  Evans: So let's set these dates later, ok?
  Margaret: Okey and we see each other 4th 10:00. 
  Evans: Yes!",52.05,25.35,43.84,77.17,3.282111168,3.820358276,3.732194901,2.802455902,0.935484
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,94,"","",通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。,路易斯给阿奇发了一张梅兰妮的照片。,"Louis: <file_gif>
+mBART-large,94,"","",通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。,路易斯给阿奇发了一张梅兰妮的照片。,"Louis: <file_gif>
  Archie: Wtf? Lol!
  Louis: <file_gif>
  Archie: That one looks like Melanie
@@ -4397,14 +4397,14 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,94,"","",通过看照片，阿
  Archie: By the way, she was way hotter when she had cury hair
  Louis: I disagree, sir! She looks absolutely gorgeous with straight hair
  Archie: Oh well, you have the right to an opinion even if it's wrong XD",33.33,9.09,16.67,74.65,1.819624543,4.864310741,4.851992607,3.211795092,0.629630
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,95,"","",琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。,琳达错过了去阿姆斯特丹的火车。,"Linda: I missed the train
+mBART-large,95,"","",琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。,琳达错过了去阿姆斯特丹的火车。,"Linda: I missed the train
  Joseph: When is the next one?
  Linda: In one hour
  Darcy: Not a tragedy
  Linda: It was 80 euros
  Linda: Return to Amsterdam
  Linda: I was shocked!!",35.71,7.69,28.57,75.94,1.493887305,4.902404785,4.895763397,3.765209675,0.428571
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,96,"","",莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,"卢旺多娃得了麻疹住院了,她必须接受疫苗接种。乔安娜的论文导师是卢旺多娃,她从上学期起就没见过她。乔安娜将在18号工作前去接种她。","Joanna: They are sending emails about Lewandowska.
+mBART-large,96,"","",莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,"卢旺多娃得了麻疹住院了,她必须接受疫苗接种。乔安娜的论文导师是卢旺多娃,她从上学期起就没见过她。乔安娜将在18号工作前去接种她。","Joanna: They are sending emails about Lewandowska.
  Merve: What happened?
  Joanna: <file_photo> 
  Merve: Wooow!
@@ -4419,14 +4419,14 @@ jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,96,"","",莱万多夫斯卡得
  Joanna: I know... And I just started working so I really don't have a lot of time.
  Merve: Come on, this is really important.
  Joanna: I will try to do it before work on 18th, hopefully I won't lose the entire day...",34.78,2.99,23.19,71.1,1.937911034,3.760829210,3.904246807,2.367144823,1.684211
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,97,"","",卡尔在等梅格，她找不到钥匙，要迟到了。,"卡尔还在等梅格,梅格的钥匙丢了。","Carl: Where are u?
+mBART-large,97,"","",卡尔在等梅格，她找不到钥匙，要迟到了。,"卡尔还在等梅格,梅格的钥匙丢了。","Carl: Where are u?
  Carl: I'm still waiting for u!!!
  Meg: I need 5 minutes more, I've lost my key somewhere :(",58.33,27.27,58.33,81.37,2.728947639,4.948533058,4.944911957,4.808386326,0.842105
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,98,"","",玛丽亚厌倦了她的工作。,玛丽亚厌倦了她的工作。,"Maria: I'm tired of this job, I can't stand it anymore
+mBART-large,98,"","",玛丽亚厌倦了她的工作。,玛丽亚厌倦了她的工作。,"Maria: I'm tired of this job, I can't stand it anymore
  Anastasia: I know, but calm down
  Felix: don't make decisions in this rash
  Maria: :(",100.0,100.0,100.0,100.0,1.546949029,4.955939293,4.951396942,4.874227524,1.000000
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,99,"","",卢克明天下午2点22分要去冲浪。,"卢克今天开始冲浪了。他明天下午2点22分去那里。埃里克认为在潮汐中的时候最好,因为那里有岩石。","Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
+mBART-large,99,"","",卢克明天下午2点22分要去冲浪。,"卢克今天开始冲浪了。他明天下午2点22分去那里。埃里克认为在潮汐中的时候最好,因为那里有岩石。","Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
  Ken: Yaaaay welcome to the tumble dry club - some days is great others just a knock about
  Summer: I almost lost my tooth one time ;) Hopefully next time is better!
  Luke: low tide is 2:22PM tomorrow. I'll be out there
