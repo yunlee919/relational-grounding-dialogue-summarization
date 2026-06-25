@@ -601,7 +601,7 @@ aya-expanse:8b,49,H-ROLE,H-ROLE,It attributes the information about Jason's dent
  Megan: He was absent today :c
  Susy: He had a dental appointment.
  Megan: Thanks for the info :)",29.41,6.25,29.41,72.95,3.679739714,4.283415794,4.253631592,3.252571821,3.066667
-aya-expanse:8b,50,H-CIRC|LANG,,It changes total hours into daily hours and reproduces the dialogue instead of summarizing it.,到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,"艾利：到目前为止你做了多少？
+aya-expanse:8b,50,H-CIRC|LANG,H-CIRC|LANG,It changes total hours into daily hours and reproduces the dialogue instead of summarizing it.,到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,"艾利：到目前为止你做了多少？
  吉尔：大概20到30个。
  吉尔：我每天最多只能做3到4个。
  艾利：每天几小时？
@@ -612,7 +612,7 @@ aya-expanse:8b,50,H-CIRC|LANG,,It changes total hours into daily hours and repro
  Ally: how many hours?
  Jill: 40? maybe 35...
  Ally: ok, same here",43.9,12.5,34.15,72.11,3.672251463,3.957079887,3.975242138,2.884478092,2.075000
-aya-expanse:8b,51,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。,詹姆斯告诉米娅，他们的哲学讲师正在举办一场艺术展览，明天开幕。米娅对这个消息感到惊讶，但表示也想去看看。詹姆斯提议他们一起去，并邀请阿美利亚一起参加。米娅有些犹豫，因为她不了解阿美利亚，但詹姆斯安抚她，保证阿美利亚很随和。他们计划明天同时去展览和电影院，之后到詹姆斯家聚会。米娅表示同意，两人确认没有问题。,"James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
+aya-expanse:8b,51,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。,詹姆斯告诉米娅，他们的哲学讲师正在举办一场艺术展览，明天开幕。米娅对这个消息感到惊讶，但表示也想去看看。詹姆斯提议他们一起去，并邀请阿美利亚一起参加。米娅有些犹豫，因为她不了解阿美利亚，但詹姆斯安抚她，保证阿美利亚很随和。他们计划明天同时去展览和电影院，之后到詹姆斯家聚会。米娅表示同意，两人确认没有问题。,"James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
  James: I'm talking about this guy who taught us ethics.
  James: Amelia recommends it :D
  Mia: No way...! :D Professor Evans and art exhibition :D What has happened to this world?
@@ -635,7 +635,7 @@ aya-expanse:8b,51,NO-ERROR,,The summary accurately reflects the dialogue's key f
  Mia: Sounds good :) :*
  James: So we're good, right?
  Mia: Right. ;)",32.79,11.67,27.87,75,4.034031868,3.957563877,4.141951561,3.452070475,2.637931
-aya-expanse:8b,52,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。,玛丽安娜询问斯蒂芬的研讨会下一次会议的阅读材料是否在打印店。丽塔和查英没有确切信息，亚瑟确认周一材料未到位且工作人员态度恶劣。丽塔将于第二天早上前往并告知大家材料是否准备就绪，她会请求加印更多。亚瑟和查英表示不介意。,"Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?
+aya-expanse:8b,52,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。,玛丽安娜询问斯蒂芬的研讨会下一次会议的阅读材料是否在打印店。丽塔和查英没有确切信息，亚瑟确认周一材料未到位且工作人员态度恶劣。丽塔将于第二天早上前往并告知大家材料是否准备就绪，她会请求加印更多。亚瑟和查英表示不介意。,"Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?
  Rita: No idea, sorry
  Chae-yeong: The only thing I know is that they were not yet there on Monday
  Arthur: Yer, I’ve made the mistake of going on Monday as well and I can confirm the texts were not there and the staff was as rude as always
@@ -645,7 +645,7 @@ aya-expanse:8b,52,NO-ERROR,,The summary accurately reflects the dialogue's key f
  Chae-yeong: No worries
  Arthur: Yeah, just let us know if they’re ready, that’s a huge favour already
  Rita: Cool. Will do! xx",41.24,14.74,30.93,72.76,3.570732355,4.152916908,4.333523750,3.071859837,1.636364
-aya-expanse:8b,53,H-ROLE,,It unsupportedly makes the police the publisher of both the official statement and newspaper article.,有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。,有个人在校园被打和抢，正在医院恢复。攻击者戴着面具，警方将发布官方声明并发表报纸文章。大家猜测攻击者可能是学生，甚至可能只是为了好玩。尽管校园有监控摄像头，但安全卫士效率不高。希望犯罪分子能尽快被捕。,"Rodney: Have you heard a guy got beaten and mugged on campus?
+aya-expanse:8b,53,H-ROLE,H-ROLE,It unsupportedly makes the police the publisher of both the official statement and newspaper article.,有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。,有个人在校园被打和抢，正在医院恢复。攻击者戴着面具，警方将发布官方声明并发表报纸文章。大家猜测攻击者可能是学生，甚至可能只是为了好玩。尽管校园有监控摄像头，但安全卫士效率不高。希望犯罪分子能尽快被捕。,"Rodney: Have you heard a guy got beaten and mugged on campus?
  Truman: Oh, man is he ok?
  Ross: Do they have any idea who did it?
  Rodney: They're gonna give an official statement about. There's also gonna be an article in the paper. As far as I know the assailant had a mask on.
@@ -660,7 +660,7 @@ aya-expanse:8b,53,H-ROLE,,It unsupportedly makes the police the publisher of bot
  Rodney: They don't give a fuck
  Ross: True that
  Truman: Hope they catch the guy soon",35.79,12.9,33.68,75.76,3.346332073,3.981938124,4.149349689,3.129859686,1.369863
-aya-expanse:8b,54,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,Javier 问 Judie 是否知道当地有没有英语服务的老板纹身店。Judie 推荐了“Warsaw Ink”，并展示了他女朋友在那里纹身的照片。Javier 很喜欢，但考虑到价格是1000，决定还是回哥伦比亚纹身。,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
+aya-expanse:8b,54,NO-ERROR,LANG,The summary accurately reflects the dialogue's key facts and relations.,哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,Javier 问 Judie 是否知道当地有没有英语服务的老板纹身店。Judie 推荐了“Warsaw Ink”，并展示了他女朋友在那里纹身的照片。Javier 很喜欢，但考虑到价格是1000，决定还是回哥伦比亚纹身。,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
  Judie: Oh there's Warsaw ink
  Javier: the name sounds neat... have you had a tattoo done there?
  Judie: nope but my gf has
@@ -671,7 +671,7 @@ aya-expanse:8b,54,NO-ERROR,,The summary accurately reflects the dialogue's key f
  Judie: it was a 1000
  Javier: fuck
  Javier: let me just get a tatttoo back in colombia then, thx",40,10.96,29.33,71.1,3.039154768,3.875757217,3.757377386,2.732718468,2.641026
-aya-expanse:8b,55,H-ROLE|H-CIRC,,It puts Thomas rather than Zoey in the tropics and changes a walk around the summit into a summit climb.,托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,Zoe 发了一张冷天鼓励的GIF给朋友们，并询问他们的健康状况。Thomas回复说他们在热带地区，晚上温度降至-3度，早上有白霜。他们周末在冰风中爬上了Belchen山顶，享受了阳光明媚和意外的晒黑。Zoe表示很漂亮，但希望暂时避开这样的天气。他们约定很快联系。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
+aya-expanse:8b,55,H-ROLE|H-CIRC,H-ROLE|H-CIRC,It puts Thomas rather than Zoey in the tropics and changes a walk around the summit into a summit climb.,托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,Zoe 发了一张冷天鼓励的GIF给朋友们，并询问他们的健康状况。Thomas回复说他们在热带地区，晚上温度降至-3度，早上有白霜。他们周末在冰风中爬上了Belchen山顶，享受了阳光明媚和意外的晒黑。Zoe表示很漂亮，但希望暂时避开这样的天气。他们约定很快联系。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
  Zoey: <file_gif>
  Thomas: LOL
  Thomas: Hi there in the tropics! How are you doing?
@@ -683,7 +683,7 @@ aya-expanse:8b,55,H-ROLE|H-CIRC,,It puts Thomas rather than Zoey in the tropics 
  Thomas: <file_photo>
  Zoey: Gosh! That's pretty! You'll hear from us soon. Take care!
  Thomas: You too!",18.56,0,14.43,67.13,2.606315851,4.178759575,4.349484921,2.588867188,2.765957
-aya-expanse:8b,56,H-ENT,,It incorrectly changes Chloe's name to Joey.,詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,艾米丽问下一次ASEEES会议将在哪里举行。乔伊表示不知道，但这是一个好问题。詹姆斯听说过在加利福尼亚，具体是旧金山。乔伊希望会议能去夏威夷，但詹姆斯认为由于1993年最后一次在那里举行的会议因交通费用高而受到批评，未来可能不会太快实现。,"Emily: Does anybody now where the next ASEEES conference takes place?
+aya-expanse:8b,56,H-ENT,H-ENT,It incorrectly changes Chloe's name to Joey.,詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,艾米丽问下一次ASEEES会议将在哪里举行。乔伊表示不知道，但这是一个好问题。詹姆斯听说过在加利福尼亚，具体是旧金山。乔伊希望会议能去夏威夷，但詹姆斯认为由于1993年最后一次在那里举行的会议因交通费用高而受到批评，未来可能不会太快实现。,"Emily: Does anybody now where the next ASEEES conference takes place?
  Chloe: Actually I have no idea, but a good question
  James: I've heard somewhere in California
  James: Yes, San Francisco!
@@ -692,7 +692,7 @@ aya-expanse:8b,56,H-ENT,,It incorrectly changes Chloe's name to Joey.,詹姆斯�
  Chloe: why do you think so?
  James: The last conference there in 1993 was criticised for the high costs of traveling to the place
  Chloes: I see, pity",41.67,19.15,33.33,78.47,3.583489180,3.749394178,3.921402693,3.097704649,1.919355
-aya-expanse:8b,57,H-ROLE,,It changes Greg's own 60-minute routine into advice that Rob should exercise for 60 minutes.,罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。,罗布发起“离沙发挑战”，计划每天进行30分钟的运动。格雷格支持他，建议至少60分钟。威尔鼓励罗布保持现实，不要太苛刻。安娜也加入挑战，表示30分钟的运动是合理的。格雷格建议选择自己喜欢的运动，如步行、骑行或游泳等。安娜表示需要大家的支持。,"Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.
+aya-expanse:8b,57,H-ROLE,H-ROLE,It changes Greg's own 60-minute routine into advice that Rob should exercise for 60 minutes.,罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。,罗布发起“离沙发挑战”，计划每天进行30分钟的运动。格雷格支持他，建议至少60分钟。威尔鼓励罗布保持现实，不要太苛刻。安娜也加入挑战，表示30分钟的运动是合理的。格雷格建议选择自己喜欢的运动，如步行、骑行或游泳等。安娜表示需要大家的支持。,"Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.
  Greg: way ahead of you mate! at least 60 min a day!
  Rob: good for you! 30 min a day is gonna be challenging for me!
  Greg: good luck then!
@@ -700,14 +700,14 @@ aya-expanse:8b,57,H-ROLE,,It changes Greg's own 60-minute routine into advice th
  Anna: i'm in! 30 min sounds reasonable! 
  Greg: look for variety of exercises such as walking, biking, swimming whatever you enjoy!
  Anna: i'm gonna need lots of support from you guys!",21.74,13.33,21.74,69.78,3.515910625,3.979403019,3.972090244,3.084578514,2.767442
-aya-expanse:8b,58,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,布克尔提醒沃克带上Xbox游戏机。沃克认为布克尔不喜欢这款游戏机，但提到它的握持感很棒。布克尔笑着同意了。沃克决定也带一个。他们计划通宵玩游戏。,"Booker: dont forget to carry your Xbox console
+aya-expanse:8b,58,NO-ERROR,H-MOD,The summary accurately reflects the dialogue's key facts and relations.,沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,布克尔提醒沃克带上Xbox游戏机。沃克认为布克尔不喜欢这款游戏机，但提到它的握持感很棒。布克尔笑着同意了。沃克决定也带一个。他们计划通宵玩游戏。,"Booker: dont forget to carry your Xbox console
  Walker: i thought you dont like the console
  Walker: the grip is amazing
  Booker: haha, yeah it is
  Walker: okay then, ill come with one
  Booker: gaming all night is the plan
  Walker: yaas",24.14,3.57,10.34,74.82,3.233731747,3.783300638,3.857971907,3.039674997,2.250000
-aya-expanse:8b,59,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,马里奥正在卢森堡的机场候机。,马里奥今天飞遍了欧洲所有机场，感到非常疲惫。他目前在卢森堡等待。埃迪鼓励他享受旅程。莫说这是因为马里奥喜欢飞行。天气良好，否则他可能不得不乘坐火车旅行。莫提醒马里奥注意安全。马里奥也向莫表示感谢。,"Mario: I’ve landed in every airport in Europe today - completely whacked out dude.
+aya-expanse:8b,59,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,马里奥正在卢森堡的机场候机。,马里奥今天飞遍了欧洲所有机场，感到非常疲惫。他目前在卢森堡等待。埃迪鼓励他享受旅程。莫说这是因为马里奥喜欢飞行。天气良好，否则他可能不得不乘坐火车旅行。莫提醒马里奥注意安全。马里奥也向莫表示感谢。,"Mario: I’ve landed in every airport in Europe today - completely whacked out dude.
  Klara: Where are you now?
  Mario: Waiting in Luxembourg now.
  Eddie: Have fun dude.
@@ -1740,13 +1740,13 @@ gemma4:e4b,49,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's k
  Megan: He was absent today :c
  Susy: He had a dental appointment.
  Megan: Thanks for the info :)",33.33,0,26.67,70.64,3.553723335,3.998524189,4.040009975,3.022486925,2.600000
-gemma4:e4b,50,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,两人交流了各自的工作量和工作时长，大致在20到30个左右，每天能完成的量有限制，工时大约是35到40小时。,"Ally: how many did you do so far?
+gemma4:e4b,50,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,两人交流了各自的工作量和工作时长，大致在20到30个左右，每天能完成的量有限制，工时大约是35到40小时。,"Ally: how many did you do so far?
  Jill: like 20 or 30
  Jill: I can't do more than 3-4 per day
  Ally: how many hours?
  Jill: 40? maybe 35...
  Ally: ok, same here",40,6.9,30,66.48,2.808324575,3.517836809,3.568945885,2.356646538,1.325000
-gemma4:e4b,51,OMIT,,It omits the follow-up plan to go to James's place after the exhibition and cinema.,詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。,詹姆斯告诉米娅，哲学课的讲师阿米莉亚推荐了一个明天开幕的艺术展。尽管米娅对这个组合感到惊讶，但她最终表示愿意去参观，并同意了詹姆斯提议的行程安排（包括看展览和电影）。詹姆斯随后向米娅保证，邀请阿米莉亚并不意味着他不重视两人独处的时光，双方都确认了接下来的计划。,"James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
+gemma4:e4b,51,OMIT,OMIT,It omits the follow-up plan to go to James's place after the exhibition and cinema.,詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。,詹姆斯告诉米娅，哲学课的讲师阿米莉亚推荐了一个明天开幕的艺术展。尽管米娅对这个组合感到惊讶，但她最终表示愿意去参观，并同意了詹姆斯提议的行程安排（包括看展览和电影）。詹姆斯随后向米娅保证，邀请阿米莉亚并不意味着他不重视两人独处的时光，双方都确认了接下来的计划。,"James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
  James: I'm talking about this guy who taught us ethics.
  James: Amelia recommends it :D
  Mia: No way...! :D Professor Evans and art exhibition :D What has happened to this world?
@@ -1769,7 +1769,7 @@ gemma4:e4b,51,OMIT,,It omits the follow-up plan to go to James's place after the
  Mia: Sounds good :) :*
  James: So we're good, right?
  Mia: Right. ;)",36.36,9.26,21.82,71.24,3.752707958,3.946900368,4.080611229,3.409820318,2.241379
-gemma4:e4b,52,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。,玛丽安询问史蒂芬研讨会下一期的阅读材料是否在打印店，里塔不确定。车英和亚瑟证实周一去时材料不在，且工作人员态度依然差。里塔表示第二天早上会去确认材料是否到，并帮忙要求多印一些，大家对此表示感谢。,"Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?
+gemma4:e4b,52,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。,玛丽安询问史蒂芬研讨会下一期的阅读材料是否在打印店，里塔不确定。车英和亚瑟证实周一去时材料不在，且工作人员态度依然差。里塔表示第二天早上会去确认材料是否到，并帮忙要求多印一些，大家对此表示感谢。,"Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?
  Rita: No idea, sorry
  Chae-yeong: The only thing I know is that they were not yet there on Monday
  Arthur: Yer, I’ve made the mistake of going on Monday as well and I can confirm the texts were not there and the staff was as rude as always
@@ -1779,7 +1779,7 @@ gemma4:e4b,52,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Chae-yeong: No worries
  Arthur: Yeah, just let us know if they’re ready, that’s a huge favour already
  Rita: Cool. Will do! xx",33.68,8.6,25.26,71.25,3.389222860,3.939571381,4.106645107,2.869313240,1.469697
-gemma4:e4b,53,H-ENT,,It invents an eyewitness as the source of information about the masked attacker.,有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。,有人在校园内遭到殴打和抢劫，伤者已住院但预计无碍。目前警方尚未查明凶手身份，目击者只知道嫌犯戴了面具。大家猜测这可能是学生所为，并讨论了安保监控的有效性，最后希望尽快抓到人。,"Rodney: Have you heard a guy got beaten and mugged on campus?
+gemma4:e4b,53,H-ENT,H-ENT,It invents an eyewitness as the source of information about the masked attacker.,有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。,有人在校园内遭到殴打和抢劫，伤者已住院但预计无碍。目前警方尚未查明凶手身份，目击者只知道嫌犯戴了面具。大家猜测这可能是学生所为，并讨论了安保监控的有效性，最后希望尽快抓到人。,"Rodney: Have you heard a guy got beaten and mugged on campus?
  Truman: Oh, man is he ok?
  Ross: Do they have any idea who did it?
  Rodney: They're gonna give an official statement about. There's also gonna be an article in the paper. As far as I know the assailant had a mask on.
@@ -1794,7 +1794,7 @@ gemma4:e4b,53,H-ENT,,It invents an eyewitness as the source of information about
  Rodney: They don't give a fuck
  Ross: True that
  Truman: Hope they catch the guy soon",30.77,13.48,26.37,71.08,3.605534315,3.821750641,4.041254044,3.314194918,1.191781
-gemma4:e4b,54,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,贾维尔询问了当地是否有说英语的纹身店，朱迪推荐了“Warsaw Ink”，并展示了女友在那儿纹身的照片。贾维尔对效果很满意，但得知价格是1000后感到震惊，最终决定回哥伦比亚纹身。,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
+gemma4:e4b,54,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,贾维尔询问了当地是否有说英语的纹身店，朱迪推荐了“Warsaw Ink”，并展示了女友在那儿纹身的照片。贾维尔对效果很满意，但得知价格是1000后感到震惊，最终决定回哥伦比亚纹身。,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
  Judie: Oh there's Warsaw ink
  Javier: the name sounds neat... have you had a tattoo done there?
  Judie: nope but my gf has
@@ -1805,7 +1805,7 @@ gemma4:e4b,54,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Judie: it was a 1000
  Javier: fuck
  Javier: let me just get a tatttoo back in colombia then, thx",38.36,11.27,30.14,73.01,3.181666136,3.702442646,3.821998596,2.830991268,2.282051
-gemma4:e4b,55,H-MOD|H-EVT,,It says Zoey cannot see the scenery and adds a good-night exchange that never occurred.,托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,佐伊和托马斯寒暄问候，分享了各自的近况。托马斯分享了当地天气和一次在贝尔申山顶徒步的照片，佐伊称赞了美景，并表示自己暂时无法欣赏这样的景色。两人互相道晚安，保持联系。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
+gemma4:e4b,55,H-MOD|H-EVT,H-MOD|H-EVT,It says Zoey cannot see the scenery and adds a good-night exchange that never occurred.,托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,佐伊和托马斯寒暄问候，分享了各自的近况。托马斯分享了当地天气和一次在贝尔申山顶徒步的照片，佐伊称赞了美景，并表示自己暂时无法欣赏这样的景色。两人互相道晚安，保持联系。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
  Zoey: <file_gif>
  Thomas: LOL
  Thomas: Hi there in the tropics! How are you doing?
@@ -1817,7 +1817,7 @@ gemma4:e4b,55,H-MOD|H-EVT,,It says Zoey cannot see the scenery and adds a good-n
  Thomas: <file_photo>
  Zoey: Gosh! That's pretty! You'll hear from us soon. Take care!
  Thomas: You too!",24.66,5.63,16.44,62.28,2.217120647,4.149282455,4.319556236,2.510120392,1.765957
-gemma4:e4b,56,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,大家讨论了下一次ASEEES会议的地点，詹姆斯提到可能在加州旧金山。克洛伊表示希望是在夏威夷，但詹姆斯解释说上次在夏威夷（1993年）因旅行成本过高而受到批评，所以短期内不太可能。,"Emily: Does anybody now where the next ASEEES conference takes place?
+gemma4:e4b,56,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,大家讨论了下一次ASEEES会议的地点，詹姆斯提到可能在加州旧金山。克洛伊表示希望是在夏威夷，但詹姆斯解释说上次在夏威夷（1993年）因旅行成本过高而受到批评，所以短期内不太可能。,"Emily: Does anybody now where the next ASEEES conference takes place?
  Chloe: Actually I have no idea, but a good question
  James: I've heard somewhere in California
  James: Yes, San Francisco!
@@ -1826,7 +1826,7 @@ gemma4:e4b,56,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Chloe: why do you think so?
  James: The last conference there in 1993 was criticised for the high costs of traveling to the place
  Chloes: I see, pity",41.56,10.67,33.77,78.59,3.595516920,3.773929358,3.945205927,3.117167473,1.451613
-gemma4:e4b,57,H-ROLE,,It changes Greg's own 60-minute routine into advice that everyone should exercise for 60 minutes.,罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。,Rob提议发起“离开沙发挑战”，计划每天活动30分钟。Greg认为应该至少达到60分钟，Will建议循序渐进更实际，Anna表示愿意参与30分钟的计划，Greg提醒大家要注意运动多样性，Anna则表示需要大家的鼓励和支持。,"Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.
+gemma4:e4b,57,H-ROLE,H-ROLE,It changes Greg's own 60-minute routine into advice that everyone should exercise for 60 minutes.,罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。,Rob提议发起“离开沙发挑战”，计划每天活动30分钟。Greg认为应该至少达到60分钟，Will建议循序渐进更实际，Anna表示愿意参与30分钟的计划，Greg提醒大家要注意运动多样性，Anna则表示需要大家的鼓励和支持。,"Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.
  Greg: way ahead of you mate! at least 60 min a day!
  Rob: good for you! 30 min a day is gonna be challenging for me!
  Greg: good luck then!
@@ -1834,14 +1834,14 @@ gemma4:e4b,57,H-ROLE,,It changes Greg's own 60-minute routine into advice that e
  Anna: i'm in! 30 min sounds reasonable! 
  Greg: look for variety of exercises such as walking, biking, swimming whatever you enjoy!
  Anna: i'm gonna need lots of support from you guys!",21.05,10.81,18.42,66.3,2.283634663,4.241128922,4.329831123,2.801063061,2.581395
-gemma4:e4b,58,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,博克提醒沃커带上Xbox主机，尽管之前似乎不喜欢，但沃커称赞了手柄的抓握感，两人决定彻夜游戏。,"Booker: dont forget to carry your Xbox console
+gemma4:e4b,58,NO-ERROR,LANG,The summary accurately reflects the dialogue's key facts and relations.,沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,博克提醒沃커带上Xbox主机，尽管之前似乎不喜欢，但沃커称赞了手柄的抓握感，两人决定彻夜游戏。,"Booker: dont forget to carry your Xbox console
  Walker: i thought you dont like the console
  Walker: the grip is amazing
  Booker: haha, yeah it is
  Walker: okay then, ill come with one
  Booker: gaming all night is the plan
  Walker: yaas",14.29,0,9.52,68.52,2.306603432,3.529275656,3.743353128,2.729534149,1.468750
-gemma4:e4b,59,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,马里奥正在卢森堡的机场候机。,马里奥今天在欧洲的各个机场转了一圈，现在在卢森堡。大家祝他玩得开心，并提醒他注意安全。,"Mario: I’ve landed in every airport in Europe today - completely whacked out dude.
+gemma4:e4b,59,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,马里奥正在卢森堡的机场候机。,马里奥今天在欧洲的各个机场转了一圈，现在在卢森堡。大家祝他玩得开心，并提醒他注意安全。,"Mario: I’ve landed in every airport in Europe today - completely whacked out dude.
  Klara: Where are you now?
  Mario: Waiting in Luxembourg now.
  Eddie: Have fun dude.
@@ -2827,13 +2827,13 @@ qwen3.5:9b,49,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's k
  Megan: He was absent today :c
  Susy: He had a dental appointment.
  Megan: Thanks for the info :)",41.67,0,25,72.33,3.639425278,4.042833328,4.122817039,2.957656384,2.000000
-qwen3.5:9b,50,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,艾莉询问进度，吉尔表示已完成约二十到三十个，每天最多只能做三四个。当被问及耗时时，吉尔回答大约四十小时或三十五小时左右，艾莉回应自己情况相同。,"Ally: how many did you do so far?
+qwen3.5:9b,50,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,艾莉询问进度，吉尔表示已完成约二十到三十个，每天最多只能做三四个。当被问及耗时时，吉尔回答大约四十小时或三十五小时左右，艾莉回应自己情况相同。,"Ally: how many did you do so far?
  Jill: like 20 or 30
  Jill: I can't do more than 3-4 per day
  Ally: how many hours?
  Jill: 40? maybe 35...
  Ally: ok, same here",32.84,6.15,26.87,68.83,2.506910324,3.613277197,3.561741114,2.186975479,1.775000
-qwen3.5:9b,51,H-ROLE|H-EVT,,It assigns concern about losing couple time to Mia and misstates the later plan at James's home.,詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。,詹姆斯告知米娅，艾米莉亚推荐去看一位讲授伦理学的哲学教授的艺术展，展览将于明日开幕。尽管米娅起初对与不太熟悉的艾米莉亚同行感到些许压力并担心这会影响两人独处时光，但詹姆斯解释邀请她并非不珍视二人世界，只是希望三人一同前往；他承诺之后会带她们回自己家共度亲密时光。最终米娅表示理解并接受安排，确认一切妥当。,"James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
+qwen3.5:9b,51,H-ROLE|H-EVT,H-ROLE|H-EVT,It assigns concern about losing couple time to Mia and misstates the later plan at James's home.,詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。,詹姆斯告知米娅，艾米莉亚推荐去看一位讲授伦理学的哲学教授的艺术展，展览将于明日开幕。尽管米娅起初对与不太熟悉的艾米莉亚同行感到些许压力并担心这会影响两人独处时光，但詹姆斯解释邀请她并非不珍视二人世界，只是希望三人一同前往；他承诺之后会带她们回自己家共度亲密时光。最终米娅表示理解并接受安排，确认一切妥当。,"James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
  James: I'm talking about this guy who taught us ethics.
  James: Amelia recommends it :D
  Mia: No way...! :D Professor Evans and art exhibition :D What has happened to this world?
@@ -2856,7 +2856,7 @@ qwen3.5:9b,51,H-ROLE|H-EVT,,It assigns concern about losing couple time to Mia a
  Mia: Sounds good :) :*
  James: So we're good, right?
  Mia: Right. ;)",23.53,5.13,20.17,70.26,3.717267752,3.852140188,4.002371311,3.249150991,2.620690
-qwen3.5:9b,52,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。,Mariana 询问 Stephen 研讨会的下次阅读材料是否已在印刷店。Chae-yeong 和 Arthur 确认周一时材料尚未到位且店员态度不佳，Mariana 表示理解。Rita 计划明天上午去查看并告知结果；她无法立即购买现有库存，但会要求多印一些以备后用。大家同意只要 Rita 通知即可，这已是很大的帮助了。,"Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?
+qwen3.5:9b,52,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。,Mariana 询问 Stephen 研讨会的下次阅读材料是否已在印刷店。Chae-yeong 和 Arthur 确认周一时材料尚未到位且店员态度不佳，Mariana 表示理解。Rita 计划明天上午去查看并告知结果；她无法立即购买现有库存，但会要求多印一些以备后用。大家同意只要 Rita 通知即可，这已是很大的帮助了。,"Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?
  Rita: No idea, sorry
  Chae-yeong: The only thing I know is that they were not yet there on Monday
  Arthur: Yer, I’ve made the mistake of going on Monday as well and I can confirm the texts were not there and the staff was as rude as always
@@ -2866,7 +2866,7 @@ qwen3.5:9b,52,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Chae-yeong: No worries
  Arthur: Yeah, just let us know if they’re ready, that’s a huge favour already
  Rita: Cool. Will do! xx",26.45,5.04,21.49,68.14,2.681848526,3.773388863,3.941240788,2.778469801,2.287879
-qwen3.5:9b,53,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。,罗伊尼询问是否有人在校内遭殴打和抢劫，特鲁曼关心伤者情况。罗斯想知道嫌疑人身份，得知袭击者戴了面具且受害者已送医但无大碍。众人猜测可能是学生所为，尽管校园有监控，但若戴口罩仍可规避检测；他们提到安保人员态度冷漠，最后希望尽快抓获凶手。,"Rodney: Have you heard a guy got beaten and mugged on campus?
+qwen3.5:9b,53,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。,罗伊尼询问是否有人在校内遭殴打和抢劫，特鲁曼关心伤者情况。罗斯想知道嫌疑人身份，得知袭击者戴了面具且受害者已送医但无大碍。众人猜测可能是学生所为，尽管校园有监控，但若戴口罩仍可规避检测；他们提到安保人员态度冷漠，最后希望尽快抓获凶手。,"Rodney: Have you heard a guy got beaten and mugged on campus?
  Truman: Oh, man is he ok?
  Ross: Do they have any idea who did it?
  Rodney: They're gonna give an official statement about. There's also gonna be an article in the paper. As far as I know the assailant had a mask on.
@@ -2881,7 +2881,7 @@ qwen3.5:9b,53,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Rodney: They don't give a fuck
  Ross: True that
  Truman: Hope they catch the guy soon",31.48,9.43,29.63,71.63,3.511753559,3.809913158,4.029822350,3.410186291,1.602740
-qwen3.5:9b,54,H-CIRC,,It invents dollars as the currency for the price of 1000.,哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,贾维尔询问是否有提供英语服务的纹身店，朱迪推荐了 Warsaw Ink。虽然她本人未做过，但女友曾在那里纹过并分享了照片，贾维尔称赞效果很棒却对 1000 美元的价格感到震惊，因此决定回哥伦比亚再纹一个。,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
+qwen3.5:9b,54,H-CIRC,H-CIRC,It invents dollars as the currency for the price of 1000.,哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,贾维尔询问是否有提供英语服务的纹身店，朱迪推荐了 Warsaw Ink。虽然她本人未做过，但女友曾在那里纹过并分享了照片，贾维尔称赞效果很棒却对 1000 美元的价格感到震惊，因此决定回哥伦比亚再纹一个。,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
  Judie: Oh there's Warsaw ink
  Javier: the name sounds neat... have you had a tattoo done there?
  Judie: nope but my gf has
@@ -2892,7 +2892,7 @@ qwen3.5:9b,54,H-CIRC,,It invents dollars as the currency for the price of 1000.,
  Judie: it was a 1000
  Javier: fuck
  Javier: let me just get a tatttoo back in colombia then, thx",32.1,10.13,22.22,70.9,3.287666798,3.832059383,3.925609589,3.098107338,2.512821
-qwen3.5:9b,55,H-ROLE|H-CIRC|H-EVT,,It puts Thomas rather than Zoey in the tropics and changes the walk and incidental suntan into different activities.,托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,佐伊向朋友们分享了一张在寒冷日子里令人振奋的图片，托马斯则从热带地区回应问候。他提到当地夜间气温降至零下三度，清晨有白霜，并展示了周日在贝尔琴山顶迎着寒风和阳光散步的照片，甚至晒了日光浴。两人互相称赞景色美丽，约定不久后联系，并互道保重。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
+qwen3.5:9b,55,H-ROLE|H-CIRC|H-EVT,H-ROLE|H-EVT,It puts Thomas rather than Zoey in the tropics and changes the walk and incidental suntan into different activities.,托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,佐伊向朋友们分享了一张在寒冷日子里令人振奋的图片，托马斯则从热带地区回应问候。他提到当地夜间气温降至零下三度，清晨有白霜，并展示了周日在贝尔琴山顶迎着寒风和阳光散步的照片，甚至晒了日光浴。两人互相称赞景色美丽，约定不久后联系，并互道保重。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
  Zoey: <file_gif>
  Thomas: LOL
  Thomas: Hi there in the tropics! How are you doing?
@@ -2904,7 +2904,7 @@ qwen3.5:9b,55,H-ROLE|H-CIRC|H-EVT,,It puts Thomas rather than Zoey in the tropic
  Thomas: <file_photo>
  Zoey: Gosh! That's pretty! You'll hear from us soon. Take care!
  Thomas: You too!",21.05,4.3,14.74,68.85,3.264594555,4.114310265,4.272425652,2.889417171,2.531915
-qwen3.5:9b,56,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,艾米丽询问下一届 ASEEES 会议的地点，詹姆斯表示听说在加州旧金山。克洛伊虽觉得不错但更希望是夏威夷；詹姆斯解释称上次在该地举办的会议因高昂的旅行费用受到批评，因此短期内不太可能再次选址那里。,"Emily: Does anybody now where the next ASEEES conference takes place?
+qwen3.5:9b,56,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,艾米丽询问下一届 ASEEES 会议的地点，詹姆斯表示听说在加州旧金山。克洛伊虽觉得不错但更希望是夏威夷；詹姆斯解释称上次在该地举办的会议因高昂的旅行费用受到批评，因此短期内不太可能再次选址那里。,"Emily: Does anybody now where the next ASEEES conference takes place?
  Chloe: Actually I have no idea, but a good question
  James: I've heard somewhere in California
  James: Yes, San Francisco!
@@ -2913,7 +2913,7 @@ qwen3.5:9b,56,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Chloe: why do you think so?
  James: The last conference there in 1993 was criticised for the high costs of traveling to the place
  Chloes: I see, pity",43.9,10,36.59,78.9,3.911567926,3.908041954,4.049584389,3.289405346,1.548387
-qwen3.5:9b,57,H-ROLE,,It changes Greg's own 60-minute routine into advice that Rob should exercise for 60 minutes.,罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。,Rob提议每天进行30分钟运动的“离开沙发挑战”，Greg建议至少60分钟，Will鼓励他设定现实目标。Anna加入挑战并寻求大家的支持，Greg还建议大家选择自己喜欢的多样化运动方式如散步、骑行或游泳等。,"Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.
+qwen3.5:9b,57,H-ROLE,H-ROLE,It changes Greg's own 60-minute routine into advice that Rob should exercise for 60 minutes.,罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。,Rob提议每天进行30分钟运动的“离开沙发挑战”，Greg建议至少60分钟，Will鼓励他设定现实目标。Anna加入挑战并寻求大家的支持，Greg还建议大家选择自己喜欢的多样化运动方式如散步、骑行或游泳等。,"Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.
  Greg: way ahead of you mate! at least 60 min a day!
  Rob: good for you! 30 min a day is gonna be challenging for me!
  Greg: good luck then!
@@ -2921,14 +2921,14 @@ qwen3.5:9b,57,H-ROLE,,It changes Greg's own 60-minute routine into advice that R
  Anna: i'm in! 30 min sounds reasonable! 
  Greg: look for variety of exercises such as walking, biking, swimming whatever you enjoy!
  Anna: i'm gonna need lots of support from you guys!",21.33,8.22,21.33,66.34,2.708284140,3.691504240,3.758229733,2.693040609,2.395349
-qwen3.5:9b,58,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,布克提醒沃克别忘了带 Xbox 主机，尽管沃克曾以为他不喜欢那款手柄手感极佳的主机。两人最终决定通宵玩游戏，沃克同意携带一台前往。,"Booker: dont forget to carry your Xbox console
+qwen3.5:9b,58,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,布克提醒沃克别忘了带 Xbox 主机，尽管沃克曾以为他不喜欢那款手柄手感极佳的主机。两人最终决定通宵玩游戏，沃克同意携带一台前往。,"Booker: dont forget to carry your Xbox console
  Walker: i thought you dont like the console
  Walker: the grip is amazing
  Booker: haha, yeah it is
  Walker: okay then, ill come with one
  Booker: gaming all night is the plan
  Walker: yaas",23.53,4.08,11.76,70.66,2.800718307,3.382534742,3.663438320,2.796251297,1.968750
-qwen3.5:9b,59,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,马里奥正在卢森堡的机场候机。,马里奥今天飞遍了欧洲所有机场，现已抵达卢森堡等待。尽管飞行条件良好让他得以遍访各地，但他因过度劳累而疲惫不堪；朋友们叮嘱他注意安全并祝旅途愉快。,"Mario: I’ve landed in every airport in Europe today - completely whacked out dude.
+qwen3.5:9b,59,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,马里奥正在卢森堡的机场候机。,马里奥今天飞遍了欧洲所有机场，现已抵达卢森堡等待。尽管飞行条件良好让他得以遍访各地，但他因过度劳累而疲惫不堪；朋友们叮嘱他注意安全并祝旅途愉快。,"Mario: I’ve landed in every airport in Europe today - completely whacked out dude.
  Klara: Where are you now?
  Mario: Waiting in Luxembourg now.
  Eddie: Have fun dude.
@@ -3375,7 +3375,7 @@ mBART-large,0,H-EVT|H-CIRC|OMIT,,It invents a visit to Payton's clothing store a
  Payton: Everything I can get my hands on :)
  Max: Srsly?
  Payton: Yup :)",18.18,0.0,13.64,71.03,2.253097057,3.666472673,3.668338537,2.513092279,0.283019
-mBART-large,1,H-EVT|H-ROLE|OMIT,,"It claims Kelly and Mickey will visit Nagoro, although Ollie only describes it, and omits the sculpture-garden discussion.",凯利很害怕芬兰雕塑花园里的人物，因为她觉得那些人物的脸非常病态。对奥利来说，这就像日本的人偶村，令人毛骨悚然。,凯莉和米基要去日本纳戈罗村。,"Ollie: Okay, Kelly! Ur up nxt!
+mBART-large,1,H-EVT|H-ROLE|OMIT,H-EVT|H-ROLE|OMIT,"It claims Kelly and Mickey will visit Nagoro, although Ollie only describes it, and omits the sculpture-garden discussion.",凯利很害怕芬兰雕塑花园里的人物，因为她觉得那些人物的脸非常病态。对奥利来说，这就像日本的人偶村，令人毛骨悚然。,凯莉和米基要去日本纳戈罗村。,"Ollie: Okay, Kelly! Ur up nxt!
  Kelly: Me? I don't wanna.
  Mickey: C'mon!
  Jessica: Yeah! What's yours?
@@ -3403,7 +3403,7 @@ mBART-large,1,H-EVT|H-ROLE|OMIT,,"It claims Kelly and Mickey will visit Nagoro, 
  Kelly: Yeah, me too. Bye!
  Jessica: Bye!
  Ollie: Cu!",9.52,0.0,9.52,60.94,2.202018261,3.592179537,3.355407715,2.051539421,0.254545
-mBART-large,2,OMIT,,"It mentions their surprise but omits the rejected client request, the boss's approval, and the plan to attract competing clients.",贝拉和埃里克拒绝了一个客户的要求。他们老板很赞赏这个决定。他会吸引新的客户来。,埃里克和贝拉对老板的反应感到惊讶。,"Eric: Hey Bella, What happened today in boss's room?? Was he angry??
+mBART-large,2,OMIT,OMIT,"It mentions their surprise but omits the rejected client request, the boss's approval, and the plan to attract competing clients.",贝拉和埃里克拒绝了一个客户的要求。他们老板很赞赏这个决定。他会吸引新的客户来。,埃里克和贝拉对老板的反应感到惊讶。,"Eric: Hey Bella, What happened today in boss's room?? Was he angry??
  Bella: NO NO!!! He wasn't angry at all.. He actually appreciated on our brave deccision to dismiss the request of client..
  Eric: REALLY!! He appreciated this decision..
  Bella: Yeah he really did.. I too was astounded by his reaction...
@@ -3411,10 +3411,10 @@ mBART-large,2,OMIT,,"It mentions their surprise but omits the rejected client re
  Bella: What he told me was that he was looking forward to bring in new clients which were our current client's competitor..
  Eric: Oh that could possibly be the reason.Well anyways you got appreciation xD congo 
  Bella: hahaha Blessing in disguise xD",31.25,0.0,18.75,71.09,1.800889969,4.144139290,4.373366356,1.898553610,0.435897
-mBART-large,3,LANG|OMIT,,"The phrase about borrowing ""boxes"" is malformed, and the summary omits Carter's promise to lend money in an hour.",玛丽的钱用完了，卡特打算一小时后借给她一点。,玛丽要卡特借几箱钱。卡特在火车站。,"Mary: hey, im kinda broke, lend me a few box
+mBART-large,3,LANG|OMIT,LANG|OMIT,"The phrase about borrowing ""boxes"" is malformed, and the summary omits Carter's promise to lend money in an hour.",玛丽的钱用完了，卡特打算一小时后借给她一点。,玛丽要卡特借几箱钱。卡特在火车站。,"Mary: hey, im kinda broke, lend me a few box
  Carter: okay, give me an hour, im at the train station
  Mary: cool, thanks",32.0,8.7,32.0,71.71,3.058986902,3.978491783,3.893430948,2.825361729,0.772727
-mBART-large,4,NO-ERROR,,The plan to have cocktails later that day is supported by the dialogue.,杰克和梅一会儿要喝鸡尾酒。,杰克和梅今天会喝几杯鸡尾酒。,"Jack: Cocktails later?
+mBART-large,4,NO-ERROR,NO-ERROR,The plan to have cocktails later that day is supported by the dialogue.,杰克和梅一会儿要喝鸡尾酒。,杰克和梅今天会喝几杯鸡尾酒。,"Jack: Cocktails later?
  May: YES!!!
  May: You read my mind...
  Jack: Possibly a little tightly strung today?
@@ -3422,7 +3422,7 @@ mBART-large,4,NO-ERROR,,The plan to have cocktails later that day is supported b
  Jack: Thought so.
  May: A little drink will help!
  Jack: Maybe two!",66.67,30.77,66.67,88.28,2.972761631,4.558211327,4.240934372,2.611918449,1.076923
-mBART-large,5,H-ROLE|LANG|OMIT,,"It briefly reverses who sent the photo, repeats the same clause many times, and omits the twin calves and Ella's delight.",约瑟夫给艾拉发了一张乌耶克·雅内克家双胞胎奶牛的照片，艾拉很高兴。,"约瑟夫给艾拉发了一张小奶牛的照片。艾拉给约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛","Joseph: It's fuzzy but I think you can recognize what's that(^_-)-☆
+mBART-large,5,H-ROLE|LANG|OMIT,H-ROLE|LANG|OMIT,"It briefly reverses who sent the photo, repeats the same clause many times, and omits the twin calves and Ella's delight.",约瑟夫给艾拉发了一张乌耶克·雅内克家双胞胎奶牛的照片，艾拉很高兴。,"约瑟夫给艾拉发了一张小奶牛的照片。艾拉给约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛","Joseph: It's fuzzy but I think you can recognize what's that(^_-)-☆
  Joseph: <file_photo>
  Ella: Ooooo
  Ella: Baby cows??(/◕ヮ◕)/(/◕ヮ◕)/(/◕ヮ◕)/
@@ -3431,7 +3431,7 @@ mBART-large,5,H-ROLE|LANG|OMIT,,"It briefly reverses who sent the photo, repeats
  Joseph: Oh yeah, sorry Twins*
  Ella: Good for him!! So cool❤️❤️
  Ella: Wanna touch them❤️❤️❤️",20.56,15.24,18.69,73.06,3.857449055,4.144236565,4.280865669,4.092578888,4.727273
-mBART-large,6,OMIT,,"The puppy named Bones is supported, but the summary omits its age, breed, and the other pets' reactions.",之前阿黛尔得到了一只新的可爱的拉布拉多狗，4个月大，名叫秋伊。她的猫咪们和她保持着距离，而小狗波比和露露都很像它们的妈妈秋伊和斯皮迪，都想出去玩。,"阿黛尔养了一只小狗,名叫骨头。","Lola: hey girlfriend, what's up?
+mBART-large,6,OMIT,OMIT,"The puppy named Bones is supported, but the summary omits its age, breed, and the other pets' reactions.",之前阿黛尔得到了一只新的可爱的拉布拉多狗，4个月大，名叫秋伊。她的猫咪们和她保持着距离，而小狗波比和露露都很像它们的妈妈秋伊和斯皮迪，都想出去玩。,"阿黛尔养了一只小狗,名叫骨头。","Lola: hey girlfriend, what's up?
  Adele: Oh, hi Lols, not much.
  Adele: got a new dog.
  Lola: another one?
@@ -3447,26 +3447,26 @@ mBART-large,6,OMIT,,"The puppy named Bones is supported, but the summary omits i
  Lola: haha. true though.
  Adele: I know, right. Anyway, called him Bones. He's so plump it kinda fit.
  Lola: cute. can't wait to see him.",18.52,7.69,14.81,70.56,2.134649277,4.146263599,4.243029594,2.439425468,0.205479
-mBART-large,7,NO-ERROR,,"The restaurant, participants, and tomorrow schedule are all supported by the dialogue.",琳达和劳拉明天要去一家意大利餐馆。,琳达和劳拉明天要去一家意大利餐厅。,"Laura: where will we go tommorow?
+mBART-large,7,NO-ERROR,NO-ERROR,"The restaurant, participants, and tomorrow schedule are all supported by the dialogue.",琳达和劳拉明天要去一家意大利餐馆。,琳达和劳拉明天要去一家意大利餐厅。,"Laura: where will we go tommorow?
  Linda: maybe this italian restaurant?
  Laura: hmm ok
  Linda: i love their pasta
  Linda: and brownie :)
  Laura: i thouht you dont eat sweets
  Linda: this brownie is not so sweet",88.89,87.5,88.89,99.46,3.704732656,4.747477531,4.783844471,4.481051445,1.000000
-mBART-large,8,H-EVT|H-MOD,,It incorrectly includes Elliot in the girls' night and turns his conditional offer to pick Mia up into a definite event.,米娅今晚下班后要和她的女性朋友一起出去。如果她愿意，艾略特会来接她。,米娅和埃利奥特今晚要出去。他们要出去喝一杯。埃利奥特会去接米娅。,"Mia: babe, do you mind if i go out after work tonight?
+mBART-large,8,H-EVT|H-MOD,H-EVT|H-MOD,It incorrectly includes Elliot in the girls' night and turns his conditional offer to pick Mia up into a definite event.,米娅今晚下班后要和她的女性朋友一起出去。如果她愿意，艾略特会来接她。,米娅和埃利奥特今晚要出去。他们要出去喝一杯。埃利奥特会去接米娅。,"Mia: babe, do you mind if i go out after work tonight?
  Elliot: yeah, sure. go for it ;) 
  Mia: thanks, babe. it's gonna be girls night out 
  Elliot: what're u up to?
  Mia: well, you know we gonna grab some drinks have some nice time outside of work
  Elliot: don't be too late please and if you need me to pick u up just give me a ring",38.89,5.88,33.33,74.53,3.648990393,4.354051590,4.277240753,3.203582048,0.941176
-mBART-large,9,H-EVT,,"It changes the speakers' concern about Ukraine into disappointment, which is not stated.",瑞安和塞巴斯蒂安担心乌克兰的政治局势。,瑞安和塞巴斯蒂安对乌克兰感到失望。,"Ryan: I have a bad feeling about this
+mBART-large,9,H-EVT,H-EVT,"It changes the speakers' concern about Ukraine into disappointment, which is not stated.",瑞安和塞巴斯蒂安担心乌克兰的政治局势。,瑞安和塞巴斯蒂安对乌克兰感到失望。,"Ryan: I have a bad feeling about this
  Ryan: <file_other>
  Sebastian: Ukraine...
  Sebastian: This russian circus will never end...
  Ryan: I hope the leaders of of nations will react somehow to this shit.
  Sebastian: I hope so too :(",57.14,33.33,57.14,85.38,2.764718294,4.722437859,4.480871201,2.856178522,0.894737
-mBART-large,10,LANG|OMIT,,It awkwardly renders Elephant and Castle as Ivory City and omits that the meeting is tomorrow.,费恩和查蒂明天2点去象堡，他们会在正门碰头。,扎迪和芬要去一家叫“象牙城”的购物中心。他们将在2点左右在主入口处见面。,"Finn: Hey
+mBART-large,10,LANG|OMIT,LANG|OMIT,It awkwardly renders Elephant and Castle as Ivory City and omits that the meeting is tomorrow.,费恩和查蒂明天2点去象堡，他们会在正门碰头。,扎迪和芬要去一家叫“象牙城”的购物中心。他们将在2点左右在主入口处见面。,"Finn: Hey
  Zadie: Hi there! What's up?
  Finn: All fine. You? 
  Zadie: Not bad, thanks 
@@ -3490,12 +3490,12 @@ mBART-large,10,LANG|OMIT,,It awkwardly renders Elephant and Castle as Ivory City
  Zadie: Yep Call me if you get lost
  Finn: I will I will 🤙 byeeee 
  Zadie: Toodles",22.86,6.06,17.14,72.43,2.966227770,3.943525314,4.061466217,2.308309555,1.636364
-mBART-large,11,H-EVT|OMIT,,"It literalizes the metaphorical ""fight"" as an actual fight and omits Tom's instruction to bring the papers.",汤姆下午2点会在椭圆形会议室与本会面。他会先告诉对方把文件带来。,汤姆和本将在下午2点在椭圆形房间见面。他们将进行一场战斗。,"Tom: Ben. We've decided. 2pm in the Oval Room.
+mBART-large,11,H-EVT|OMIT,H-EVT|OMIT,"It literalizes the metaphorical ""fight"" as an actual fight and omits Tom's instruction to bring the papers.",汤姆下午2点会在椭圆形会议室与本会面。他会先告诉对方把文件带来。,汤姆和本将在下午2点在椭圆形房间见面。他们将进行一场战斗。,"Tom: Ben. We've decided. 2pm in the Oval Room.
  Ben: Ok, I'll be there
  Tom: Take all your papers, it's going to be a fight! And remember: take no prisoners, shoot to kill!
  Ben: hahaha, we have to win this battle.
  Tom: We will, the justice is on our side.",38.89,11.76,33.33,76.82,3.188315868,4.222910881,4.318543434,2.594901085,0.906250
-mBART-large,12,NO-ERROR,,"The funeral, Brad's liver cancer, and Elliot's 8 p.m. call are all directly supported by the dialogue.",艾略特现在没空和乔丹说话，他很忙。晚上6点他会给乔丹回电话。乔丹要去参加布拉德的葬礼，布拉德因肝癌去世了。,乔丹要去参加他的同事布拉德的葬礼。布拉德患有肝癌。埃利奥特晚上8点会给乔丹打电话。,"Elliot: i can't talk rn, i'm rly busy
+mBART-large,12,NO-ERROR,NO-ERROR,"The funeral, Brad's liver cancer, and Elliot's 8 p.m. call are all directly supported by the dialogue.",艾略特现在没空和乔丹说话，他很忙。晚上6点他会给乔丹回电话。乔丹要去参加布拉德的葬礼，布拉德因肝癌去世了。,乔丹要去参加他的同事布拉德的葬礼。布拉德患有肝癌。埃利奥特晚上8点会给乔丹打电话。,"Elliot: i can't talk rn, i'm rly busy
  Elliot: can i call u back in about 2 hours?
  Jordan: Not really, I'm going to a funeral.
  Jordan: I'll call you tonight, ok?
@@ -3505,22 +3505,22 @@ mBART-large,12,NO-ERROR,,"The funeral, Brad's liver cancer, and Elliot's 8 p.m. 
  Jordan: I told you about him, he had a liver cancer.
  Elliot: i'm so sorry man, i hope u're ok
  Elliot: i'll call u at 8 pm",53.57,29.63,35.71,83.25,3.288649321,4.269907951,4.122643948,2.894389629,0.773585
-mBART-large,13,H-CIRC|H-MOD|OMIT,,It changes an appointment unavailable until the 6th into a requirement to go before the 6th and omits the temporary hair-color plan.,弗洛要到6号才能预约到做头发。她担心自己头发会变成灰色，所以必须在特易购买一套补色工具。,弗洛必须在6号前去理发店。,"Flo: OMG, I can't get into the salon until the 6th!
+mBART-large,13,H-CIRC|H-MOD|OMIT,H-CIRC|H-MOD|OMIT,It changes an appointment unavailable until the 6th into a requirement to go before the 6th and omits the temporary hair-color plan.,弗洛要到6号才能预约到做头发。她担心自己头发会变成灰色，所以必须在特易购买一套补色工具。,弗洛必须在6号前去理发店。,"Flo: OMG, I can't get into the salon until the 6th!
  Gina: What? Why?
  Flo: They're just too busy. I'm going to be gray! LOL!
  Gina: Get you a touch-up kit at Tesco!
  Flo: Gonna have to!",29.41,12.5,17.65,71.7,2.406667948,3.682187557,3.531304836,2.320693254,0.295455
-mBART-large,14,H-EVT|H-ENT|H-ROLE,,"It invents a past judgment, changes Jack's identity, and replaces the planned talk after Jack returns with a call by Jackie.",根据杰克所说，理应由大卫承担责任。等杰克回家后他们再谈。,大卫和杰基昨天对大多数事情都持了正确的态度。杰基回家后会给大卫打电话。,"Jacky: I think you were right yesterday. 
+mBART-large,14,H-EVT|H-ENT|H-ROLE,H-EVT,"It invents a past judgment, changes Jack's identity, and replaces the planned talk after Jack returns with a call by Jackie.",根据杰克所说，理应由大卫承担责任。等杰克回家后他们再谈。,大卫和杰基昨天对大多数事情都持了正确的态度。杰基回家后会给大卫打电话。,"Jacky: I think you were right yesterday. 
  David: What about? I'm right about most things :P
  Jacky: Yeah, whole you ;)
  Jacky: About taking the blame etc. 
  David: Okey, I remeber. We'll talk later?
  Jacky: With pleasure. I'll call you when I get home.",17.14,0.0,17.14,66.52,2.306785583,3.362976789,3.383683920,2.193478107,1.250000
-mBART-large,15,H-MOD|H-ROLE|H-EVT,,It negates Adele's assigned chore and falsely says Pete completed it.,阿黛尔放学后得打扫仓鼠笼。,艾黛尔没打扫仓鼠笼。皮特放学后打扫了。,"Pete: Did you clean the hamster cage?
+mBART-large,15,H-MOD|H-ROLE|H-EVT,H-MOD|H-ROLE|H-EVT,It negates Adele's assigned chore and falsely says Pete completed it.,阿黛尔放学后得打扫仓鼠笼。,艾黛尔没打扫仓鼠笼。皮特放学后打扫了。,"Pete: Did you clean the hamster cage?
  Adelle: No. Is it my turn?
  Pete: Yes. After school, no excuses.
  Adelle: Fine.",55.56,37.5,33.33,87.28,2.471295357,4.243813515,3.901980400,2.458827972,1.461538
-mBART-large,16,NO-ERROR,,Maya buying five packs of earplugs for Randolph at the pharmacy is accurately summarized.,玛雅会在药房为伦道夫买5包耳塞。,玛雅会在药房给兰多夫买5包耳塞。,"Randolph: Honey
+mBART-large,16,NO-ERROR,NO-ERROR,Maya buying five packs of earplugs for Randolph at the pharmacy is accurately summarized.,玛雅会在药房为伦道夫买5包耳塞。,玛雅会在药房给兰多夫买5包耳塞。,"Randolph: Honey
  Randolph: Are you still in the pharmacy?
  Maya: Yes
  Randolph: Buy me some earplugs please
@@ -3528,7 +3528,7 @@ mBART-large,16,NO-ERROR,,Maya buying five packs of earplugs for Randolph at the 
  Randolph: 4 or 5 packs
  Maya: I'll get you 5
  Randolph: Thanks darling",80.0,66.67,80.0,95.28,4.843466759,4.898895264,4.923276901,4.015124321,1.000000
-mBART-large,17,H-EVT|H-MOD|OMIT,,"It falsely says the speakers attended a party, presents Alene's possible depression without its uncertainty, and omits Lincoln's advice.",法蒂玛很担心詹森和艾琳。艾琳遇上了一些问题。但林肯不希望法蒂玛为别人操心太多。,林肯、法蒂玛和詹森去了一个关于艾琳的聚会。法蒂玛认为艾琳可能患有抑郁症。,"Lincoln: Heeyyy ;* whats up
+mBART-large,17,H-EVT|H-MOD|OMIT,H-EVT|H-MOD|OMIT,"It falsely says the speakers attended a party, presents Alene's possible depression without its uncertainty, and omits Lincoln's advice.",法蒂玛很担心詹森和艾琳。艾琳遇上了一些问题。但林肯不希望法蒂玛为别人操心太多。,林肯、法蒂玛和詹森去了一个关于艾琳的聚会。法蒂玛认为艾琳可能患有抑郁症。,"Lincoln: Heeyyy ;* whats up
  Fatima: I talked to Jenson, he’s not too happy ;p
  Lincoln: the place sucks??
  Fatima: No, the place is ok, I think, we can go there, it’s about Alene
@@ -3552,7 +3552,7 @@ mBART-large,17,H-EVT|H-MOD|OMIT,,"It falsely says the speakers attended a party,
  Fatima: Probably, true… Well I can be just grateful o.o
  Lincoln: do that and stop worrying about others, youre way to bautful for that <3
  Fatima: :*:*:*",47.62,0.0,23.81,72.36,2.559763908,4.093426228,3.893126965,2.320301533,0.923077
-mBART-large,18,H-ROLE|H-MOD|OMIT,,It says Lia and Jim will attend despite their not agreeing to go and omits that Jeff will drive Mico.,米科和杰夫要去参加村里的聚会，杰夫开车。,杰夫、莉娅、米科和吉姆要去参加一个乡村派对。,"Jeff: Should we go to the village party?
+mBART-large,18,H-ROLE|H-MOD|OMIT,H-ROLE|H-MOD|OMIT,It says Lia and Jim will attend despite their not agreeing to go and omits that Jeff will drive Mico.,米科和杰夫要去参加村里的聚会，杰夫开车。,杰夫、莉娅、米科和吉姆要去参加一个乡村派对。,"Jeff: Should we go to the village party?
  Lia: I'm too tired after hiking
  Mico: I'd like to go, there may be some hot boys!
  Lia: I doubt
@@ -3569,7 +3569,7 @@ mBART-large,18,H-ROLE|H-MOD|OMIT,,It says Lia and Jim will attend despite their 
  Mico: would be nice, hahah
  Jeff: not excited, but ok
  Mico: thanks!",56.0,26.09,40.0,80.43,3.973324060,4.839369774,4.863103867,3.132035017,1.100000
-mBART-large,19,H-EVT|H-MOD|OMIT,,"It invents another argument, weakens Cindy's completed call into mere ability, and omits Harry's request and Ella's missed call.",艾拉没有接哈利的电话。在哈利的请求下，辛迪给艾拉打了电话。,辛迪和埃拉发生了另一场争执。辛迪现在可以给埃拉打电话。,"Harry: heyyyy are you there??
+mBART-large,19,H-EVT|H-MOD|OMIT,H-EVT|H-MOD|OMIT,"It invents another argument, weakens Cindy's completed call into mere ability, and omits Harry's request and Ella's missed call.",艾拉没有接哈利的电话。在哈利的请求下，辛迪给艾拉打了电话。,辛迪和埃拉发生了另一场争执。辛迪现在可以给埃拉打电话。,"Harry: heyyyy are you there??
  Cindy: Yes dear what is it?
  Harry: Can you call Ela and tell her i need to talk urgent please pick my call.
  Cindy: what happened now? an other fight :O
@@ -3581,18 +3581,18 @@ mBART-large,19,H-EVT|H-MOD|OMIT,,"It invents another argument, weakens Cindy's c
  Cindy: Hate you seriously man.
  Harry: Thank you
  Cindy: Done you can call her now.",23.53,6.25,17.65,73.07,2.928975105,4.356462479,4.083151817,2.666931391,0.931034
-mBART-large,20,H-EVT,,It replaces Ken's attempt to prank Greg with an unsupported attempt to recover money.,肯恩正试图捉弄格雷格。,肯想让格雷格拿回他的钱。,"Ken: Fuck you, you pimp
+mBART-large,20,H-EVT,H-EVT,It replaces Ken's attempt to prank Greg with an unsupported attempt to recover money.,肯恩正试图捉弄格雷格。,肯想让格雷格拿回他的钱。,"Ken: Fuck you, you pimp
  Greg: What?
  Ken: Fuck you man, I want my money back
  Greg: Was your account hacked by some prankster?
  Ken: No, I'm the prankster, just having a laugh at your expense
  Greg: Well, fuck you too then XD",16.67,0.0,16.67,76.39,2.021911621,4.934323311,4.914104939,4.497477531,1.090909
-mBART-large,21,H-MOD|H-CIRC,,It changes a talk in five minutes into not talking because Simon is free at five o'clock.,西蒙五分钟后会和阿德里安谈一谈。,"西蒙不会说话,因为他五点钟有空。","Adrian: Can you talk?
+mBART-large,21,H-MOD|H-CIRC,H-MOD|H-CIRC,It changes a talk in five minutes into not talking because Simon is free at five o'clock.,西蒙五分钟后会和阿德里安谈一谈。,"西蒙不会说话,因为他五点钟有空。","Adrian: Can you talk?
  Simon: Not really, anything important?
  Adrian: Not that much.
  Simon: I'll be free at 5
  Adrian: i'll you then",14.29,0.0,14.29,63.32,2.548579693,4.294710159,3.861794949,2.566764355,1.000000
-mBART-large,22,H-CIRC|H-MOD|H-DISC,,It invents a meeting at Gabe's home for drinks and reverses Kate's rejection and decision to stop speaking to him.,加布想在线下和凯特见一面。但是凯特不喜欢加布的要求，所以她不会再和他说话了。,加布和凯特打算在加布家见面喝一杯。,"Gab: Ah that's better. Now we can message all we like.
+mBART-large,22,H-CIRC|H-MOD|H-DISC,H-EVT|H-MOD,It invents a meeting at Gabe's home for drinks and reverses Kate's rejection and decision to stop speaking to him.,加布想在线下和凯特见一面。但是凯特不喜欢加布的要求，所以她不会再和他说话了。,加布和凯特打算在加布家见面喝一杯。,"Gab: Ah that's better. Now we can message all we like.
  Kat: :-)
  Gab: So when can we meet up for a drink?
  Kat: Fairly busy at the moment so I'm not sure when.
@@ -3609,7 +3609,7 @@ mBART-large,22,H-CIRC|H-MOD|H-DISC,,It invents a meeting at Gabe's home for drin
  Gab: Are you there?
  Gab: Where did you go?
  Gab: Kat?",23.53,6.25,23.53,73.4,2.221818924,4.150164604,4.209297180,2.285370350,0.447368
-mBART-large,23,H-EVT,,"It adds that Agatha is taking an economics class, which the dialogue does not establish.",阿加莎为自己感到骄傲，因为她已经完成了经济学相关的报告。她对经济学很感兴趣。,"阿加莎的报告已经准备好了,她正在上经济学课。","Agatha: My presentation is ready as we speak :)
+mBART-large,23,H-EVT,H-EVT,"It adds that Agatha is taking an economics class, which the dialogue does not establish.",阿加莎为自己感到骄傲，因为她已经完成了经济学相关的报告。她对经济学很感兴趣。,"阿加莎的报告已经准备好了,她正在上经济学课。","Agatha: My presentation is ready as we speak :)
  Adam: oh cool, what course?
  Agatha: Economics.
  Adam: Is it interesting? I mean... your presentation.
@@ -3617,12 +3617,12 @@ mBART-large,23,H-EVT,,"It adds that Agatha is taking an economics class, which t
  Adam: Sounds like you know what you're doing :P
  Agatha: I'm just really into economics :)
  Adam: no doubt about that",48.48,12.9,36.36,73.65,2.606462002,3.660245657,3.550285339,2.446062088,0.578947
-mBART-large,24,H-ROLE|H-ENT,,It reverses who recommended the album and mistranslates the band name from Thirty Seconds to Mars.,凯恩向香农推荐30秒上火星乐队的新专辑。,香农推荐凯恩听听听《30 Seconds to March》。,"Kane: have you heard the new 30 seconds to mars album?
+mBART-large,24,H-ROLE|H-ENT,H-ROLE|H-ENT,It reverses who recommended the album and mistranslates the band name from Thirty Seconds to Mars.,凯恩向香农推荐30秒上火星乐队的新专辑。,香农推荐凯恩听听听《30 Seconds to March》。,"Kane: have you heard the new 30 seconds to mars album?
  Shannon: no, is it good?
  Kane: you should so check it out
  Shannon: ok thanks for the recommendation
  Kane: no prob",33.33,9.09,25.0,70.32,3.529554605,4.864895821,4.835586548,3.453472853,1.400000
-mBART-large,25,OMIT,,It captures Anne's anger about the call but omits Miranda's flirtatious manner and Anne's relationship with Tom.,米兰达昨天打电话给汤姆，很甜蜜地和他讲话。安妮很生她的气，因为她正在和汤姆约会。,"安妮讨厌米兰达,因为她昨天给汤姆打了电话。","Anne: I hate that bitch!
+mBART-large,25,OMIT,OMIT,It captures Anne's anger about the call but omits Miranda's flirtatious manner and Anne's relationship with Tom.,米兰达昨天打电话给汤姆，很甜蜜地和他讲话。安妮很生她的气，因为她正在和汤姆约会。,"安妮讨厌米兰达,因为她昨天给汤姆打了电话。","Anne: I hate that bitch!
  Catherine: What did she do again???
  Nora: Who's the bitch?
  Nora: Sorry I missed something
@@ -3632,7 +3632,7 @@ mBART-large,25,OMIT,,It captures Anne's anger about the call but omits Miranda's
  Catherine: No way she did it!! How dare she!! She knows you guys are dating.
  Anne: I think that's why she did it. She wants to take Tom away from me.
  Nora: Oh, come on! She's not his type!",43.24,17.14,27.03,79.26,2.799971581,4.050703526,3.815429211,2.670471907,0.525000
-mBART-large,26,OMIT,,"The shared evening and Thomas's Romanian identity are correct, but his wealthy family background is omitted.",莉莉和托马斯度过了一个美好的夜晚。托马斯是罗马尼亚人，来自一个非常富有的家庭。,莉莉和一个叫托马斯的罗马尼亚人度过了一个美好的夜晚。,"Lily: I spent an amazing night with this guy
+mBART-large,26,OMIT,OMIT,"The shared evening and Thomas's Romanian identity are correct, but his wealthy family background is omitted.",莉莉和托马斯度过了一个美好的夜晚。托马斯是罗马尼亚人，来自一个非常富有的家庭。,莉莉和一个叫托马斯的罗马尼亚人度过了一个美好的夜晚。,"Lily: I spent an amazing night with this guy
  Kate: What's his name?
  Lily: Thomas
  Kate: Is he English?
@@ -3647,13 +3647,13 @@ mBART-large,26,OMIT,,"The shared evening and Thomas's Romanian identity are corr
  Lily: In everything. I've had so much pleasure that I have a headache
  Kate: I'm glad to read that. You deserved some fun after the last weeks.
  Lily: haha, I agree!",74.29,42.42,51.43,85.74,3.287841082,4.566134453,4.383571625,3.434339762,0.666667
-mBART-large,27,H-ENT|OMIT,,"It invents ""work venue"" as the ticket type and omits Jack's thirty-percent discount.",杰克预定了三张明天晚上七点的票。他能享受七折优惠。,杰克为明天晚上7点预订了3张工作场地票。,"Bob: did you reserve the tickets for tomorrow?
+mBART-large,27,H-ENT|OMIT,H-ENT|OMIT,"It invents ""work venue"" as the ticket type and omits Jack's thirty-percent discount.",杰克预定了三张明天晚上七点的票。他能享受七折优惠。,杰克为明天晚上7点预订了3张工作场地票。,"Bob: did you reserve the tickets for tomorrow?
  Melanie: Jake promised me he will do that
  Melanie: he has some workplace discount on them
  Bob: Jake are you here?? Did you reserve the tickets?
  Jake: yes I did, 3 tickets for tomorrow, 7 pm
  Jake: and we got a 30% discount on them too :)",37.04,8.0,29.63,81.34,3.170694828,4.212666512,4.509195328,2.371621609,0.800000
-mBART-large,28,H-EVT|H-ROLE|OMIT,,"It invents Lisa advising Peter to exercise and sleep, misassigns the advice, and omits Peter's current routine and Lisa's diet plan.",彼得最近一直在他们办公室附近的健身房锻炼以改善健康状况。为了更健康，丽莎正在考虑锻炼和更加合理饮食。,丽莎想锻炼一下。彼得有健身俱乐部的会员资格。丽莎建议他多锻炼身体。丽莎建议他多睡觉。,"Lisa: Hello Peter. What have you been doing off late?
+mBART-large,28,H-EVT|H-ROLE|OMIT,H-EVT|H-ROLE|OMIT,"It invents Lisa advising Peter to exercise and sleep, misassigns the advice, and omits Peter's current routine and Lisa's diet plan.",彼得最近一直在他们办公室附近的健身房锻炼以改善健康状况。为了更健康，丽莎正在考虑锻炼和更加合理饮食。,丽莎想锻炼一下。彼得有健身俱乐部的会员资格。丽莎建议他多锻炼身体。丽莎建议他多睡觉。,"Lisa: Hello Peter. What have you been doing off late?
  Peter: Bit busy with work.
  Lisa: Too much of work, huh?
  Peter: Not really, I’ve been working out
@@ -3667,7 +3667,7 @@ mBART-large,28,H-EVT|H-ROLE|OMIT,,"It invents Lisa advising Peter to exercise an
  Peter: Another major requirement for good health is sleep. On an average one requires at least 7-8 hours of sleep.
  Lisa: There are a lot of things we can do to stay healthy.
  Peter: Yes. One needs to maintain a regime to stay healthy for a long term.",24.0,4.17,20.0,68.18,2.171120405,3.860596180,3.838768721,2.529911995,0.840000
-mBART-large,29,H-ENT|OMIT,,It changes the vase into a bottle of flowers and omits the total price of 70 euros.,杰西卡在市中心的二手商店买了一张桌子、六把椅子、一个花瓶和一堆衣服。这些一共花了70欧元。,杰西卡在市中心的二手店买了一张桌子、六张椅子、一瓶花和一大堆衣服。,"Jessica: I went to the second hand shop downtown 
+mBART-large,29,H-ENT|OMIT,H-ENT|OMIT,It changes the vase into a bottle of flowers and omits the total price of 70 euros.,杰西卡在市中心的二手商店买了一张桌子、六把椅子、一个花瓶和一堆衣服。这些一共花了70欧元。,杰西卡在市中心的二手店买了一张桌子、六张椅子、一瓶花和一大堆衣服。,"Jessica: I went to the second hand shop downtown 
  Frank: Cool
  Raphael: What did you get?
  Jessica: Lots of stuff
@@ -3687,11 +3687,11 @@ mBART-large,29,H-ENT|OMIT,,It changes the vase into a bottle of flowers and omit
  Jessica: As soon as I saw it I knew it would be mine
  Jessica: I'm so happy with what I bought
  Jessica: And the best is I paid only 70 euros for all of that!!",62.22,37.21,57.78,90.97,3.615091085,4.620097160,4.497139931,3.027157545,0.733333
-mBART-large,30,H-EVT|OMIT,,It adds that Lucien has not cooked and omits that he is away from home.,卢西恩不在家。德西蕾希望卢西恩把她的意大利面放在微波炉里。,德西里想让卢西安把意大利面放在微波炉里。卢西安还没有做饭。,"Desiree: U both at home?
+mBART-large,30,H-EVT|OMIT,OMIT,It adds that Lucien has not cooked and omits that he is away from home.,卢西恩不在家。德西蕾希望卢西恩把她的意大利面放在微波炉里。,德西里想让卢西安把意大利面放在微波炉里。卢西安还没有做饭。,"Desiree: U both at home?
  Lucian: No. I've just got ur msg. Why did u ask about it?
  Desiree: No reason. Keep my pasta in the microwave
  Lucian: I haven't cooked anything",42.42,25.81,36.36,84.3,2.740732431,4.236564159,3.892951012,2.889284372,1.000000
-mBART-large,31,H-CIRC|H-DISC,,It states a single 5:30 meeting time although Kate says she will arrive closer to 6 and the group accepts that adjustment.,艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。,艾米丽、凯特和玛尔塔今天五点半要去中央车站x酒吧喝一杯。,"Emily: fancy a drink after work today?
+mBART-large,31,H-CIRC|H-DISC,H-CIRC,It states a single 5:30 meeting time although Kate says she will arrive closer to 6 and the group accepts that adjustment.,艾米丽、凯特和玛塔今天要去中央车站的x酒吧喝一杯。,艾米丽、凯特和玛尔塔今天五点半要去中央车站x酒吧喝一杯。,"Emily: fancy a drink after work today?
  Kate: sure!
  Marta: Good idea! 
  Marta: Where? When?
@@ -3701,11 +3701,11 @@ mBART-large,31,H-CIRC|H-DISC,,It states a single 5:30 meeting time although Kate
  Marta: See you then, Ladies!
  Emily: Bye! see ya :*
  Kate: :*",75.86,51.85,75.86,94.06,4.322279930,4.879462242,4.874971867,3.290060043,1.120000
-mBART-large,32,NO-ERROR,,Mary's absence from school and staying home are accurately summarized.,今天玛丽没有去上学，她就待在家里。,"玛丽今天没去上学,所以她呆在家里。","Mary: Hi my friend :*
+mBART-large,32,NO-ERROR,NO-ERROR,Mary's absence from school and staying home are accurately summarized.,今天玛丽没有去上学，她就待在家里。,"玛丽今天没去上学,所以她呆在家里。","Mary: Hi my friend :*
  Alice: U re not at school?
  Mary: No i stayed at home today.
  Alice: Lucky u!",60.0,22.22,50.0,92.2,4.153241158,4.767075539,4.703512192,3.902281284,1.000000
-mBART-large,33,H-ENT|H-EVT|OMIT,,It replaces the sachets left in the mailbox with cold medicine given directly to Christine and omits the concern about contagion.,克莉丝汀病了，明天不来上学了。安妮会把西拉夫的香囊放在邮箱里。克莉丝汀不想把病传染给她。,"克莉丝汀感冒了,她明天不去上学了。她感冒了。安妮会给克莉丝汀一些热感冒药。","Annie: Are you going to be at school?
+mBART-large,33,H-ENT|H-EVT|OMIT,OMIT,It replaces the sachets left in the mailbox with cold medicine given directly to Christine and omits the concern about contagion.,克莉丝汀病了，明天不来上学了。安妮会把西拉夫的香囊放在邮箱里。克莉丝汀不想把病传染给她。,"克莉丝汀感冒了,她明天不去上学了。她感冒了。安妮会给克莉丝汀一些热感冒药。","Annie: Are you going to be at school?
  Christine: Not tomorrow. I am not well.
  Annie: Oh noes! What happened?
  Christine: Got the flu, I think.
@@ -3719,7 +3719,7 @@ mBART-large,33,H-ENT|H-EVT|OMIT,,It replaces the sachets left in the mailbox wit
  Christine: Yeah. Don't call in because I'll feel bad if you catch this cold off me.
  Annie: I think I probably had it already, but you might be sleeping.
  Christine: If the light in my room is on, call if you want.",50.98,24.49,43.14,78.94,4.171448708,4.743138313,4.696054459,3.483440638,0.840909
-mBART-large,34,NO-ERROR,,Shaldona's wedding and her lack of time to deliver invitations in person are supported by the dialogue.,沙尔多纳通过手机发送了婚礼邀请，因为她没有时间亲自去送邀请函。,"沙尔多娜要结婚了,但她没有时间亲自送邀请卡。","Shaldona: WE ARE GONNA GET MARRIED ❤️❤️
+mBART-large,34,NO-ERROR,NO-ERROR,Shaldona's wedding and her lack of time to deliver invitations in person are supported by the dialogue.,沙尔多纳通过手机发送了婚礼邀请，因为她没有时间亲自去送邀请函。,"沙尔多娜要结婚了,但她没有时间亲自送邀请卡。","Shaldona: WE ARE GONNA GET MARRIED ❤️❤️
  Shaldona: <file_others>
  Shaldona: This is our mobile inviation for our wedding.
  Shaldona: Invitation*
@@ -3732,17 +3732,17 @@ mBART-large,34,NO-ERROR,,Shaldona's wedding and her lack of time to deliver invi
  Shaldona: Hope you understand.
  Piper: If you don't have time to give the invitation card in person but expect people go to your wedding
  Piper: Shaldona, if so, you are too greedy.",45.16,20.69,45.16,83.06,3.876954317,4.797704697,4.754794121,4.154512405,0.709677
-mBART-large,35,NO-ERROR,,Conrad forgetting his keys and waiting at the cafe for Tiffany and Rebecca are accurately summarized.,康拉德忘了带钥匙，所以回不了家。瑞贝卡和蒂芙妮回来得晚，他得在咖啡厅等。,康拉德忘了带钥匙。他会在咖啡店等蒂芙妮和丽贝卡。,"Conrad: I'm outside the house
+mBART-large,35,NO-ERROR,NO-ERROR,Conrad forgetting his keys and waiting at the cafe for Tiffany and Rebecca are accurately summarized.,康拉德忘了带钥匙，所以回不了家。瑞贝卡和蒂芙妮回来得晚，他得在咖啡厅等。,康拉德忘了带钥匙。他会在咖啡店等蒂芙妮和丽贝卡。,"Conrad: I'm outside the house
  Conrad: I forgot my keys...
  Rebecca: 💩
  Tiffany: I'll be home at 10-11
  Rebecca: I'm coming back even later
  Conrad: Oh no...
  Conrad: I'll wait in the coffee shop",45.71,30.3,40.0,85.2,3.703153610,4.375914574,4.307223320,3.185195684,0.666667
-mBART-large,36,H-ENT|H-EVT|OMIT,,"It invents Ludmila owning a reptile and Jacopo explaining it later, while omitting that her favorite dinosaur was a triceratops.",卢德米拉小时候最喜欢的恐龙是三角龙。,卢迪米拉有一只爬行动物。雅科波稍后会告诉她为什么爬行动物。,"Jacopo: hey, did you have a favorite dinosaur growing up?
+mBART-large,36,H-ENT|H-EVT|OMIT,H-ENT|H-EVT|OMIT,"It invents Ludmila owning a reptile and Jacopo explaining it later, while omitting that her favorite dinosaur was a triceratops.",卢德米拉小时候最喜欢的恐龙是三角龙。,卢迪米拉有一只爬行动物。雅科波稍后会告诉她为什么爬行动物。,"Jacopo: hey, did you have a favorite dinosaur growing up?
  Ludmila: yes, triceratops. why?
  Jacopo: i'll tell you why later.",8.33,0.0,8.33,65.87,2.192466497,4.155091286,3.580277205,2.479867458,1.611111
-mBART-large,37,H-EVT|OMIT,,It changes Claire ordering a wedding dress on their advice into Maria and Nicole merely liking the dress.,在玛丽亚和妮可的建议下，克莱尔正在订购她的婚纱。,玛丽亚和妮可喜欢克莱尔的裙子。,"Claire: Check this out :)))
+mBART-large,37,H-EVT|OMIT,H-EVT|OMIT,It changes Claire ordering a wedding dress on their advice into Maria and Nicole merely liking the dress.,在玛丽亚和妮可的建议下，克莱尔正在订购她的婚纱。,玛丽亚和妮可喜欢克莱尔的裙子。,"Claire: Check this out :)))
  Claire: <file_other>
  Maria: !!
  Nicole: Absolutely perfect for you!!
@@ -3755,7 +3755,7 @@ mBART-large,37,H-EVT|OMIT,,It changes Claire ordering a wedding dress on their a
  Nicole: I think you won't regret
  Maria: Don't hesitate, it's incredibly beauty!!
  Claire: Ok, if you say so :))",47.62,21.05,47.62,79.02,2.530797958,4.813092232,4.565733910,3.112068176,0.625000
-mBART-large,38,H-ENT|H-EVT|H-CIRC|OMIT,,"It invents a party, participants, U.S. migration, and specific Albanian origins while omitting the family's language and illegal departure.",米罗和他的父母说阿尔巴尼亚语。他的家人在20世纪90年代非法出境离开了阿尔巴尼亚。,"布伦达和布兰登昨天在聚会上遇到了米罗。米罗的父亲来自阿尔巴尼亚,在上世纪九十年代初从阿尔巴尼亚移民到美国。米罗的父亲来自海滨阿尔巴尼亚。米罗的父亲来自蒂拉纳。","Abby: Have you talked to Miro?
+mBART-large,38,H-ENT|H-EVT|H-CIRC|OMIT,H-ROLE|H-MOD|OMIT,"It invents a party, participants, U.S. migration, and specific Albanian origins while omitting the family's language and illegal departure.",米罗和他的父母说阿尔巴尼亚语。他的家人在20世纪90年代非法出境离开了阿尔巴尼亚。,"布伦达和布兰登昨天在聚会上遇到了米罗。米罗的父亲来自阿尔巴尼亚,在上世纪九十年代初从阿尔巴尼亚移民到美国。米罗的父亲来自海滨阿尔巴尼亚。米罗的父亲来自蒂拉纳。","Abby: Have you talked to Miro?
  Dylan: No, not really, I've never had an opportunity
  Brandon: me neither, but he seems a nice guy
  Brenda: you met him yesterday at the party?
@@ -3776,7 +3776,7 @@ mBART-large,38,H-ENT|H-EVT|H-CIRC|OMIT,,"It invents a party, participants, U.S. 
  Abby: yes, and his father was among the people
  Dylan: scary but interesting
  Abby: very!",29.03,0.0,19.35,74.18,2.607989550,3.556211472,3.525630236,2.491812229,1.926829
-mBART-large,39,H-EVT|H-MOD|H-CIRC|OMIT,,"It changes an 8 p.m. meeting into a Saturday party, includes Tom although he cannot attend, and omits the reason and roles.",丹、蒂姆、克里斯和马丁8点碰面。丹和马丁这次会放松一下。汤姆来不了，因为他岳父岳母家有个聚会。,丹、蒂姆、克里斯、汤姆和马丁周六要去参加一个聚会。,"Dan: Guys, so are we going out on Sat?
+mBART-large,39,H-EVT|H-MOD|H-CIRC|OMIT,H-EVT|H-MOD|H-CIRC|OMIT,"It changes an 8 p.m. meeting into a Saturday party, includes Tom although he cannot attend, and omits the reason and roles.",丹、蒂姆、克里斯和马丁8点碰面。丹和马丁这次会放松一下。汤姆来不了，因为他岳父岳母家有个聚会。,丹、蒂姆、克里斯、汤姆和马丁周六要去参加一个聚会。,"Dan: Guys, so are we going out on Sat?
  Tim: I'm ready when you are
  Chris: I'm OK too, in the centre right?
  Tom: I'm out guys sorry. 
@@ -3792,7 +3792,7 @@ mBART-large,39,H-EVT|H-MOD|H-CIRC|OMIT,,"It changes an 8 p.m. meeting into a Sat
  Chris: Tim, are the last two standing or what?
  Tim: i gather
  Dan: you two will also grow up one day.",44.44,27.91,40.0,77.0,2.710943460,4.094584942,3.995091677,2.330040693,0.531915
-mBART-large,40,NO-ERROR,,"The broken laptop, 9 a.m. deadline, borrowing arrangement, brother, and one-hour pickup are supported by the dialogue.",迪玛的笔记本电脑坏了，因为她的猫把咖啡洒在笔记本电脑上。 迪玛很担心，因为她明天必须为trados提供翻译。一个小时后迪玛会来纳达家，借纳达的笔记本电脑。,"迪玛的笔记本电脑坏了,她明天九点要交翻译。她想借给娜达的笔记本电脑。娜达把笔记本电脑给了她的哥哥。迪玛一小时后会来取笔记本电脑。","Dima: hello! 
+mBART-large,40,NO-ERROR,H-EVT|OMIT,"The broken laptop, 9 a.m. deadline, borrowing arrangement, brother, and one-hour pickup are supported by the dialogue.",迪玛的笔记本电脑坏了，因为她的猫把咖啡洒在笔记本电脑上。 迪玛很担心，因为她明天必须为trados提供翻译。一个小时后迪玛会来纳达家，借纳达的笔记本电脑。,"迪玛的笔记本电脑坏了,她明天九点要交翻译。她想借给娜达的笔记本电脑。娜达把笔记本电脑给了她的哥哥。迪玛一小时后会来取笔记本电脑。","Dima: hello! 
  Nada: hey girl, what's up?
  Dima: I'm in a huge trouble, my laptop is broken and I have to deliver a translation tomorrow @9 😱😱
  Nada: fuck what happened??
@@ -3806,7 +3806,7 @@ mBART-large,40,NO-ERROR,,"The broken laptop, 9 a.m. deadline, borrowing arrangem
  Dima: yup, true !
  Dima: can I come in an hour to pick it up?
  Nada: yes :) ttyl!",51.35,25.0,37.84,80.47,4.510646820,4.693638802,4.731825829,3.603534937,0.842105
-mBART-large,41,NO-ERROR,,Jerry's arrival in 40 minutes and Janet's comment about her boss are both supported.,杰瑞40分钟后到家。,杰瑞40分钟后会到珍妮特家。珍妮特的老板有时很烦人。,"Jerry: Hi sweetie :)
+mBART-large,41,NO-ERROR,NO-ERROR,Jerry's arrival in 40 minutes and Janet's comment about her boss are both supported.,杰瑞40分钟后到家。,杰瑞40分钟后会到珍妮特家。珍妮特的老板有时很烦人。,"Jerry: Hi sweetie :)
  Janet: Hi sugar ;)
  Jerry: I'm coming home
  Janet: Can't wait ;)
@@ -3818,7 +3818,7 @@ mBART-large,41,NO-ERROR,,Jerry's arrival in 40 minutes and Janet's comment about
  Janet: Yes she can! ;)
  Jerry: See you later darling
  Janet: <3",50.0,22.22,50.0,79.7,2.813431740,4.221526146,3.956427336,3.054301500,2.600000
-mBART-large,42,H-ENT|H-ROLE|OMIT,,It identifies Mike rather than Dave as the baby's father and omits the confidentiality issue and the group's surprise.,娜塔莉怀了戴夫的孩子。简认为萨莉不应该告诉别人，因为娜塔莉是私下告诉他们的。亨利埃特和格雷格很惊讶，孩子的父亲居然是戴夫而不是迈克。,简和格雷格对娜塔莉的八卦很感兴趣。娜塔莉怀孕了。她的父亲是迈克。,"Sally: Hi guys have you heard about Natalie?
+mBART-large,42,H-ENT|H-ROLE|OMIT,H-ENT|H-ROLE|OMIT,It identifies Mike rather than Dave as the baby's father and omits the confidentiality issue and the group's surprise.,娜塔莉怀了戴夫的孩子。简认为萨莉不应该告诉别人，因为娜塔莉是私下告诉他们的。亨利埃特和格雷格很惊讶，孩子的父亲居然是戴夫而不是迈克。,简和格雷格对娜塔莉的八卦很感兴趣。娜塔莉怀孕了。她的父亲是迈克。,"Sally: Hi guys have you heard about Natalie?
  Tom: No. What about her?
  Jane: You're such a gossip girl, Sally!
  Sally: Come on! I'm sure you're all curious.
@@ -3835,11 +3835,11 @@ mBART-large,42,H-ENT|H-ROLE|OMIT,,It identifies Mike rather than Dave as the bab
  Sally: Dave!!! 
  Henriette: WHAT????
  Greg: That's insane!",39.29,3.7,32.14,72.43,3.211578131,3.817365408,3.822794437,2.885041475,0.484848
-mBART-large,43,H-ROLE,,It assigns the 11 p.m. return requirement to Daisy instead of Lisa.,丽莎还没回家，黛西想要她晚上11点前回来。,黛西想在晚上11点前回家。丽莎还没回家。,"Daisy: going home?
+mBART-large,43,H-ROLE,H-ROLE,It assigns the 11 p.m. return requirement to Daisy instead of Lisa.,丽莎还没回家，黛西想要她晚上11点前回来。,黛西想在晚上11点前回家。丽莎还没回家。,"Daisy: going home?
  Lisa: not yet
  Daisy: please be back before 11 pm
  Lisa: ok",69.57,57.14,34.78,88.73,3.695637226,4.392590523,4.478703022,3.992159605,0.952381
-mBART-large,44,OMIT,,It accurately describes Cindy's refusal to explain her sadness but omits Ellie's unseen viral video.,辛迪很伤心，但不愿意说出原因。艾莉还没看那个疯传的搞笑视频。,"辛迪很伤心,因为发生了一些事,她不想谈论这件事。","Cindy: <file_gif>
+mBART-large,44,OMIT,OMIT,It accurately describes Cindy's refusal to explain her sadness but omits Ellie's unseen viral video.,辛迪很伤心，但不愿意说出原因。艾莉还没看那个疯传的搞笑视频。,"辛迪很伤心,因为发生了一些事,她不想谈论这件事。","Cindy: <file_gif>
  Ellie: Why are you so sad? Something’s happened?
  Cindy: I don’t want to talk about it…
  Ellie: Cheer up! Tomorrow’s another day 😊
@@ -3847,7 +3847,7 @@ mBART-large,44,OMIT,,It accurately describes Cindy's refusal to explain her sadn
  Cindy: Have you seen it? It’s viral on the internet
  Ellie: Nope, but it’s very funny 😊
  Ellie: <file_gif>",29.41,18.75,29.41,68.75,2.602841616,4.714126587,4.588734627,3.820412636,0.800000
-mBART-large,45,H-MOD|H-EVT|OMIT,,It says Ben will visit Uncle Steve despite his explicit refusal and omits his alternative visit to Catherine and the children.,本不会和凯瑟琳一起去看望史蒂夫叔叔。他会去看望凯瑟琳和孩子们。,凯瑟琳和本要去拜访史蒂夫叔叔。本不喜欢这种方式。,"Catherine: We're going to visit uncle Steve, want to come with us?
+mBART-large,45,H-MOD|H-EVT|OMIT,H-MOD|OMIT,It says Ben will visit Uncle Steve despite his explicit refusal and omits his alternative visit to Catherine and the children.,本不会和凯瑟琳一起去看望史蒂夫叔叔。他会去看望凯瑟琳和孩子们。,凯瑟琳和本要去拜访史蒂夫叔叔。本不喜欢这种方式。,"Catherine: We're going to visit uncle Steve, want to come with us?
  Ben: why would I?
  Catherine: He's family and we haven't seen him in a long time.
  Ben: you know very well that I'm not fond of such visits
@@ -3874,7 +3874,7 @@ mBART-large,45,H-MOD|H-EVT|OMIT,,It says Ben will visit Uncle Steve despite his 
  Catherine: But still the part about the boys missing you was true
  Catherine: So come and visit them when you'll have the chance
  Ben: I will",46.67,21.43,33.33,77.54,3.080017805,4.333568573,4.068681717,2.759703875,0.774194
-mBART-large,46,H-ROLE,,"It says Mum installed the dishwasher, while outside installers installed it for Steve.",史蒂夫很高兴他装了一台新的洗碗机。,妈妈给史蒂夫安装了一台洗碗机。,"Steve: hiya the dishwasher has turned up
+mBART-large,46,H-ROLE,H-ROLE,"It says Mum installed the dishwasher, while outside installers installed it for Steve.",史蒂夫很高兴他装了一台新的洗碗机。,妈妈给史蒂夫安装了一台洗碗机。,"Steve: hiya the dishwasher has turned up
  Mum: good did they install it for you
  Steve: yes they did a good job
  Steve: <file_photo>
@@ -3886,7 +3886,7 @@ mBART-large,46,H-ROLE,,"It says Mum installed the dishwasher, while outside inst
  Steve: no every other
  Mum: yes I'm glad you are pleased with it xx
  Steve: I am thanks mum xxx",50.0,14.29,50.0,82.15,3.574496984,4.894916534,4.817512512,4.027081966,0.882353
-mBART-large,47,H-EVT|H-ROLE|H-DISC|OMIT,,"It invents a reservation and high rent, swaps who visited Lili's, and omits the cafe closure, unanswered contact, and changed atmosphere.",茱莉亚上周去了考文特花园附近的kohaku咖啡馆，但现在这家店关门了，这让她和亨利大吃一惊。她联系了店主，但还没收到回复。亨利和他的表妹最后去了莉莉家，但那里的气氛不一样。,"亨利想预定咖啡馆,但是咖啡馆的facebook页面不见了。朱莉娅和她的表妹去了ligly's,但那里的房租太贵了。亨利和朱莉娅去了ligly's。","Henry: Do you know what happened to cafe Kohaku?
+mBART-large,47,H-EVT|H-ROLE|H-DISC|OMIT,H-EVT|H-ROLE|H-DISC|OMIT,"It invents a reservation and high rent, swaps who visited Lili's, and omits the cafe closure, unanswered contact, and changed atmosphere.",茱莉亚上周去了考文特花园附近的kohaku咖啡馆，但现在这家店关门了，这让她和亨利大吃一惊。她联系了店主，但还没收到回复。亨利和他的表妹最后去了莉莉家，但那里的气氛不一样。,"亨利想预定咖啡馆,但是咖啡馆的facebook页面不见了。朱莉娅和她的表妹去了ligly's,但那里的房租太贵了。亨利和朱莉娅去了ligly's。","Henry: Do you know what happened to cafe Kohaku?
  Julia: The one near Covent Garden?
  Henry: Yeah. I wanted to reserve a table, but I can't find them anywhere. Their Facebook page disappeared.
  Julia: I'm afraid they're closed :(
@@ -3901,7 +3901,7 @@ mBART-large,47,H-EVT|H-ROLE|H-DISC|OMIT,,"It invents a reservation and high rent
  Henry: How was the Lilly's?
  Julia: It's all right, it's a different vibe though. I think you should go to the Japan Centre for the same
  Henry: Uhm, don't think so. It's always awfully crowded and there are more tourists than normal people like us",47.31,21.98,30.11,73.39,2.846050262,4.254462719,4.142080307,2.789233685,0.848837
-mBART-large,48,NO-ERROR,,The two-day Dublin trip this weekend is directly supported by the dialogue.,卡米拉和汤姆这个周末要去都柏林。,汤姆和卡米拉这周末要去都柏林两天。,"Tom: Have you ever been to Dublin?
+mBART-large,48,NO-ERROR,NO-ERROR,The two-day Dublin trip this weekend is directly supported by the dialogue.,卡米拉和汤姆这个周末要去都柏林。,汤姆和卡米拉这周末要去都柏林两天。,"Tom: Have you ever been to Dublin?
  Camilla: Never in Ireland!
  Tom: So let's go there this weekend!
  Camilla: for 2 days?
@@ -3909,18 +3909,18 @@ mBART-large,48,NO-ERROR,,The two-day Dublin trip this weekend is directly suppor
  Camilla: I love your crazy ideas!
  Tom: ok, so I'm buying the tickets
  Camilla: <3",82.35,40.0,58.82,93.44,3.273699284,4.643720627,4.561756134,2.690820217,1.062500
-mBART-large,49,NO-ERROR,,Jason's absence because of his dentist appointment is accurately summarized.,杰森今天约了牙医，所以他没来。,杰森今天没来。杰森预约了牙医。,"Megan: Any word from Jason?
+mBART-large,49,NO-ERROR,NO-ERROR,Jason's absence because of his dentist appointment is accurately summarized.,杰森今天约了牙医，所以他没来。,杰森今天没来。杰森预约了牙医。,"Megan: Any word from Jason?
  Nathan: Why do you ask?
  Megan: He was absent today :c
  Susy: He had a dental appointment.
  Megan: Thanks for the info :)",55.56,25.0,44.44,86.52,2.739577532,4.342212677,4.324183941,3.765655041,1.000000
-mBART-large,50,H-CIRC|H-EVT,,It collapses several counts and accumulated hours into the unsupported claim that Jill works 35 to 40 hours every day.,到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,吉尔每天工作40到35个小时。,"Ally: how many did you do so far?
+mBART-large,50,H-CIRC|H-EVT,H-CIRC|H-EVT,It collapses several counts and accumulated hours into the unsupported claim that Jill works 35 to 40 hours every day.,到目前为止，吉尔做了20或30次，每天3-4次，35或40小时，所以和艾丽一样。,吉尔每天工作40到35个小时。,"Ally: how many did you do so far?
  Jill: like 20 or 30
  Jill: I can't do more than 3-4 per day
  Ally: how many hours?
  Jill: 40? maybe 35...
  Ally: ok, same here",35.29,0.0,23.53,73.17,2.673188210,3.937039614,4.017090321,2.180700541,0.375000
-mBART-large,51,H-MOD|H-DISC|OMIT,,"It makes Amelia's attendance definite despite Mia's uncertainty, gives an unsupported reason for Mia joining, and omits the later visit to James's home.",詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。,"詹姆斯和艾米莉亚明天要去埃文斯教授的画展。米娅会和他们一起去,因为她不认识艾米莉亚。","James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
+mBART-large,51,H-MOD|H-DISC|OMIT,H-MOD|H-DISC|OMIT,"It makes Amelia's attendance definite despite Mia's uncertainty, gives an unsupported reason for Mia joining, and omits the later visit to James's home.",詹姆斯和米娅明天想去看艺术展。詹姆斯想让阿米莉亚和他们一起去，但米娅不确定阿米莉亚去不去。之后詹姆斯和米娅会去他家。,"詹姆斯和艾米莉亚明天要去埃文斯教授的画展。米娅会和他们一起去,因为她不认识艾米莉亚。","James: Amelia said that one of our lecturers in philosophy had an art exhibition (!). It opens tomorrow! 
  James: I'm talking about this guy who taught us ethics.
  James: Amelia recommends it :D
  Mia: No way...! :D Professor Evans and art exhibition :D What has happened to this world?
@@ -3943,7 +3943,7 @@ mBART-large,51,H-MOD|H-DISC|OMIT,,"It makes Amelia's attendance definite despite
  Mia: Sounds good :) :*
  James: So we're good, right?
  Mia: Right. ;)",44.07,21.05,37.29,82.07,3.728971481,4.175607204,4.164554596,3.152246237,0.724138
-mBART-large,52,OMIT,,It captures the unavailable seminar material and Rita's follow-up but omits the Monday timing and her promise to notify everyone of changes.,彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。,"史蒂芬研讨会的下一节稿子在打印店没有。亚瑟也去了,但稿子没有。丽塔明天早上会问是否有稿子。","Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?
+mBART-large,52,OMIT,OMIT,It captures the unavailable seminar material and Rita's follow-up but omits the Monday timing and her promise to notify everyone of changes.,彩英和亚瑟通知玛丽安娜，史蒂芬研讨会下一次要用的阅读资料周一在印刷店拿不到。丽塔决定明天去看看，如果情况有变，她会让所有人都知道的。,"史蒂芬研讨会的下一节稿子在打印店没有。亚瑟也去了,但稿子没有。丽塔明天早上会问是否有稿子。","Mariana: Hi, just a quick question. Do you know if the readings for the next session of Stephen’s seminar are in the print shop?
  Rita: No idea, sorry
  Chae-yeong: The only thing I know is that they were not yet there on Monday
  Arthur: Yer, I’ve made the mistake of going on Monday as well and I can confirm the texts were not there and the staff was as rude as always
@@ -3953,7 +3953,7 @@ mBART-large,52,OMIT,,It captures the unavailable seminar material and Rita's fol
  Chae-yeong: No worries
  Arthur: Yeah, just let us know if they’re ready, that’s a huge favour already
  Rita: Cool. Will do! xx",42.42,6.25,30.3,71.97,2.896371841,3.799474239,3.783066273,2.675683498,0.681818
-mBART-large,53,OMIT,,"The speakers' shock is supported, but the summary omits the hospitalization, masked assailant, official report, cameras, and security concerns.",有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。,罗德尼、特鲁曼和罗斯对在校园里被殴打和抢劫的人感到震惊。,"Rodney: Have you heard a guy got beaten and mugged on campus?
+mBART-large,53,OMIT,OMIT,"The speakers' shock is supported, but the summary omits the hospitalization, masked assailant, official report, cameras, and security concerns.",有人在校园里遭到殴打和抢劫，不得不住院治疗。袭击者戴着面具。官方声明会和新闻报道一起发出。杜鲁门和罗德尼都认为尽管周围有摄像头，但校园安保不达标。,罗德尼、特鲁曼和罗斯对在校园里被殴打和抢劫的人感到震惊。,"Rodney: Have you heard a guy got beaten and mugged on campus?
  Truman: Oh, man is he ok?
  Ross: Do they have any idea who did it?
  Rodney: They're gonna give an official statement about. There's also gonna be an article in the paper. As far as I know the assailant had a mask on.
@@ -3968,7 +3968,7 @@ mBART-large,53,OMIT,,"The speakers' shock is supported, but the summary omits th
  Rodney: They don't give a fuck
  Ross: True that
  Truman: Hope they catch the guy soon",32.14,14.81,21.43,69.72,2.455954075,3.951545477,4.053385258,2.478203297,0.383562
-mBART-large,54,OMIT,,"Judie's girlfriend's tattoo and its price are supported, but the summary omits Javier's decision to get tattooed in Colombia instead.",哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,"朱迪的女朋友在那里纹身,她花了1000 美元。","Javier: Hey do you know any tattoo parlors over here with English speaking employees?
+mBART-large,54,OMIT,OMIT,"Judie's girlfriend's tattoo and its price are supported, but the summary omits Javier's decision to get tattooed in Colombia instead.",哈维尔最初很想在warsaw ink纹身，但价格太高了。他决定去哥伦比亚做纹身。,"朱迪的女朋友在那里纹身,她花了1000 美元。","Javier: Hey do you know any tattoo parlors over here with English speaking employees?
  Judie: Oh there's Warsaw ink
  Javier: the name sounds neat... have you had a tattoo done there?
  Judie: nope but my gf has
@@ -3979,7 +3979,7 @@ mBART-large,54,OMIT,,"Judie's girlfriend's tattoo and its price are supported, b
  Judie: it was a 1000
  Javier: fuck
  Javier: let me just get a tatttoo back in colombia then, thx",29.41,6.25,29.41,64.75,2.384113789,3.508370161,3.349790096,2.110542536,0.564103
-mBART-large,55,H-ROLE|H-CIRC,,"It puts both Zoe and Thomas in tropical weather and says both hiked, although only Zoe is in the tropics and Thomas walked near the mountain.",托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,佐伊和托马斯在热带天气。他们周日在贝尔琴山上散步。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
+mBART-large,55,H-ROLE|H-CIRC,H-ROLE|H-CIRC,"It puts both Zoe and Thomas in tropical weather and says both hiked, although only Zoe is in the tropics and Thomas walked near the mountain.",托马斯住的地方晚上的温度是零下3摄氏度。早晨有霜。佐伊在热带。托马斯星期天在贝尔钦峰附近散步。,佐伊和托马斯在热带天气。他们周日在贝尔琴山上散步。,"Zoey: Hello dear friends, here something to cheer you up on a cold day.
  Zoey: <file_gif>
  Thomas: LOL
  Thomas: Hi there in the tropics! How are you doing?
@@ -3991,7 +3991,7 @@ mBART-large,55,H-ROLE|H-CIRC,,"It puts both Zoe and Thomas in tropical weather a
  Thomas: <file_photo>
  Zoey: Gosh! That's pretty! You'll hear from us soon. Take care!
  Thomas: You too!",30.77,5.41,30.77,74.84,2.965687752,4.385091782,4.437417030,2.646065474,0.531915
-mBART-large,56,NO-ERROR,,The next ASEEES conference being held in San Francisco is accurately summarized.,詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,下一次asEEEs会议将在旧金山召开。,"Emily: Does anybody now where the next ASEEES conference takes place?
+mBART-large,56,NO-ERROR,NO-ERROR,The next ASEEES conference being held in San Francisco is accurately summarized.,詹姆斯通知说下一届aseees会议将在旧金山举行。克洛伊希望去夏威夷，詹姆斯认为不会去夏威夷举办会议，因为交通费用太高昂了。,下一次asEEEs会议将在旧金山召开。,"Emily: Does anybody now where the next ASEEES conference takes place?
  Chloe: Actually I have no idea, but a good question
  James: I've heard somewhere in California
  James: Yes, San Francisco!
@@ -4000,7 +4000,7 @@ mBART-large,56,NO-ERROR,,The next ASEEES conference being held in San Francisco 
  Chloe: why do you think so?
  James: The last conference there in 1993 was criticised for the high costs of traveling to the place
  Chloes: I see, pity",30.77,21.62,30.77,76.57,2.940388918,3.828885555,3.855038881,2.696922064,0.306452
-mBART-large,57,H-ENT|H-CIRC|H-MOD,,"It adds Will to the plan, assigns 30 minutes to everyone despite Greg already doing 60, and makes tentative intentions definite.",罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。,罗伯、格雷格、安娜和威尔要开始每天锻炼30分钟。,"Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.
+mBART-large,57,H-ENT|H-CIRC|H-MOD,H-ENT|H-CIRC|H-MOD,"It adds Will to the plan, assigns 30 minutes to everyone despite Greg already doing 60, and makes tentative intentions definite.",罗伯想开始每天做30分钟的体育运动。格雷格已经做了60分钟。安娜想像罗伯一样开始锻炼。,罗伯、格雷格、安娜和威尔要开始每天锻炼30分钟。,"Rob: I wanna start Get off the couch challenge! Who's with me? I'm gonna start with 30 min of activity every day.
  Greg: way ahead of you mate! at least 60 min a day!
  Rob: good for you! 30 min a day is gonna be challenging for me!
  Greg: good luck then!
@@ -4008,14 +4008,14 @@ mBART-large,57,H-ENT|H-CIRC|H-MOD,,"It adds Will to the plan, assigns 30 minutes
  Anna: i'm in! 30 min sounds reasonable! 
  Greg: look for variety of exercises such as walking, biking, swimming whatever you enjoy!
  Anna: i'm gonna need lots of support from you guys!",58.82,25.0,35.29,77.89,3.256330967,4.418717384,4.331779480,2.715902805,0.558140
-mBART-large,58,OMIT,,"Walker bringing his Xbox is supported, but the all-night gaming plan and Booker's role are omitted.",沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,沃克会带着他的xbox游戏机。,"Booker: dont forget to carry your Xbox console
+mBART-large,58,OMIT,OMIT,"Walker bringing his Xbox is supported, but the all-night gaming plan and Booker's role are omitted.",沃克和布克计划整晚玩游戏。沃克会把布克想要的xbox游戏机带来。,沃克会带着他的xbox游戏机。,"Booker: dont forget to carry your Xbox console
  Walker: i thought you dont like the console
  Walker: the grip is amazing
  Booker: haha, yeah it is
  Walker: okay then, ill come with one
  Booker: gaming all night is the plan
  Walker: yaas",36.36,20.0,36.36,78.98,2.714628220,4.625736713,4.276009560,3.141341209,0.468750
-mBART-large,59,H-EVT|H-CIRC|LANG,,"It changes waiting at one Luxembourg airport into landing at every airport there, producing a nonsensical claim.",马里奥正在卢森堡的机场候机。,马利奥今天在卢森堡的每一个机场都降落了。,"Mario: I’ve landed in every airport in Europe today - completely whacked out dude.
+mBART-large,59,H-EVT|H-CIRC|LANG,H-EVT|H-CIRC,"It changes waiting at one Luxembourg airport into landing at every airport there, producing a nonsensical claim.",马里奥正在卢森堡的机场候机。,马利奥今天在卢森堡的每一个机场都降落了。,"Mario: I’ve landed in every airport in Europe today - completely whacked out dude.
  Klara: Where are you now?
  Mario: Waiting in Luxembourg now.
  Eddie: Have fun dude.
