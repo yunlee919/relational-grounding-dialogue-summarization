@@ -715,16 +715,16 @@ aya-expanse:8b,59,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue
  Mario: weather was good for flying everywhere 🙂 Otherwise it would have been trains everywhere 🙂
  Moe: Mario be safe bro
  Mario: You too bro 🙂",10.34,0,6.9,66.63,3.020522118,4.231998444,4.078999519,3.333421230,7.000000
-aya-expanse:8b,60,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,约翰不确定今天是否有训练，但马特说有。,约翰问今天有没有练习，马特回答说应该有。约翰高兴地表示感谢并约定在练习时见，马特回复了“见”。,"John: do we have practice today?
+aya-expanse:8b,60,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,约翰不确定今天是否有训练，但马特说有。,约翰问今天有没有练习，马特回答说应该有。约翰高兴地表示感谢并约定在练习时见，马特回复了“见”。,"John: do we have practice today?
  Matt: yea think so
  John: great thanks see ya there
  Matt: see ya",30.77,0,30.77,74.03,2.983984947,3.976161957,3.740938902,2.648435831,2.473684
-aya-expanse:8b,61,H-CIRC|OMIT,,It changes 'two bottles yesterday' to 'two days ago' and omits that Martin will buy two more.,马丁完成计划后将给亚历克斯买两瓶牛奶。,亚历克斯请马丁买牛奶，马丁刚买了两天前。亚历克斯说最近想喝牛奶。马丁表示因为要完成项目，两小时后会给她买。亚历克斯称他为英雄。,"Alex: Hon, could you buy some milk?
+aya-expanse:8b,61,H-CIRC|OMIT,H-CIRC|OMIT,It changes 'two bottles yesterday' to 'two days ago' and omits that Martin will buy two more.,马丁完成计划后将给亚历克斯买两瓶牛奶。,亚历克斯请马丁买牛奶，马丁刚买了两天前。亚历克斯说最近想喝牛奶。马丁表示因为要完成项目，两小时后会给她买。亚历克斯称他为英雄。,"Alex: Hon, could you buy some milk?
  Martin: You kiddin me, I just bought two yesterday
  Alex: Well, I have nothing for my defense, I'm just craving milk lately:D
  Martin: You're lucky that I love you, two milks coming up in couple of hours, I gotta finish the project
  Alex: You are my hero!",25.53,0,17.02,73.81,3.516676903,3.921964645,3.993057013,3.063449144,3.315789
-aya-expanse:8b,62,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。,布莱尔和查克计划在下班后见婚礼策划师，地点在非娜丽塔餐厅。查克想点这里的海鲜意面，但他们也记得上次见黛安时那场令人难忘的番茄酱灾难，两人不禁发笑。,"Blair: Remember we are seeing the wedding planner after work
+aya-expanse:8b,62,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。,布莱尔和查克计划在下班后见婚礼策划师，地点在非娜丽塔餐厅。查克想点这里的海鲜意面，但他们也记得上次见黛安时那场令人难忘的番茄酱灾难，两人不禁发笑。,"Blair: Remember we are seeing the wedding planner after work
  Chuck: Sure, where are we meeting her?
  Blair: At Nonna Rita's
  Chuck: Can I order their seafood tagliatelle or are we just having coffee with her? I've been dreaming about it since we went there last month
@@ -733,7 +733,7 @@ aya-expanse:8b,62,NO-ERROR,,The summary accurately reflects the dialogue's key f
  Blair: Omg hahaha it was all over her white blouse
  Chuck: :D
  Blair: :P",29.03,3.33,25.81,72.83,3.300705433,3.823739290,3.874268055,2.983024120,1.659091
-aya-expanse:8b,63,H-ROLE,,It reverses ownership of the pillow Cole asks Luis to pass.,科尔和路易斯坐在同一个房间里，却在发短信。,"科尔：嘿，室友（笑）
+aya-expanse:8b,63,H-ROLE,H-ROLE|LANG,It reverses ownership of the pillow Cole asks Luis to pass.,科尔和路易斯坐在同一个房间里，却在发短信。,"科尔：嘿，室友（笑）
  路易斯：我们可是在同一间房间啊！
  科尔：哈哈，有趣。
  路易斯：唉，不要来要我的枕头了。
@@ -750,7 +750,7 @@ aya-expanse:8b,63,H-ROLE,,It reverses ownership of the pillow Cole asks Luis to 
  Cole: oh youre not gonna talk to your roommate now
  Luis: im not gonna text an idiot whos practically sitting just a few inches from me -_-
  Cole: xD",17.28,0,9.88,66.62,3.981084108,4.839324474,4.869152546,4.509684563,4.761905
-aya-expanse:8b,64,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,达米安告诉雅各布和梅森，切尔西队比赛中的希瓜因两度得分让他非常高兴。尽管对手是排名靠后的胡德尼特队，但这终于是一次积极的转变。雅各布认为这可能不是转折点，而梅森则表示胡德尼特队水平很低。达米安仍保持乐观，希望这能成为球队的转机。,"Damian: guys did u watch Chelsea game
+aya-expanse:8b,64,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,达米安告诉雅各布和梅森，切尔西队比赛中的希瓜因两度得分让他非常高兴。尽管对手是排名靠后的胡德尼特队，但这终于是一次积极的转变。雅各布认为这可能不是转折点，而梅森则表示胡德尼特队水平很低。达米安仍保持乐观，希望这能成为球队的转机。,"Damian: guys did u watch Chelsea game
  Jacob: no
  Mason: nah, i was busy all afternoon
  Damian: Higuain scored twice! so happy for him
@@ -761,7 +761,7 @@ aya-expanse:8b,64,NO-ERROR,,The summary accurately reflects the dialogue's key f
  Damian: don't be like that, im happy for the team, maybe this will be a turning point
  Jacob: no, I don't think so
  Mason: ha good luck with that",34.04,6.52,21.28,73.06,3.201710939,4.140236855,3.988237619,2.846632957,2.280000
-aya-expanse:8b,65,H-CIRC,,It invents euros as the currency for the price of 39.,玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。,马伦恩即将去城镇，建议巴里为丽塔挑选礼物。巴里没有想法，马伦恩在凯瑟商店看到了丝绸围巾，并发了照片给巴里。巴里建议选择带有黄色图案的围巾，因为丽塔喜欢黄色。马伦恩表示那是五件中最贵的一件，价格为39欧。巴里觉得不贵，同意以50/50的价格购买。,"Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.
+aya-expanse:8b,65,H-CIRC,H-CIRC,It invents euros as the currency for the price of 39.,玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。,马伦恩即将去城镇，建议巴里为丽塔挑选礼物。巴里没有想法，马伦恩在凯瑟商店看到了丝绸围巾，并发了照片给巴里。巴里建议选择带有黄色图案的围巾，因为丽塔喜欢黄色。马伦恩表示那是五件中最贵的一件，价格为39欧。巴里觉得不贵，同意以50/50的价格购买。,"Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.
  Marleen: Text me here with your ideas for a present for her.
  Barry: But I've got none! I leave the choice entirely to you.
  Barry: I'm at home now.
@@ -778,11 +778,11 @@ aya-expanse:8b,65,H-CIRC,,It invents euros as the currency for the price of 39.,
  Barry: Oh come on. Not so bad.
  Marleen: Shall we go 50/50?
  Barry: OK",26.17,3.81,20.56,69.76,3.952604532,4.034192085,4.102892399,3.179796457,2.140351
-aya-expanse:8b,66,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,布鲁克要盖尔过来看看昨天发生了什么。,昨天发生了点事，布鲁克让盖尔回来看看。盖尔问情况严重吗？布鲁克建议他回家。盖尔说马上就到。,"Brook: something happened yesterday, you need to come and see
+aya-expanse:8b,66,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,布鲁克要盖尔过来看看昨天发生了什么。,昨天发生了点事，布鲁克让盖尔回来看看。盖尔问情况严重吗？布鲁克建议他回家。盖尔说马上就到。,"Brook: something happened yesterday, you need to come and see
  Gyle: is it bad?
  Brook: you better come home
  Gyle: On my way",34.29,12.12,17.14,75.74,3.199820042,3.790375948,3.880349636,3.083240747,2.500000
-aya-expanse:8b,67,LANG,,The output reproduces speaker turns instead of providing a summary.,凯特、米丽娜和里贾娜的演讲进行得很顺利，三个人来听他们的演讲。,"米莱娜：演讲怎么样？
+aya-expanse:8b,67,LANG,LANG,The output reproduces speaker turns instead of providing a summary.,凯特、米丽娜和里贾娜的演讲进行得很顺利，三个人来听他们的演讲。,"米莱娜：演讲怎么样？
  凯特：很好。
  雷吉娜：是的，我们收到了积极的反馈。
  米莱娜：你有多少人来听你的演讲？
@@ -795,7 +795,7 @@ aya-expanse:8b,67,LANG,,The output reproduces speaker turns instead of providing
  Regina: 3 but we new it will be very cosy, friendly thing
  Milena: sometimes a small but interested audience is better than random bored people
  Kate: exactly",24.18,8.99,17.58,65.41,2.732972383,3.723423719,3.751284838,2.794140339,3.516129
-aya-expanse:8b,68,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,杰克今年拿到了第一个totw ，汤姆的团队并不出色。,杰克刚抽中了本年的首张“TOTW”卡。他计划在尝试过几场比赛后出售，因为该球员不适合他的阵容。汤姆表示今年运气不佳，没有抽到优秀球员。杰克安慰他说，作为游戏高手，他不需要帮助。,"Jake: dude, I just pulled a TOTW
+aya-expanse:8b,68,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,杰克今年拿到了第一个totw ，汤姆的团队并不出色。,杰克刚抽中了本年的首张“TOTW”卡。他计划在尝试过几场比赛后出售，因为该球员不适合他的阵容。汤姆表示今年运气不佳，没有抽到优秀球员。杰克安慰他说，作为游戏高手，他不需要帮助。,"Jake: dude, I just pulled a TOTW
  Jake: my first this year!
  Tom: grats!
  Tom: gonna sell it?
@@ -810,7 +810,7 @@ aya-expanse:8b,68,NO-ERROR,,The summary accurately reflects the dialogue's key f
  Jake: you're good at the game
  Jake: you don't need help :P
  Tom: I like shiny things :P",22.86,5.88,17.14,69.44,3.576072931,3.852822781,3.996872663,2.935658932,3.520000
-aya-expanse:8b,69,LANG,,The output reproduces speaker turns instead of providing a summary.,凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。,"卡丝：亲爱的，你生日卡片和钱收到了吗？
+aya-expanse:8b,69,LANG,LANG,The output reproduces speaker turns instead of providing a summary.,凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。,"卡丝：亲爱的，你生日卡片和钱收到了吗？
  
 
  乔丹：嗨，奶奶！谢谢20英镑。对不起，我没提前打电话给你。
@@ -831,7 +831,7 @@ aya-expanse:8b,69,LANG,,The output reproduces speaker turns instead of providing
  Jordan: Yes, Nanna. I will always love him! Next time, get me a football one or something. I mean, I'm 11 now!
  Cass: I know, you are so grown up. Love you xxxxx
  Jordan: Love you, Nan xx",17.86,3.64,12.5,59.77,4.743051052,4.675529480,4.782354355,4.401534081,4.290323
-aya-expanse:8b,70,H-EVT,,It changes Kelly choosing the first question into Kelly wanting to answer first.,对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,凯利想先回答问题。杰西卡分享了她在意大利巴勒莫的经历，提到那里有著名的卡普奇尼地下墓穴，里面有8000具尸体。她描述道，这些尸体被展示在像博物馆展品一样，大部分穿着衣服，只有头骨和手。米基和奥利对这个故事感到兴奋，决定记下来。,"Kelly: Oh! Oh! Can I pick the first question?
+aya-expanse:8b,70,H-EVT,H-EVT,It changes Kelly choosing the first question into Kelly wanting to answer first.,对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,凯利想先回答问题。杰西卡分享了她在意大利巴勒莫的经历，提到那里有著名的卡普奇尼地下墓穴，里面有8000具尸体。她描述道，这些尸体被展示在像博物馆展品一样，大部分穿着衣服，只有头骨和手。米基和奥利对这个故事感到兴奋，决定记下来。,"Kelly: Oh! Oh! Can I pick the first question?
  Jessica: Sure. Go for it!
  Kelly: What's the scariest place you've been to!
  Jessica: I'll start: Palermo in Italy.
@@ -843,7 +843,7 @@ aya-expanse:8b,70,H-EVT,,It changes Kelly choosing the first question into Kelly
  Jessica: Well, partly. Most of them were exhibited in their clothes. Basically only skulls and hands. 
  Mickey: I'm writing this one down! That's so precious!
  Ollie: Me too!",20,5.13,12.5,64.78,2.355443239,3.105425596,2.884539127,2.215308666,4.346154
-aya-expanse:8b,71,H-DISC,,It distorts economic backwardness being an advantage into an opportunity to become backward.,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,"西蒙和查理讨论了欧盟的移民政策对欧洲各国安全的影响。他们分析了德国、比利时和巴黎在节日期间采取的安全措施，同时强调波兰作为最后一个未受到无控制移民和恐怖主义影响的国家的独特地位。
+aya-expanse:8b,71,H-DISC,H-DISC,It distorts economic backwardness being an advantage into an opportunity to become backward.,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,"西蒙和查理讨论了欧盟的移民政策对欧洲各国安全的影响。他们分析了德国、比利时和巴黎在节日期间采取的安全措施，同时强调波兰作为最后一个未受到无控制移民和恐怖主义影响的国家的独特地位。
  
 
  西蒙认为波兰有机会在经济上落后几十年，但也可以避免其他西方国家犯下的错误，快速发展。他赞扬波兰人民捍卫价值观和利益的意志，并预测未来波兰可能成为欧洲内部解决问题的主要力量。
@@ -871,7 +871,7 @@ aya-expanse:8b,71,H-DISC,,It distorts economic backwardness being an advantage i
  Simon: Let's hope not.
  Charlie: Yup. To conclude: Christmas in Poland will be the best Christmas in Europe :D
  Simon: I agree :)",19.26,9.02,17.78,68.29,3.336988926,3.963824034,4.107819557,3.604941845,7.166667
-aya-expanse:8b,72,H-DISC|H-EVT,,It treats the group's satire as sincere support and turns Matt's joke into a real threat.,艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。,Ed 认为性行为仅限已婚夫妇，并严厉批评其他人的观点。Valerie 和 Chris 反驳说，即使是传统任务式性行为也并非绝对正确。Lor 幽默地表示，如果不遵守这些规则，在来世可能会感到内疚。Atnee 和 Jessica 支持 Ed 的观点，认为性行为的唯一目的是生育。Matt 开玩笑地威胁要把Ed送入地狱。Ed 坚定地维护自己的立场，拒绝看其他男性。,"Ed: Sinners!! Sex is for married people
+aya-expanse:8b,72,H-DISC|H-EVT,H-DISC|H-EVT,It treats the group's satire as sincere support and turns Matt's joke into a real threat.,艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。,Ed 认为性行为仅限已婚夫妇，并严厉批评其他人的观点。Valerie 和 Chris 反驳说，即使是传统任务式性行为也并非绝对正确。Lor 幽默地表示，如果不遵守这些规则，在来世可能会感到内疚。Atnee 和 Jessica 支持 Ed 的观点，认为性行为的唯一目的是生育。Matt 开玩笑地威胁要把Ed送入地狱。Ed 坚定地维护自己的立场，拒绝看其他男性。,"Ed: Sinners!! Sex is for married people
  Valerie: double sin if it’s anything but missionary style!
  Chris: Then you go get married & leave us all alone
  Lor: You better hope all non sin living is worth it or your consciousness after death is going to be butt hurt for eternity lol
@@ -882,14 +882,14 @@ aya-expanse:8b,72,H-DISC|H-EVT,,It treats the group's satire as sincere support 
  Jessica: And only for procreation. :-))) And not to be enjoyed. :-)))
  Matt: Ed, Ok. See you in hell !! 😂
  Ed: Matt , No you won’t. I don’t even look on the direction of another man",15,0,15,59.89,1.995623350,3.637745857,3.757620573,2.208106518,4.638889
-aya-expanse:8b,73,LANG,,The output reproduces speaker turns instead of providing a summary.,迈克在伦敦。,"杰克：天啊！你在伦敦？！
+aya-expanse:8b,73,LANG,LANG,The output reproduces speaker turns instead of providing a summary.,迈克在伦敦。,"杰克：天啊！你在伦敦？！
  迈克：（附照片）
  迈克：是的，兄弟！梦想成真了！
  杰克：酷！恭喜你！","Jake: Maaaan! you in london?!
  Mike: <file_photo>
  Mike: yeah mate! dreams coming true!
  Jake: cool! congrats!",18.18,6.45,12.12,65.25,2.602609158,4.187593460,4.260396481,3.846575975,7.333333
-aya-expanse:8b,74,H-CIRC|OMIT,,It changes 60 minutes of play into the first half and omits Jose's trust in the player.,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,里奇和克莱讨论了波格巴的出色表现。里奇称赞波格巴的进球，并指出他在赛季中变得更加成熟。克莱同意，并认为波格巴值得在上半场后得到进球奖励。他们都对波格巴的表现感到高兴。,"Richie: Pogba
+aya-expanse:8b,74,H-CIRC|OMIT,H-CIRC|OMIT,It changes 60 minutes of play into the first half and omits Jose's trust in the player.,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,里奇和克莱讨论了波格巴的出色表现。里奇称赞波格巴的进球，并指出他在赛季中变得更加成熟。克莱同意，并认为波格巴值得在上半场后得到进球奖励。他们都对波格巴的表现感到高兴。,"Richie: Pogba
  Clay: Pogboom
  Richie: what a s strike yoh!
  Clay: was off the seat the moment he chopped the ball back to his right foot
@@ -903,7 +903,7 @@ aya-expanse:8b,74,H-CIRC|OMIT,,It changes 60 minutes of play into the first half
  Clay: yeah man
  Richie: cool then 
  Clay: cool",22.78,5.19,22.78,63.49,3.211324930,3.912443876,3.985480309,2.780253172,1.660000
-aya-expanse:8b,75,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,亚历克看到美国的达人秀，他发了个链接给亚莉克莎。,亚历克问艾丽莎是否看过最近的《美国达人秀》。艾丽莎没有看。亚历克发送了一个视频链接，但最初无法打开。经过一会儿，链接成功了。亚历克建议艾丽莎观看，并表示她会喜欢的。艾丽莎同意，并称赞那个女孩很棒。她表示希望自己年轻时有那女孩一半的技能。亚历克也认为那个女孩表现出色，甚至可能赢得该届比赛。艾丽莎问亚历克是否看过所有参赛者，亚历克回答是的，并表示他个人觉得那个女孩是最好的。艾丽莎希望她能获胜。,"Alec: Have you seen the last America's got talent?
+aya-expanse:8b,75,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,亚历克看到美国的达人秀，他发了个链接给亚莉克莎。,亚历克问艾丽莎是否看过最近的《美国达人秀》。艾丽莎没有看。亚历克发送了一个视频链接，但最初无法打开。经过一会儿，链接成功了。亚历克建议艾丽莎观看，并表示她会喜欢的。艾丽莎同意，并称赞那个女孩很棒。她表示希望自己年轻时有那女孩一半的技能。亚历克也认为那个女孩表现出色，甚至可能赢得该届比赛。艾丽莎问亚历克是否看过所有参赛者，亚历克回答是的，并表示他个人觉得那个女孩是最好的。艾丽莎希望她能获胜。,"Alec: Have you seen the last America's got talent?
  Alexa: No. 
  Alexa: Interesting? 
  Alec: <file_other>
@@ -922,22 +922,22 @@ aya-expanse:8b,75,NO-ERROR,,The summary accurately reflects the dialogue's key f
  Alec: yes
  Alec: And there're a few good, but I personally think she's the best!
  Alexa: I'd be glad if she wins :)",9.45,0,7.87,67.03,3.267062664,4.140565872,4.140560150,3.665133953,8.166667
-aya-expanse:8b,76,LANG,,The output reproduces speaker turns instead of providing a summary.,詹姆斯要去上班，所以他不看比赛。,"汉娜：你在看比赛吗？
+aya-expanse:8b,76,LANG,LANG,The output reproduces speaker turns instead of providing a summary.,詹姆斯要去上班，所以他不看比赛。,"汉娜：你在看比赛吗？
  詹姆斯：不，我要去工作。
  汉娜：哦，好的。","Hannah: Are you watching the game?
  James: No I am head to work : ( 
  Hannah: Oh okay",37.5,6.67,18.75,72.16,2.753937721,4.877734184,4.826933861,4.319472313,1.875000
-aya-expanse:8b,77,LANG,,The output reproduces speaker turns instead of providing a summary.,在多尔夫的提醒下，齐格勒明天会把护照带来。,"多尔夫：明天记得带护照。
+aya-expanse:8b,77,LANG,LANG,The output reproduces speaker turns instead of providing a summary.,在多尔夫的提醒下，齐格勒明天会把护照带来。,"多尔夫：明天记得带护照。
  齐格勒：好的，我会记住的。","Dolph: hey
  Dolph: remember to bring your passport tomorrow
  Ziggler: Cool, i will",48.28,14.81,34.48,73.84,2.874571323,4.109178543,4.049514294,3.313618898,1.190476
-aya-expanse:8b,78,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。,威廉正在做意大利面，请奥利维亚买一些新鲜番茄。贝丝会买点巧克力作为晚餐后甜点。,"William: hey im making spaghetti
+aya-expanse:8b,78,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。,威廉正在做意大利面，请奥利维亚买一些新鲜番茄。贝丝会买点巧克力作为晚餐后甜点。,"William: hey im making spaghetti
  William: could you please buy some fresh tomatoes
  William: pretty please :)
  Olivia: no problem dear :)
  William: and Beth? it wouldn't hurt to have some chocolate for after the dinner :D
  Beth: I'm on it :D",51.28,21.62,51.28,83.88,4.184985161,4.622252941,4.636034489,3.668666124,1.181818
-aya-expanse:8b,79,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。,蒂娜（Tina）抱怨Facebook不断推荐帕特里克（Patrick），德米（Demi）笑了。蒂娜表示她需要学习如何从仇视男性到与他们建立关系，并提到在经历重大心碎后，德米成功地改变了自己。她们讨论了关于喜欢不同类型男性的观点，并计划组织相关工作坊。蒂娜表示她只喜欢一种类型，但德米建议她放松一点，探索其他可能性。蒂娜表达了希望独立于他人情绪的需求，德米表示理解。她们约定见面，并开玩笑说如果蒂娜无家可归，德米会收留她。,"Tina: Hey, Facebook is constantly non stop suggesting Patrick
+aya-expanse:8b,79,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。,蒂娜（Tina）抱怨Facebook不断推荐帕特里克（Patrick），德米（Demi）笑了。蒂娜表示她需要学习如何从仇视男性到与他们建立关系，并提到在经历重大心碎后，德米成功地改变了自己。她们讨论了关于喜欢不同类型男性的观点，并计划组织相关工作坊。蒂娜表示她只喜欢一种类型，但德米建议她放松一点，探索其他可能性。蒂娜表达了希望独立于他人情绪的需求，德米表示理解。她们约定见面，并开玩笑说如果蒂娜无家可归，德米会收留她。,"Tina: Hey, Facebook is constantly non stop suggesting Patrick
  Demi: Hahahahaha 
  Tina: I think I have to catch a bit of your approach
  Demi: He's a god. What do you mean...?
@@ -1849,16 +1849,16 @@ gemma4:e4b,59,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's k
  Mario: weather was good for flying everywhere 🙂 Otherwise it would have been trains everywhere 🙂
  Moe: Mario be safe bro
  Mario: You too bro 🙂",25,0,18.75,73.37,3.398436785,4.642944813,4.528925419,3.023844957,3.071429
-gemma4:e4b,60,H-MOD,,It turns Matt's uncertain 'I think so' into a definite confirmation.,约翰不确定今天是否有训练，但马特说有。,约翰询问今天是否有练习，麦特确认有，两人道别。,"John: do we have practice today?
+gemma4:e4b,60,H-MOD,NO-ERROR,It turns Matt's uncertain 'I think so' into a definite confirmation.,约翰不确定今天是否有训练，但马特说有。,约翰询问今天是否有练习，麦特确认有，两人道别。,"John: do we have practice today?
  Matt: yea think so
  John: great thanks see ya there
  Matt: see ya",48,17.39,48,81.55,2.402461529,3.733079672,3.512973309,2.221210957,1.210526
-gemma4:e4b,61,OMIT,,"It omits the two-bottle quantity, the delay of a few hours, and the project-completion condition.",马丁完成计划后将给亚历克斯买两瓶牛奶。,亚历克斯让马丁买牛奶，马丁抱怨刚买过，但最终还是答应了，并称赞了他。,"Alex: Hon, could you buy some milk?
+gemma4:e4b,61,OMIT,OMIT,"It omits the two-bottle quantity, the delay of a few hours, and the project-completion condition.",马丁完成计划后将给亚历克斯买两瓶牛奶。,亚历克斯让马丁买牛奶，马丁抱怨刚买过，但最终还是答应了，并称赞了他。,"Alex: Hon, could you buy some milk?
  Martin: You kiddin me, I just bought two yesterday
  Alex: Well, I have nothing for my defense, I'm just craving milk lately:D
  Martin: You're lucky that I love you, two milks coming up in couple of hours, I gotta finish the project
  Alex: You are my hero!",26.67,0,20,70.27,2.720110416,3.429836273,3.512963295,2.425648928,1.789474
-gemma4:e4b,62,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。,两人提醒对方下班后要见婚礼策划师，地点在Nonna Rita。查克开玩笑地询问是否可以点海鲜意大利面，并提到了上次和黛安会面时弄脏了她的经历。,"Blair: Remember we are seeing the wedding planner after work
+gemma4:e4b,62,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。,两人提醒对方下班后要见婚礼策划师，地点在Nonna Rita。查克开玩笑地询问是否可以点海鲜意大利面，并提到了上次和黛安会面时弄脏了她的经历。,"Blair: Remember we are seeing the wedding planner after work
  Chuck: Sure, where are we meeting her?
  Blair: At Nonna Rita's
  Chuck: Can I order their seafood tagliatelle or are we just having coffee with her? I've been dreaming about it since we went there last month
@@ -1867,7 +1867,7 @@ gemma4:e4b,62,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Blair: Omg hahaha it was all over her white blouse
  Chuck: :D
  Blair: :P",32.79,6.78,22.95,67.74,3.350969791,3.959606409,4.074038982,2.902851820,1.590909
-gemma4:e4b,63,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,科尔和路易斯坐在同一个房间里，却在发短信。,科尔和路易斯在同一个房间里开玩笑，科尔让路易斯把枕头递过来，但路易斯要求科尔当面说。两人随后互相调侃，气氛轻松。,"Cole: hey roomie XD XD
+gemma4:e4b,63,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,科尔和路易斯坐在同一个房间里，却在发短信。,科尔和路易斯在同一个房间里开玩笑，科尔让路易斯把枕头递过来，但路易斯要求科尔当面说。两人随后互相调侃，气氛轻松。,"Cole: hey roomie XD XD
  Luis: dude we are in the SAME DAMN ROOM
  Cole: its funny XD
  Luis: -_-
@@ -1878,7 +1878,7 @@ gemma4:e4b,63,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Cole: oh youre not gonna talk to your roommate now
  Luis: im not gonna text an idiot whos practically sitting just a few inches from me -_-
  Cole: xD",39.02,20.51,34.15,76.09,3.342827797,4.027240276,4.050415993,3.063910246,2.666667
-gemma4:e4b,64,H-MOD,,It turns Damian's hope that this may be a turning point into a definite conclusion.,切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,大家聊了切尔西的比赛，达米安因为球员希瓜因打进两球而很高兴，认为这是球队的一个积极转折点；雅各布和梅森对此持保留态度。,"Damian: guys did u watch Chelsea game
+gemma4:e4b,64,H-MOD,H-MOD,It turns Damian's hope that this may be a turning point into a definite conclusion.,切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,大家聊了切尔西的比赛，达米安因为球员希瓜因打进两球而很高兴，认为这是球队的一个积极转折点；雅各布和梅森对此持保留态度。,"Damian: guys did u watch Chelsea game
  Jacob: no
  Mason: nah, i was busy all afternoon
  Damian: Higuain scored twice! so happy for him
@@ -1889,7 +1889,7 @@ gemma4:e4b,64,H-MOD,,It turns Damian's hope that this may be a turning point int
  Damian: don't be like that, im happy for the team, maybe this will be a turning point
  Jacob: no, I don't think so
  Mason: ha good luck with that",43.33,17.24,33.33,73.37,2.920641184,3.893222809,3.804467678,2.605404377,1.180000
-gemma4:e4b,65,OMIT,,It omits the salient price of 39.,玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。,玛琳临走前，让巴里帮忙为丽塔挑选礼物。两人在凯撒的看到丝巾后，最终选定了黄色图案的、最贵的丝巾，并商定各付一半的费用。,"Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.
+gemma4:e4b,65,OMIT,OMIT,It omits the salient price of 39.,玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。,玛琳临走前，让巴里帮忙为丽塔挑选礼物。两人在凯撒的看到丝巾后，最终选定了黄色图案的、最贵的丝巾，并商定各付一半的费用。,"Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.
  Marleen: Text me here with your ideas for a present for her.
  Barry: But I've got none! I leave the choice entirely to you.
  Barry: I'm at home now.
@@ -1906,18 +1906,18 @@ gemma4:e4b,65,OMIT,,It omits the salient price of 39.,玛伦半小时后就要�
  Barry: Oh come on. Not so bad.
  Marleen: Shall we go 50/50?
  Barry: OK",37.14,8.82,28.57,70.84,3.850289345,4.048081398,4.132123947,3.100944281,1.035088
-gemma4:e4b,66,H-ENT,,It changes 'come and see what happened' into an invitation to come see Brook herself.,布鲁克要盖尔过来看看昨天发生了什么。,布鲁克让盖尔来看她，说昨天发生了一些事，盖尔询问是否严重，并表示正在前往。,"Brook: something happened yesterday, you need to come and see
+gemma4:e4b,66,H-ENT,H-ENT,It changes 'come and see what happened' into an invitation to come see Brook herself.,布鲁克要盖尔过来看看昨天发生了什么。,布鲁克让盖尔来看她，说昨天发生了一些事，盖尔询问是否严重，并表示正在前往。,"Brook: something happened yesterday, you need to come and see
  Gyle: is it bad?
  Brook: you better come home
  Gyle: On my way",32.26,13.79,32.26,76.93,2.981378555,3.846843481,3.940647364,3.022655249,2.055556
-gemma4:e4b,67,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,凯特、米丽娜和里贾娜的演讲进行得很顺利，三个人来听他们的演讲。,大家讨论了展示效果，认为反馈很好。关于听众人数，Regina提到只有三个人，但大家都觉得气氛很温馨友好，Milena和Kate都同意小而有兴趣的观众比一群无聊的人更好。,"Milena: How was the presentation?
+gemma4:e4b,67,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,凯特、米丽娜和里贾娜的演讲进行得很顺利，三个人来听他们的演讲。,大家讨论了展示效果，认为反馈很好。关于听众人数，Regina提到只有三个人，但大家都觉得气氛很温馨友好，Milena和Kate都同意小而有兴趣的观众比一群无聊的人更好。,"Milena: How was the presentation?
  Kate: very good
  Regina: yes, we had a good feedback
  Milena: how many people came to listen to you?
  Regina: 3 but we new it will be very cosy, friendly thing
  Milena: sometimes a small but interested audience is better than random bored people
  Kate: exactly",21.88,0,15.62,63.12,2.205191851,3.234282970,3.479121685,2.315144062,2.709677
-gemma4:e4b,68,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,杰克今年拿到了第一个totw ，汤姆的团队并不出色。,杰克抽到了本年度第一个TOTW，打算在一两个比赛中使用看看，但觉得他不太适合自己的队伍。汤姆祝贺并建议他卖掉，说他会有足够的金币购买合适的球员。两人聊到运气，汤姆抱怨今年的抽卡运气很差，而杰克则开玩笑地夸赞了汤姆的游戏水平。,"Jake: dude, I just pulled a TOTW
+gemma4:e4b,68,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,杰克今年拿到了第一个totw ，汤姆的团队并不出色。,杰克抽到了本年度第一个TOTW，打算在一两个比赛中使用看看，但觉得他不太适合自己的队伍。汤姆祝贺并建议他卖掉，说他会有足够的金币购买合适的球员。两人聊到运气，汤姆抱怨今年的抽卡运气很差，而杰克则开玩笑地夸赞了汤姆的游戏水平。,"Jake: dude, I just pulled a TOTW
  Jake: my first this year!
  Tom: grats!
  Tom: gonna sell it?
@@ -1932,13 +1932,13 @@ gemma4:e4b,68,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Jake: you're good at the game
  Jake: you don't need help :P
  Tom: I like shiny things :P",25,10.26,17.5,68.6,3.413851500,3.988180876,3.998021364,2.950851917,4.480000
-gemma4:e4b,69,H-ENT,,It changes Thomas the Tank Engine into a different train character.,凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。,卡斯询问乔丹是否按时收到了生日卡和钱。乔丹感谢了卡斯的20英镑，并为没有提前打电话道歉。卡斯提到特意挑选了乔丹喜欢的“汤姆火车”，乔丹表示依然喜欢，并开玩笑地要求下次买足球主题的礼物，因为他现在已经11岁了。两人互相表达了爱意。,"Cass: Hi darling, did you get your birthday card and money on time?
+gemma4:e4b,69,H-ENT,H-ENT,It changes Thomas the Tank Engine into a different train character.,凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。,卡斯询问乔丹是否按时收到了生日卡和钱。乔丹感谢了卡斯的20英镑，并为没有提前打电话道歉。卡斯提到特意挑选了乔丹喜欢的“汤姆火车”，乔丹表示依然喜欢，并开玩笑地要求下次买足球主题的礼物，因为他现在已经11岁了。两人互相表达了爱意。,"Cass: Hi darling, did you get your birthday card and money on time?
  Jordan: hello Nanna! Thanks for the £20. Sorry I didn't ring you before.
  Cass: you still like Thomas the Tank engine don't you? I picked it specially.
  Jordan: Yes, Nanna. I will always love him! Next time, get me a football one or something. I mean, I'm 11 now!
  Cass: I know, you are so grown up. Love you xxxxx
  Jordan: Love you, Nan xx",26.19,7.32,16.67,66.81,3.960755587,4.125241280,4.339326859,3.255834103,3.677419
-gemma4:e4b,70,H-ROLE,,It reverses who asked the first question and who answered it.,对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,凯莉让杰西卡提问，关于“最可怕的地方”。杰西卡以意大利巴勒莫的修道院墓穴开场，提到那里有八千具尸体，可以像博物馆展品一样观看。奥利和米奇对此感到非常惊讶和兴奋。,"Kelly: Oh! Oh! Can I pick the first question?
+gemma4:e4b,70,H-ROLE,H-ROLE,It reverses who asked the first question and who answered it.,对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,凯莉让杰西卡提问，关于“最可怕的地方”。杰西卡以意大利巴勒莫的修道院墓穴开场，提到那里有八千具尸体，可以像博物馆展品一样观看。奥利和米奇对此感到非常惊讶和兴奋。,"Kelly: Oh! Oh! Can I pick the first question?
  Jessica: Sure. Go for it!
  Kelly: What's the scariest place you've been to!
  Jessica: I'll start: Palermo in Italy.
@@ -1950,7 +1950,7 @@ gemma4:e4b,70,H-ROLE,,It reverses who asked the first question and who answered 
  Jessica: Well, partly. Most of them were exhibited in their clothes. Basically only skulls and hands. 
  Mickey: I'm writing this one down! That's so precious!
  Ollie: Me too!",27.12,10.53,27.12,68.61,3.069938660,3.957823515,3.731219053,2.829492092,3.076923
-gemma4:e4b,71,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,两人讨论了欧洲当前的局势，认为欧盟的移民政策降低了公民安全水平。他们以柏林、比利时和巴黎等地发生的治安问题为例，对比波兰相对稳定，并认为波兰有机会在不重蹈西方国家覆辙的情况下快速发展。尽管有人担忧内部冲突，但双方都对波兰人民的抵抗精神表示钦佩，并预测未来波兰有潜力成为欧洲一股力量。,"Simon: <file_photo>
+gemma4:e4b,71,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,两人讨论了欧洲当前的局势，认为欧盟的移民政策降低了公民安全水平。他们以柏林、比利时和巴黎等地发生的治安问题为例，对比波兰相对稳定，并认为波兰有机会在不重蹈西方国家覆辙的情况下快速发展。尽管有人担忧内部冲突，但双方都对波兰人民的抵抗精神表示钦佩，并预测未来波兰有潜力成为欧洲一股力量。,"Simon: <file_photo>
  Simon: It's funny and scary at the same time.
  Simon: BTW it's so annoying that people can't see that such immigration policy reduces safety level for citizens of EU significantly
  Charlie: This photo is great. It totally shows what do we all mean when we criticize EU policy. 
@@ -1972,7 +1972,7 @@ gemma4:e4b,71,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Simon: Let's hope not.
  Charlie: Yup. To conclude: Christmas in Poland will be the best Christmas in Europe :D
  Simon: I agree :)",13.86,2.02,9.9,62.1,2.734084606,3.596060991,3.758271456,2.842107296,4.700000
-gemma4:e4b,72,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。,大家围绕性行为的道德和目的展开了争论，从是否应该限制在已婚人士、是否必须是传教士式交合，到性爱的唯一目的是生育后，气氛轻松幽默。,"Ed: Sinners!! Sex is for married people
+gemma4:e4b,72,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。,大家围绕性行为的道德和目的展开了争论，从是否应该限制在已婚人士、是否必须是传教士式交合，到性爱的唯一目的是生育后，气氛轻松幽默。,"Ed: Sinners!! Sex is for married people
  Valerie: double sin if it’s anything but missionary style!
  Chris: Then you go get married & leave us all alone
  Lor: You better hope all non sin living is worth it or your consciousness after death is going to be butt hurt for eternity lol
@@ -1983,11 +1983,11 @@ gemma4:e4b,72,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Jessica: And only for procreation. :-))) And not to be enjoyed. :-)))
  Matt: Ed, Ok. See you in hell !! 😂
  Ed: Matt , No you won’t. I don’t even look on the direction of another man",26.67,3.45,16.67,57.16,2.529753685,3.629589319,3.758806229,2.734675884,1.777778
-gemma4:e4b,73,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,迈克在伦敦。,杰克惊讶地发现麦克在伦敦，得知消息后祝贺他梦想成真。,"Jake: Maaaan! you in london?!
+gemma4:e4b,73,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,迈克在伦敦。,杰克惊讶地发现麦克在伦敦，得知消息后祝贺他梦想成真。,"Jake: Maaaan! you in london?!
  Mike: <file_photo>
  Mike: yeah mate! dreams coming true!
  Jake: cool! congrats!",23.53,13.33,23.53,69.01,2.005158901,3.900686264,3.854418755,2.240441561,4.333333
-gemma4:e4b,74,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,两人都在讨论波格巴的精彩进球，并认为他本赛季更成熟了，也提到教练和队友都信任他。,"Richie: Pogba
+gemma4:e4b,74,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,两人都在讨论波格巴的精彩进球，并认为他本赛季更成熟了，也提到教练和队友都信任他。,"Richie: Pogba
  Clay: Pogboom
  Richie: what a s strike yoh!
  Clay: was off the seat the moment he chopped the ball back to his right foot
@@ -2001,7 +2001,7 @@ gemma4:e4b,74,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Clay: yeah man
  Richie: cool then 
  Clay: cool",25.45,0,14.55,61.67,2.877501726,3.740038872,3.818945169,2.425827503,0.800000
-gemma4:e4b,75,H-EVT,,"It says both watched the program, although Alexa only watched the linked performance clip.",亚历克看到美国的达人秀，他发了个链接给亚莉克莎。,两人观看了《美国有才华》节目，并一致认为其中一位女选手非常出色，甚至觉得她很有可能赢得比赛。,"Alec: Have you seen the last America's got talent?
+gemma4:e4b,75,H-EVT,H-EVT,"It says both watched the program, although Alexa only watched the linked performance clip.",亚历克看到美国的达人秀，他发了个链接给亚莉克莎。,两人观看了《美国有才华》节目，并一致认为其中一位女选手非常出色，甚至觉得她很有可能赢得比赛。,"Alec: Have you seen the last America's got talent?
  Alexa: No. 
  Alexa: Interesting? 
  Alec: <file_other>
@@ -2020,19 +2020,19 @@ gemma4:e4b,75,H-EVT,,"It says both watched the program, although Alexa only watc
  Alec: yes
  Alec: And there're a few good, but I personally think she's the best!
  Alexa: I'd be glad if she wins :)",15,0,10,60.8,2.746964693,3.917453527,3.897369146,2.422740459,1.916667
-gemma4:e4b,76,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,詹姆斯要去上班，所以他不看比赛。,汉娜问詹姆斯是否在看比赛，詹姆斯回复说他要去上班了。,"Hannah: Are you watching the game?
+gemma4:e4b,76,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,詹姆斯要去上班，所以他不看比赛。,汉娜问詹姆斯是否在看比赛，詹姆斯回复说他要去上班了。,"Hannah: Are you watching the game?
  James: No I am head to work : ( 
  Hannah: Oh okay",61.54,25,30.77,80.29,2.537863970,4.092123985,3.664162874,2.526523113,1.625000
-gemma4:e4b,77,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,在多尔夫的提醒下，齐格勒明天会把护照带来。,多尔提醒齐格勒明天记得带护照。,"Dolph: hey
+gemma4:e4b,77,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,在多尔夫的提醒下，齐格勒明天会把护照带来。,多尔提醒齐格勒明天记得带护照。,"Dolph: hey
  Dolph: remember to bring your passport tomorrow
  Ziggler: Cool, i will",50,11.11,50,81.04,2.855520964,4.369765282,4.197476387,3.425338745,0.714286
-gemma4:e4b,78,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。,威廉让奥利维亚买新鲜番茄，并向贝丝要了晚餐后的巧克力。,"William: hey im making spaghetti
+gemma4:e4b,78,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。,威廉让奥利维亚买新鲜番茄，并向贝丝要了晚餐后的巧克力。,"William: hey im making spaghetti
  William: could you please buy some fresh tomatoes
  William: pretty please :)
  Olivia: no problem dear :)
  William: and Beth? it wouldn't hurt to have some chocolate for after the dinner :D
  Beth: I'm on it :D",35.29,6.25,29.41,78.2,4.658808708,4.929143906,4.927193642,3.871027231,0.818182
-gemma4:e4b,79,H-EVT,,It changes a discussion of attitudes toward men and dating into a discussion of sexual orientation.,蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。,两人聊起网络上的话题，随后转到个人情感和性取向的讨论。对话中，他们分享了各自在感情经历后的心境变化，并约定要进行一些“工作坊”来探讨这些问题。最后，谈到生活中的压力（如租房问题），朋友互相鼓励，并确定了见面计划。,"Tina: Hey, Facebook is constantly non stop suggesting Patrick
+gemma4:e4b,79,H-EVT,H-EVT,It changes a discussion of attitudes toward men and dating into a discussion of sexual orientation.,蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。,两人聊起网络上的话题，随后转到个人情感和性取向的讨论。对话中，他们分享了各自在感情经历后的心境变化，并约定要进行一些“工作坊”来探讨这些问题。最后，谈到生活中的压力（如租房问题），朋友互相鼓励，并确定了见面计划。,"Tina: Hey, Facebook is constantly non stop suggesting Patrick
  Demi: Hahahahaha 
  Tina: I think I have to catch a bit of your approach
  Demi: He's a god. What do you mean...?
@@ -2936,16 +2936,16 @@ qwen3.5:9b,59,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's k
  Mario: weather was good for flying everywhere 🙂 Otherwise it would have been trains everywhere 🙂
  Moe: Mario be safe bro
  Mario: You too bro 🙂",13.64,0,9.09,66.09,2.878418207,4.120632648,4.056987286,3.429897785,5.142857
-qwen3.5:9b,60,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,约翰不确定今天是否有训练，但马特说有。,约翰询问今天是否有训练，马特确认大概有。约翰表示感谢并约定届时见，两人互相道别。,"John: do we have practice today?
+qwen3.5:9b,60,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,约翰不确定今天是否有训练，但马特说有。,约翰询问今天是否有训练，马特确认大概有。约翰表示感谢并约定届时见，两人互相道别。,"John: do we have practice today?
  Matt: yea think so
  John: great thanks see ya there
  Matt: see ya",47.06,25,47.06,77.02,2.835594177,4.221156120,4.092898369,3.019929171,2.105263
-qwen3.5:9b,61,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,马丁完成计划后将给亚历克斯买两瓶牛奶。,亚历克斯请求马丁买牛奶，马丁表示昨天刚买了两瓶。亚历克斯承认自己只是最近特别想喝，并感谢马丁的爱让他很快就能拿到新买的牛奶，因为马丁需要先完成项目。亚历克斯称赞马丁是她的英雄。,"Alex: Hon, could you buy some milk?
+qwen3.5:9b,61,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,马丁完成计划后将给亚历克斯买两瓶牛奶。,亚历克斯请求马丁买牛奶，马丁表示昨天刚买了两瓶。亚历克斯承认自己只是最近特别想喝，并感谢马丁的爱让他很快就能拿到新买的牛奶，因为马丁需要先完成项目。亚历克斯称赞马丁是她的英雄。,"Alex: Hon, could you buy some milk?
  Martin: You kiddin me, I just bought two yesterday
  Alex: Well, I have nothing for my defense, I'm just craving milk lately:D
  Martin: You're lucky that I love you, two milks coming up in couple of hours, I gotta finish the project
  Alex: You are my hero!",19.67,0,13.11,70.31,3.623646736,3.919335365,4.047799110,3.214947224,4.631579
-qwen3.5:9b,62,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。,布莱尔和查克计划下班后去 Nonna Rita's 见婚礼策划师，查克想点海鲜宽面而非仅喝咖啡；两人还调侃上次与黛安见面时因番茄意面弄脏了对方白衬衫的尴尬经历。,"Blair: Remember we are seeing the wedding planner after work
+qwen3.5:9b,62,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。,布莱尔和查克计划下班后去 Nonna Rita's 见婚礼策划师，查克想点海鲜宽面而非仅喝咖啡；两人还调侃上次与黛安见面时因番茄意面弄脏了对方白衬衫的尴尬经历。,"Blair: Remember we are seeing the wedding planner after work
  Chuck: Sure, where are we meeting her?
  Blair: At Nonna Rita's
  Chuck: Can I order their seafood tagliatelle or are we just having coffee with her? I've been dreaming about it since we went there last month
@@ -2954,7 +2954,7 @@ qwen3.5:9b,62,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Blair: Omg hahaha it was all over her white blouse
  Chuck: :D
  Blair: :P",29.85,6.15,29.85,68.3,3.622388601,3.787437916,3.949661970,3.216501474,1.750000
-qwen3.5:9b,63,H-EVT,,"It says Cole called his roommate funny, although Cole said that texting in the same room was funny.",科尔和路易斯坐在同一个房间里，却在发短信。,科尔和路易斯在同一个房间里，科尔开玩笑说室友很搞笑并索要枕头。路易斯拒绝回应，表示不愿给近在咫尺的“白痴”发短信，两人因此展开了一段幽默的互怼。,"Cole: hey roomie XD XD
+qwen3.5:9b,63,H-EVT,H-EVT,"It says Cole called his roommate funny, although Cole said that texting in the same room was funny.",科尔和路易斯坐在同一个房间里，却在发短信。,科尔和路易斯在同一个房间里，科尔开玩笑说室友很搞笑并索要枕头。路易斯拒绝回应，表示不愿给近在咫尺的“白痴”发短信，两人因此展开了一段幽默的互怼。,"Cole: hey roomie XD XD
  Luis: dude we are in the SAME DAMN ROOM
  Cole: its funny XD
  Luis: -_-
@@ -2965,7 +2965,7 @@ qwen3.5:9b,63,H-EVT,,"It says Cole called his roommate funny, although Cole said
  Cole: oh youre not gonna talk to your roommate now
  Luis: im not gonna text an idiot whos practically sitting just a few inches from me -_-
  Cole: xD",34.62,20,30.77,73.9,3.659833908,4.064356327,4.120753288,3.388838768,3.428571
-qwen3.5:9b,64,H-ENT|H-MOD,,It changes Huddersfield to Hull City and turns Damian's hope for a turning point into a definite claim.,切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,戴米安询问大家是否观看了切尔西的比赛，雅各布和梅森表示没看。戴米安兴奋地提到伊瓜因梅开二度，认为这是球队的一个积极转折点，尽管对手赫尔城表现糟糕。然而，雅各布对此持怀疑态度，而梅森则半开玩笑地祝他好运。,"Damian: guys did u watch Chelsea game
+qwen3.5:9b,64,H-ENT|H-MOD,H-ENT|H-MOD,It changes Huddersfield to Hull City and turns Damian's hope for a turning point into a definite claim.,切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,戴米安询问大家是否观看了切尔西的比赛，雅各布和梅森表示没看。戴米安兴奋地提到伊瓜因梅开二度，认为这是球队的一个积极转折点，尽管对手赫尔城表现糟糕。然而，雅各布对此持怀疑态度，而梅森则半开玩笑地祝他好运。,"Damian: guys did u watch Chelsea game
  Jacob: no
  Mason: nah, i was busy all afternoon
  Damian: Higuain scored twice! so happy for him
@@ -2976,7 +2976,7 @@ qwen3.5:9b,64,H-ENT|H-MOD,,It changes Huddersfield to Hull City and turns Damian
  Damian: don't be like that, im happy for the team, maybe this will be a turning point
  Jacob: no, I don't think so
  Mason: ha good luck with that",29.27,7.5,21.95,69.38,2.776383162,3.903155804,3.667336226,2.501025438,2.020000
-qwen3.5:9b,65,H-CIRC,,It invents yuan as the currency for the price of 39.,玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。,马琳半小时后去城里，询问巴里是否有给丽塔的礼物建议。巴里没有主意，让马琳决定。马琳在凯撒百货看到漂亮的丝绸方巾并发送照片，巴里选中黄色图案的款式（因丽塔喜爱黄色），价格 39 元。两人同意各付一半购买。,"Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.
+qwen3.5:9b,65,H-CIRC,H-CIRC,It invents yuan as the currency for the price of 39.,玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。,马琳半小时后去城里，询问巴里是否有给丽塔的礼物建议。巴里没有主意，让马琳决定。马琳在凯撒百货看到漂亮的丝绸方巾并发送照片，巴里选中黄色图案的款式（因丽塔喜爱黄色），价格 39 元。两人同意各付一半购买。,"Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.
  Marleen: Text me here with your ideas for a present for her.
  Barry: But I've got none! I leave the choice entirely to you.
  Barry: I'm at home now.
@@ -2993,18 +2993,18 @@ qwen3.5:9b,65,H-CIRC,,It invents yuan as the currency for the price of 39.,玛�
  Barry: Oh come on. Not so bad.
  Marleen: Shall we go 50/50?
  Barry: OK",32.26,4.4,30.11,70.44,3.740603924,4.005518913,4.023831367,3.015889883,1.736842
-qwen3.5:9b,66,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,布鲁克要盖尔过来看看昨天发生了什么。,布鲁克告知盖尔昨天发生了事，让他赶紧回家看看。盖尔询问是否严重后表示正在赶回去的路上。,"Brook: something happened yesterday, you need to come and see
+qwen3.5:9b,66,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,布鲁克要盖尔过来看看昨天发生了什么。,布鲁克告知盖尔昨天发生了事，让他赶紧回家看看。盖尔询问是否严重后表示正在赶回去的路上。,"Brook: something happened yesterday, you need to come and see
  Gyle: is it bad?
  Brook: you better come home
  Gyle: On my way",36.36,12.9,30.3,74.22,3.318536282,3.841539145,3.966817856,3.061675310,2.388889
-qwen3.5:9b,67,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,凯特、米丽娜和里贾娜的演讲进行得很顺利，三个人来听他们的演讲。,米莱娜询问凯特和瑞吉娜的演示效果，两人反馈良好且收到积极评价。尽管只有三位听众在场，但小规模的互动氛围更亲切友好；米莱娜认为专注的小众观众胜过无聊的大众，凯特表示赞同。,"Milena: How was the presentation?
+qwen3.5:9b,67,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,凯特、米丽娜和里贾娜的演讲进行得很顺利，三个人来听他们的演讲。,米莱娜询问凯特和瑞吉娜的演示效果，两人反馈良好且收到积极评价。尽管只有三位听众在场，但小规模的互动氛围更亲切友好；米莱娜认为专注的小众观众胜过无聊的大众，凯特表示赞同。,"Milena: How was the presentation?
  Kate: very good
  Regina: yes, we had a good feedback
  Milena: how many people came to listen to you?
  Regina: 3 but we new it will be very cosy, friendly thing
  Milena: sometimes a small but interested audience is better than random bored people
  Kate: exactly",18.18,0,15.15,66.15,3.031598568,3.927654743,3.986915112,2.825726032,2.709677
-qwen3.5:9b,68,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,杰克今年拿到了第一个totw ，汤姆的团队并不出色。,杰克今年首次抽到 TOTW 球员，打算试用一两次后出售，因为该球员不适合他的阵容；汤姆祝贺他并调侃自己今年运气不佳未抽中好卡。两人随后开玩笑说汤姆游戏技术很好不需要帮助，而汤姆则幽默地表示自己喜欢闪闪发光的卡片。,"Jake: dude, I just pulled a TOTW
+qwen3.5:9b,68,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,杰克今年拿到了第一个totw ，汤姆的团队并不出色。,杰克今年首次抽到 TOTW 球员，打算试用一两次后出售，因为该球员不适合他的阵容；汤姆祝贺他并调侃自己今年运气不佳未抽中好卡。两人随后开玩笑说汤姆游戏技术很好不需要帮助，而汤姆则幽默地表示自己喜欢闪闪发光的卡片。,"Jake: dude, I just pulled a TOTW
  Jake: my first this year!
  Tom: grats!
  Tom: gonna sell it?
@@ -3019,13 +3019,13 @@ qwen3.5:9b,68,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Jake: you're good at the game
  Jake: you don't need help :P
  Tom: I like shiny things :P",21.05,8.11,18.42,66.12,3.605155945,3.920090675,4.027710438,2.964009762,4.160000
-qwen3.5:9b,69,H-ENT|H-EVT,,It changes a Thomas-themed birthday card into a toy and similarly changes the requested football-themed card.,凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。,卡丝询问乔丹是否及时收到了生日卡片和钱，并送了他喜欢的托马斯小火车。乔丹感谢了 20 英镑的礼物，表示依然喜爱托马斯但已十一岁想换足球玩具，两人互道爱意。,"Cass: Hi darling, did you get your birthday card and money on time?
+qwen3.5:9b,69,H-ENT|H-EVT,H-ENT|H-EVT,It changes a Thomas-themed birthday card into a toy and similarly changes the requested football-themed card.,凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。,卡丝询问乔丹是否及时收到了生日卡片和钱，并送了他喜欢的托马斯小火车。乔丹感谢了 20 英镑的礼物，表示依然喜爱托马斯但已十一岁想换足球玩具，两人互道爱意。,"Cass: Hi darling, did you get your birthday card and money on time?
  Jordan: hello Nanna! Thanks for the £20. Sorry I didn't ring you before.
  Cass: you still like Thomas the Tank engine don't you? I picked it specially.
  Jordan: Yes, Nanna. I will always love him! Next time, get me a football one or something. I mean, I'm 11 now!
  Cass: I know, you are so grown up. Love you xxxxx
  Jordan: Love you, Nan xx",28.57,3.28,19.05,70.04,3.904891491,3.919979334,4.117661476,3.148626328,2.419355
-qwen3.5:9b,70,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,凯莉想先提问，她问大家去过最可怕的地方是哪里。杰西卡回答说是意大利的巴勒莫，因为那里有藏有 8000 具尸体的加普钦纳墓穴，尸体像博物馆展品一样展出，大多穿着衣服，只露出头骨和手。奥利对能看骨头很感兴趣，但杰西卡表示大部分是覆盖着的。米奇觉得这个经历太珍贵了，要记下来，奥利也同意。,"Kelly: Oh! Oh! Can I pick the first question?
+qwen3.5:9b,70,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,凯莉想先提问，她问大家去过最可怕的地方是哪里。杰西卡回答说是意大利的巴勒莫，因为那里有藏有 8000 具尸体的加普钦纳墓穴，尸体像博物馆展品一样展出，大多穿着衣服，只露出头骨和手。奥利对能看骨头很感兴趣，但杰西卡表示大部分是覆盖着的。米奇觉得这个经历太珍贵了，要记下来，奥利也同意。,"Kelly: Oh! Oh! Can I pick the first question?
  Jessica: Sure. Go for it!
  Kelly: What's the scariest place you've been to!
  Jessica: I'll start: Palermo in Italy.
@@ -3037,7 +3037,7 @@ qwen3.5:9b,70,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Jessica: Well, partly. Most of them were exhibited in their clothes. Basically only skulls and hands. 
  Mickey: I'm writing this one down! That's so precious!
  Ollie: Me too!",18.56,4.21,16.49,65.7,2.956057549,3.510267258,3.398266315,2.640393496,5.346154
-qwen3.5:9b,71,H-DISC,,It changes the cause of possible national division from internal conflict to external pressure.,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,西蒙和查理讨论欧盟移民政策带来的安全隐患，指出柏林、比利时和巴黎已出现安全措施升级与社会动荡，而波兰因经济滞后反而暂时避免了这些问题。两人认为波兰若能坚持自身价值观并快速发展，将有机会纠正西方国家的错误；但同时也担忧外部压力可能导致国家分裂或边缘化。尽管存在风险，他们仍赞赏波兰人的坚韧精神，并希望未来只有波兰能解决欧洲内部问题，最终祝愿在波兰过圣诞节是欧洲最好的选择。,"Simon: <file_photo>
+qwen3.5:9b,71,H-DISC,H-DISC,It changes the cause of possible national division from internal conflict to external pressure.,西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,西蒙和查理讨论欧盟移民政策带来的安全隐患，指出柏林、比利时和巴黎已出现安全措施升级与社会动荡，而波兰因经济滞后反而暂时避免了这些问题。两人认为波兰若能坚持自身价值观并快速发展，将有机会纠正西方国家的错误；但同时也担忧外部压力可能导致国家分裂或边缘化。尽管存在风险，他们仍赞赏波兰人的坚韧精神，并希望未来只有波兰能解决欧洲内部问题，最终祝愿在波兰过圣诞节是欧洲最好的选择。,"Simon: <file_photo>
  Simon: It's funny and scary at the same time.
  Simon: BTW it's so annoying that people can't see that such immigration policy reduces safety level for citizens of EU significantly
  Charlie: This photo is great. It totally shows what do we all mean when we criticize EU policy. 
@@ -3059,7 +3059,7 @@ qwen3.5:9b,71,H-DISC,,It changes the cause of possible national division from in
  Simon: Let's hope not.
  Charlie: Yup. To conclude: Christmas in Poland will be the best Christmas in Europe :D
  Simon: I agree :)",18.18,6.72,14.88,67,2.787882805,3.493763685,3.777546883,2.945501566,6.166667
-qwen3.5:9b,72,H-DISC,,It treats the group's satire as sincere moral claims by Ed and Jessica.,艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。,这段对话中，Ed 认为性行为只应限于已婚夫妇且仅限传教士体位；Valerie 补充说若非此姿势更是双重罪过。Chris 调侃他们结婚后自便，Lor 警告若死后意识会因这些“非罪恶生活”而痛苦不堪。Atnee 劝 Ed 放松些，Jessica 则强调性唯一目的是生育而非享受。Ed 指责 Valerie 若从中取乐便是三重罪过，Matt 笑着回应称会在地狱见他们，Ed 最后表示自己连看其他男人的方向都不看一眼。,"Ed: Sinners!! Sex is for married people
+qwen3.5:9b,72,H-DISC,H-DISC,It treats the group's satire as sincere moral claims by Ed and Jessica.,艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。,这段对话中，Ed 认为性行为只应限于已婚夫妇且仅限传教士体位；Valerie 补充说若非此姿势更是双重罪过。Chris 调侃他们结婚后自便，Lor 警告若死后意识会因这些“非罪恶生活”而痛苦不堪。Atnee 劝 Ed 放松些，Jessica 则强调性唯一目的是生育而非享受。Ed 指责 Valerie 若从中取乐便是三重罪过，Matt 笑着回应称会在地狱见他们，Ed 最后表示自己连看其他男人的方向都不看一眼。,"Ed: Sinners!! Sex is for married people
  Valerie: double sin if it’s anything but missionary style!
  Chris: Then you go get married & leave us all alone
  Lor: You better hope all non sin living is worth it or your consciousness after death is going to be butt hurt for eternity lol
@@ -3070,11 +3070,11 @@ qwen3.5:9b,72,H-DISC,,It treats the group's satire as sincere moral claims by Ed
  Jessica: And only for procreation. :-))) And not to be enjoyed. :-)))
  Matt: Ed, Ok. See you in hell !! 😂
  Ed: Matt , No you won’t. I don’t even look on the direction of another man",14.71,0,11.76,57.49,2.450995684,3.675712585,3.923384428,2.570336342,5.333333
-qwen3.5:9b,73,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,迈克在伦敦。,杰克惊讶地发现迈克在伦敦，迈克兴奋地表示梦想成真并分享了照片，杰克随即祝贺他。,"Jake: Maaaan! you in london?!
+qwen3.5:9b,73,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,迈克在伦敦。,杰克惊讶地发现迈克在伦敦，迈克兴奋地表示梦想成真并分享了照片，杰克随即祝贺他。,"Jake: Maaaan! you in london?!
  Mike: <file_photo>
  Mike: yeah mate! dreams coming true!
  Jake: cool! congrats!",24,17.39,24,69.71,2.300426245,4.509902954,4.434542656,3.558225155,6.500000
-qwen3.5:9b,74,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,里奇和克莱讨论博格巴的精彩进球，称赞其技术动作成熟且值得信任。两人认为他本赛季表现更沉稳，教练约瑟对他充满信心，并在前 60 分钟的表现后理应获得这个奖励。,"Richie: Pogba
+qwen3.5:9b,74,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,里奇和克莱讨论博格巴的精彩进球，称赞其技术动作成熟且值得信任。两人认为他本赛季表现更沉稳，教练约瑟对他充满信心，并在前 60 分钟的表现后理应获得这个奖励。,"Richie: Pogba
  Clay: Pogboom
  Richie: what a s strike yoh!
  Clay: was off the seat the moment he chopped the ball back to his right foot
@@ -3088,7 +3088,7 @@ qwen3.5:9b,74,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Clay: yeah man
  Richie: cool then 
  Clay: cool",26.32,5.41,18.42,63.77,3.541147709,3.869381428,3.986766815,2.846415520,1.520000
-qwen3.5:9b,75,H-ENT|H-ROLE,,"It mixes up Alec and Alexa, confusing who shared the link and who reacted to it.",亚历克看到美国的达人秀，他发了个链接给亚莉克莎。,亚历克斯和艾力克讨论了美国达人秀最新一季，艾力克分享了一个表演视频链接。两人一致认为那位年轻女孩才华横溢、表现惊人，甚至可能赢得本季的冠军。尽管艾力克表示还有其他不错的选手，但他个人最看好这位女孩获胜，而亚历克斯也对此感到高兴并期待她夺冠。,"Alec: Have you seen the last America's got talent?
+qwen3.5:9b,75,H-ENT|H-ROLE,H-ENT,"It mixes up Alec and Alexa, confusing who shared the link and who reacted to it.",亚历克看到美国的达人秀，他发了个链接给亚莉克莎。,亚历克斯和艾力克讨论了美国达人秀最新一季，艾力克分享了一个表演视频链接。两人一致认为那位年轻女孩才华横溢、表现惊人，甚至可能赢得本季的冠军。尽管艾力克表示还有其他不错的选手，但他个人最看好这位女孩获胜，而亚历克斯也对此感到高兴并期待她夺冠。,"Alec: Have you seen the last America's got talent?
  Alexa: No. 
  Alexa: Interesting? 
  Alec: <file_other>
@@ -3107,19 +3107,19 @@ qwen3.5:9b,75,H-ENT|H-ROLE,,"It mixes up Alec and Alexa, confusing who shared th
  Alec: yes
  Alec: And there're a few good, but I personally think she's the best!
  Alexa: I'd be glad if she wins :)",12.66,0,10.13,66.77,3.497006655,4.016987801,4.066547394,3.201203346,5.000000
-qwen3.5:9b,76,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,詹姆斯要去上班，所以他不看比赛。,汉娜问詹姆斯是否在观看比赛，詹姆斯表示要去上班了，汉娜便回应知道了。,"Hannah: Are you watching the game?
+qwen3.5:9b,76,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,詹姆斯要去上班，所以他不看比赛。,汉娜问詹姆斯是否在观看比赛，詹姆斯表示要去上班了，汉娜便回应知道了。,"Hannah: Are you watching the game?
  James: No I am head to work : ( 
  Hannah: Oh okay",40,14.29,33.33,75.91,1.870571971,3.418915987,3.153165340,2.014189720,2.125000
-qwen3.5:9b,77,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,在多尔夫的提醒下，齐格勒明天会把护照带来。,多尔夫提醒齐格勒明天记得带护照，齐格勒表示没问题。,"Dolph: hey
+qwen3.5:9b,77,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,在多尔夫的提醒下，齐格勒明天会把护照带来。,多尔夫提醒齐格勒明天记得带护照，齐格勒表示没问题。,"Dolph: hey
  Dolph: remember to bring your passport tomorrow
  Ziggler: Cool, i will",53.85,25,46.15,78.39,2.362171650,3.939848900,3.645212650,2.384274960,1.190476
-qwen3.5:9b,78,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。,威廉正在做意大利面，请奥利维亚买些新鲜番茄并让贝丝带巧克力作为餐后甜点。两人欣然答应。,"William: hey im making spaghetti
+qwen3.5:9b,78,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。,威廉正在做意大利面，请奥利维亚买些新鲜番茄并让贝丝带巧克力作为餐后甜点。两人欣然答应。,"William: hey im making spaghetti
  William: could you please buy some fresh tomatoes
  William: pretty please :)
  Olivia: no problem dear :)
  William: and Beth? it wouldn't hurt to have some chocolate for after the dinner :D
  Beth: I'm on it :D",41.86,14.63,37.21,77.49,3.805195332,4.183563232,4.231933594,3.086652517,1.303030
-qwen3.5:9b,79,H-ROLE,,It turns Demi's one-way offer to house Tina into a mutual promise.,蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。,蒂娜和黛米在聊天中调侃 Facebook 不断推荐帕特里克，蒂娜表示想学习如何从讨厌男性转变为喜欢他们。黛米分享了自己曾经历心碎后努力调整心态的经历，并建议蒂娜多接触不同类型的异性以减轻情绪依赖。两人还讨论了租房问题，承诺若对方无家可归会提供住所，最后约定见面解决这些困扰。,"Tina: Hey, Facebook is constantly non stop suggesting Patrick
+qwen3.5:9b,79,H-ROLE,H-ROLE,It turns Demi's one-way offer to house Tina into a mutual promise.,蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。,蒂娜和黛米在聊天中调侃 Facebook 不断推荐帕特里克，蒂娜表示想学习如何从讨厌男性转变为喜欢他们。黛米分享了自己曾经历心碎后努力调整心态的经历，并建议蒂娜多接触不同类型的异性以减轻情绪依赖。两人还讨论了租房问题，承诺若对方无家可归会提供住所，最后约定见面解决这些困扰。,"Tina: Hey, Facebook is constantly non stop suggesting Patrick
  Demi: Hahahahaha 
  Tina: I think I have to catch a bit of your approach
  Demi: He's a god. What do you mean...?
@@ -4023,16 +4023,16 @@ mBART-large,59,H-EVT|H-CIRC|LANG,H-EVT|H-CIRC,"It changes waiting at one Luxembo
  Mario: weather was good for flying everywhere 🙂 Otherwise it would have been trains everywhere 🙂
  Moe: Mario be safe bro
  Mario: You too bro 🙂",33.33,12.5,33.33,81.67,2.197971821,4.298929214,3.795027256,2.145961761,1.428571
-mBART-large,60,NO-ERROR,,"Although John was initially uncertain, Matt confirms that training occurs today.",约翰不确定今天是否有训练，但马特说有。,马特和约翰今天要练习。,"John: do we have practice today?
+mBART-large,60,NO-ERROR,NO-ERROR,"Although John was initially uncertain, Matt confirms that training occurs today.",约翰不确定今天是否有训练，但马特说有。,马特和约翰今天要练习。,"John: do we have practice today?
  Matt: yea think so
  John: great thanks see ya there
  Matt: see ya",33.33,0.0,22.22,75.14,2.549853325,4.173051834,3.750306129,2.355290890,0.578947
-mBART-large,61,OMIT,,"The milk purchase is correct, but the condition that Martin will do it after completing the plan is omitted.",马丁完成计划后将给亚历克斯买两瓶牛奶。,马丁会给亚历克斯买两瓶牛奶。,"Alex: Hon, could you buy some milk?
+mBART-large,61,OMIT,OMIT,"The milk purchase is correct, but the condition that Martin will do it after completing the plan is omitted.",马丁完成计划后将给亚历克斯买两瓶牛奶。,马丁会给亚历克斯买两瓶牛奶。,"Alex: Hon, could you buy some milk?
  Martin: You kiddin me, I just bought two yesterday
  Alex: Well, I have nothing for my defense, I'm just craving milk lately:D
  Martin: You're lucky that I love you, two milks coming up in couple of hours, I gotta finish the project
  Alex: You are my hero!",70.59,53.33,70.59,90.57,3.940398216,4.769084454,4.676498413,3.893949270,0.736842
-mBART-large,62,H-CIRC|LANG|OMIT,,"It changes Nona Rita restaurant into a person's home, repeats the sentence, and omits the wedding planner and restaurant details.",布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。,布莱尔和恰克将在诺娜丽塔家见面。布莱尔和恰克将在诺娜丽塔家见面。,"Blair: Remember we are seeing the wedding planner after work
+mBART-large,62,H-CIRC|LANG|OMIT,H-CIRC|LANG|OMIT,"It changes Nona Rita restaurant into a person's home, repeats the sentence, and omits the wedding planner and restaurant details.",布莱尔和恰克下班后要去诺娜·丽塔餐厅见婚礼策划人。诺娜·丽塔餐厅供应的意大利面条非常好。,布莱尔和恰克将在诺娜丽塔家见面。布莱尔和恰克将在诺娜丽塔家见面。,"Blair: Remember we are seeing the wedding planner after work
  Chuck: Sure, where are we meeting her?
  Blair: At Nonna Rita's
  Chuck: Can I order their seafood tagliatelle or are we just having coffee with her? I've been dreaming about it since we went there last month
@@ -4041,7 +4041,7 @@ mBART-large,62,H-CIRC|LANG|OMIT,,"It changes Nona Rita restaurant into a person'
  Blair: Omg hahaha it was all over her white blouse
  Chuck: :D
  Blair: :P",20.51,10.81,20.51,72.76,2.760774851,4.092441082,3.909172297,2.997677326,0.727273
-mBART-large,63,H-ENT|H-DISC|OMIT,,It introduces roommates and omits the key contrast that Cole and Louis are texting while in the same room.,科尔和路易斯坐在同一个房间里，却在发短信。,路易斯和科尔的室友在同一个房间。,"Cole: hey roomie XD XD
+mBART-large,63,H-ENT|H-DISC|OMIT,OMIT,It introduces roommates and omits the key contrast that Cole and Louis are texting while in the same room.,科尔和路易斯坐在同一个房间里，却在发短信。,路易斯和科尔的室友在同一个房间。,"Cole: hey roomie XD XD
  Luis: dude we are in the SAME DAMN ROOM
  Cole: its funny XD
  Luis: -_-
@@ -4052,7 +4052,7 @@ mBART-large,63,H-ENT|H-DISC|OMIT,,It introduces roommates and omits the key cont
  Cole: oh youre not gonna talk to your roommate now
  Luis: im not gonna text an idiot whos practically sitting just a few inches from me -_-
  Cole: xD",63.16,11.76,31.58,83.43,3.182681084,4.907648087,4.854497910,3.290165663,0.761905
-mBART-large,64,H-EVT|H-DISC|OMIT,,It replaces Chelsea's win and Higuain's goals with unrelated claims and omits Damian's hope that the match is a turning point.,切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,"雅各布没有看切尔西的比赛,梅森整个下午都在忙着。达米安和雅各布认为哈德斯菲尔德是个好主意。","Damian: guys did u watch Chelsea game
+mBART-large,64,H-EVT|H-DISC|OMIT,H-EVT|H-DISC|OMIT,It replaces Chelsea's win and Higuain's goals with unrelated claims and omits Damian's hope that the match is a turning point.,切尔西今天下午赢了哈德斯菲尔德的一场比赛。伊瓜因两度得分。达米安很高兴，他希望这将是切尔西的转折点。,"雅各布没有看切尔西的比赛,梅森整个下午都在忙着。达米安和雅各布认为哈德斯菲尔德是个好主意。","Damian: guys did u watch Chelsea game
  Jacob: no
  Mason: nah, i was busy all afternoon
  Damian: Higuain scored twice! so happy for him
@@ -4063,7 +4063,7 @@ mBART-large,64,H-EVT|H-DISC|OMIT,,It replaces Chelsea's win and Higuain's goals 
  Damian: don't be like that, im happy for the team, maybe this will be a turning point
  Jacob: no, I don't think so
  Mason: ha good luck with that",34.62,16.0,26.92,71.16,2.282214642,3.954923630,3.984241962,2.126834869,0.900000
-mBART-large,65,H-CIRC|LANG|OMIT,,"It puts Barry at Kaiser's although he is at home, leaves the 39-price statement malformed, and omits the scarf and cost-sharing decision.",玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。,玛琳半小时后要去城里。巴里在凯撒店。他想给丽塔买个礼物。玛琳想买39美元的。,"Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.
+mBART-large,65,H-CIRC|LANG|OMIT,H-CIRC|LANG|OMIT,"It puts Barry at Kaiser's although he is at home, leaves the 39-price statement malformed, and omits the scarf and cost-sharing decision.",玛伦半小时后就要去镇上了。她将给丽塔买一件礼物——凯泽的带黄色花纹的丝巾。它的售价为39，巴利和玛伦一人出一半钱。,玛琳半小时后要去城里。巴里在凯撒店。他想给丽塔买个礼物。玛琳想买39美元的。,"Marleen: Hello my dear, I'll be leaving in half an hour to go to town. If you have any idea for a present for Rita let me know.
  Marleen: Text me here with your ideas for a present for her.
  Barry: But I've got none! I leave the choice entirely to you.
  Barry: I'm at home now.
@@ -4080,18 +4080,18 @@ mBART-large,65,H-CIRC|LANG|OMIT,,"It puts Barry at Kaiser's although he is at ho
  Barry: Oh come on. Not so bad.
  Marleen: Shall we go 50/50?
  Barry: OK",34.48,3.57,24.14,75.38,4.487338066,4.497824669,4.614661694,3.546007872,0.666667
-mBART-large,66,NO-ERROR,,Brooke asking Gail to come over because of what happened yesterday is adequately summarized.,布鲁克要盖尔过来看看昨天发生了什么。,"布鲁克建议吉尔去看望她,因为昨天发生了什么事。","Brook: something happened yesterday, you need to come and see
+mBART-large,66,NO-ERROR,NO-ERROR,Brooke asking Gail to come over because of what happened yesterday is adequately summarized.,布鲁克要盖尔过来看看昨天发生了什么。,"布鲁克建议吉尔去看望她,因为昨天发生了什么事。","Brook: something happened yesterday, you need to come and see
  Gyle: is it bad?
  Brook: you better come home
  Gyle: On my way",47.62,31.58,47.62,82.72,3.188301563,3.657093525,3.669638872,2.797043085,1.277778
-mBART-large,67,OMIT,,"Their satisfaction is supported, but Milena, the presentation outcome, and the three attendees are omitted.",凯特、米丽娜和里贾娜的演讲进行得很顺利，三个人来听他们的演讲。,凯特和雷吉娜对他们的报告很满意。,"Milena: How was the presentation?
+mBART-large,67,OMIT,OMIT,"Their satisfaction is supported, but Milena, the presentation outcome, and the three attendees are omitted.",凯特、米丽娜和里贾娜的演讲进行得很顺利，三个人来听他们的演讲。,凯特和雷吉娜对他们的报告很满意。,"Milena: How was the presentation?
  Kate: very good
  Regina: yes, we had a good feedback
  Milena: how many people came to listen to you?
  Regina: 3 but we new it will be very cosy, friendly thing
  Milena: sometimes a small but interested audience is better than random bored people
  Kate: exactly",35.71,7.69,28.57,76.46,2.546696663,4.111133099,4.271630287,2.153137684,0.516129
-mBART-large,68,H-ENT|H-EVT,,It mistakes TOTW for a tote and changes Jack receiving it into wanting to buy one.,杰克今年拿到了第一个totw ，汤姆的团队并不出色。,杰克想买一个托特。,"Jake: dude, I just pulled a TOTW
+mBART-large,68,H-ENT|H-EVT,H-ENT|H-EVT,It mistakes TOTW for a tote and changes Jack receiving it into wanting to buy one.,杰克今年拿到了第一个totw ，汤姆的团队并不出色。,杰克想买一个托特。,"Jake: dude, I just pulled a TOTW
  Jake: my first this year!
  Tom: grats!
  Tom: gonna sell it?
@@ -4106,13 +4106,13 @@ mBART-large,68,H-ENT|H-EVT,,It mistakes TOTW for a tote and changes Jack receivi
  Jake: you're good at the game
  Jake: you don't need help :P
  Tom: I like shiny things :P",11.11,0.0,11.11,66.2,1.533985853,3.927680969,4.025628090,1.684123278,0.360000
-mBART-large,69,H-ROLE|LANG,,It wrongly attributes liking Thomas the Tank Engine to Cass rather than Jordan and awkwardly treats the card design as an engine she selected.,凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。,乔丹收到了卡斯的生日卡和钱。卡斯特别挑选了托马斯的坦克发动机。乔丹11岁了。卡斯喜欢托马斯。,"Cass: Hi darling, did you get your birthday card and money on time?
+mBART-large,69,H-ROLE|LANG,H-ROLE|H-CIRC,It wrongly attributes liking Thomas the Tank Engine to Cass rather than Jordan and awkwardly treats the card design as an engine she selected.,凯斯送给外孙乔丹20英镑和一张生日卡，作为他11岁生日的礼物。,乔丹收到了卡斯的生日卡和钱。卡斯特别挑选了托马斯的坦克发动机。乔丹11岁了。卡斯喜欢托马斯。,"Cass: Hi darling, did you get your birthday card and money on time?
  Jordan: hello Nanna! Thanks for the £20. Sorry I didn't ring you before.
  Cass: you still like Thomas the Tank engine don't you? I picked it specially.
  Jordan: Yes, Nanna. I will always love him! Next time, get me a football one or something. I mean, I'm 11 now!
  Cass: I know, you are so grown up. Love you xxxxx
  Jordan: Love you, Nan xx",32.56,4.88,23.26,68.42,3.586135149,4.073834419,4.177430630,3.080283403,1.483871
-mBART-large,70,H-ROLE|H-EVT,,"It says Mickey visited Palermo and Jessica liked the place, although Jessica visited it, Mickey only notes it down, and she calls it frightening.",对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,杰西卡和米基去过意大利的帕勒莫。帕勒莫有8千具尸首。杰西卡和奥利都很喜欢这个地方。,"Kelly: Oh! Oh! Can I pick the first question?
+mBART-large,70,H-ROLE|H-EVT,H-ROLE|H-EVT,"It says Mickey visited Palermo and Jessica liked the place, although Jessica visited it, Mickey only notes it down, and she calls it frightening.",对杰西卡来说，最恐怖的地方是巴勒莫的僧帽猴地下墓穴。,杰西卡和米基去过意大利的帕勒莫。帕勒莫有8千具尸首。杰西卡和奥利都很喜欢这个地方。,"Kelly: Oh! Oh! Can I pick the first question?
  Jessica: Sure. Go for it!
  Kelly: What's the scariest place you've been to!
  Jessica: I'll start: Palermo in Italy.
@@ -4124,7 +4124,7 @@ mBART-large,70,H-ROLE|H-EVT,,"It says Mickey visited Palermo and Jessica liked t
  Jessica: Well, partly. Most of them were exhibited in their clothes. Basically only skulls and hands. 
  Mickey: I'm writing this one down! That's so precious!
  Ollie: Me too!",21.05,0.0,15.79,67.31,2.545757771,4.014840603,3.647239923,2.627220154,1.576923
-mBART-large,71,OMIT,,"Sending the video is supported, but the summary omits Simon and Charlie's approval of the policy discussed in it.",西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,西蒙给查理发了一张关于欧盟政策的视频。,"Simon: <file_photo>
+mBART-large,71,OMIT,OMIT,"Sending the video is supported, but the summary omits Simon and Charlie's approval of the policy discussed in it.",西蒙和查理钦佩波兰的反移民政策和捍卫自身价值观和利益的方式。,西蒙给查理发了一张关于欧盟政策的视频。,"Simon: <file_photo>
  Simon: It's funny and scary at the same time.
  Simon: BTW it's so annoying that people can't see that such immigration policy reduces safety level for citizens of EU significantly
  Charlie: This photo is great. It totally shows what do we all mean when we criticize EU policy. 
@@ -4146,7 +4146,7 @@ mBART-large,71,OMIT,,"Sending the video is supported, but the summary omits Simo
  Simon: Let's hope not.
  Charlie: Yup. To conclude: Christmas in Poland will be the best Christmas in Europe :D
  Simon: I agree :)",23.08,0.0,23.08,68.71,1.794031858,4.152961731,4.541301727,1.654495716,0.633333
-mBART-large,72,H-DISC,,It changes the group's mockery of the idea that premarital sex is sinful into their sincerely believing that it is sinful.,艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。,爱德、瓦莱丽、克里斯、洛尔、杰西卡和马特都认为性爱是罪恶的。,"Ed: Sinners!! Sex is for married people
+mBART-large,72,H-DISC,H-DISC,It changes the group's mockery of the idea that premarital sex is sinful into their sincerely believing that it is sinful.,艾德、瓦莱丽、里斯、罗、艾妮、杰西卡、马特都在嘲笑没有婚姻的性爱的罪恶。,爱德、瓦莱丽、克里斯、洛尔、杰西卡和马特都认为性爱是罪恶的。,"Ed: Sinners!! Sex is for married people
  Valerie: double sin if it’s anything but missionary style!
  Chris: Then you go get married & leave us all alone
  Lor: You better hope all non sin living is worth it or your consciousness after death is going to be butt hurt for eternity lol
@@ -4157,11 +4157,11 @@ mBART-large,72,H-DISC,,It changes the group's mockery of the idea that premarita
  Jessica: And only for procreation. :-))) And not to be enjoyed. :-)))
  Matt: Ed, Ok. See you in hell !! 😂
  Ed: Matt , No you won’t. I don’t even look on the direction of another man",56.41,21.62,51.28,86.28,3.942227364,4.900909424,4.810877323,3.719172716,0.833333
-mBART-large,73,NO-ERROR,,Mike being in London is accurately summarized.,迈克在伦敦。,迈克在伦敦。,"Jake: Maaaan! you in london?!
+mBART-large,73,NO-ERROR,NO-ERROR,Mike being in London is accurately summarized.,迈克在伦敦。,迈克在伦敦。,"Jake: Maaaan! you in london?!
  Mike: <file_photo>
  Mike: yeah mate! dreams coming true!
  Jake: cool! congrats!",100.0,100.0,100.0,100.0,2.243733168,4.709795952,4.702806473,4.001251221,1.000000
-mBART-large,74,LANG|OMIT,,The vague phrase about liking a shot does not clearly express the football play and omits Jose's trust in the player.,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,里奇、克莱和荷西喜欢他的投篮。,"Richie: Pogba
+mBART-large,74,LANG|OMIT,H-EVT|OMIT,The vague phrase about liking a shot does not clearly express the football play and omits Jose's trust in the player.,里奇和克莱看了一场非常精彩的足球比赛，一个足球运动员把球铲回自己的脚边，特别刺激。何塞信任那个球员。,里奇、克莱和荷西喜欢他的投篮。,"Richie: Pogba
  Clay: Pogboom
  Richie: what a s strike yoh!
  Clay: was off the seat the moment he chopped the ball back to his right foot
@@ -4175,7 +4175,7 @@ mBART-large,74,LANG|OMIT,,The vague phrase about liking a shot does not clearly 
  Clay: yeah man
  Richie: cool then 
  Clay: cool",26.32,0.0,15.79,67.24,2.176739693,3.750745058,3.696864367,2.073246956,0.300000
-mBART-large,75,H-ENT|H-DISC|LANG,,"It collapses Alexa into Alec, reports the link as finally invalid although it was fixed, and repeats malformed claims about the performer.",亚历克看到美国的达人秀，他发了个链接给亚莉克莎。,"亚历克给亚历克发了一个链接,链接无效。亚历克和亚历克喜欢这个链接。亚历克认为亚历克最优秀的女孩。亚历克认为亚历克最优秀的女孩之一。亚历克认为亚历克最优秀的女孩之一。","Alec: Have you seen the last America's got talent?
+mBART-large,75,H-ENT|H-DISC|LANG,H-ENT|H-DISC|LANG,"It collapses Alexa into Alec, reports the link as finally invalid although it was fixed, and repeats malformed claims about the performer.",亚历克看到美国的达人秀，他发了个链接给亚莉克莎。,"亚历克给亚历克发了一个链接,链接无效。亚历克和亚历克喜欢这个链接。亚历克认为亚历克最优秀的女孩。亚历克认为亚历克最优秀的女孩之一。亚历克认为亚历克最优秀的女孩之一。","Alec: Have you seen the last America's got talent?
  Alexa: No. 
  Alexa: Interesting? 
  Alec: <file_other>
@@ -4194,19 +4194,19 @@ mBART-large,75,H-ENT|H-DISC|LANG,,"It collapses Alexa into Alec, reports the lin
  Alec: yes
  Alec: And there're a few good, but I personally think she's the best!
  Alexa: I'd be glad if she wins :)",18.18,0.0,10.91,69.1,2.193553925,3.756664515,3.822129011,2.768798351,3.416667
-mBART-large,76,NO-ERROR,,James missing the match because he must work is accurately summarized.,詹姆斯要去上班，所以他不看比赛。,"詹姆斯不看比赛,他要去上班。","Hannah: Are you watching the game?
+mBART-large,76,NO-ERROR,NO-ERROR,James missing the match because he must work is accurately summarized.,詹姆斯要去上班，所以他不看比赛。,"詹姆斯不看比赛,他要去上班。","Hannah: Are you watching the game?
  James: No I am head to work : ( 
  Hannah: Oh okay",77.78,25.0,44.44,91.4,3.218409538,4.230197906,4.270790100,3.828376055,0.875000
-mBART-large,77,NO-ERROR,,Ziegler bringing the passport tomorrow is accurately summarized; omitting the reminder does not distort the core event.,在多尔夫的提醒下，齐格勒明天会把护照带来。,齐格勒明天会把护照带来。,"Dolph: hey
+mBART-large,77,NO-ERROR,NO-ERROR,Ziegler bringing the passport tomorrow is accurately summarized; omitting the reminder does not distort the core event.,在多尔夫的提醒下，齐格勒明天会把护照带来。,齐格勒明天会把护照带来。,"Dolph: hey
  Dolph: remember to bring your passport tomorrow
  Ziggler: Cool, i will",63.16,58.82,63.16,87.92,2.599799633,4.787108421,4.611127853,3.455565691,0.571429
-mBART-large,78,H-ROLE,,"It says William will buy the tomatoes and chocolate for Olivia and Beth, reversing who buys the items for whom.",威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。,威廉正在做意大利面。他会给奥利维亚和贝丝买些新鲜的西红柿和巧克力。,"William: hey im making spaghetti
+mBART-large,78,H-ROLE,H-ROLE,"It says William will buy the tomatoes and chocolate for Olivia and Beth, reversing who buys the items for whom.",威廉在做意大利面，奥莉维亚会给威廉买新鲜的西红柿，贝丝会买巧克力。,威廉正在做意大利面。他会给奥利维亚和贝丝买些新鲜的西红柿和巧克力。,"William: hey im making spaghetti
  William: could you please buy some fresh tomatoes
  William: pretty please :)
  Olivia: no problem dear :)
  William: and Beth? it wouldn't hurt to have some chocolate for after the dinner :D
  Beth: I'm on it :D",55.56,29.41,55.56,88.48,4.091276646,4.753177166,4.785683155,4.250635147,1.000000
-mBART-large,79,H-EVT|OMIT,,It replaces Tina learning Demi's dating approach with unsupported claims about looking for Patrick and organizing a workshop.,蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。,蒂娜正在寻找帕特里克。蒂娜和黛米正在组织研讨会。,"Tina: Hey, Facebook is constantly non stop suggesting Patrick
+mBART-large,79,H-EVT|OMIT,H-EVT|OMIT,It replaces Tina learning Demi's dating approach with unsupported claims about looking for Patrick and organizing a workshop.,蒂娜必须学习黛米的方法，即如何从讨厌男人转变成和他们约会。,蒂娜正在寻找帕特里克。蒂娜和黛米正在组织研讨会。,"Tina: Hey, Facebook is constantly non stop suggesting Patrick
  Demi: Hahahahaha 
  Tina: I think I have to catch a bit of your approach
  Demi: He's a god. What do you mean...?
