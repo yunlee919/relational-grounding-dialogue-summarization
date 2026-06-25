@@ -960,14 +960,14 @@ aya-expanse:8b,79,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue
  Tina: between the guyshaha
  Demi: we ll find something
  Tina: <3",10.69,1.55,7.63,65.75,3.643151760,4.066765785,4.219170570,3.457910538,7.241379
-aya-expanse:8b,80,H-ENT,,It mistranslates 'function' as a technical feature rather than an event.,埃文会让伊森来的。,艾莉森问埃文是否和伊桑讨论了功能问题。埃文回答已经这样做了，并说伊桑可能不会来。艾莉森要求埃文想办法让伊桑来，埃文表示会尽力。,"Allison: You talked to Ethan about the function? 
+aya-expanse:8b,80,H-ENT,H-ENT,It mistranslates 'function' as a technical feature rather than an event.,埃文会让伊森来的。,艾莉森问埃文是否和伊桑讨论了功能问题。埃文回答已经这样做了，并说伊桑可能不会来。艾莉森要求埃文想办法让伊桑来，埃文表示会尽力。,"Allison: You talked to Ethan about the function? 
  Evan: Yeah I did
  Allison: What did he say?
  Evan: He might not come
  Allison: Can you do something about that?
  Evan: I will try to make him come
  Allison: K",13.95,0,9.3,69.09,2.585072279,4.012783051,3.883426666,2.999432564,7.000000
-aya-expanse:8b,81,H-CIRC,,It changes the proposed retake from next year to next semester.,巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。,巴特已经收到了自己的成绩单，发现整个学期都表现不佳。他因为经济学的最终考试失败而感到沮丧。阿德里安建议他下学期再考，并分享了自己的学习方法——上课认真听讲，不需要花太多时间复习。巴特承认自己因为玩《星际争霸》而分心，承诺不再在学校期间玩游戏，但表示会适量娱乐。,"Adrian: Did you get your grades yet?
+aya-expanse:8b,81,H-CIRC,H-CIRC,It changes the proposed retake from next year to next semester.,巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。,巴特已经收到了自己的成绩单，发现整个学期都表现不佳。他因为经济学的最终考试失败而感到沮丧。阿德里安建议他下学期再考，并分享了自己的学习方法——上课认真听讲，不需要花太多时间复习。巴特承认自己因为玩《星际争霸》而分心，承诺不再在学校期间玩游戏，但表示会适量娱乐。,"Adrian: Did you get your grades yet?
  Bart: Yeah. My whole semester is screwed up now.
  Adrian: Wait whaaat? Why?
  Bart: Well, I bombed my economy final and ended up with a bad score..
@@ -987,17 +987,17 @@ aya-expanse:8b,81,H-CIRC,,It changes the proposed retake from next year to next 
  Bart: You're right. I'm not going to play games during school anymore.
  Adrian: You can play them, just don't loose focus and study for the exams :p
  Bart: Let's see how it goes xD",27.08,4.26,20.83,71.83,3.696356297,3.746792793,3.996495724,3.443576574,2.765957
-aya-expanse:8b,82,H-ROLE,,It mixes up Sean calling Tiffany a wasp with Tiffany saying Sean may be haunted.,肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。,肖恩经过深思熟虑后决定自己的精神动物是乌龟。他最近才知道每个人都有一个，感觉很迷失，不知道自己到底是谁。经过多日思考，他终于确定自己是乌龟。蒂芙尼认为他可能只是被困扰了，建议他可能不是乌龟，而是黄蜂。,"Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.
+aya-expanse:8b,82,H-ROLE,H-ROLE,It mixes up Sean calling Tiffany a wasp with Tiffany saying Sean may be haunted.,肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。,肖恩经过深思熟虑后决定自己的精神动物是乌龟。他最近才知道每个人都有一个，感觉很迷失，不知道自己到底是谁。经过多日思考，他终于确定自己是乌龟。蒂芙尼认为他可能只是被困扰了，建议他可能不是乌龟，而是黄蜂。,"Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.
  Tiffany: That would explain a lot.
  Sean: You would be a wasp.
  Tiffany: Are you sure you're a turtle? Maybe you're just haunted.",24.32,5.56,18.92,71.25,3.693342924,3.983312845,4.198701859,3.691142082,4.545455
-aya-expanse:8b,83,H-ROLE,,"It says George initiated the question about fruit, although Kate did.",凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。,凯特在超市，乔治问她是否为明天学校买些水果。乔治想要一个苹果，凯特也打算买一个。乔治还询问橙子是否有货，凯特回答下周才到货。,"Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?
+aya-expanse:8b,83,H-ROLE,H-ROLE,"It says George initiated the question about fruit, although Kate did.",凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。,凯特在超市，乔治问她是否为明天学校买些水果。乔治想要一个苹果，凯特也打算买一个。乔治还询问橙子是否有货，凯特回答下周才到货。,"Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?
  George: Oh yes please, an apple would be great
  Kate: Okay, I'm getting me one too
  George: Do they have tangerines yet?
  Kate: No the're coming next week, I asked already:D
  George: Okat then we have to wait",28.57,3.7,21.43,71.54,3.637314081,4.004369736,4.044694901,3.150078058,2.296296
-aya-expanse:8b,84,H-ENT,,It changes the giraffe in the Skittles commercial into a zebra.,茱莉亚回来后会给罗纳德打电话，他有事要告诉她。,罗纳德问朱莉周末过得怎么样，朱莉回答还好但家里有些不和谐，父母在争论吃什么。朱莉表示不再想和他们一起吃饭。罗纳德表示同情并邀请朱莉周末后打电话给他，说有事情要告诉她，可能会让她开心起来。朱莉调侃地回应说她看到了“彩虹斑马”。,"Ronald: How's your weekend?
+aya-expanse:8b,84,H-ENT,H-ENT,It changes the giraffe in the Skittles commercial into a zebra.,茱莉亚回来后会给罗纳德打电话，他有事要告诉她。,罗纳德问朱莉周末过得怎么样，朱莉回答还好但家里有些不和谐，父母在争论吃什么。朱莉表示不再想和他们一起吃饭。罗纳德表示同情并邀请朱莉周末后打电话给他，说有事情要告诉她，可能会让她开心起来。朱莉调侃地回应说她看到了“彩虹斑马”。,"Ronald: How's your weekend?
  Julia: Fine I guess...
  Ronald: Doesn't sound like you're enjoying it
  Julia: Ehh. My parents are having a fight over where should we eat
@@ -1008,7 +1008,7 @@ aya-expanse:8b,84,H-ENT,,It changes the giraffe in the Skittles commercial into 
  Ronald: I've got something to tell you, and I'm sure you're gonna piss rainbows
  Julia: Hahaha. I can see the giraffe from Skittles comercial :D
  Ronald: Sth like that",20.51,5.26,15.38,69.12,3.736596346,3.969122410,4.074217796,3.418635845,4.869565
-aya-expanse:8b,85,H-ROLE,,It assigns the good-night wish to Matthew instead of Lisa.,马修感冒了，他要喝些橙汁，然后去睡觉。,马修感冒了，需要大家支持。丽莎建议他喝橙汁，做点汤，并鼓励他坚持下去。马修表示会尝试。他透露可能是过敏加上病毒导致的。丽莎表示很抱歉，建议他休息，好好睡觉。马修同意，并祝晚安。,"Matthew: I have a cold. Need y'all support. It's painful
+aya-expanse:8b,85,H-ROLE,H-ROLE,It assigns the good-night wish to Matthew instead of Lisa.,马修感冒了，他要喝些橙汁，然后去睡觉。,马修感冒了，需要大家支持。丽莎建议他喝橙汁，做点汤，并鼓励他坚持下去。马修表示会尝试。他透露可能是过敏加上病毒导致的。丽莎表示很抱歉，建议他休息，好好睡觉。马修同意，并祝晚安。,"Matthew: I have a cold. Need y'all support. It's painful
  Lisa: Fight it. Drink orange juice. Make some soup
  Matthew: I'll try
  Lisa: I believe in u 
@@ -1017,7 +1017,7 @@ aya-expanse:8b,85,H-ROLE,,It assigns the good-night wish to Matthew instead of L
  Lisa: Take a rest from evrthg.  
  Matthew: Ikr. Hitting the hay now
  Lisa: Good night 'Thew!",24.24,15.62,24.24,72.28,4.195843697,4.341154099,4.496795177,3.814122915,4.631579
-aya-expanse:8b,86,H-ENT,,It gives Umberto Eco an unsupported incorrect first name.,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,斯蒂芬诺和乔西讨论了福柯的摆（Foucault's Pendulum）。乔西觉得这本书很奇怪，而且怀疑作者是不是意大利人。斯蒂芬诺解释说，乌菲克·埃科（Umberto Eco）是个“书呆子”，而不是所有意大利书籍都关于披萨、黑手党和曼多林。乔西表示她想尝试读原版意大利文小说，但担心自己的意大利语水平不足。斯蒂芬诺提到《玫瑰的名字》（The Name of the Rose）对非母语者来说非常困难。他解释说，《福柯的摆》设定在80年代，语言更容易理解，但内容同样复杂。乔西分享了她读过的萨曼·鲁什迪（Salman Rushdie）对《福柯的摆》的负面评论，称它不像小说，而像电脑游戏。斯蒂芬诺开玩笑说这很荒谬。两人最后开玩笑调侃对方。,"Stefano: Hi, Josie!
+aya-expanse:8b,86,H-ENT,H-ENT,It gives Umberto Eco an unsupported incorrect first name.,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,斯蒂芬诺和乔西讨论了福柯的摆（Foucault's Pendulum）。乔西觉得这本书很奇怪，而且怀疑作者是不是意大利人。斯蒂芬诺解释说，乌菲克·埃科（Umberto Eco）是个“书呆子”，而不是所有意大利书籍都关于披萨、黑手党和曼多林。乔西表示她想尝试读原版意大利文小说，但担心自己的意大利语水平不足。斯蒂芬诺提到《玫瑰的名字》（The Name of the Rose）对非母语者来说非常困难。他解释说，《福柯的摆》设定在80年代，语言更容易理解，但内容同样复杂。乔西分享了她读过的萨曼·鲁什迪（Salman Rushdie）对《福柯的摆》的负面评论，称它不像小说，而像电脑游戏。斯蒂芬诺开玩笑说这很荒谬。两人最后开玩笑调侃对方。,"Stefano: Hi, Josie!
  Josie: Ciao, Stefano!
  Stefano: So, what about Foucault's Pendulum? Do you like it?
  Josie: It's... weird. Was it really written by an Italian guy? It's so... nerdy.
@@ -1039,14 +1039,14 @@ aya-expanse:8b,86,H-ENT,,It gives Umberto Eco an unsupported incorrect first nam
  Josie: Yuk! That's so creepy.
  Stefano: You're the one who said it!
  Josie: I know. ;)",27.31,8.89,20.26,70.47,2.726562262,3.540924788,3.803079367,2.734322071,3.455556
-aya-expanse:8b,87,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,下雨了，所以瓦尔和坎迪要等半小时才走。,下雨了！Val建议出门会湿，Candy认为先等一会儿看看是否停雨。Val同意等待半小时再决定，并约定在那时通过电话商量。,"Val: it's raining!
+aya-expanse:8b,87,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,下雨了，所以瓦尔和坎迪要等半小时才走。,下雨了！Val建议出门会湿，Candy认为先等一会儿看看是否停雨。Val同意等待半小时再决定，并约定在那时通过电话商量。,"Val: it's raining!
  Candy: I know, just started...
  Val: r we going? we will be wet
  Candy: maybe wait a little? see if stops
  Val: ok. let's wait half h and than see
  Candy: god idea, I call u then
  Val: great :)",23.81,10,23.81,68.58,2.405369282,3.266927958,3.527332783,2.469705105,3.157895
-aya-expanse:8b,88,OMIT,,It omits Sierra from the people who had not yet received the grant.,托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。,托马斯和杰里米都还没有收到资助。托马斯因为资金短缺而焦急地每小时检查一次银行账户。西拉安慰他，表示如果需要可以借给他一些钱，并建议他保持耐心。,"Tomas: Has anybody received the grant yet?
+aya-expanse:8b,88,OMIT,OMIT,It omits Sierra from the people who had not yet received the grant.,托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。,托马斯和杰里米都还没有收到资助。托马斯因为资金短缺而焦急地每小时检查一次银行账户。西拉安慰他，表示如果需要可以借给他一些钱，并建议他保持耐心。,"Tomas: Has anybody received the grant yet?
  Sierra: no, not yet
  Jeremy: I haven't checked even
  Tomas: I'm completely broke
@@ -1055,7 +1055,7 @@ aya-expanse:8b,88,OMIT,,It omits Sierra from the people who had not yet received
  Sierra: lol
  Sierra: be patient. If you need money I can lend you some, don't worry
  Tomas: Thanks, I hope they'll arrive any minute",49.28,17.91,37.68,79.22,3.838283539,3.891729832,4.025917530,3.046482325,1.448980
-aya-expanse:8b,89,H-ROLE|OMIT,,It makes the hangover a shared experience and omits Camilla's Saturday errands.,卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,查尔斯和卡米拉讨论了周末计划。查尔斯计划去伯明翰和曼彻斯特的德国市场，品尝香肠和啤酒。卡米拉表示会尝试去，因为她很久没有去过。他们还聊到了热红酒（多加香料的红葡萄酒），查尔斯推荐一定要试试。他们都开玩笑说自己会喝得头痛。最后，他们互相祝愿周末愉快。,"Charles: What are you up to this weekend?
+aya-expanse:8b,89,H-ROLE|OMIT,H-ROLE|OMIT,It makes the hangover a shared experience and omits Camilla's Saturday errands.,卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,查尔斯和卡米拉讨论了周末计划。查尔斯计划去伯明翰和曼彻斯特的德国市场，品尝香肠和啤酒。卡米拉表示会尝试去，因为她很久没有去过。他们还聊到了热红酒（多加香料的红葡萄酒），查尔斯推荐一定要试试。他们都开玩笑说自己会喝得头痛。最后，他们互相祝愿周末愉快。,"Charles: What are you up to this weekend?
  Camilla: Not much. Just some work and errands on Saturday, show Saturday night. Day of nothingness on Sundy.
  Charles: Sounds good. We are going to visit the German markets this weekend. Birmingham and Manchester both. Sausage overload!
  Camilla: Ooh, that sounds really good!
@@ -1074,13 +1074,13 @@ aya-expanse:8b,89,H-ROLE|OMIT,,It makes the hangover a shared experience and omi
  Charles: Anyway, that's the plan. Hope you have fun.
  Camilla: You too! 
  Charles: Thanks!",23.66,8.79,15.05,66.98,3.424622297,4.062095642,4.075767517,3.339425802,3.024390
-aya-expanse:8b,90,LANG,,The output reproduces speaker turns instead of providing a summary.,戴安娜和拉塞尔在给妈妈买礼物。,Russell 发送了一张文件，并说：“看看这个，这是给妈妈的完美礼物：D” Diana 笑着点头，表示价格很合理。然后她问：“我们买它吗？” Russell 兴奋地回答：“当然！”,"Russel: <file_other>
+aya-expanse:8b,90,LANG,LANG,The output reproduces speaker turns instead of providing a summary.,戴安娜和拉塞尔在给妈妈买礼物。,Russell 发送了一张文件，并说：“看看这个，这是给妈妈的完美礼物：D” Diana 笑着点头，表示价格很合理。然后她问：“我们买它吗？” Russell 兴奋地回答：“当然！”,"Russel: <file_other>
  Russel: look at this
  Russel: It's a perfect present fo mum :D
  Diana: haha, so true! It's not that expensive either!
  Diana: are we buying it?
  Russel: yeah, let's do it :D",13.79,3.57,10.34,59.7,4.601106644,4.723890305,4.794567585,3.676757812,5.733333
-aya-expanse:8b,91,LANG,,The output reproduces speaker turns instead of providing a summary.,安斯利病了，所以她现在不能帮简写论文。,"简：你现在有空吗？能帮我看看那篇论文吗？
+aya-expanse:8b,91,LANG,LANG,The output reproduces speaker turns instead of providing a summary.,安斯利病了，所以她现在不能帮简写论文。,"简：你现在有空吗？能帮我看看那篇论文吗？
  
 
  安斯利：抱歉，我生病了，不太能帮上忙。我感冒了，每两秒就打一个喷嚏。
@@ -1089,7 +1089,7 @@ aya-expanse:8b,91,LANG,,The output reproduces speaker turns instead of providing
  简：哦...好吧，希望你很快好起来...","Jane: Are u free now? Could u help me with that thesis?
  Ainsley: I'm sick won't be of much help sorry. I've got a cold and I'm sneezing like a little bitch every 2 seconds
  Jane: Oh... hmm ok. Hope u will get better soon...",16.67,3.45,13.33,66.27,2.800080299,4.927882195,4.925367355,4.738393784,3.894737
-aya-expanse:8b,92,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,菲奥娜爱上了他的学生康拉德。,菲奥娜无法忍受与康拉德（她的学生）在一起的感觉，即使他只有她五岁。万达认为这种情况太过分，并指出菲奥娜对他的感情已经超出界限。菲奥娜承认自己无法控制这种情感，担心如果被上司发现会造成麻烦。万达鼓励她勇敢面对并采取行动。,"Fiona: I just can’t stand it
+aya-expanse:8b,92,NO-ERROR,H-CIRC,The summary accurately reflects the dialogue's key facts and relations.,菲奥娜爱上了他的学生康拉德。,菲奥娜无法忍受与康拉德（她的学生）在一起的感觉，即使他只有她五岁。万达认为这种情况太过分，并指出菲奥娜对他的感情已经超出界限。菲奥娜承认自己无法控制这种情感，担心如果被上司发现会造成麻烦。万达鼓励她勇敢面对并采取行动。,"Fiona: I just can’t stand it
  Wanda: What again
  Fiona: When I’m in one room with him… I just go crazy
  Wanda: Conrad?
@@ -1107,7 +1107,7 @@ aya-expanse:8b,92,NO-ERROR,,The summary accurately reflects the dialogue's key f
  Wanda: Will she know?
  Fiona: How can I know what will he do, he can tell his mother as well
  Wanda: Just go for it!!",14.71,6.06,8.82,66.13,2.884543657,4.063350677,4.006632805,3.218590498,7.785714
-aya-expanse:8b,93,H-DISC,,It presents the 17th as an agreed alternative even though Evans may also be away then.,玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,玛格丽特提议在12月4日和11日10点或11点见面，埃文斯确认了这两个时间。玛格丽特还提到了18日，但埃文斯不确定是否能到。他们同意如果18日不可行，可以改到17日，但埃文斯可能也无法参加。最终决定在12月4日10点见面，并约定下周再讨论其他时间。,"Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
+aya-expanse:8b,93,H-DISC,H-DISC,It presents the 17th as an agreed alternative even though Evans may also be away then.,玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,玛格丽特提议在12月4日和11日10点或11点见面，埃文斯确认了这两个时间。玛格丽特还提到了18日，但埃文斯不确定是否能到。他们同意如果18日不可行，可以改到17日，但埃文斯可能也无法参加。最终决定在12月4日10点见面，并约定下周再讨论其他时间。,"Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
  Evans: Hi, 4th - we can meet at 10:00.
  Evans: And 11th - at 11:00. 
  Margaret: Okey. And what about 18th?
@@ -1123,7 +1123,7 @@ aya-expanse:8b,93,H-DISC,,It presents the 17th as an agreed alternative even tho
  Evans: So let's set these dates later, ok?
  Margaret: Okey and we see each other 4th 10:00. 
  Evans: Yes!",35.09,16.07,26.32,74.04,3.118103027,3.888129473,3.984530210,2.929555178,2.000000
-aya-expanse:8b,94,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。,路易斯和阿奇在讨论一个GIF，看起来像梅兰妮。阿奇认为她以前留着卷发更漂亮，而路易斯则坚称直发更美。他们开玩笑地争论着，但都尊重对方的观点。,"Louis: <file_gif>
+aya-expanse:8b,94,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。,路易斯和阿奇在讨论一个GIF，看起来像梅兰妮。阿奇认为她以前留着卷发更漂亮，而路易斯则坚称直发更美。他们开玩笑地争论着，但都尊重对方的观点。,"Louis: <file_gif>
  Archie: Wtf? Lol!
  Louis: <file_gif>
  Archie: That one looks like Melanie
@@ -1134,14 +1134,14 @@ aya-expanse:8b,94,NO-ERROR,,The summary accurately reflects the dialogue's key f
  Archie: By the way, she was way hotter when she had cury hair
  Louis: I disagree, sir! She looks absolutely gorgeous with straight hair
  Archie: Oh well, you have the right to an opinion even if it's wrong XD",24.56,3.64,21.05,72.38,3.197440147,3.868765116,3.808062077,2.795321226,2.592593
-aya-expanse:8b,95,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。,林达错过了火车，约瑟夫询问下一次出发时间，得知一个小时后有下一班。达西安慰她这不是大灾难。林达表示票价高达80欧元，需要返回阿姆斯特丹，并表达了惊讶之情。,"Linda: I missed the train
+aya-expanse:8b,95,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。,林达错过了火车，约瑟夫询问下一次出发时间，得知一个小时后有下一班。达西安慰她这不是大灾难。林达表示票价高达80欧元，需要返回阿姆斯特丹，并表达了惊讶之情。,"Linda: I missed the train
  Joseph: When is the next one?
  Linda: In one hour
  Darcy: Not a tragedy
  Linda: It was 80 euros
  Linda: Return to Amsterdam
  Linda: I was shocked!!",37.5,16.13,25,75.06,3.537395239,4.050248146,4.091359138,2.886463642,2.200000
-aya-expanse:8b,96,H-ROLE|H-MOD,,It reverses the thesis-supervisor relationship and falsely says Joanna had no recent contact.,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,他们正在通过邮件通知关于Lewandowska的情况。她因患上麻疹而住院。与她在过去几天内有过接触的人需要接种疫苗。乔安娜是她的论文导师，但幸运的是她没有在最近学期与她有过面对面的交流。学校将在17日至19日在主楼组织疫苗接种活动。乔安娜计划在18日工作前尽量完成接种。,"Joanna: They are sending emails about Lewandowska.
+aya-expanse:8b,96,H-ROLE|H-MOD,H-ROLE|H-MOD,It reverses the thesis-supervisor relationship and falsely says Joanna had no recent contact.,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,他们正在通过邮件通知关于Lewandowska的情况。她因患上麻疹而住院。与她在过去几天内有过接触的人需要接种疫苗。乔安娜是她的论文导师，但幸运的是她没有在最近学期与她有过面对面的交流。学校将在17日至19日在主楼组织疫苗接种活动。乔安娜计划在18日工作前尽量完成接种。,"Joanna: They are sending emails about Lewandowska.
  Merve: What happened?
  Joanna: <file_photo> 
  Merve: Wooow!
@@ -1156,16 +1156,16 @@ aya-expanse:8b,96,H-ROLE|H-MOD,,It reverses the thesis-supervisor relationship a
  Joanna: I know... And I just started working so I really don't have a lot of time.
  Merve: Come on, this is really important.
  Joanna: I will try to do it before work on 18th, hopefully I won't lose the entire day...",26.17,5.71,16.82,70.33,3.402068853,3.911036730,3.946104288,2.975665808,3.552632
-aya-expanse:8b,97,LANG,,The output reproduces speaker turns instead of providing a summary.,卡尔在等梅格，她找不到钥匙，要迟到了。,"卡尔：你在哪里？
+aya-expanse:8b,97,LANG,LANG,The output reproduces speaker turns instead of providing a summary.,卡尔在等梅格，她找不到钥匙，要迟到了。,"卡尔：你在哪里？
  卡尔：我还在等你！
  梅格：我还需要五分钟，我把钥匙丢了。","Carl: Where are u?
  Carl: I'm still waiting for u!!!
  Meg: I need 5 minutes more, I've lost my key somewhere :(",41.03,10.81,35.9,71.86,3.324458361,4.399445534,4.173338890,3.353269577,1.842105
-aya-expanse:8b,98,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,玛丽亚厌倦了她的工作。,玛丽亚表示对工作感到厌倦，无法再忍受。安娜斯塔西亚理解她的感受，但建议她冷静下来。费利克斯也劝她不要冲动做出决定。玛丽亚感到伤心。,"Maria: I'm tired of this job, I can't stand it anymore
+aya-expanse:8b,98,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,玛丽亚厌倦了她的工作。,玛丽亚表示对工作感到厌倦，无法再忍受。安娜斯塔西亚理解她的感受，但建议她冷静下来。费利克斯也劝她不要冲动做出决定。玛丽亚感到伤心。,"Maria: I'm tired of this job, I can't stand it anymore
  Anastasia: I know, but calm down
  Felix: don't make decisions in this rash
  Maria: :(",23.81,5,19.05,72.21,2.962605000,4.278431892,4.168863773,3.484817028,5.909091
-aya-expanse:8b,99,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,卢克明天下午2点22分要去冲浪。,卢克今天冲浪经历了糟糕的一天：零波浪、三次被拍打，还有一次被板子击中头。尽管如此，他仍期待下一次冲浪。肯和夏尔也分享了自己类似的冲浪经历。卢克明天下午两点二十二分将再次尝试，并提到低潮时能更好地看到岩石。埃里克则认为中潮通常更理想，因为看到岩石可能很危险。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
+aya-expanse:8b,99,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,卢克明天下午2点22分要去冲浪。,卢克今天冲浪经历了糟糕的一天：零波浪、三次被拍打，还有一次被板子击中头。尽管如此，他仍期待下一次冲浪。肯和夏尔也分享了自己类似的冲浪经历。卢克明天下午两点二十二分将再次尝试，并提到低潮时能更好地看到岩石。埃里克则认为中潮通常更理想，因为看到岩石可能很危险。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
  Ken: Yaaaay welcome to the tumble dry club - some days is great others just a knock about
  Summer: I almost lost my tooth one time ;) Hopefully next time is better!
  Luke: low tide is 2:22PM tomorrow. I'll be out there
@@ -2055,14 +2055,14 @@ gemma4:e4b,79,H-EVT,H-EVT,It changes a discussion of attitudes toward men and da
  Tina: between the guyshaha
  Demi: we ll find something
  Tina: <3",9.76,0,9.76,57.28,3.392853260,4.217429638,4.276622772,3.574371338,3.655172
-gemma4:e4b,80,H-ENT,,It mistranslates 'function' as a technical feature rather than an event.,埃文会让伊森来的。,艾莉森询问伊万是否和伊桑谈过关于某项功能的事宜，得知伊桑可能不会来。艾莉森让伊万想办法解决这个问题，伊万表示会尽力说服他前来。,"Allison: You talked to Ethan about the function? 
+gemma4:e4b,80,H-ENT,H-ENT,It mistranslates 'function' as a technical feature rather than an event.,埃文会让伊森来的。,艾莉森询问伊万是否和伊桑谈过关于某项功能的事宜，得知伊桑可能不会来。艾莉森让伊万想办法解决这个问题，伊万表示会尽力说服他前来。,"Allison: You talked to Ethan about the function? 
  Evan: Yeah I did
  Allison: What did he say?
  Evan: He might not come
  Allison: Can you do something about that?
  Evan: I will try to make him come
  Allison: K",15,0,5,65.1,2.346695423,3.935204268,3.954434395,3.123922586,7.000000
-gemma4:e4b,81,H-DISC,,"It implies an agreement to stop gaming, while the actual advice is to maintain focus and study.",巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。,阿德里安问巴特成绩如何，得知巴特经济学期末考试失利，并归咎于自己没复习。两人讨论了学习方法，阿德里安表示自己只是上课认真听讲，而巴特则承认是沉迷星际争霸浪费时间导致成绩不佳，最后约定以后不再分心玩游戏。,"Adrian: Did you get your grades yet?
+gemma4:e4b,81,H-DISC,H-DISC,"It implies an agreement to stop gaming, while the actual advice is to maintain focus and study.",巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。,阿德里安问巴特成绩如何，得知巴特经济学期末考试失利，并归咎于自己没复习。两人讨论了学习方法，阿德里安表示自己只是上课认真听讲，而巴特则承认是沉迷星际争霸浪费时间导致成绩不佳，最后约定以后不再分心玩游戏。,"Adrian: Did you get your grades yet?
  Bart: Yeah. My whole semester is screwed up now.
  Adrian: Wait whaaat? Why?
  Bart: Well, I bombed my economy final and ended up with a bad score..
@@ -2082,17 +2082,17 @@ gemma4:e4b,81,H-DISC,,"It implies an agreement to stop gaming, while the actual 
  Bart: You're right. I'm not going to play games during school anymore.
  Adrian: You can play them, just don't loose focus and study for the exams :p
  Bart: Let's see how it goes xD",21.92,2.82,16.44,71.21,3.257334471,3.562137604,3.752215862,2.946617126,2.148936
-gemma4:e4b,82,OMIT,,It omits Sean's joke that Tiffany's spirit animal would be a wasp.,肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。,肖恩经过深思熟虑，决定自己的精神动物是乌龟。蒂芙尼对此表示理解，并开玩笑地质疑了肖恩的判断，认为他可能只是被鬼缠身了。,"Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.
+gemma4:e4b,82,OMIT,OMIT,It omits Sean's joke that Tiffany's spirit animal would be a wasp.,肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。,肖恩经过深思熟虑，决定自己的精神动物是乌龟。蒂芙尼对此表示理解，并开玩笑地质疑了肖恩的判断，认为他可能只是被鬼缠身了。,"Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.
  Tiffany: That would explain a lot.
  Sean: You would be a wasp.
  Tiffany: Are you sure you're a turtle? Maybe you're just haunted.",29.79,8.89,25.53,71.12,3.431473494,3.804823399,3.948521376,3.085756063,2.681818
-gemma4:e4b,83,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。,凯特在超市，问乔治是否需要水果给学校。乔治要了一个苹果，凯特也买了一个。乔治询问是否有橘子，凯特说下周才有，两人只好等。,"Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?
+gemma4:e4b,83,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。,凯特在超市，问乔治是否需要水果给学校。乔治要了一个苹果，凯特也买了一个。乔治询问是否有橘子，凯特说下周才有，两人只好等。,"Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?
  George: Oh yes please, an apple would be great
  Kate: Okay, I'm getting me one too
  George: Do they have tangerines yet?
  Kate: No the're coming next week, I asked already:D
  George: Okat then we have to wait",28.57,3.7,25,72.67,3.288051844,3.901318073,3.903896332,3.125740767,2.222222
-gemma4:e4b,84,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,茱莉亚回来后会给罗纳德打电话，他有事要告诉她。,罗纳德询问了朱莉娅的周末过得如何，得知她因为父母吵架而心情不佳。两人互相表示理解和遗憾。最后，罗纳德让朱莉娅回来后打电话给他，并暗示自己有件让她非常开心的事要告诉她。,"Ronald: How's your weekend?
+gemma4:e4b,84,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,茱莉亚回来后会给罗纳德打电话，他有事要告诉她。,罗纳德询问了朱莉娅的周末过得如何，得知她因为父母吵架而心情不佳。两人互相表示理解和遗憾。最后，罗纳德让朱莉娅回来后打电话给他，并暗示自己有件让她非常开心的事要告诉她。,"Ronald: How's your weekend?
  Julia: Fine I guess...
  Ronald: Doesn't sound like you're enjoying it
  Julia: Ehh. My parents are having a fight over where should we eat
@@ -2103,7 +2103,7 @@ gemma4:e4b,84,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Ronald: I've got something to tell you, and I'm sure you're gonna piss rainbows
  Julia: Hahaha. I can see the giraffe from Skittles comercial :D
  Ronald: Sth like that",25.81,3.33,16.13,72.04,4.221691132,4.200856209,4.425222874,3.602855921,3.608696
-gemma4:e4b,85,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,马修感冒了，他要喝些橙汁，然后去睡觉。,马修感冒了，丽莎建议他多喝橙汁、吃汤并好好休息。马修表示会尝试，并告知病因是过敏和病毒混合引起的。两人互相鼓励后，马修便去休息了。,"Matthew: I have a cold. Need y'all support. It's painful
+gemma4:e4b,85,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,马修感冒了，他要喝些橙汁，然后去睡觉。,马修感冒了，丽莎建议他多喝橙汁、吃汤并好好休息。马修表示会尝试，并告知病因是过敏和病毒混合引起的。两人互相鼓励后，马修便去休息了。,"Matthew: I have a cold. Need y'all support. It's painful
  Lisa: Fight it. Drink orange juice. Make some soup
  Matthew: I'll try
  Lisa: I believe in u 
@@ -2112,7 +2112,7 @@ gemma4:e4b,85,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Lisa: Take a rest from evrthg.  
  Matthew: Ikr. Hitting the hay now
  Lisa: Good night 'Thew!",29.09,15.09,29.09,73.59,3.922231674,4.170895576,4.347473621,3.163753033,3.421053
-gemma4:e4b,86,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,两人讨论了埃科的《福柯的钟摆》，乔西觉得这本书很“书呆子气”，斯蒂法诺则辩解说意大利文学不只关于披萨和黑帮。他们谈到阅读难度时，提到《玫瑰的名字》对外国人来说很难，但认为《福柯的钟摆》因为背景设定在80年代，语言上可能更容易理解，尽管内容依然复杂。最后，乔西提到读到了萨尔曼·鲁什迪当年批评这本书的文章，说它更像电子游戏而非小说，引发了两人一番玩笑式的争论。,"Stefano: Hi, Josie!
+gemma4:e4b,86,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,两人讨论了埃科的《福柯的钟摆》，乔西觉得这本书很“书呆子气”，斯蒂法诺则辩解说意大利文学不只关于披萨和黑帮。他们谈到阅读难度时，提到《玫瑰的名字》对外国人来说很难，但认为《福柯的钟摆》因为背景设定在80年代，语言上可能更容易理解，尽管内容依然复杂。最后，乔西提到读到了萨尔曼·鲁什迪当年批评这本书的文章，说它更像电子游戏而非小说，引发了两人一番玩笑式的争论。,"Stefano: Hi, Josie!
  Josie: Ciao, Stefano!
  Stefano: So, what about Foucault's Pendulum? Do you like it?
  Josie: It's... weird. Was it really written by an Italian guy? It's so... nerdy.
@@ -2134,14 +2134,14 @@ gemma4:e4b,86,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Josie: Yuk! That's so creepy.
  Stefano: You're the one who said it!
  Josie: I know. ;)",34.78,16.35,24.84,71.05,3.144085169,3.380809784,3.780072689,2.954406738,1.988889
-gemma4:e4b,87,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,下雨了，所以瓦尔和坎迪要等半小时才走。,两人因下雨决定暂缓行程，约定等半小时后再看情况。,"Val: it's raining!
+gemma4:e4b,87,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,下雨了，所以瓦尔和坎迪要等半小时才走。,两人因下雨决定暂缓行程，约定等半小时后再看情况。,"Val: it's raining!
  Candy: I know, just started...
  Val: r we going? we will be wet
  Candy: maybe wait a little? see if stops
  Val: ok. let's wait half h and than see
  Candy: god idea, I call u then
  Val: great :)",32,8.7,32,70.77,2.660189152,3.776881933,3.796314955,2.222779274,1.263158
-gemma4:e4b,88,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。,托马斯询问大家是否收到拨款，但目前还没有人收到。他表示自己身无分文，并每小时查看一次银行账户，但没有任何进展。塞拉安慰他要耐心，并主动提出可以借钱给他。托马斯对此表示感谢，并希望款项能马上到账。,"Tomas: Has anybody received the grant yet?
+gemma4:e4b,88,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。,托马斯询问大家是否收到拨款，但目前还没有人收到。他表示自己身无分文，并每小时查看一次银行账户，但没有任何进展。塞拉安慰他要耐心，并主动提出可以借钱给他。托马斯对此表示感谢，并希望款项能马上到账。,"Tomas: Has anybody received the grant yet?
  Sierra: no, not yet
  Jeremy: I haven't checked even
  Tomas: I'm completely broke
@@ -2150,7 +2150,7 @@ gemma4:e4b,88,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Sierra: lol
  Sierra: be patient. If you need money I can lend you some, don't worry
  Tomas: Thanks, I hope they'll arrive any minute",46.51,16.67,39.53,74.5,4.018639565,4.269569397,4.346511364,3.453080177,1.979592
-gemma4:e4b,89,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,两人聊了周末的计划，查尔斯和卡米拉得知查尔斯周末要去逛德国市场（伯明翰和曼彻斯特），并对香肠和啤酒表示兴奋。卡米拉表示想去看看，并询问了热红酒的做法，查尔斯介绍了这是用料丰富的饮品，两人聊到去年自己尝试做但没人喝的经历，最后互相祝对方周末愉快。,"Charles: What are you up to this weekend?
+gemma4:e4b,89,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,两人聊了周末的计划，查尔斯和卡米拉得知查尔斯周末要去逛德国市场（伯明翰和曼彻斯特），并对香肠和啤酒表示兴奋。卡米拉表示想去看看，并询问了热红酒的做法，查尔斯介绍了这是用料丰富的饮品，两人聊到去年自己尝试做但没人喝的经历，最后互相祝对方周末愉快。,"Charles: What are you up to this weekend?
  Camilla: Not much. Just some work and errands on Saturday, show Saturday night. Day of nothingness on Sundy.
  Charles: Sounds good. We are going to visit the German markets this weekend. Birmingham and Manchester both. Sausage overload!
  Camilla: Ooh, that sounds really good!
@@ -2169,16 +2169,16 @@ gemma4:e4b,89,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Charles: Anyway, that's the plan. Hope you have fun.
  Camilla: You too! 
  Charles: Thanks!",19.15,6.52,14.89,66.79,3.596131563,3.868501425,4.006324768,3.397530794,2.975610
-gemma4:e4b,90,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,戴安娜和拉塞尔在给妈妈买礼物。,他们决定一起买这个礼物给妈妈。,"Russel: <file_other>
+gemma4:e4b,90,NO-ERROR,OMIT,The summary accurately reflects the dialogue's key facts and relations.,戴安娜和拉塞尔在给妈妈买礼物。,他们决定一起买这个礼物给妈妈。,"Russel: <file_other>
  Russel: look at this
  Russel: It's a perfect present fo mum :D
  Diana: haha, so true! It's not that expensive either!
  Diana: are we buying it?
  Russel: yeah, let's do it :D",50,14.29,25,69.48,2.635678291,4.249854565,4.205450058,2.282834291,1.000000
-gemma4:e4b,91,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,安斯利病了，所以她现在不能帮简写论文。,简询问艾恩斯利是否方便帮忙做论文，但艾恩斯利因感冒身体不适，无法提供帮助。简表示理解并祝她早日康复。,"Jane: Are u free now? Could u help me with that thesis?
+gemma4:e4b,91,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,安斯利病了，所以她现在不能帮简写论文。,简询问艾恩斯利是否方便帮忙做论文，但艾恩斯利因感冒身体不适，无法提供帮助。简表示理解并祝她早日康复。,"Jane: Are u free now? Could u help me with that thesis?
  Ainsley: I'm sick won't be of much help sorry. I've got a cold and I'm sneezing like a little bitch every 2 seconds
  Jane: Oh... hmm ok. Hope u will get better soon...",15.38,0,10.26,68.31,2.381087542,4.482777596,4.351263046,3.650478601,2.631579
-gemma4:e4b,92,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,菲奥娜爱上了他的学生康拉德。,菲奥娜对她的学生康拉德产生了强烈的迷恋，尽管万达提醒她这不合适，但菲奥娜承认自己无法自拔，并表示想要一直待在他身边。万达最终鼓励她采取行动。,"Fiona: I just can’t stand it
+gemma4:e4b,92,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,菲奥娜爱上了他的学生康拉德。,菲奥娜对她的学生康拉德产生了强烈的迷恋，尽管万达提醒她这不合适，但菲奥娜承认自己无法自拔，并表示想要一直待在他身边。万达最终鼓励她采取行动。,"Fiona: I just can’t stand it
  Wanda: What again
  Fiona: When I’m in one room with him… I just go crazy
  Wanda: Conrad?
@@ -2196,7 +2196,7 @@ gemma4:e4b,92,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Wanda: Will she know?
  Fiona: How can I know what will he do, he can tell his mother as well
  Wanda: Just go for it!!",25.53,8.89,17.02,71.64,3.299346209,4.083656311,4.112706661,3.506243706,5.000000
-gemma4:e4b,93,OMIT,,It omits the confirmed meeting on December 11 at 11 a.m.,玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,双方确定了12月4日上午10点会面，后续日期暂定，待进一步确认。,"Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
+gemma4:e4b,93,OMIT,OMIT,It omits the confirmed meeting on December 11 at 11 a.m.,玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,双方确定了12月4日上午10点会面，后续日期暂定，待进一步确认。,"Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
  Evans: Hi, 4th - we can meet at 10:00.
  Evans: And 11th - at 11:00. 
  Margaret: Okey. And what about 18th?
@@ -2212,7 +2212,7 @@ gemma4:e4b,93,OMIT,,It omits the confirmed meeting on December 11 at 11 a.m.,玛
  Evans: So let's set these dates later, ok?
  Margaret: Okey and we see each other 4th 10:00. 
  Evans: Yes!",32.14,14.81,25,68.46,2.428897381,3.852824688,3.902410030,2.184805393,0.516129
-gemma4:e4b,94,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。,两人在看GIF和照片，发现其中一个人物很像Melanie。随后他们就Melanie的造型展开了讨论，关于她留卷发还是直发更美，意见不合但气氛轻松愉快。,"Louis: <file_gif>
+gemma4:e4b,94,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。,两人在看GIF和照片，发现其中一个人物很像Melanie。随后他们就Melanie的造型展开了讨论，关于她留卷发还是直发更美，意见不合但气氛轻松愉快。,"Louis: <file_gif>
  Archie: Wtf? Lol!
  Louis: <file_gif>
  Archie: That one looks like Melanie
@@ -2223,14 +2223,14 @@ gemma4:e4b,94,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Archie: By the way, she was way hotter when she had cury hair
  Louis: I disagree, sir! She looks absolutely gorgeous with straight hair
  Archie: Oh well, you have the right to an opinion even if it's wrong XD",18.52,3.85,18.52,66.21,3.053876877,3.652596474,3.703543663,2.707711458,2.777778
-gemma4:e4b,95,H-DISC,,"It links the 80 euros to money lost by missing the train, but it is the Amsterdam return fare.",琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。,琳达错过了火车，得知下一班一小时后才到，她对损失的八十欧元感到非常震惊。,"Linda: I missed the train
+gemma4:e4b,95,H-DISC,H-DISC,"It links the 80 euros to money lost by missing the train, but it is the Amsterdam return fare.",琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。,琳达错过了火车，得知下一班一小时后才到，她对损失的八十欧元感到非常震惊。,"Linda: I missed the train
  Joseph: When is the next one?
  Linda: In one hour
  Darcy: Not a tragedy
  Linda: It was 80 euros
  Linda: Return to Amsterdam
  Linda: I was shocked!!",59.09,23.81,54.55,75.36,3.223725080,3.824217081,3.830199242,2.587243557,1.028571
-gemma4:e4b,96,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,关于Lewandowska生病（麻疹）的消息，她住院了。与她近期有接触的人需要接种疫苗。虽然Joanna的导师是她，但为了防疫，她计划在18日工作前去接种疫苗。,"Joanna: They are sending emails about Lewandowska.
+gemma4:e4b,96,NO-ERROR,H-DISC,The summary accurately reflects the dialogue's key facts and relations.,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,关于Lewandowska生病（麻疹）的消息，她住院了。与她近期有接触的人需要接种疫苗。虽然Joanna的导师是她，但为了防疫，她计划在18日工作前去接种疫苗。,"Joanna: They are sending emails about Lewandowska.
  Merve: What happened?
  Joanna: <file_photo> 
  Merve: Wooow!
@@ -2245,14 +2245,14 @@ gemma4:e4b,96,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Joanna: I know... And I just started working so I really don't have a lot of time.
  Merve: Come on, this is really important.
  Joanna: I will try to do it before work on 18th, hopefully I won't lose the entire day...",31.43,8.82,28.57,72.61,2.869357586,3.587424278,3.651768684,2.573518515,2.105263
-gemma4:e4b,97,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,卡尔在等梅格，她找不到钥匙，要迟到了。,卡尔催促梅，因为她弄丢了钥匙需要再等五分钟。,"Carl: Where are u?
+gemma4:e4b,97,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,卡尔在等梅格，她找不到钥匙，要迟到了。,卡尔催促梅，因为她弄丢了钥匙需要再等五分钟。,"Carl: Where are u?
  Carl: I'm still waiting for u!!!
  Meg: I need 5 minutes more, I've lost my key somewhere :(",44.44,0,29.63,75.73,3.906551838,4.311830521,4.372138977,3.090748310,1.157895
-gemma4:e4b,98,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,玛丽亚厌倦了她的工作。,玛丽亚对工作感到极度厌倦，阿娜斯塔西娅劝她冷静，费利克斯警告她不要草率做决定。,"Maria: I'm tired of this job, I can't stand it anymore
+gemma4:e4b,98,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,玛丽亚厌倦了她的工作。,玛丽亚对工作感到极度厌倦，阿娜斯塔西娅劝她冷静，费利克斯警告她不要草率做决定。,"Maria: I'm tired of this job, I can't stand it anymore
  Anastasia: I know, but calm down
  Felix: don't make decisions in this rash
  Maria: :(",30.77,0,23.08,74.29,2.971366405,3.800535440,3.859505892,2.805088282,3.545455
-gemma4:e4b,99,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,卢克明天下午2点22分要去冲浪。,卢克今天冲浪非常惨，经历了零波浪、三次摔倒和一次被冲浪板击中头部，但仍期待下次。肯和夏默安慰他这是常态。关于最佳冲浪时间，卢克提到明天低潮时会去，而埃里克质疑了这一点，认为中潮更好；同时，两人讨论到在退潮时看到岩石的风险，最终结论是虽然能看清岩石，但不如直接避免与它们发生碰撞。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
+gemma4:e4b,99,NO-ERROR,H-DISC,The summary accurately reflects the dialogue's key facts and relations.,卢克明天下午2点22分要去冲浪。,卢克今天冲浪非常惨，经历了零波浪、三次摔倒和一次被冲浪板击中头部，但仍期待下次。肯和夏默安慰他这是常态。关于最佳冲浪时间，卢克提到明天低潮时会去，而埃里克质疑了这一点，认为中潮更好；同时，两人讨论到在退潮时看到岩石的风险，最终结论是虽然能看清岩石，但不如直接避免与它们发生碰撞。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
  Ken: Yaaaay welcome to the tumble dry club - some days is great others just a knock about
  Summer: I almost lost my tooth one time ;) Hopefully next time is better!
  Luke: low tide is 2:22PM tomorrow. I'll be out there
@@ -3142,14 +3142,14 @@ qwen3.5:9b,79,H-ROLE,H-ROLE,It turns Demi's one-way offer to house Tina into a m
  Tina: between the guyshaha
  Demi: we ll find something
  Tina: <3",21.74,4.44,15.22,68.24,3.193098783,4.073818207,4.142238617,3.575779676,4.655172
-qwen3.5:9b,80,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,埃文会让伊森来的。,艾莉森问伊万是否跟埃坦谈过关于活动的事，伊万确认了并告知埃坦可能不会来。艾莉森请求他帮忙解决，伊万答应会尽力让埃坦出席，艾莉森表示知道了。,"Allison: You talked to Ethan about the function? 
+qwen3.5:9b,80,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,埃文会让伊森来的。,艾莉森问伊万是否跟埃坦谈过关于活动的事，伊万确认了并告知埃坦可能不会来。艾莉森请求他帮忙解决，伊万答应会尽力让埃坦出席，艾莉森表示知道了。,"Allison: You talked to Ethan about the function? 
  Evan: Yeah I did
  Allison: What did he say?
  Evan: He might not come
  Allison: Can you do something about that?
  Evan: I will try to make him come
  Allison: K",13.33,0,8.89,65.23,2.397451401,3.377708912,3.703966618,2.740714788,7.666667
-qwen3.5:9b,81,H-ROLE,,It changes Adrian's description of his own study habits into advice that Bart need not study much.,巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。,巴特因经济学期末考成绩糟糕而沮丧，承认自己复习不足且沉迷《星际争霸》导致分心。阿德里安建议他明年重读该课程并指出只要上课专心即可不必过度学习。两人约定巴特今后不再在学校玩游戏，但要避免失去专注力，随后将观察后续情况。,"Adrian: Did you get your grades yet?
+qwen3.5:9b,81,H-ROLE,H-ROLE|H-MOD,It changes Adrian's description of his own study habits into advice that Bart need not study much.,巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。,巴特因经济学期末考成绩糟糕而沮丧，承认自己复习不足且沉迷《星际争霸》导致分心。阿德里安建议他明年重读该课程并指出只要上课专心即可不必过度学习。两人约定巴特今后不再在学校玩游戏，但要避免失去专注力，随后将观察后续情况。,"Adrian: Did you get your grades yet?
  Bart: Yeah. My whole semester is screwed up now.
  Adrian: Wait whaaat? Why?
  Bart: Well, I bombed my economy final and ended up with a bad score..
@@ -3169,17 +3169,17 @@ qwen3.5:9b,81,H-ROLE,,It changes Adrian's description of his own study habits in
  Bart: You're right. I'm not going to play games during school anymore.
  Adrian: You can play them, just don't loose focus and study for the exams :p
  Bart: Let's see how it goes xD",24.1,7.41,19.28,68.47,3.358682871,3.769911766,3.885560513,3.057251930,2.297872
-qwen3.5:9b,82,H-ROLE,,It reverses who made the wasp comment and who suggested that Sean was haunted.,肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。,肖恩经过深思熟虑，决定自己的精神动物是乌龟。蒂芙尼认为这解释了很多事并调侃他是黄蜂，而肖恩则开玩笑说蒂芙尼可能是被鬼魂附身了才把乌龟看成了其他东西。,"Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.
+qwen3.5:9b,82,H-ROLE,H-ROLE,It reverses who made the wasp comment and who suggested that Sean was haunted.,肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。,肖恩经过深思熟虑，决定自己的精神动物是乌龟。蒂芙尼认为这解释了很多事并调侃他是黄蜂，而肖恩则开玩笑说蒂芙尼可能是被鬼魂附身了才把乌龟看成了其他东西。,"Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.
  Tiffany: That would explain a lot.
  Sean: You would be a wasp.
  Tiffany: Are you sure you're a turtle? Maybe you're just haunted.",32.14,14.81,25,73.57,3.324959040,3.834676266,4.038034439,3.451097250,3.363636
-qwen3.5:9b,83,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。,凯特在杂货店，问乔治明天上学要不要买水果。乔治想要苹果，凯特也给自己拿一个。乔治询问是否有橘子，凯特说下周才有，已经问过店员了。两人决定等待。,"Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?
+qwen3.5:9b,83,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。,凯特在杂货店，问乔治明天上学要不要买水果。乔治想要苹果，凯特也给自己拿一个。乔治询问是否有橘子，凯特说下周才有，已经问过店员了。两人决定等待。,"Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?
  George: Oh yes please, an apple would be great
  Kate: Okay, I'm getting me one too
  George: Do they have tangerines yet?
  Kate: No the're coming next week, I asked already:D
  George: Okat then we have to wait",26.23,3.39,19.67,71.8,3.539638996,4.014534950,4.029096603,3.236075401,2.629630
-qwen3.5:9b,84,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,茱莉亚回来后会给罗纳德打电话，他有事要告诉她。,罗纳德询问朱莉娅周末过得如何，她因父母为吃饭地点争吵而心情不佳，甚至不想再与他们一起用餐。得知后罗纳德表示抱歉并让她回家后联系自己，还透露了一件令人惊喜的消息；朱莉娅开玩笑说已看到彩虹和史高比乐糖果广告中的长颈鹿，罗纳德确认事情类似那样。,"Ronald: How's your weekend?
+qwen3.5:9b,84,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,茱莉亚回来后会给罗纳德打电话，他有事要告诉她。,罗纳德询问朱莉娅周末过得如何，她因父母为吃饭地点争吵而心情不佳，甚至不想再与他们一起用餐。得知后罗纳德表示抱歉并让她回家后联系自己，还透露了一件令人惊喜的消息；朱莉娅开玩笑说已看到彩虹和史高比乐糖果广告中的长颈鹿，罗纳德确认事情类似那样。,"Ronald: How's your weekend?
  Julia: Fine I guess...
  Ronald: Doesn't sound like you're enjoying it
  Julia: Ehh. My parents are having a fight over where should we eat
@@ -3190,7 +3190,7 @@ qwen3.5:9b,84,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Ronald: I've got something to tell you, and I'm sure you're gonna piss rainbows
  Julia: Hahaha. I can see the giraffe from Skittles comercial :D
  Ronald: Sth like that",7.32,0,7.32,62.05,3.863972902,3.883141994,4.167996407,3.689341784,5.173913
-qwen3.5:9b,85,OMIT,,It omits Matthew's final action of going to bed immediately.,马修感冒了，他要喝些橙汁，然后去睡觉。,马修感冒了，感到疼痛并寻求支持。丽莎建议他喝橙汁、做汤休息，并表示相信他能战胜病魔。随后发现症状可能是过敏与病毒混合所致，两人互相安慰后道晚安。,"Matthew: I have a cold. Need y'all support. It's painful
+qwen3.5:9b,85,OMIT,OMIT,It omits Matthew's final action of going to bed immediately.,马修感冒了，他要喝些橙汁，然后去睡觉。,马修感冒了，感到疼痛并寻求支持。丽莎建议他喝橙汁、做汤休息，并表示相信他能战胜病魔。随后发现症状可能是过敏与病毒混合所致，两人互相安慰后道晚安。,"Matthew: I have a cold. Need y'all support. It's painful
  Lisa: Fight it. Drink orange juice. Make some soup
  Matthew: I'll try
  Lisa: I believe in u 
@@ -3199,7 +3199,7 @@ qwen3.5:9b,85,OMIT,,It omits Matthew's final action of going to bed immediately.
  Lisa: Take a rest from evrthg.  
  Matthew: Ikr. Hitting the hay now
  Lisa: Good night 'Thew!",25,14.81,25,70.21,4.146605492,4.334434509,4.488745689,3.538570642,3.789474
-qwen3.5:9b,86,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,"斯蒂法诺与乔西讨论《傅科摆》，乔西认为其风格怪异且过于学术，担心自己的意大利语水平不足以阅读原著。斯蒂法诺指出该书语言比《玫瑰的名字》更易理解但内容同样复杂。乔西提到萨尔曼·拉什迪曾批评该作并非小说而是“电脑游戏”，两人对此展开幽默调侃；对话中因拼写错误引发""de gustibus non est disputandum（口味无可争辩）”的玩笑，最终在笑声与互相打趣中结束。","Stefano: Hi, Josie!
+qwen3.5:9b,86,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,"斯蒂法诺与乔西讨论《傅科摆》，乔西认为其风格怪异且过于学术，担心自己的意大利语水平不足以阅读原著。斯蒂法诺指出该书语言比《玫瑰的名字》更易理解但内容同样复杂。乔西提到萨尔曼·拉什迪曾批评该作并非小说而是“电脑游戏”，两人对此展开幽默调侃；对话中因拼写错误引发""de gustibus non est disputandum（口味无可争辩）”的玩笑，最终在笑声与互相打趣中结束。","Stefano: Hi, Josie!
  Josie: Ciao, Stefano!
  Stefano: So, what about Foucault's Pendulum? Do you like it?
  Josie: It's... weird. Was it really written by an Italian guy? It's so... nerdy.
@@ -3221,14 +3221,14 @@ qwen3.5:9b,86,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Josie: Yuk! That's so creepy.
  Stefano: You're the one who said it!
  Josie: I know. ;)",23.13,2.76,17.69,67.07,3.068815947,3.602522850,3.836472988,2.923037767,2.044444
-qwen3.5:9b,87,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,下雨了，所以瓦尔和坎迪要等半小时才走。,下雨了，两人决定等半小时看看雨是否停后再出发。,"Val: it's raining!
+qwen3.5:9b,87,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,下雨了，所以瓦尔和坎迪要等半小时才走。,下雨了，两人决定等半小时看看雨是否停后再出发。,"Val: it's raining!
  Candy: I know, just started...
  Val: r we going? we will be wet
  Candy: maybe wait a little? see if stops
  Val: ok. let's wait half h and than see
  Candy: god idea, I call u then
  Val: great :)",41.67,27.27,41.67,75.99,2.530389309,3.600455999,3.596315145,2.221135139,1.210526
-qwen3.5:9b,88,H-MOD,,"It groups Sierra with Jeremy as unconfirmed, although Sierra explicitly confirmed she had not received the grant.",托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。,托马斯询问是否有人收到拨款，西耶拉和杰里米表示尚未确认。因账户余额为零且每小时查询却无变化，托马斯感到十分焦急；西耶拉安慰他要有耐心并主动提出可以借钱给他，托马斯表示感谢并希望款项随时到账。,"Tomas: Has anybody received the grant yet?
+qwen3.5:9b,88,H-MOD,H-MOD,"It groups Sierra with Jeremy as unconfirmed, although Sierra explicitly confirmed she had not received the grant.",托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。,托马斯询问是否有人收到拨款，西耶拉和杰里米表示尚未确认。因账户余额为零且每小时查询却无变化，托马斯感到十分焦急；西耶拉安慰他要有耐心并主动提出可以借钱给他，托马斯表示感谢并希望款项随时到账。,"Tomas: Has anybody received the grant yet?
  Sierra: no, not yet
  Jeremy: I haven't checked even
  Tomas: I'm completely broke
@@ -3237,7 +3237,7 @@ qwen3.5:9b,88,H-MOD,,"It groups Sierra with Jeremy as unconfirmed, although Sier
  Sierra: lol
  Sierra: be patient. If you need money I can lend you some, don't worry
  Tomas: Thanks, I hope they'll arrive any minute",43.9,12.5,29.27,73.72,3.295927048,4.045793056,4.061386108,3.257743120,1.938776
-qwen3.5:9b,89,OMIT,,"It omits Camilla's Saturday errands and show, a central part of her weekend plan.",卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,查尔斯计划周末前往伯明翰和曼彻斯特逛德国市场，主要品尝香肠、啤酒以及热红酒。卡米拉对此很感兴趣并打算今年去一次，两人还聊到了去年查尔斯自制的热红酒无人问津的趣事，最后互祝对方玩得开心。,"Charles: What are you up to this weekend?
+qwen3.5:9b,89,OMIT,OMIT,"It omits Camilla's Saturday errands and show, a central part of her weekend plan.",卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,查尔斯计划周末前往伯明翰和曼彻斯特逛德国市场，主要品尝香肠、啤酒以及热红酒。卡米拉对此很感兴趣并打算今年去一次，两人还聊到了去年查尔斯自制的热红酒无人问津的趣事，最后互祝对方玩得开心。,"Charles: What are you up to this weekend?
  Camilla: Not much. Just some work and errands on Saturday, show Saturday night. Day of nothingness on Sundy.
  Charles: Sounds good. We are going to visit the German markets this weekend. Birmingham and Manchester both. Sausage overload!
  Camilla: Ooh, that sounds really good!
@@ -3256,16 +3256,16 @@ qwen3.5:9b,89,OMIT,,"It omits Camilla's Saturday errands and show, a central par
  Charles: Anyway, that's the plan. Hope you have fun.
  Camilla: You too! 
  Charles: Thanks!",22.54,5.8,14.08,67.56,3.370008469,3.842516184,3.940992832,3.098816872,2.243902
-qwen3.5:9b,90,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,戴安娜和拉塞尔在给妈妈买礼物。,拉塞尔发现一个送给妈妈的完美礼物，价格也不贵。戴安娜表示赞同并询问是否购买，两人决定买下它。,"Russel: <file_other>
+qwen3.5:9b,90,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,戴安娜和拉塞尔在给妈妈买礼物。,拉塞尔发现一个送给妈妈的完美礼物，价格也不贵。戴安娜表示赞同并询问是否购买，两人决定买下它。,"Russel: <file_other>
  Russel: look at this
  Russel: It's a perfect present fo mum :D
  Diana: haha, so true! It's not that expensive either!
  Diana: are we buying it?
  Russel: yeah, let's do it :D",24.24,0,18.18,71,2.425306320,3.798292398,3.675078392,2.525118351,3.066667
-qwen3.5:9b,91,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,安斯利病了，所以她现在不能帮简写论文。,简询问艾恩利是否空闲帮忙修改论文，但艾恩利因感冒打喷嚏而表示无法协助并致歉，简随即表达了希望她早日康复的祝愿。,"Jane: Are u free now? Could u help me with that thesis?
+qwen3.5:9b,91,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,安斯利病了，所以她现在不能帮简写论文。,简询问艾恩利是否空闲帮忙修改论文，但艾恩利因感冒打喷嚏而表示无法协助并致歉，简随即表达了希望她早日康复的祝愿。,"Jane: Are u free now? Could u help me with that thesis?
  Ainsley: I'm sick won't be of much help sorry. I've got a cold and I'm sneezing like a little bitch every 2 seconds
  Jane: Oh... hmm ok. Hope u will get better soon...",20,0,10,66.45,2.554682493,4.125134468,4.082061768,3.343894720,2.894737
-qwen3.5:9b,92,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,菲奥娜爱上了他的学生康拉德。,菲奥娜因与年轻学生康拉德独处而心烦意乱，尽管她明知这段关系不合适且担心老板发现，但仍深陷其中无法自拔；万达劝她勇敢面对感情去追求对方。,"Fiona: I just can’t stand it
+qwen3.5:9b,92,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,菲奥娜爱上了他的学生康拉德。,菲奥娜因与年轻学生康拉德独处而心烦意乱，尽管她明知这段关系不合适且担心老板发现，但仍深陷其中无法自拔；万达劝她勇敢面对感情去追求对方。,"Fiona: I just can’t stand it
  Wanda: What again
  Fiona: When I’m in one room with him… I just go crazy
  Wanda: Conrad?
@@ -3283,7 +3283,7 @@ qwen3.5:9b,92,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Wanda: Will she know?
  Fiona: How can I know what will he do, he can tell his mother as well
  Wanda: Just go for it!!",13.04,4.55,13.04,66.09,2.534325123,3.661670685,3.799661875,2.833477974,4.785714
-qwen3.5:9b,93,H-CIRC,,It assigns a morning time to the 18th even though no time was stated.,玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,玛格丽特提议于 12 月 4 日、11 日和 18 日上午见面，埃文斯确认了前两个日期但表示对 18 号不确定。双方讨论了其他备选日期（如 17 号和 14 号），但因行程冲突未能确定。最终约定于 12 月 4 日 10:00 会面，并稍后再定后续时间。,"Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
+qwen3.5:9b,93,H-CIRC,H-CIRC,It assigns a morning time to the 18th even though no time was stated.,玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,玛格丽特提议于 12 月 4 日、11 日和 18 日上午见面，埃文斯确认了前两个日期但表示对 18 号不确定。双方讨论了其他备选日期（如 17 号和 14 号），但因行程冲突未能确定。最终约定于 12 月 4 日 10:00 会面，并稍后再定后续时间。,"Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
  Evans: Hi, 4th - we can meet at 10:00.
  Evans: And 11th - at 11:00. 
  Margaret: Okey. And what about 18th?
@@ -3299,7 +3299,7 @@ qwen3.5:9b,93,H-CIRC,,It assigns a morning time to the 18th even though no time 
  Evans: So let's set these dates later, ok?
  Margaret: Okey and we see each other 4th 10:00. 
  Evans: Yes!",28.8,3.25,16,73.52,3.343941212,3.928458214,4.064310074,2.798604727,1.741935
-qwen3.5:9b,94,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。,路易斯和阿奇在聊天时分享了几张 GIF 和照片，阿奇指出其中一张像梅兰妮，两人对此大笑。随后他们讨论了梅兰妮的发型：阿奇认为她卷发更迷人，而路易斯则坚持直发让她看起来同样美丽，尽管观点不同，但彼此都尊重对方的看法。,"Louis: <file_gif>
+qwen3.5:9b,94,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。,路易斯和阿奇在聊天时分享了几张 GIF 和照片，阿奇指出其中一张像梅兰妮，两人对此大笑。随后他们讨论了梅兰妮的发型：阿奇认为她卷发更迷人，而路易斯则坚持直发让她看起来同样美丽，尽管观点不同，但彼此都尊重对方的看法。,"Louis: <file_gif>
  Archie: Wtf? Lol!
  Louis: <file_gif>
  Archie: That one looks like Melanie
@@ -3310,14 +3310,14 @@ qwen3.5:9b,94,NO-ERROR,,The summary accurately reflects the dialogue's key facts
  Archie: By the way, she was way hotter when she had cury hair
  Louis: I disagree, sir! She looks absolutely gorgeous with straight hair
  Archie: Oh well, you have the right to an opinion even if it's wrong XD",20,5.13,17.5,71.07,3.267006397,3.857349157,3.900297642,3.007336617,3.888889
-qwen3.5:9b,95,H-DISC,,It frames the high 80-euro return fare as though Linda only needed to pay that modest amount.,琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。,琳达错过了火车，下一班要等一小时。她原本只需支付八十欧元即可返回阿姆斯特丹，对此感到十分震惊。多西认为这并非悲剧。,"Linda: I missed the train
+qwen3.5:9b,95,H-DISC,H-DISC,It frames the high 80-euro return fare as though Linda only needed to pay that modest amount.,琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。,琳达错过了火车，下一班要等一小时。她原本只需支付八十欧元即可返回阿姆斯特丹，对此感到十分震惊。多西认为这并非悲剧。,"Linda: I missed the train
  Joseph: When is the next one?
  Linda: In one hour
  Darcy: Not a tragedy
  Linda: It was 80 euros
  Linda: Return to Amsterdam
  Linda: I was shocked!!",44.44,19.23,37.04,76.63,3.848811150,4.360357285,4.378532410,3.073247671,1.628571
-qwen3.5:9b,96,H-ENT|H-ROLE,,It invents coworkers as the recent contacts and reverses who is whose thesis supervisor.,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,乔安娜收到关于莱万多夫斯卡的邮件，得知她因患麻疹住院。由于近期接触过她的同事需要接种疫苗，而乔安娜是她的论文导师且刚入职时间紧张，梅尔韦强烈建议她在 18 日工作前去主楼参加组织于 17 日至 19 日的疫苗接种活动，希望不必耽误整天工作时间。,"Joanna: They are sending emails about Lewandowska.
+qwen3.5:9b,96,H-ENT|H-ROLE,H-ENT|H-ROLE,It invents coworkers as the recent contacts and reverses who is whose thesis supervisor.,莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,乔安娜收到关于莱万多夫斯卡的邮件，得知她因患麻疹住院。由于近期接触过她的同事需要接种疫苗，而乔安娜是她的论文导师且刚入职时间紧张，梅尔韦强烈建议她在 18 日工作前去主楼参加组织于 17 日至 19 日的疫苗接种活动，希望不必耽误整天工作时间。,"Joanna: They are sending emails about Lewandowska.
  Merve: What happened?
  Joanna: <file_photo> 
  Merve: Wooow!
@@ -3332,14 +3332,14 @@ qwen3.5:9b,96,H-ENT|H-ROLE,,It invents coworkers as the recent contacts and reve
  Joanna: I know... And I just started working so I really don't have a lot of time.
  Merve: Come on, this is really important.
  Joanna: I will try to do it before work on 18th, hopefully I won't lose the entire day...",30,8.16,22,70.12,3.367674112,3.614057302,3.830712557,3.030231237,3.052632
-qwen3.5:9b,97,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,卡尔在等梅格，她找不到钥匙，要迟到了。,卡尔询问梅格在哪里并催促她，梅格回复说她需要五分钟，因为把钥匙弄丢了。,"Carl: Where are u?
+qwen3.5:9b,97,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,卡尔在等梅格，她找不到钥匙，要迟到了。,卡尔询问梅格在哪里并催促她，梅格回复说她需要五分钟，因为把钥匙弄丢了。,"Carl: Where are u?
  Carl: I'm still waiting for u!!!
  Meg: I need 5 minutes more, I've lost my key somewhere :(",45.71,0,34.29,72.05,3.662200451,3.973744869,4.091685295,2.970486403,1.842105
-qwen3.5:9b,98,NO-ERROR,,The summary accurately reflects the dialogue's key facts and relations.,玛丽亚厌倦了她的工作。,玛丽亚厌倦了这份工作，无法忍受；阿纳斯塔西娅让她冷静下来，费利克斯则劝她不要冲动做决定。,"Maria: I'm tired of this job, I can't stand it anymore
+qwen3.5:9b,98,NO-ERROR,NO-ERROR,The summary accurately reflects the dialogue's key facts and relations.,玛丽亚厌倦了她的工作。,玛丽亚厌倦了这份工作，无法忍受；阿纳斯塔西娅让她冷静下来，费利克斯则劝她不要冲动做决定。,"Maria: I'm tired of this job, I can't stand it anymore
  Anastasia: I know, but calm down
  Felix: don't make decisions in this rash
  Maria: :(",35.71,15.38,28.57,75.62,2.642427921,3.533371687,3.764068604,2.891076565,4.000000
-qwen3.5:9b,99,H-CIRC|H-DISC,,It changes visible rocks into obstructed vision and claims agreement even though the speakers did not agree.,卢克明天下午2点22分要去冲浪。,卢克今天冲浪惨败，零波次、三次落水还撞了头板；肯欢迎他加入“摔落俱乐部”，夏末也分享了自己差点掉牙的经历。关于最佳潮汐时间，埃里克认为中潮最好，但卢克坚持低潮更好因为能看清岩石且不会在礁石上冲浪，而埃里克则指出看到岩石意味着危险，虽然知道位置很重要，但若视线受阻就十分糟糕；两人最终达成共识：宁愿看见岩石也不愿撞上它们。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
+qwen3.5:9b,99,H-CIRC|H-DISC,H-CIRC|H-DISC,It changes visible rocks into obstructed vision and claims agreement even though the speakers did not agree.,卢克明天下午2点22分要去冲浪。,卢克今天冲浪惨败，零波次、三次落水还撞了头板；肯欢迎他加入“摔落俱乐部”，夏末也分享了自己差点掉牙的经历。关于最佳潮汐时间，埃里克认为中潮最好，但卢克坚持低潮更好因为能看清岩石且不会在礁石上冲浪，而埃里克则指出看到岩石意味着危险，虽然知道位置很重要，但若视线受阻就十分糟糕；两人最终达成共识：宁愿看见岩石也不愿撞上它们。,"Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
  Ken: Yaaaay welcome to the tumble dry club - some days is great others just a knock about
  Summer: I almost lost my tooth one time ;) Hopefully next time is better!
  Luke: low tide is 2:22PM tomorrow. I'll be out there
@@ -3347,7 +3347,7 @@ qwen3.5:9b,99,H-CIRC|H-DISC,,It changes visible rocks into obstructed vision and
  Luke: Oh yeah? Yesterday was low tide. I thought that's best cuz you can see the rocks
  Eric: Seeing rocks is a bad thing. I mean, you want to be aware of where they are for sure. But rocks in your vision = no bueno
  Luke: well I'd rather seem than** run into them. When the tide is out you're not surfing over the rocks",3.88,0,3.88,56.95,2.819169521,3.623229980,3.833546877,2.868193865,10.000000
-mBART-large,0,H-EVT|H-CIRC|OMIT,,It invents a visit to Payton's clothing store and omits the website recommendations and Payton's shopping habits.,佩顿给麦克斯提供了卖衣服的网站。他喜欢浏览、试穿衣服，但不一定都会买。他经常买衣服和书，因为他也喜欢阅读。,马克斯会去佩顿的服装店买东西。,"Max: Know any good sites to buy clothes from?
+mBART-large,0,H-EVT|H-CIRC|OMIT,H-EVT|H-CIRC|OMIT,It invents a visit to Payton's clothing store and omits the website recommendations and Payton's shopping habits.,佩顿给麦克斯提供了卖衣服的网站。他喜欢浏览、试穿衣服，但不一定都会买。他经常买衣服和书，因为他也喜欢阅读。,马克斯会去佩顿的服装店买东西。,"Max: Know any good sites to buy clothes from?
  Payton: Sure :) <file_other> <file_other> <file_other> <file_other> <file_other> <file_other> <file_other>
  Max: That's a lot of them!
  Payton: Yeah, but they have different things so I usually buy things from 2 or 3 of them.
@@ -4229,14 +4229,14 @@ mBART-large,79,H-EVT|OMIT,H-EVT|OMIT,It replaces Tina learning Demi's dating app
  Tina: between the guyshaha
  Demi: we ll find something
  Tina: <3",29.63,0.0,22.22,65.15,2.318817139,3.476049423,3.432798624,2.175794125,0.827586
-mBART-large,80,NO-ERROR,,Evan's effort to get Ethan to attend is accurately summarized.,埃文会让伊森来的。,埃文和伊森讨论了这次活动。埃文会设法让伊森来。,"Allison: You talked to Ethan about the function? 
+mBART-large,80,NO-ERROR,NO-ERROR,Evan's effort to get Ethan to attend is accurately summarized.,埃文会让伊森来的。,埃文和伊森讨论了这次活动。埃文会设法让伊森来。,"Allison: You talked to Ethan about the function? 
  Evan: Yeah I did
  Allison: What did he say?
  Evan: He might not come
  Allison: Can you do something about that?
  Evan: I will try to make him come
  Allison: K",44.44,25.0,44.44,78.53,2.127457619,3.602778912,3.567717314,2.423031330,2.555556
-mBART-large,81,H-ENT|H-ROLE,,It changes StarCraft into Star Wars and attributes Bart's no-games-at-school decision to Adrian's advice.,巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。,巴特的经济学期末考得不好。阿德里安认为巴特没有学习得好。巴特开始玩《星球大战》游戏。阿德里安建议巴特不要在学校的时候玩游戏。,"Adrian: Did you get your grades yet?
+mBART-large,81,H-ENT|H-ROLE,H-ENT|H-ROLE,It changes StarCraft into Star Wars and attributes Bart's no-games-at-school decision to Adrian's advice.,巴特这学期成绩不好，因为他学习不多。他花很多时间玩星际争霸。阿德里安考得好是因为上课专心听讲。,巴特的经济学期末考得不好。阿德里安认为巴特没有学习得好。巴特开始玩《星球大战》游戏。阿德里安建议巴特不要在学校的时候玩游戏。,"Adrian: Did you get your grades yet?
  Bart: Yeah. My whole semester is screwed up now.
  Adrian: Wait whaaat? Why?
  Bart: Well, I bombed my economy final and ended up with a bad score..
@@ -4256,17 +4256,17 @@ mBART-large,81,H-ENT|H-ROLE,,It changes StarCraft into Star Wars and attributes 
  Bart: You're right. I'm not going to play games during school anymore.
  Adrian: You can play them, just don't loose focus and study for the exams :p
  Bart: Let's see how it goes xD",32.14,7.41,28.57,72.06,2.802463531,3.720460653,3.710463524,2.609827995,1.319149
-mBART-large,82,OMIT,,"Sean's turtle spirit animal is correct, but Tiffany's possible wasp spirit animal is omitted.",肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。,肖恩的灵性动物是一只海龟。,"Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.
+mBART-large,82,OMIT,OMIT,"Sean's turtle spirit animal is correct, but Tiffany's possible wasp spirit animal is omitted.",肖恩相信他的灵兽是乌龟，而蒂芙尼可能是黄蜂。,肖恩的灵性动物是一只海龟。,"Sean: After much thought I’ve decided that my spirit animal is a tortoise. Apparently everyone has one now, I only found out about this recently. Tbh I felt lost, like who even am I? After many days of thinking about I finally decided that I am in fact a tortoise.
  Tiffany: That would explain a lot.
  Sean: You would be a wasp.
  Tiffany: Are you sure you're a turtle? Maybe you're just haunted.",31.58,0.0,31.58,73.53,2.328404903,4.540317059,4.247872353,2.422806501,0.590909
-mBART-large,83,H-EVT|H-ROLE|H-CIRC,,"It says Kate and George will visit the store tomorrow, although Kate is already there alone and the fruit is for school tomorrow.",凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。,凯特和乔治明天要去杂货店给学校买些水果。,"Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?
+mBART-large,83,H-EVT|H-ROLE|H-CIRC,H-EVT|H-ROLE|H-CIRC,"It says Kate and George will visit the store tomorrow, although Kate is already there alone and the fruit is for school tomorrow.",凯特正在给她和乔治买苹果。他们得等到下周才能买到橘子。,凯特和乔治明天要去杂货店给学校买些水果。,"Kate: I'm at the grocery store. Do you like some fruits for school tomorrow?
  George: Oh yes please, an apple would be great
  Kate: Okay, I'm getting me one too
  George: Do they have tangerines yet?
  Kate: No the're coming next week, I asked already:D
  George: Okat then we have to wait",34.48,7.41,27.59,74.39,2.769015312,3.951177835,4.039527893,2.271577597,0.740741
-mBART-large,84,H-ROLE,,"It reverses the final call: Julia is to call Ronald after she returns, not Ronald after he returns.",茱莉亚回来后会给罗纳德打电话，他有事要告诉她。,"朱莉娅和罗纳德周末过得很开心。朱莉娅的父母在争吵,朱莉娅不想再和他们一起吃饭了。罗纳德回来后会给朱莉娅打电话。","Ronald: How's your weekend?
+mBART-large,84,H-ROLE,H-ROLE,"It reverses the final call: Julia is to call Ronald after she returns, not Ronald after he returns.",茱莉亚回来后会给罗纳德打电话，他有事要告诉她。,"朱莉娅和罗纳德周末过得很开心。朱莉娅的父母在争吵,朱莉娅不想再和他们一起吃饭了。罗纳德回来后会给朱莉娅打电话。","Ronald: How's your weekend?
  Julia: Fine I guess...
  Ronald: Doesn't sound like you're enjoying it
  Julia: Ehh. My parents are having a fight over where should we eat
@@ -4277,7 +4277,7 @@ mBART-large,84,H-ROLE,,"It reverses the final call: Julia is to call Ronald afte
  Ronald: I've got something to tell you, and I'm sure you're gonna piss rainbows
  Julia: Hahaha. I can see the giraffe from Skittles comercial :D
  Ronald: Sth like that",26.67,9.3,17.78,75.72,3.100507021,3.971739769,3.969530344,3.234966040,2.391304
-mBART-large,85,H-EVT|OMIT,,It invents Matthew needing Lisa's help and omits his plan to drink orange juice and sleep.,马修感冒了，他要喝些橙汁，然后去睡觉。,"马修得了感冒,需要丽莎的帮助。","Matthew: I have a cold. Need y'all support. It's painful
+mBART-large,85,H-EVT|OMIT,H-EVT|OMIT,It invents Matthew needing Lisa's help and omits his plan to drink orange juice and sleep.,马修感冒了，他要喝些橙汁，然后去睡觉。,"马修得了感冒,需要丽莎的帮助。","Matthew: I have a cold. Need y'all support. It's painful
  Lisa: Fight it. Drink orange juice. Make some soup
  Matthew: I'll try
  Lisa: I believe in u 
@@ -4286,7 +4286,7 @@ mBART-large,85,H-EVT|OMIT,,It invents Matthew needing Lisa's help and omits his 
  Lisa: Take a rest from evrthg.  
  Matthew: Ikr. Hitting the hay now
  Lisa: Good night 'Thew!",38.1,0.0,28.57,72.01,2.484787464,4.749099731,4.511806011,2.841388226,0.789474
-mBART-large,86,H-ENT|H-EVT|LANG|OMIT,,"It garbles the book and author, misstates who read or liked it, and omits the language concern and the actual negative review.",乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,"斯蒂芬诺和乔西在讨论福考特的《小摆子》。斯蒂芬诺喜欢福考特的小摆子。乔西读了萨尔曼·拉希迪的《小摆子》,萨尔曼·拉希迪在80年代评论了小摆子。","Stefano: Hi, Josie!
+mBART-large,86,H-ENT|H-EVT|LANG|OMIT,H-ENT|H-EVT|LANG|OMIT,"It garbles the book and author, misstates who read or liked it, and omits the language concern and the actual negative review.",乔茜觉得艾柯的小说《福柯的钟摆》书呆子气。乔茜很想读意大利的艾柯，但她对自己的语言能力没有把握。斯特凡诺认为艾柯的两部小说很难。乔茜读过萨勒曼拉什迪对《福柯的钟摆》的一个负面评论。,"斯蒂芬诺和乔西在讨论福考特的《小摆子》。斯蒂芬诺喜欢福考特的小摆子。乔西读了萨尔曼·拉希迪的《小摆子》,萨尔曼·拉希迪在80年代评论了小摆子。","Stefano: Hi, Josie!
  Josie: Ciao, Stefano!
  Stefano: So, what about Foucault's Pendulum? Do you like it?
  Josie: It's... weird. Was it really written by an Italian guy? It's so... nerdy.
@@ -4308,14 +4308,14 @@ mBART-large,86,H-ENT|H-EVT|LANG|OMIT,,"It garbles the book and author, misstates
  Josie: Yuk! That's so creepy.
  Stefano: You're the one who said it!
  Josie: I know. ;)",22.68,0.0,22.68,71.31,2.627756119,3.512614250,3.609629869,2.531075954,0.788889
-mBART-large,87,H-EVT|H-DISC,,It changes waiting half an hour before leaving because of rain into meeting each other in half an hour.,下雨了，所以瓦尔和坎迪要等半小时才走。,正在下雨。瓦尔和坎迪半小时后见面。,"Val: it's raining!
+mBART-large,87,H-EVT|H-DISC,H-EVT|H-DISC,It changes waiting half an hour before leaving because of rain into meeting each other in half an hour.,下雨了，所以瓦尔和坎迪要等半小时才走。,正在下雨。瓦尔和坎迪半小时后见面。,"Val: it's raining!
  Candy: I know, just started...
  Val: r we going? we will be wet
  Candy: maybe wait a little? see if stops
  Val: ok. let's wait half h and than see
  Candy: god idea, I call u then
  Val: great :)",50.0,11.11,50.0,80.52,3.080778122,3.954284430,3.857197285,2.814745426,0.894737
-mBART-large,88,H-MOD,,It contradicts Thomas's financial distress by saying his bank account has no problem and turns Sierra's offer to lend into a definite future loan.,托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。,"托马斯没有拿到补助金。塞拉没有,杰里米也没有。托马斯的银行账户上没问题。塞拉会借给托马斯一些钱。","Tomas: Has anybody received the grant yet?
+mBART-large,88,H-MOD,H-MOD,It contradicts Thomas's financial distress by saying his bank account has no problem and turns Sierra's offer to lend into a definite future loan.,托马斯、谢拉和杰里米仍然没有收到赠款。托马斯破产了，每小时都要查看他的银行账户。塞拉提出借钱给他。,"托马斯没有拿到补助金。塞拉没有,杰里米也没有。托马斯的银行账户上没问题。塞拉会借给托马斯一些钱。","Tomas: Has anybody received the grant yet?
  Sierra: no, not yet
  Jeremy: I haven't checked even
  Tomas: I'm completely broke
@@ -4324,7 +4324,7 @@ mBART-large,88,H-MOD,,It contradicts Thomas's financial distress by saying his b
  Sierra: lol
  Sierra: be patient. If you need money I can lend you some, don't worry
  Tomas: Thanks, I hope they'll arrive any minute",43.64,15.09,40.0,77.37,3.330045700,4.012721062,3.949451447,2.798081160,0.979592
-mBART-large,89,H-ROLE,,"It repeatedly assigns Charles's market trip, food preferences, homemade wine, and hangover to Camilla or to both speakers.",卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,"查尔斯和卡米拉这周末要去拜访伯明翰和曼彻斯特的德国市场。卡米拉喜欢香肠和啤酒。查尔斯和卡米拉去年在圣诞节做了香肠,但没人喝了。卡米拉宿醉了。","Charles: What are you up to this weekend?
+mBART-large,89,H-ROLE,H-ROLE|H-ENT,"It repeatedly assigns Charles's market trip, food preferences, homemade wine, and hangover to Camilla or to both speakers.",卡米拉周六有一些差事要办。查尔斯本周末将访问德国市场。他们正在谈论圣诞食品和饮料。,"查尔斯和卡米拉这周末要去拜访伯明翰和曼彻斯特的德国市场。卡米拉喜欢香肠和啤酒。查尔斯和卡米拉去年在圣诞节做了香肠,但没人喝了。卡米拉宿醉了。","Charles: What are you up to this weekend?
  Camilla: Not much. Just some work and errands on Saturday, show Saturday night. Day of nothingness on Sundy.
  Charles: Sounds good. We are going to visit the German markets this weekend. Birmingham and Manchester both. Sausage overload!
  Camilla: Ooh, that sounds really good!
@@ -4343,16 +4343,16 @@ mBART-large,89,H-ROLE,,"It repeatedly assigns Charles's market trip, food prefer
  Charles: Anyway, that's the plan. Hope you have fun.
  Camilla: You too! 
  Charles: Thanks!",29.03,10.0,19.35,73.44,3.111618519,4.040555954,3.875345945,2.771245956,1.707317
-mBART-large,90,H-ROLE|H-ENT|LANG,,It changes Diana and Russell jointly buying a gift for their mother into Russell giving an unclear gift to Diana and a duplicate Diana.,戴安娜和拉塞尔在给妈妈买礼物。,拉斯塞尔给戴安娜和戴安娜买了一个礼物。,"Russel: <file_other>
+mBART-large,90,H-ROLE|H-ENT|LANG,H-ROLE|H-ENT|LANG,It changes Diana and Russell jointly buying a gift for their mother into Russell giving an unclear gift to Diana and a duplicate Diana.,戴安娜和拉塞尔在给妈妈买礼物。,拉斯塞尔给戴安娜和戴安娜买了一个礼物。,"Russel: <file_other>
  Russel: look at this
  Russel: It's a perfect present fo mum :D
  Diana: haha, so true! It's not that expensive either!
  Diana: are we buying it?
  Russel: yeah, let's do it :D",55.56,12.5,44.44,81.33,4.016213894,4.843590260,4.809972763,4.000717163,1.266667
-mBART-large,91,OMIT,,"Jane's request and Ainsley's illness are supported, but the key outcome that Ainsley cannot help now is omitted.",安斯利病了，所以她现在不能帮简写论文。,"简想让英斯利帮她写论文。英斯利感冒了,每隔两秒就喷嚏。","Jane: Are u free now? Could u help me with that thesis?
+mBART-large,91,OMIT,OMIT,"Jane's request and Ainsley's illness are supported, but the key outcome that Ainsley cannot help now is omitted.",安斯利病了，所以她现在不能帮简写论文。,"简想让英斯利帮她写论文。英斯利感冒了,每隔两秒就喷嚏。","Jane: Are u free now? Could u help me with that thesis?
  Ainsley: I'm sick won't be of much help sorry. I've got a cold and I'm sneezing like a little bitch every 2 seconds
  Jane: Oh... hmm ok. Hope u will get better soon...",29.63,8.0,14.81,70.5,2.860311031,4.282404423,4.031963348,2.998952389,1.421053
-mBART-large,92,H-EVT|H-MOD,,"It falsely presents Fiona and Conrad as already being together and having spent too long together, rather than Fiona privately wanting to be near him.",菲奥娜爱上了他的学生康拉德。,"菲奥娜和康拉德在一起。康拉德是菲奥娜的学生。菲奥娜和康拉德在一起的时间太长了。菲奥娜想和康拉德在一起,但康拉德比她年轻5岁。","Fiona: I just can’t stand it
+mBART-large,92,H-EVT|H-MOD,H-EVT|H-MOD,"It falsely presents Fiona and Conrad as already being together and having spent too long together, rather than Fiona privately wanting to be near him.",菲奥娜爱上了他的学生康拉德。,"菲奥娜和康拉德在一起。康拉德是菲奥娜的学生。菲奥娜和康拉德在一起的时间太长了。菲奥娜想和康拉德在一起,但康拉德比她年轻5岁。","Fiona: I just can’t stand it
  Wanda: What again
  Fiona: When I’m in one room with him… I just go crazy
  Wanda: Conrad?
@@ -4370,7 +4370,7 @@ mBART-large,92,H-EVT|H-MOD,,"It falsely presents Fiona and Conrad as already bei
  Wanda: Will she know?
  Fiona: How can I know what will he do, he can tell his mother as well
  Wanda: Just go for it!!",22.22,4.65,17.78,74.76,3.050479174,4.168381691,4.024073601,3.240292311,4.428571
-mBART-large,93,H-ENT|H-CIRC|H-MOD,,"It duplicates Margaret as another participant, invents a meeting on the 14th, and turns uncertain scheduling into definite dates and times.",玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,"玛格丽特、伊万斯和玛格丽特将在12月4日和11日10点或11点左右见面。如果玛格丽特不在,他们会在14日10点见面。","Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
+mBART-large,93,H-ENT|H-CIRC|H-MOD,H-ENT|H-CIRC|H-MOD,"It duplicates Margaret as another participant, invents a meeting on the 14th, and turns uncertain scheduling into definite dates and times.",玛格丽特和埃文斯计划在4日10点和11日11点会面。他们两人都不确定下一次见面的时间，所以他们会在晚些时候定一下约会的日期。,"玛格丽特、伊万斯和玛格丽特将在12月4日和11日10点或11点左右见面。如果玛格丽特不在,他们会在14日10点见面。","Margaret: Hi, in December I'd like to meet on 4th and 11th around 10:00 or 11:00. 
  Evans: Hi, 4th - we can meet at 10:00.
  Evans: And 11th - at 11:00. 
  Margaret: Okey. And what about 18th?
@@ -4386,7 +4386,7 @@ mBART-large,93,H-ENT|H-CIRC|H-MOD,,"It duplicates Margaret as another participan
  Evans: So let's set these dates later, ok?
  Margaret: Okey and we see each other 4th 10:00. 
  Evans: Yes!",52.05,25.35,43.84,77.17,2.710970163,3.836388588,3.702922344,2.460791588,0.935484
-mBART-large,94,OMIT,,"The photo being sent is supported, but Archie's opinion about Melanie's curls and Louis's disagreement are omitted.",通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。,路易斯给阿奇发了一张梅兰妮的照片。,"Louis: <file_gif>
+mBART-large,94,OMIT,OMIT,"The photo being sent is supported, but Archie's opinion about Melanie's curls and Louis's disagreement are omitted.",通过看照片，阿尔奇认为梅兰妮卷发更好看，路易斯不同意。,路易斯给阿奇发了一张梅兰妮的照片。,"Louis: <file_gif>
  Archie: Wtf? Lol!
  Louis: <file_gif>
  Archie: That one looks like Melanie
@@ -4397,14 +4397,14 @@ mBART-large,94,OMIT,,"The photo being sent is supported, but Archie's opinion ab
  Archie: By the way, she was way hotter when she had cury hair
  Louis: I disagree, sir! She looks absolutely gorgeous with straight hair
  Archie: Oh well, you have the right to an opinion even if it's wrong XD",33.33,9.09,16.67,74.65,2.720822811,4.249730110,4.004817963,2.786942720,0.629630
-mBART-large,95,OMIT,,"The missed train is correct, but the next train's one-hour timing and the 80-euro return fare are omitted.",琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。,琳达错过了去阿姆斯特丹的火车。,"Linda: I missed the train
+mBART-large,95,OMIT,OMIT,"The missed train is correct, but the next train's one-hour timing and the 80-euro return fare are omitted.",琳达没赶上火车，下一班一小时后就到了。返回阿姆斯特丹的费用是80欧元。,琳达错过了去阿姆斯特丹的火车。,"Linda: I missed the train
  Joseph: When is the next one?
  Linda: In one hour
  Darcy: Not a tragedy
  Linda: It was 80 euros
  Linda: Return to Amsterdam
  Linda: I was shocked!!",35.71,7.69,28.57,75.94,1.982746840,4.305513859,4.224944592,2.228394032,0.428571
-mBART-large,96,H-EVT|H-ROLE|H-CIRC|OMIT,,"It invents hospitalization, assigns vaccination to the measles patient, says Joanna will vaccinate her, and omits the actual contact-vaccination schedule and location.",莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,"卢旺多娃得了麻疹住院了,她必须接受疫苗接种。乔安娜的论文导师是卢旺多娃,她从上学期起就没见过她。乔安娜将在18号工作前去接种她。","Joanna: They are sending emails about Lewandowska.
+mBART-large,96,H-EVT|H-ROLE|H-CIRC|OMIT,H-EVT|H-ROLE|H-CIRC|OMIT,"It invents hospitalization, assigns vaccination to the measles patient, says Joanna will vaccinate her, and omits the actual contact-vaccination schedule and location.",莱万多夫斯卡得了麻疹。从17号到19号，所有和她接触过的人都在主楼接种疫苗。,"卢旺多娃得了麻疹住院了,她必须接受疫苗接种。乔安娜的论文导师是卢旺多娃,她从上学期起就没见过她。乔安娜将在18号工作前去接种她。","Joanna: They are sending emails about Lewandowska.
  Merve: What happened?
  Joanna: <file_photo> 
  Merve: Wooow!
@@ -4419,14 +4419,14 @@ mBART-large,96,H-EVT|H-ROLE|H-CIRC|OMIT,,"It invents hospitalization, assigns va
  Joanna: I know... And I just started working so I really don't have a lot of time.
  Merve: Come on, this is really important.
  Joanna: I will try to do it before work on 18th, hopefully I won't lose the entire day...",34.78,2.99,23.19,71.1,2.904722691,3.722508430,3.692690372,2.528318882,1.684211
-mBART-large,97,NO-ERROR,,Carl waiting for Meg because she cannot find her keys is accurately summarized.,卡尔在等梅格，她找不到钥匙，要迟到了。,"卡尔还在等梅格,梅格的钥匙丢了。","Carl: Where are u?
+mBART-large,97,NO-ERROR,NO-ERROR,Carl waiting for Meg because she cannot find her keys is accurately summarized.,卡尔在等梅格，她找不到钥匙，要迟到了。,"卡尔还在等梅格,梅格的钥匙丢了。","Carl: Where are u?
  Carl: I'm still waiting for u!!!
  Meg: I need 5 minutes more, I've lost my key somewhere :(",58.33,27.27,58.33,81.37,2.925746441,3.838532686,3.855739832,2.998003006,0.842105
-mBART-large,98,NO-ERROR,,Maria being tired of her job is accurately summarized.,玛丽亚厌倦了她的工作。,玛丽亚厌倦了她的工作。,"Maria: I'm tired of this job, I can't stand it anymore
+mBART-large,98,NO-ERROR,NO-ERROR,Maria being tired of her job is accurately summarized.,玛丽亚厌倦了她的工作。,玛丽亚厌倦了她的工作。,"Maria: I'm tired of this job, I can't stand it anymore
  Anastasia: I know, but calm down
  Felix: don't make decisions in this rash
  Maria: :(",100.0,100.0,100.0,100.0,4.438994884,4.920022011,4.935901642,4.737812519,1.000000
-mBART-large,99,H-DISC,,"It incorrectly presents the rocks as Eric's reason that mid tide is best, although he argues that visible rocks are a danger.",卢克明天下午2点22分要去冲浪。,"卢克今天开始冲浪了。他明天下午2点22分去那里。埃里克认为在潮汐中的时候最好,因为那里有岩石。","Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
+mBART-large,99,H-DISC,H-DISC,"It incorrectly presents the rocks as Eric's reason that mid tide is best, although he argues that visible rocks are a danger.",卢克明天下午2点22分要去冲浪。,"卢克今天开始冲浪了。他明天下午2点22分去那里。埃里克认为在潮汐中的时候最好,因为那里有岩石。","Luke: wow I got my ass kicked surfing today. 0 waves, 3 wipeouts and 1 surfboard to the head! (can't wait to go back though :D)
  Ken: Yaaaay welcome to the tumble dry club - some days is great others just a knock about
  Summer: I almost lost my tooth one time ;) Hopefully next time is better!
  Luke: low tide is 2:22PM tomorrow. I'll be out there
