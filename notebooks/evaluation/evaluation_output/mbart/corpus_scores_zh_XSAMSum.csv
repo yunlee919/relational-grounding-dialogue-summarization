@@ -1,2 +1,0 @@
-﻿model_name,n,rouge1,rouge2,rougeL,bs_f1_raw
-jjnhuang/mbart-large-50-en-dialogue-to-zh-summary,100,41.95,18.1,34.86,77.64
