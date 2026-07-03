@@ -1,0 +1,488 @@
+% Use this file for citations not found in the ACL Anthology (contained in "anthology.bib").
+@inproceedings{abrougui-etal-2026-small,
+    title = "Can Small-Scale {LLM}s Balance Content Accuracy and Speaker Faithfulness in Noisy {F}rench Dialogue Summarization?",
+    author = "Abrougui, Rim  and
+      Lechien, Guillaume  and
+      Savatier, Elisabeth  and
+      Laurent, Beno{\^i}t",
+    editor = "Riccardi, Giuseppe  and
+      Mousavi, Seyed Mahed  and
+      Torres, Maria Ines  and
+      Yoshino, Koichiro  and
+      Callejas, Zoraida  and
+      Chowdhury, Shammur Absar  and
+      Chen, Yun-Nung  and
+      Bechet, Frederic  and
+      Gustafson, Joakim  and
+      Damnati, G{\'e}raldine  and
+      Papangelis, Alex  and
+      D{'}Haro, Luis Fernando  and
+      Mendon{\c{c}}a, John  and
+      Bernardi, Raffaella  and
+      Hakkani-Tur, Dilek  and
+      Di Fabbrizio, Giuseppe {''}Pino{''}  and
+      Kawahara, Tatsuya  and
+      Alam, Firoj  and
+      Tur, Gokhan  and
+      Johnston, Michael",
+    booktitle = "Proceedings of the 16th International Workshop on Spoken Dialogue System Technology",
+    month = feb,
+    year = "2026",
+    address = "Trento, Italy",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.iwsds-1.17/",
+    pages = "153--157",
+    abstract = "Summarizing domain-specific and multi-speaker conversations, such as political debates, remains challenging under noisy {ASR} conditions. In industrial contexts, large language models ({LLM}s) are often impractical due to resource and confidentiality constraints. This work evaluates whether smaller {LLM}s (up to 8{B} parameters) can produce reliable summaries in such settings. Experiments on {F}rench debates show that noise significantly degrades accuracy and readability, while fine-tuning on clean, domain-related data improves robustness and reduces hallucinations. We also analyze person-name mentions as indicators of speaker faithfulness, finding that fine-tuning can help identify all speakers in far more debates than chain-of-thought prompting. However, evaluations on limited industrial data show that fine-tuning still struggles to generalize to unseen speakers and topics."
+}
+
+@inproceedings{xu-etal-2025-evaluating,
+    title = "Evaluating Small Language Models for News Summarization: Implications and Factors Influencing Performance",
+    author = "Xu, Borui  and
+      Chen, Yao  and
+      Wen, Zeyi  and
+      Liu, Weiguo  and
+      He, Bingsheng",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.253/",
+    doi = "10.18653/v1/2025.naacl-long.253",
+    pages = "4909--4922",
+    ISBN = "979-8-89176-189-6",
+    abstract = "The increasing demand for efficient summarization tools in resource-constrained environments highlights the need for effective solutions. While large language models (LLMs) deliver superior summarization quality, their high computational resource requirements limit practical use applications. In contrast, small language models (SLMs) present a more accessible alternative, capable of real-time summarization on edge devices. However, their summarization capabilities and comparative performance against LLMs remain underexplored. This paper addresses this gap by presenting a comprehensive evaluation of 19 SLMs for news summarization across 2,000 news samples, focusing on relevance, coherence, factual consistency, and summary length. Our findings reveal significant variations in SLM performance, with top-performing models such as Phi3-Mini and Llama3.2-3B-Ins achieving results comparable to those of 70B LLMs while generating more concise summaries. Notably, SLMs are better suited for simple prompts, as overly complex prompts may lead to a decline in summary quality. Additionally, our analysis indicates that instruction tuning does not consistently enhance the news summarization capabilities of SLMs. This research not only contributes to the understanding of SLMs but also provides practical insights for researchers seeking efficient summarization solutions that balance performance and resource use."
+}
+
+@inproceedings{huot-etal-2024-mplan,
+    title = "$\mu${PLAN}: Summarizing using a Content Plan as Cross-Lingual Bridge",
+    author = "Huot, Fantine  and
+      Maynez, Joshua  and
+      Alberti, Chris  and
+      Amplayo, Reinald Kim  and
+      Agrawal, Priyanka  and
+      Fierro, Constanza  and
+      Narayan, Shashi  and
+      Lapata, Mirella",
+    editor = "Graham, Yvette  and
+      Purver, Matthew",
+    booktitle = "Proceedings of the 18th Conference of the European Chapter of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = mar,
+    year = "2024",
+    address = "St. Julian{'}s, Malta",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.eacl-long.131/",
+    doi = "10.18653/v1/2024.eacl-long.131",
+    pages = "2146--2163",
+    abstract = "Cross-lingual summarization aims to generate a summary in one languagegiven input in a different language, allowing for the dissemination ofrelevant content among different language speaking populations. Thetask is challenging mainly due to the paucity of cross-lingualdatasets and the compounded difficulty of summarizing andtranslating.This work presents $\mu$PLAN, an approach to cross-lingual summarization that uses an intermediate planning step as a cross-lingual bridge. We formulate the plan as a sequence of entities capturing thesummary{'}s content and the order in which it should becommunicated. Importantly, our plans abstract from surface form: usinga multilingual knowledge base, we align entities to their canonicaldesignation across languages and generate the summary conditioned onthis cross-lingual bridge and the input. Automatic and human evaluation on the XWikis dataset (across four language pairs) demonstrates that our planning objective achieves state-of-the-art performance interms of informativeness and faithfulness. Moreover, $\mu$PLAN modelsimprove the zero-shot transfer to new cross-lingual language pairscompared to baselines without a planning component."
+}
+
+@inproceedings{philippy-etal-2025-enhancing,
+    title = "Enhancing Small Language Models for Cross-Lingual Generalized Zero-Shot Classification with Soft Prompt Tuning",
+    author = "Philippy, Fred  and
+      Guo, Siwen  and
+      Lothritz, Cedric  and
+      Klein, Jacques  and
+      Bissyand{\'e}, Tegawend{\'e}",
+    editor = "Truong, Sang  and
+      Putri, Rifki Afina  and
+      Nguyen, Duc  and
+      Wang, Angelina  and
+      Ho, Daniel  and
+      Oh, Alice  and
+      Koyejo, Sanmi",
+    booktitle = "Proceedings of the 1st Workshop on Language Models for Underserved Communities (LM4UC 2025)",
+    month = may,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.lm4uc-1.8/",
+    doi = "10.18653/v1/2025.lm4uc-1.8",
+    pages = "61--75",
+    ISBN = "979-8-89176-242-8",
+    abstract = "In NLP, Zero-Shot Classification (ZSC) has become essential for enabling models to classify text into categories unseen during training, particularly in low-resource languages and domains where labeled data is scarce. While pretrained language models (PLMs) have shown promise in ZSC, they often rely on large training datasets or external knowledge, limiting their applicability in multilingual and low-resource scenarios.Recent approaches leveraging natural language prompts reduce the dependence on large training datasets but struggle to effectively incorporate available labeled data from related classification tasks, especially when these datasets originate from different languages or distributions. Moreover, existing prompt-based methods typically rely on manually crafted prompts in a specific language, limiting their adaptability and effectiveness in cross-lingual settings.To address these challenges, we introduce RoSPrompt, a lightweight and data-efficient approach for training soft prompts that enhance cross-lingual ZSC while ensuring robust generalization across data distribution shifts. RoSPrompt is designed for small multilingual PLMs, enabling them to leverage high-resource languages to improve performance in low-resource settings without requiring extensive fine-tuning or high computational costs. We evaluate our approach on multiple multilingual PLMs across datasets covering 106 languages, demonstrating strong cross-lingual transfer performance and robust generalization capabilities over unseen classes."
+}
+
+@inproceedings{wang-etal-2022-clidsum,
+    title = "{C}lid{S}um: A Benchmark Dataset for Cross-Lingual Dialogue Summarization",
+    author = "Wang, Jiaan  and
+      Meng, Fandong  and
+      Lu, Ziyao  and
+      Zheng, Duo  and
+      Li, Zhixu  and
+      Qu, Jianfeng  and
+      Zhou, Jie",
+    editor = "Goldberg, Yoav  and
+      Kozareva, Zornitsa  and
+      Zhang, Yue",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.526/",
+    doi = "10.18653/v1/2022.emnlp-main.526",
+    pages = "7716--7729",
+    abstract = "We present ClidSum, a benchmark dataset towards building cross-lingual summarization systems on dialogue documents. It consists of 67k+ dialogue documents and 112k+ annotated summaries in different target languages. Based on the proposed ClidSum, we introduce two benchmark settings for supervised and semi-supervised scenarios, respectively. We then build various baseline systems in different paradigms (pipeline and end-to-end) and conduct extensive experiments on ClidSum to provide deeper analyses. Furthermore, we propose mDialBART which extends mBART via further pre-training, where the multiple objectives help the pre-trained model capture the structural characteristics as well as key content in dialogues and the transformation from source to the target language. Experimental results show the superiority of mDialBART, as an end-to-end model, outperforms strong pipeline models on ClidSum. Finally, we discuss specific challenges that current approaches faced with this task and give multiple promising directions for future research. We have released the dataset and code at https://github.com/krystalan/ClidSum."
+}
+
+@inproceedings{wang-etal-2023-zero,
+    title = "Zero-Shot Cross-Lingual Summarization via Large Language Models",
+    author = "Wang, Jiaan  and
+      Liang, Yunlong  and
+      Meng, Fandong  and
+      Zou, Beiqi  and
+      Li, Zhixu  and
+      Qu, Jianfeng  and
+      Zhou, Jie",
+    editor = "Dong, Yue  and
+      Xiao, Wen  and
+      Wang, Lu  and
+      Liu, Fei  and
+      Carenini, Giuseppe",
+    booktitle = "Proceedings of the 4th New Frontiers in Summarization Workshop",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.newsum-1.2/",
+    doi = "10.18653/v1/2023.newsum-1.2",
+    pages = "12--23",
+    abstract = "Given a document in a source language, cross-lingual summarization (CLS) aims to generate a summary in a different target language. Recently, the emergence of Large Language Models (LLMs), such as GPT-3.5, ChatGPT and GPT-4, has attracted wide attention from the computational linguistics community. However, it is not yet known the performance of LLMs on CLS. In this report, we empirically use various prompts to guide LLMs to perform zero-shot CLS from different paradigms (i.e., end-to-end and pipeline), and provide a preliminary evaluation on the generated summaries. We find that ChatGPT and GPT-4 originally prefer to produce lengthy summaries with detailed information. These two LLMs can further balance informativeness and conciseness with the help of an interactive prompt, significantly improving their CLS performance. Experimental results on three widely-used CLS datasets show that GPT-4 achieves state-of-the-art zero-shot CLS performance, and performs competitively compared with the fine-tuned mBART-50. Moreover, we also find some multi-lingual and bilingual LLMs (i.e., BLOOMZ, ChatGLM-6B, Vicuna-13B and ChatYuan) have limited zero-shot CLS ability. Due to the composite nature of CLS, which requires models to perform summarization and translation simultaneously, accomplishing this task in a zero-shot manner is even a challenge for LLMs. Therefore, we sincerely hope and recommend future LLM research could use CLS as a testbed."
+}
+
+@inproceedings{bhattacharjee-etal-2023-crosssum,
+    title = "{C}ross{S}um: Beyond {E}nglish-Centric Cross-Lingual Summarization for 1,500+ Language Pairs",
+    author = "Bhattacharjee, Abhik  and
+      Hasan, Tahmid  and
+      Ahmad, Wasi Uddin  and
+      Li, Yuan-Fang  and
+      Kang, Yong-Bin  and
+      Shahriyar, Rifat",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.143/",
+    doi = "10.18653/v1/2023.acl-long.143",
+    pages = "2541--2564",
+    abstract = "We present CrossSum, a large-scale cross-lingual summarization dataset comprising 1.68 million article-summary samples in 1,500+ language pairs. We create CrossSum by aligning parallel articles written in different languages via cross-lingual retrieval from a multilingual abstractive summarization dataset and perform a controlled human evaluation to validate its quality. We propose a multistage data sampling algorithm to effectively train a cross-lingual summarization model capable of summarizing an article in any target language. We also introduce LaSE, an embedding-based metric for automatically evaluating model-generated summaries. LaSE is strongly correlated with ROUGE and, unlike ROUGE, can be reliably measured even in the absence of references in the target language. Performance on ROUGE and LaSE indicate that our proposed model consistently outperforms baseline models. To the best of our knowledge, CrossSum is the largest cross-lingual summarization dataset and the first ever that is not centered around English. We are releasing the dataset, training and evaluation scripts, and models to spur future research on cross-lingual summarization. The resources can be found at \url{https://github.com/csebuetnlp/CrossSum}"
+}
+
+@inproceedings{wang-etal-2023-understanding,
+    title = "Understanding Translationese in Cross-Lingual Summarization",
+    author = "Wang, Jiaan  and
+      Meng, Fandong  and
+      Liang, Yunlong  and
+      Zhang, Tingyi  and
+      Xu, Jiarong  and
+      Li, Zhixu  and
+      Zhou, Jie",
+    editor = "Bouamor, Houda  and
+      Pino, Juan  and
+      Bali, Kalika",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2023",
+    month = dec,
+    year = "2023",
+    address = "Singapore",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.findings-emnlp.250/",
+    doi = "10.18653/v1/2023.findings-emnlp.250",
+    pages = "3837--3849",
+    abstract = "Given a document in a source language, cross-lingual summarization (CLS) aims at generating a concise summary in a different target language. Unlike monolingual summarization (MS), naturally occurring source-language documents paired with target-language summaries are rare. To collect large-scale CLS data, existing datasets typically involve translation in their creation. However, the translated text is distinguished from the text originally written in that language, i.e., translationese. In this paper, we first confirm that different approaches of constructing CLS datasets will lead to different degrees of translationese. Then we systematically investigate how translationese affects CLS model evaluation and performance when it appears in source documents or target summaries. In detail, we find that (1) the translationese in documents or summaries of test sets might lead to the discrepancy between human judgment and automatic evaluation; (2) the translationese in training sets would harm model performance in real-world applications; (3) though machine-translated documents involve translationese, they are very useful for building CLS systems on low-resource languages under specific training strategies. Lastly, we give suggestions for future CLS research including dataset and model developments. We hope that our work could let researchers notice the phenomenon of translationese in CLS and take it into account in the future."
+}
+
+@inproceedings{aghajanyan-etal-2020-conversational,
+    title = "Conversational Semantic Parsing",
+    author = "Aghajanyan, Armen  and
+      Maillard, Jean  and
+      Shrivastava, Akshat  and
+      Diedrick, Keith  and
+      Haeger, Michael  and
+      Li, Haoran  and
+      Mehdad, Yashar  and
+      Stoyanov, Veselin  and
+      Kumar, Anuj  and
+      Lewis, Mike  and
+      Gupta, Sonal",
+    editor = "Webber, Bonnie  and
+      Cohn, Trevor  and
+      He, Yulan  and
+      Liu, Yang",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.emnlp-main.408/",
+    doi = "10.18653/v1/2020.emnlp-main.408",
+    pages = "5026--5035",
+    abstract = "The structured representation for semantic parsing in task-oriented assistant systems is geared towards simple understanding of one-turn queries. Due to the limitations of the representation, the session-based properties such as co-reference resolution and context carryover are processed downstream in a pipelined system. In this paper, we propose a semantic representation for such task-oriented conversational systems that can represent concepts such as co-reference and context carryover, enabling comprehensive understanding of queries in a session. We release a new session-based, compositional task-oriented parsing dataset of 20k sessions consisting of 60k utterances. Unlike Dialog State Tracking Challenges, the queries in the dataset have compositional forms. We propose a new family of Seq2Seq models for the session-based parsing above, which also set state-of-the-art in ATIS, SNIPS, TOP and DSTC2. Notably, we improve the best known results on DSTC2 by up to 5 points for slot-carryover."
+}
+
+@misc{qwen3.5,
+  title  = {{Qwen3.5}: Towards Native Multimodal Agents},
+  author = {{Qwen Team}},
+  month  = feb,
+  year   = {2026},
+  url    = {https://qwen.ai/blog?id=qwen3.5}
+}
+
+@misc{gemma4_2026,
+  author = {{Google DeepMind}},
+  title = {{Gemma 4} Model Card},
+  year = {2026},
+  url = {https://ai.google.dev/gemma/docs/core/model_card_4},
+  note = {Accessed: 2026-06-19}
+}
+
+@misc{dang2024ayaexpansecombiningresearch,
+      title={Aya Expanse: Combining Research Breakthroughs for a New Multilingual Frontier}, 
+      author={John Dang and Shivalika Singh and Daniel D'souza and Arash Ahmadian and Alejandro Salamanca and Madeline Smith and Aidan Peppin and Sungjin Hong and Manoj Govindassamy and Terrence Zhao and Sandra Kublik and Meor Amer and Viraat Aryabumi and Jon Ander Campos and Yi-Chern Tan and Tom Kocmi and Florian Strub and Nathan Grinsztajn and Yannis Flet-Berliac and Acyr Locatelli and Hangyu Lin and Dwarak Talupuru and Bharat Venkitesh and David Cairuz and Bowen Yang and Tim Chung and Wei-Yin Ko and Sylvie Shang Shi and Amir Shukayev and Sammie Bae and Aleksandra Piktus and Roman Castagné and Felipe Cruz-Salinas and Eddie Kim and Lucas Crawhall-Stein and Adrien Morisot and Sudip Roy and Phil Blunsom and Ivan Zhang and Aidan Gomez and Nick Frosst and Marzieh Fadaee and Beyza Ermis and Ahmet Üstün and Sara Hooker},
+      year={2024},
+      eprint={2412.04261},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.04261}, 
+}
+
+@inproceedings{lin-2004-rouge,
+    title = "{ROUGE}: A Package for Automatic Evaluation of Summaries",
+    author = "Lin, Chin-Yew",
+    booktitle = "Text Summarization Branches Out",
+    month = jul,
+    year = "2004",
+    address = "Barcelona, Spain",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/W04-1013/",
+    pages = "74--81"
+}
+
+@inproceedings{zhang2020bertscoreevaluatingtextgeneration,
+      title={{BERTScore}: Evaluating Text Generation with {BERT}},
+      author={Tianyi Zhang and Varsha Kishore and Felix Wu and Kilian Q. Weinberger and Yoav Artzi},
+      booktitle={International Conference on Learning Representations},
+      year={2020},
+      url={https://openreview.net/forum?id=SkeHuCVFDr},
+}
+
+@misc{alam-etal-2026-omniscore,
+      title={Beyond LLM-as-a-Judge: Deterministic Metrics for Multilingual Generative Text Evaluation}, 
+      author={Firoj Alam and Gagan Bhatia and Sahinur Rahman Laskar and Shammur Absar Chowdhury},
+      year={2026},
+      eprint={2604.05083},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2604.05083}, 
+}
+
+@inproceedings{song-etal-2024-finesure,
+    title = "{F}ine{S}ur{E}: Fine-grained Summarization Evaluation using {LLM}s",
+    author = "Song, Hwanjun  and
+      Su, Hang  and
+      Shalyminov, Igor  and
+      Cai, Jason  and
+      Mansour, Saab",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.acl-long.51/",
+    doi = "10.18653/v1/2024.acl-long.51",
+    pages = "906--922",
+    abstract = "Automated evaluation is crucial for streamlining text summarization benchmarking and model development, given the costly and time-consuming nature of human evaluation. Traditional methods like ROUGE do not correlate well with human judgment, while recently proposed LLM-based metrics provide only summary-level assessment using Likert-scale scores. This limits deeper model analysis, e.g., we can only assign one hallucination score at the summary level, while at the sentence level, we can count sentences containing hallucinations. To remedy those limitations, we propose FineSurE, a fine-grained evaluator specifically tailored for the summarization task using large language models (LLMs). It also employs completeness and conciseness criteria, in addition to faithfulness, enabling multi-dimensional assessment. We compare various open-source and proprietary LLMs as backbones for FineSurE. In addition, we conduct extensive benchmarking of FineSurE against SOTA methods including NLI-, QA-, and LLM-based methods, showing improved performance especially on the completeness and conciseness dimensions. The code is available at https://github.com/DISL-Lab/FineSurE."
+}
+
+@inproceedings{gliwa-etal-2019-samsum,
+    title = "{SAMS}um Corpus: A Human-annotated Dialogue Dataset for Abstractive Summarization",
+    author = "Gliwa, Bogdan  and
+      Mochol, Iwona  and
+      Biesek, Maciej  and
+      Wawer, Aleksander",
+    editor = "Wang, Lu  and
+      Cheung, Jackie Chi Kit  and
+      Carenini, Giuseppe  and
+      Liu, Fei",
+    booktitle = "Proceedings of the 2nd Workshop on New Frontiers in Summarization",
+    month = nov,
+    year = "2019",
+    address = "Hong Kong, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/D19-5409/",
+    doi = "10.18653/v1/D19-5409",
+    pages = "70--79",
+    abstract = "This paper introduces the SAMSum Corpus, a new dataset with abstractive dialogue summaries. We investigate the challenges it poses for automated summarization by testing several models and comparing their results with those obtained on a corpus of news articles. We show that model-generated summaries of dialogues achieve higher ROUGE scores than the model-generated summaries of news {--} in contrast with human evaluators' judgement. This suggests that a challenging task of abstractive dialogue summarization requires dedicated models and non-standard quality measures. To our knowledge, our study is the first attempt to introduce a high-quality chat-dialogues corpus, manually annotated with abstractive summarizations, which can be used by the research community for further studies."
+}
+
+@article{liu-etal-2020-multilingual-denoising,
+    title = "Multilingual Denoising Pre-training for Neural Machine Translation",
+    author = "Liu, Yinhan  and
+      Gu, Jiatao  and
+      Goyal, Naman  and
+      Li, Xian  and
+      Edunov, Sergey  and
+      Ghazvininejad, Marjan  and
+      Lewis, Mike  and
+      Zettlemoyer, Luke",
+    journal = "Transactions of the Association for Computational Linguistics",
+    volume = "8",
+    year = "2020",
+    address = "Cambridge, MA",
+    publisher = "MIT Press",
+    url = "https://aclanthology.org/2020.tacl-1.47/",
+    doi = "10.1162/tacl_a_00343",
+    pages = "726--742"
+}
+
+@inproceedings{tang-etal-2021-multilingual,
+    title = "Multilingual Translation from Denoising Pre-Training",
+    author = "Tang, Yuqing  and
+      Tran, Chau  and
+      Li, Xian  and
+      Chen, Peng-Jen  and
+      Goyal, Naman  and
+      Chaudhary, Vishrav  and
+      Gu, Jiatao  and
+      Fan, Angela",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-acl.304/",
+    doi = "10.18653/v1/2021.findings-acl.304",
+    pages = "3450--3466"
+}
+
+@inproceedings{bang-etal-2025-hallulens,
+    title = "{H}allu{L}ens: {LLM} Hallucination Benchmark",
+    author = "Bang, Yejin  and
+      Ji, Ziwei  and
+      Schelten, Alan  and
+      Hartshorn, Anthony  and
+      Fowler, Tara  and
+      Zhang, Cheng  and
+      Cancedda, Nicola  and
+      Fung, Pascale",
+    editor = "Che, Wanxiang  and
+      Nabende, Joyce  and
+      Shutova, Ekaterina  and
+      Pilehvar, Mohammad Taher",
+    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2025",
+    address = "Vienna, Austria",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.acl-long.1176/",
+    doi = "10.18653/v1/2025.acl-long.1176",
+    pages = "24128--24156",
+    ISBN = "979-8-89176-251-0",
+    abstract = "Large language models (LLMs) often generate responses that deviate from user input or training data, a phenomenon known as ``hallucination.'' These hallucinations undermine user trust and hinder the adoption of generative AI systems. Addressing hallucinations is important for the advancement of LLMs. This paper introduces a comprehensive hallucination benchmark HalluLens, incorporating both extrinsic and intrinsic evaluation tasks, built upon a clear taxonomy of hallucination. A major challenge in benchmarking hallucinations is the lack of a unified framework due to inconsistent definitions and categorizations. We disentangle LLM hallucination from ``factuality'' and propose a taxonomy distinguishing extrinsic and intrinsic hallucinations to promote consistency and facilitate research. We emphasize extrinsic hallucinations {--} where generated content deviates from training data {--} as they become increasingly relevant with LLM advancements. However, no benchmark is solely dedicated to extrinsic hallucinations. To address this gap, HalluLens introduces three new extrinsic tasks with dynamic test set generation to mitigate data leakage and ensure robustness. We release codebase for extrinsic hallucination benchmark."
+}
+
+@inproceedings{tang-etal-2022-confit,
+    title = "{CONFIT}: Toward Faithful Dialogue Summarization with Linguistically-Informed Contrastive Fine-tuning",
+    author = "Tang, Xiangru  and
+      Nair, Arjun  and
+      Wang, Borui  and
+      Wang, Bingyao  and
+      Desai, Jai  and
+      Wade, Aaron  and
+      Li, Haoran  and
+      Celikyilmaz, Asli  and
+      Mehdad, Yashar  and
+      Radev, Dragomir",
+    editor = "Carpuat, Marine  and
+      de Marneffe, Marie-Catherine  and
+      Meza Ruiz, Ivan Vladimir",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.415/",
+    doi = "10.18653/v1/2022.naacl-main.415",
+    pages = "5657--5668",
+    abstract = "Factual inconsistencies in generated summaries severely limit the practical applications of abstractive dialogue summarization. Although significant progress has been achieved by using pre-trained neural language models, substantial amounts of hallucinated content are found during the human evaluation. In this work, we first devised a typology of factual errors to better understand the types of hallucinations generated by current models and conducted human evaluation on popular dialog summarization dataset. We further propose a training strategy that improves the factual consistency and overall quality of summaries via a novel contrastive fine-tuning, called CONFIT. To tackle top factual errors from our annotation, we introduce additional contrastive loss with carefully designed hard negative samples and self-supervised dialogue-specific loss to capture the key information between speakers. We show that our model significantly reduces all kinds of factual errors on both SAMSum dialogue summarization and AMI meeting summarization. On both datasets, we achieve significant improvements over state-of-the-art baselines using both automatic metrics, ROUGE and BARTScore, and human evaluation."
+}
+
+@inproceedings{wang-etal-2022-analyzing,
+    title = "Analyzing and Evaluating Faithfulness in Dialogue Summarization",
+    author = "Wang, Bin  and
+      Zhang, Chen  and
+      Zhang, Yan  and
+      Chen, Yiming  and
+      Li, Haizhou",
+    editor = "Goldberg, Yoav  and
+      Kozareva, Zornitsa  and
+      Zhang, Yue",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.325/",
+    doi = "10.18653/v1/2022.emnlp-main.325",
+    pages = "4897--4908",
+    abstract = "Dialogue summarization is abstractive in nature, making it suffer from factual errors. The factual correctness of summaries has the highest priority before practical applications. Many efforts have been made to improve faithfulness in text summarization. However, there is a lack of systematic study on dialogue summarization systems. In this work, we first perform the fine-grained human analysis on the faithfulness of dialogue summaries and observe that over 35{\%} of generated summaries are faithfully inconsistent respective the source dialogues. Furthermore, we present a new model-level faithfulness evaluation method. It examines generation models with multi-choice questions created by rule-based transformations. Experimental results show that our evaluation schema is a strong proxy for the factual correctness of summarization models. The human-annotated faithfulness samples and the evaluation toolkit are released to facilitate future research toward faithful dialogue summarization."
+}
+
+@inproceedings{chen-yang-2021-structure,
+    title = "Structure-Aware Abstractive Conversation Summarization via Discourse and Action Graphs",
+    author = "Chen, Jiaao  and
+      Yang, Diyi",
+    editor = "Toutanova, Kristina  and
+      Rumshisky, Anna  and
+      Zettlemoyer, Luke  and
+      Hakkani-Tur, Dilek  and
+      Beltagy, Iz  and
+      Bethard, Steven  and
+      Cotterell, Ryan  and
+      Chakraborty, Tanmoy  and
+      Zhou, Yichao",
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.naacl-main.109/",
+    doi = "10.18653/v1/2021.naacl-main.109",
+    pages = "1380--1391",
+    abstract = "Abstractive conversation summarization has received much attention recently. However, these generated summaries often suffer from insufficient, redundant, or incorrect content, largely due to the unstructured and complex characteristics of human-human interactions. To this end, we propose to explicitly model the rich structures in conversations for more precise and accurate conversation summarization, by first incorporating discourse relations between utterances and action triples ({``}who-doing-what'') in utterances through structured graphs to better encode conversations, and then designing a multi-granularity decoder to generate summaries by combining all levels of information. Experiments show that our proposed models outperform state-of-the-art methods and generalize well in other domains in terms of both automatic evaluations and human judgments. We have publicly released our code at \url{https://github.com/GT-SALT/Structure-Aware-BART}."
+}
+
+@inproceedings{pagnoni-etal-2021-understanding,
+    title = "Understanding Factuality in Abstractive Summarization with {FRANK}: A Benchmark for Factuality Metrics",
+    author = "Pagnoni, Artidoro  and
+      Balachandran, Vidhisha  and
+      Tsvetkov, Yulia",
+    editor = "Toutanova, Kristina  and
+      Rumshisky, Anna  and
+      Zettlemoyer, Luke  and
+      Hakkani-Tur, Dilek  and
+      Beltagy, Iz  and
+      Bethard, Steven  and
+      Cotterell, Ryan  and
+      Chakraborty, Tanmoy  and
+      Zhou, Yichao",
+    booktitle = "Proceedings of the 2021 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.naacl-main.383/",
+    doi = "10.18653/v1/2021.naacl-main.383",
+    pages = "4812--4829",
+    abstract = "Modern summarization models generate highly fluent but often factually unreliable outputs. This motivated a surge of metrics attempting to measure the factuality of automatically generated summaries. Due to the lack of common benchmarks, these metrics cannot be compared. Moreover, all these methods treat factuality as a binary concept and fail to provide deeper insights on the kinds of inconsistencies made by different systems. To address these limitations, we devise a typology of factual errors and use it to collect human annotations of generated summaries from state-of-the-art summarization systems for the CNN/DM and XSum datasets. Through these annotations we identify the proportion of different categories of factual errors and benchmark factuality metrics, showing their correlation with human judgement as well as their specific strengths and weaknesses."
+}
