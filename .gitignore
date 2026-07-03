@@ -1,7 +1,25 @@
 .DS_Store
 __pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
 .ipynb_checkpoints/
 .venv/
+venv/
 .hf_cache/
-.gitkeep
+*.log
 
+# Large or regenerable artifacts (precomputed outputs are tracked selectively)
+outputs/**/checkpoint.jsonl
+outputs/**/errors.jsonl
+outputs/length_analysis/
+
+# Local-only
+tmp/
+docs/
+
+# Raw train/val splits (optional; not needed for paper reproduction)
+data/raw/train.json
+data/raw/val.json
