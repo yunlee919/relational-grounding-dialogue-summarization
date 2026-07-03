@@ -1,0 +1,42 @@
+﻿"Label (model)","Source dialogue excerpt","Generated Chinese summary","Annotation rationale"
+"H-ENT (Qwen, 30)","Desiree: U both at home?
+Lucian: No. I've just got ur msg. Why did u ask about it?
+Desiree: No reason. Keep my pasta in the microwave","Debbie 问 Lucian 是否都在家，Lucian 表示刚收到消息并不在家且没做饭，Debbie 便让他把意大利面留在微波炉里。","It changes Desiree's name to Debbie."
+"H-EVT (Qwen, 21)","Adrian: Can you talk?
+Simon: Not really, anything important?
+Adrian: Not that much.
+Simon: I'll be free at 5
+Adrian: i'll you then","艾德里安询问西蒙能否说话，得知对方不太方便后便表示没什么重要的事。随后两人约定在五点见面交谈。","It changes a plan to talk again at five into an in-person meeting."
+"H-ROLE (mBART, 43)","Daisy: going home?
+Lisa: not yet
+Daisy: please be back before 11 pm
+Lisa: ok","黛西想在晚上11点前回家。丽莎还没回家。","It assigns the 11 p.m. return requirement to Daisy instead of Lisa."
+"H-CIRC (Gemma, 3)","Mary: hey, im kinda broke, lend me a few box
+Carter: okay, give me an hour, im at the train station
+Mary: cool, thanks","玛丽向卡特借钱，卡特说一小时后在火车站给。","It turns Carter's current location at the station into the place where he will give Mary money."
+"H-MOD (Gemma, 60)","John: do we have practice today?
+Matt: yea think so","约翰询问今天是否有练习，麦特确认有，两人道别。","It turns Matt's uncertain 'I think so' into a definite confirmation."
+"H-DISC (Qwen, 22)","Gab: So when can we meet up for a drink?
+Kat: Fairly busy at the moment so I'm not sure when.
+Gab: I'd love to meet you in real life.
+Kat: I don't meet strange men from the internet.
+Gab: Why not?
+Kat: Not that sort of gal.
+Gab: But you're talking to me, aren't you?
+Kat: Yes, but that's different.
+Gab: How so?
+Kat: Just is.
+Gab: But it would be so much nicer to do this cuddled up right next to you...
+Kat: I think this was a mistake.","加布和凯特在聊天后约定见面，但凯特因担心网络交友风险而拒绝。尽管加布试图解释两人已建立联系并表达想亲近的愿望，凯特仍认为这是错误决定并最终离开，留下加布焦急寻找她的身影。","It says Kat agreed to meet and then refused, although she never agreed."
+"OMIT (Gemma, 15)","Pete: Did you clean the hamster cage?
+Adelle: No. Is it my turn?
+Pete: Yes. After school, no excuses.
+Adelle: Fine.","皮特让阿黛尔打扫仓鼠笼，阿黛尔承认是她的回合，并最终同意了。","It omits the salient timing that the cage must be cleaned after school."
+"LANG (Aya, 77)","Dolph: hey
+Dolph: remember to bring your passport tomorrow
+Ziggler: Cool, i will","多尔夫：明天记得带护照。
+ 齐格勒：好的，我会记住的。","The output reproduces speaker turns instead of providing a summary."
+"NO-ERROR (Gemma, 43)","Daisy: going home?
+Lisa: not yet
+Daisy: please be back before 11 pm
+Lisa: ok","黛西让丽莎晚上十一点前到家。","The summary accurately reflects the dialogue's key facts and relations."

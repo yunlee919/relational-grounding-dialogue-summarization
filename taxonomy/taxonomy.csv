@@ -1,0 +1,10 @@
+Error_Label,Meaning,When use
+H-ENT,Entity / participant hallucination,"Use when the summary mentions the wrong person, participant, entity, name, or object, or introduces an entity not supported by the source dialogue."
+H-EVT,Event / action hallucination,"Use when the summary adds, changes, or fabricates an event/action that is not supported by the source dialogue."
+H-ROLE,Semantic role / speaker attribution hallucination,"Use when the event is roughly correct, but the participant roles are wrong, such as who did the action, who received it, or who said it."
+H-CIRC,Time / place / number / condition hallucination,"Use when the summary gets circumstantial details wrong, such as time, place, number, quantity, condition, or schedule."
+H-MOD,Negation / modality / uncertainty hallucination,"Use when the summary changes negation, uncertainty, intention, obligation, or modality, such as “might” becoming “will,” or “did not” becoming “did.”"
+H-DISC,Discourse relation / final outcome hallucination,"Use when the summary misrepresents the discourse relation or final outcome, such as cause-effect, contrast, temporal order, decision, agreement, or conclusion."
+OMIT,Salient omission,"Use when the summary misses a salient event, participant, reason, decision, or final outcome that is important for understanding the dialogue."
+LANG,Language / format issue,"Use when the output has language, translation, fluency, formatting, or instruction-following issues, such as English leakage, malformed Chinese, repeated text, or non-summary output."
+NO-ERROR,,
