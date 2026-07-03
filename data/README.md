@@ -14,7 +14,8 @@ This project uses the **XSAMSum Dataset** from the ClidSum benchmark (Wang et al
 
 - Dataset name: `XSAMSum Dataset`
 - Benchmark/project: `ClidSum`
-- Original benchmark page: [ClidSum](https://github.com/Yiran1010/ClidSum)
+- GitHub: [krystalan/ClidSum](https://github.com/krystalan/ClidSum)
+- Paper: [ClidSum (EMNLP 2022)](https://aclanthology.org/2022.emnlp-main.526.pdf)
 
 ### Included files
 

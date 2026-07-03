@@ -99,7 +99,14 @@ Full definitions: `taxonomy/taxonomy.csv`. Representative examples: `taxonomy/ta
 
 ## Data source
 
-This project uses the **XSAMSum Dataset** from the [ClidSum benchmark](https://github.com/Yiran1010/ClidSum). The fixed subset used in the paper is `data/splits/test_100_seed42.json`. See `data/README.md` for source attribution and access notes.
+This project uses the **XSAMSum Dataset** from the [ClidSum](https://github.com/krystalan/ClidSum) benchmark. Please cite the original work when reusing these files or derived annotations.
+
+| Resource | Link |
+|----------|------|
+| GitHub | [krystalan/ClidSum](https://github.com/krystalan/ClidSum) |
+| Paper | [ClidSum (EMNLP 2022)](https://aclanthology.org/2022.emnlp-main.526.pdf) |
+
+The fixed subset used in our paper is `data/splits/test_100_seed42.json`. See `data/README.md` for additional access notes.
 
 ## OmniScore
 
