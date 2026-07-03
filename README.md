@@ -1,4 +1,4 @@
-# grounded-semantic-pipeline
+# relational-grounding-dialogue-summarization
 
 **Relational Grounding Failures in Zero-Shot Cross-Lingual Dialogue Summarization with Small Language Models**
 
