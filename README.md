@@ -101,6 +101,17 @@ Full definitions: `taxonomy/taxonomy.csv`. Representative examples: `taxonomy/ta
 
 This project uses the **XSAMSum Dataset** from the [ClidSum benchmark](https://github.com/Yiran1010/ClidSum). The fixed subset used in the paper is `data/splits/test_100_seed42.json`. See `data/README.md` for source attribution and access notes.
 
+## OmniScore
+
+Automatic evaluation in this repository also uses **OmniScore**, a learned multilingual metric for summary quality and faithfulness. Please cite and attribute OmniScore when reusing these evaluation results.
+
+| Resource | Link |
+|----------|------|
+| Model checkpoint | [`QCRI/OmniScore-deberta-v3`](https://huggingface.co/QCRI/OmniScore-deberta-v3) |
+| Paper | [OmniScore (arXiv:2604.05083)](https://arxiv.org/pdf/2604.05083) |
+
+Our scripts load the checkpoint via Hugging Face (`scripts/evaluate_omniscore.py`). Released annotation tables include OmniScore dimensions (`informativeness`, `clarity`, `plausibility`, `faithfulness`) computed with this model.
+
 ## License
 
 MIT License. The XSAMSum Dataset and related ClidSum resources remain subject to their original licenses and terms of use.
