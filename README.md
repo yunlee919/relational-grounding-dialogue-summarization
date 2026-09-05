@@ -7,6 +7,8 @@ Code, annotations, model outputs, and reproducibility resources for our paper **
 **Workshop:** [GroundLM 2026 — EMNLP 2026 Workshop](https://groundlm.github.io/grouplm_emnlp2026/)
 
 **Authors:** Yunwoo Lee, Ziwa Li, Jennifer Huang
+*All authors contributed equally to this work.*
+
 **Contact:** `{yunu919, lizhihua, jjnhuang}@uw.edu`
 
 This repository retains the original project name `grounded-semantic-pipeline`.
