@@ -1,0 +1,27 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+.ipynb_checkpoints/
+.venv/
+venv/
+.hf_cache/
+*.log
+
+# Large or regenerable artifacts (precomputed outputs are tracked selectively)
+outputs/**/checkpoint.jsonl
+outputs/**/errors.jsonl
+outputs/length_analysis/
+
+# Local-only
+tmp/
+docs/
+
+# Dataset files are local-only; keep documentation visible.
+data/raw/*
+!data/raw/README.md
+data/splits/*
+!data/splits/README.md

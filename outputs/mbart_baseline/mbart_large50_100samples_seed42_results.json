@@ -1,0 +1,502 @@
+[
+  {
+    "sample_index": 0,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "马克斯会去佩顿的服装店买东西。"
+  },
+  {
+    "sample_index": 1,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "凯莉和米基要去日本纳戈罗村。"
+  },
+  {
+    "sample_index": 2,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "埃里克和贝拉对老板的反应感到惊讶。"
+  },
+  {
+    "sample_index": 3,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛丽要卡特借几箱钱。卡特在火车站。"
+  },
+  {
+    "sample_index": 4,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰克和梅今天会喝几杯鸡尾酒。"
+  },
+  {
+    "sample_index": 5,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "约瑟夫给艾拉发了一张小奶牛的照片。艾拉给约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛的照片,约瑟夫发了一张小奶牛"
+  },
+  {
+    "sample_index": 6,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "阿黛尔养了一只小狗,名叫骨头。"
+  },
+  {
+    "sample_index": 7,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "琳达和劳拉明天要去一家意大利餐厅。"
+  },
+  {
+    "sample_index": 8,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "米娅和埃利奥特今晚要出去。他们要出去喝一杯。埃利奥特会去接米娅。"
+  },
+  {
+    "sample_index": 9,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "瑞安和塞巴斯蒂安对乌克兰感到失望。"
+  },
+  {
+    "sample_index": 10,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "扎迪和芬要去一家叫“象牙城”的购物中心。他们将在2点左右在主入口处见面。"
+  },
+  {
+    "sample_index": 11,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "汤姆和本将在下午2点在椭圆形房间见面。他们将进行一场战斗。"
+  },
+  {
+    "sample_index": 12,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "乔丹要去参加他的同事布拉德的葬礼。布拉德患有肝癌。埃利奥特晚上8点会给乔丹打电话。"
+  },
+  {
+    "sample_index": 13,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "弗洛必须在6号前去理发店。"
+  },
+  {
+    "sample_index": 14,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "大卫和杰基昨天对大多数事情都持了正确的态度。杰基回家后会给大卫打电话。"
+  },
+  {
+    "sample_index": 15,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "艾黛尔没打扫仓鼠笼。皮特放学后打扫了。"
+  },
+  {
+    "sample_index": 16,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛雅会在药房给兰多夫买5包耳塞。"
+  },
+  {
+    "sample_index": 17,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "林肯、法蒂玛和詹森去了一个关于艾琳的聚会。法蒂玛认为艾琳可能患有抑郁症。"
+  },
+  {
+    "sample_index": 18,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰夫、莉娅、米科和吉姆要去参加一个乡村派对。"
+  },
+  {
+    "sample_index": 19,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "辛迪和埃拉发生了另一场争执。辛迪现在可以给埃拉打电话。"
+  },
+  {
+    "sample_index": 20,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "肯想让格雷格拿回他的钱。"
+  },
+  {
+    "sample_index": 21,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "西蒙不会说话,因为他五点钟有空。"
+  },
+  {
+    "sample_index": 22,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "加布和凯特打算在加布家见面喝一杯。"
+  },
+  {
+    "sample_index": 23,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "阿加莎的报告已经准备好了,她正在上经济学课。"
+  },
+  {
+    "sample_index": 24,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "香农推荐凯恩听听听《30 Seconds to March》。"
+  },
+  {
+    "sample_index": 25,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "安妮讨厌米兰达,因为她昨天给汤姆打了电话。"
+  },
+  {
+    "sample_index": 26,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "莉莉和一个叫托马斯的罗马尼亚人度过了一个美好的夜晚。"
+  },
+  {
+    "sample_index": 27,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰克为明天晚上7点预订了3张工作场地票。"
+  },
+  {
+    "sample_index": 28,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "丽莎想锻炼一下。彼得有健身俱乐部的会员资格。丽莎建议他多锻炼身体。丽莎建议他多睡觉。"
+  },
+  {
+    "sample_index": 29,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰西卡在市中心的二手店买了一张桌子、六张椅子、一瓶花和一大堆衣服。"
+  },
+  {
+    "sample_index": 30,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "德西里想让卢西安把意大利面放在微波炉里。卢西安还没有做饭。"
+  },
+  {
+    "sample_index": 31,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "艾米丽、凯特和玛尔塔今天五点半要去中央车站x酒吧喝一杯。"
+  },
+  {
+    "sample_index": 32,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛丽今天没去上学,所以她呆在家里。"
+  },
+  {
+    "sample_index": 33,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "克莉丝汀感冒了,她明天不去上学了。她感冒了。安妮会给克莉丝汀一些热感冒药。"
+  },
+  {
+    "sample_index": 34,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "沙尔多娜要结婚了,但她没有时间亲自送邀请卡。"
+  },
+  {
+    "sample_index": 35,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "康拉德忘了带钥匙。他会在咖啡店等蒂芙妮和丽贝卡。"
+  },
+  {
+    "sample_index": 36,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "卢迪米拉有一只爬行动物。雅科波稍后会告诉她为什么爬行动物。"
+  },
+  {
+    "sample_index": 37,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛丽亚和妮可喜欢克莱尔的裙子。"
+  },
+  {
+    "sample_index": 38,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "布伦达和布兰登昨天在聚会上遇到了米罗。米罗的父亲来自阿尔巴尼亚,在上世纪九十年代初从阿尔巴尼亚移民到美国。米罗的父亲来自海滨阿尔巴尼亚。米罗的父亲来自蒂拉纳。"
+  },
+  {
+    "sample_index": 39,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "丹、蒂姆、克里斯、汤姆和马丁周六要去参加一个聚会。"
+  },
+  {
+    "sample_index": 40,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "迪玛的笔记本电脑坏了,她明天九点要交翻译。她想借给娜达的笔记本电脑。娜达把笔记本电脑给了她的哥哥。迪玛一小时后会来取笔记本电脑。"
+  },
+  {
+    "sample_index": 41,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰瑞40分钟后会到珍妮特家。珍妮特的老板有时很烦人。"
+  },
+  {
+    "sample_index": 42,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "简和格雷格对娜塔莉的八卦很感兴趣。娜塔莉怀孕了。她的父亲是迈克。"
+  },
+  {
+    "sample_index": 43,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "黛西想在晚上11点前回家。丽莎还没回家。"
+  },
+  {
+    "sample_index": 44,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "辛迪很伤心,因为发生了一些事,她不想谈论这件事。"
+  },
+  {
+    "sample_index": 45,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "凯瑟琳和本要去拜访史蒂夫叔叔。本不喜欢这种方式。"
+  },
+  {
+    "sample_index": 46,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "妈妈给史蒂夫安装了一台洗碗机。"
+  },
+  {
+    "sample_index": 47,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "亨利想预定咖啡馆,但是咖啡馆的facebook页面不见了。朱莉娅和她的表妹去了ligly's,但那里的房租太贵了。亨利和朱莉娅去了ligly's。"
+  },
+  {
+    "sample_index": 48,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "汤姆和卡米拉这周末要去都柏林两天。"
+  },
+  {
+    "sample_index": 49,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰森今天没来。杰森预约了牙医。"
+  },
+  {
+    "sample_index": 50,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "吉尔每天工作40到35个小时。"
+  },
+  {
+    "sample_index": 51,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "詹姆斯和艾米莉亚明天要去埃文斯教授的画展。米娅会和他们一起去,因为她不认识艾米莉亚。"
+  },
+  {
+    "sample_index": 52,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "史蒂芬研讨会的下一节稿子在打印店没有。亚瑟也去了,但稿子没有。丽塔明天早上会问是否有稿子。"
+  },
+  {
+    "sample_index": 53,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "罗德尼、特鲁曼和罗斯对在校园里被殴打和抢劫的人感到震惊。"
+  },
+  {
+    "sample_index": 54,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "朱迪的女朋友在那里纹身,她花了1000 美元。"
+  },
+  {
+    "sample_index": 55,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "佐伊和托马斯在热带天气。他们周日在贝尔琴山上散步。"
+  },
+  {
+    "sample_index": 56,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "下一次asEEEs会议将在旧金山召开。"
+  },
+  {
+    "sample_index": 57,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "罗伯、格雷格、安娜和威尔要开始每天锻炼30分钟。"
+  },
+  {
+    "sample_index": 58,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "沃克会带着他的xbox游戏机。"
+  },
+  {
+    "sample_index": 59,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "马利奥今天在卢森堡的每一个机场都降落了。"
+  },
+  {
+    "sample_index": 60,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "马特和约翰今天要练习。"
+  },
+  {
+    "sample_index": 61,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "马丁会给亚历克斯买两瓶牛奶。"
+  },
+  {
+    "sample_index": 62,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "布莱尔和恰克将在诺娜丽塔家见面。布莱尔和恰克将在诺娜丽塔家见面。"
+  },
+  {
+    "sample_index": 63,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "路易斯和科尔的室友在同一个房间。"
+  },
+  {
+    "sample_index": 64,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "雅各布没有看切尔西的比赛,梅森整个下午都在忙着。达米安和雅各布认为哈德斯菲尔德是个好主意。"
+  },
+  {
+    "sample_index": 65,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛琳半小时后要去城里。巴里在凯撒店。他想给丽塔买个礼物。玛琳想买39美元的。"
+  },
+  {
+    "sample_index": 66,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "布鲁克建议吉尔去看望她,因为昨天发生了什么事。"
+  },
+  {
+    "sample_index": 67,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "凯特和雷吉娜对他们的报告很满意。"
+  },
+  {
+    "sample_index": 68,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰克想买一个托特。"
+  },
+  {
+    "sample_index": 69,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "乔丹收到了卡斯的生日卡和钱。卡斯特别挑选了托马斯的坦克发动机。乔丹11岁了。卡斯喜欢托马斯。"
+  },
+  {
+    "sample_index": 70,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "杰西卡和米基去过意大利的帕勒莫。帕勒莫有8千具尸首。杰西卡和奥利都很喜欢这个地方。"
+  },
+  {
+    "sample_index": 71,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "西蒙给查理发了一张关于欧盟政策的视频。"
+  },
+  {
+    "sample_index": 72,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "爱德、瓦莱丽、克里斯、洛尔、杰西卡和马特都认为性爱是罪恶的。"
+  },
+  {
+    "sample_index": 73,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "迈克在伦敦。"
+  },
+  {
+    "sample_index": 74,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "里奇、克莱和荷西喜欢他的投篮。"
+  },
+  {
+    "sample_index": 75,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "亚历克给亚历克发了一个链接,链接无效。亚历克和亚历克喜欢这个链接。亚历克认为亚历克最优秀的女孩。亚历克认为亚历克最优秀的女孩之一。亚历克认为亚历克最优秀的女孩之一。"
+  },
+  {
+    "sample_index": 76,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "詹姆斯不看比赛,他要去上班。"
+  },
+  {
+    "sample_index": 77,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "齐格勒明天会把护照带来。"
+  },
+  {
+    "sample_index": 78,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "威廉正在做意大利面。他会给奥利维亚和贝丝买些新鲜的西红柿和巧克力。"
+  },
+  {
+    "sample_index": 79,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "蒂娜正在寻找帕特里克。蒂娜和黛米正在组织研讨会。"
+  },
+  {
+    "sample_index": 80,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "埃文和伊森讨论了这次活动。埃文会设法让伊森来。"
+  },
+  {
+    "sample_index": 81,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "巴特的经济学期末考得不好。阿德里安认为巴特没有学习得好。巴特开始玩《星球大战》游戏。阿德里安建议巴特不要在学校的时候玩游戏。"
+  },
+  {
+    "sample_index": 82,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "肖恩的灵性动物是一只海龟。"
+  },
+  {
+    "sample_index": 83,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "凯特和乔治明天要去杂货店给学校买些水果。"
+  },
+  {
+    "sample_index": 84,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "朱莉娅和罗纳德周末过得很开心。朱莉娅的父母在争吵,朱莉娅不想再和他们一起吃饭了。罗纳德回来后会给朱莉娅打电话。"
+  },
+  {
+    "sample_index": 85,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "马修得了感冒,需要丽莎的帮助。"
+  },
+  {
+    "sample_index": 86,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "斯蒂芬诺和乔西在讨论福考特的《小摆子》。斯蒂芬诺喜欢福考特的小摆子。乔西读了萨尔曼·拉希迪的《小摆子》,萨尔曼·拉希迪在80年代评论了小摆子。"
+  },
+  {
+    "sample_index": 87,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "正在下雨。瓦尔和坎迪半小时后见面。"
+  },
+  {
+    "sample_index": 88,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "托马斯没有拿到补助金。塞拉没有,杰里米也没有。托马斯的银行账户上没问题。塞拉会借给托马斯一些钱。"
+  },
+  {
+    "sample_index": 89,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "查尔斯和卡米拉这周末要去拜访伯明翰和曼彻斯特的德国市场。卡米拉喜欢香肠和啤酒。查尔斯和卡米拉去年在圣诞节做了香肠,但没人喝了。卡米拉宿醉了。"
+  },
+  {
+    "sample_index": 90,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "拉斯塞尔给戴安娜和戴安娜买了一个礼物。"
+  },
+  {
+    "sample_index": 91,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "简想让英斯利帮她写论文。英斯利感冒了,每隔两秒就喷嚏。"
+  },
+  {
+    "sample_index": 92,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "菲奥娜和康拉德在一起。康拉德是菲奥娜的学生。菲奥娜和康拉德在一起的时间太长了。菲奥娜想和康拉德在一起,但康拉德比她年轻5岁。"
+  },
+  {
+    "sample_index": 93,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛格丽特、伊万斯和玛格丽特将在12月4日和11日10点或11点左右见面。如果玛格丽特不在,他们会在14日10点见面。"
+  },
+  {
+    "sample_index": 94,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "路易斯给阿奇发了一张梅兰妮的照片。"
+  },
+  {
+    "sample_index": 95,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "琳达错过了去阿姆斯特丹的火车。"
+  },
+  {
+    "sample_index": 96,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "卢旺多娃得了麻疹住院了,她必须接受疫苗接种。乔安娜的论文导师是卢旺多娃,她从上学期起就没见过她。乔安娜将在18号工作前去接种她。"
+  },
+  {
+    "sample_index": 97,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "卡尔还在等梅格,梅格的钥匙丢了。"
+  },
+  {
+    "sample_index": 98,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "玛丽亚厌倦了她的工作。"
+  },
+  {
+    "sample_index": 99,
+    "model_name": "jjnhuang/mbart-large-50-en-dialogue-to-zh-summary",
+    "generated_summary_zh": "卢克今天开始冲浪了。他明天下午2点22分去那里。埃里克认为在潮汐中的时候最好,因为那里有岩石。"
+  }
+]

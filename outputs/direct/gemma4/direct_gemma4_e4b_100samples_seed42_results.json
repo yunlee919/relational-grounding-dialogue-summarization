@@ -1,0 +1,502 @@
+[
+  {
+    "sample_index": 0,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人讨论了购买衣服的网站，并分享了各自的购物习惯。Max询问Payton是否喜欢购物，Payton表示喜欢逛街和试穿，但不一定每次都买东西；她透露自己最容易抗拒的两样东西是衣服和书。"
+  },
+  {
+    "sample_index": 1,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "大家分享了各自推荐的“恐怖”景点。凯莉介绍了芬兰的一个雕塑花园，虽然不是雕塑本身可怕，但因为数量多且雕像的面部表情（如拥抱、运动等）让人感到诡异，而且到处都是盯着人的脸。奥利则推荐了日本名古屋村，描述了一个与真人大小的雕像数量超过实际居民数量的村庄，气氛非常阴森恐怖。大家对这些地方都表示了惊悚感。最后，大家互相道别。"
+  },
+  {
+    "sample_index": 2,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "艾里克询问了老板办公室发生的事情，贝拉澄清老板并没有生气，反而赞赏他们果断拒绝客户请求的决定。两人对老板的反应感到惊讶，艾里克猜测这可能是因为老板原本想引入竞争对手的新客户，而这个结果反而成了好事。"
+  },
+  {
+    "sample_index": 3,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "玛丽向卡特借钱，卡特说一小时后在火车站给。"
+  },
+  {
+    "sample_index": 4,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "杰克问玛雅稍后要不要喝鸡尾酒，玛雅非常兴奋地同意了。当杰克开玩笑说她今天有点紧张时，玛雅承认了这一点，并表示喝酒会有帮助，最后两人约定可以喝两杯。"
+  },
+  {
+    "sample_index": 5,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "约瑟夫发了照片，艾拉认出是小奶牛；约瑟夫说那是“Wujek Janek”的双胞胎奶牛，艾拉纠正为“Twins”，并对这些小奶牛表示喜爱和想触摸的愿望。"
+  },
+  {
+    "sample_index": 6,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "阿黛尔和洛拉聊起阿黛尔新养了一只四个月大的比斯吉犬幼犬，名叫Bones。她们谈到其他宠物对小狗的反应，提到猫咪保持距离，但Poppy和Lulu似乎像母狗一样照顾它，而Speedy则想玩耍。阿黛尔分享了她之前收养的成年狗狗需要断奶，并且指出了公狗和母狗都比较爱打架的特点。洛拉对小狗感到可爱并期待看到它。"
+  },
+  {
+    "sample_index": 7,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人讨论了第二天的去处，最终决定去一家意大利餐厅，琳达特别提到了那里的意面和布朗尼。劳拉提醒她以前不吃甜食，但琳达解释说这个布朗尼不太甜。"
+  },
+  {
+    "sample_index": 8,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "米娅向男友征得同意晚上下班后和朋友们出去聚会喝酒，男友同意了，并叮嘱她不要太晚回来，如果需要接送就打电话告诉他。"
+  },
+  {
+    "sample_index": 9,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人对乌克兰局势和俄方行为感到担忧，并希望各国领导人能采取行动。"
+  },
+  {
+    "sample_index": 10,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "芬恩提议第二天和扎迪一起去一个据说有很多拉丁美洲风情的小区“大象与城堡”，扎迪同意了，并建议下午两点左右见面。他们约定在购物中心的入口处会合。"
+  },
+  {
+    "sample_index": 11,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "汤告诉本，下午两点在椭圆形房间会面，并提醒他带好所有文件，准备一场激烈的战斗，要不留情面，射杀敌人。两人都表示必须赢得这场战役，因为正义站在他们这一边。"
+  },
+  {
+    "sample_index": 12,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "艾略特因忙碌无法通话，提议两小时后再回电。乔丹告知正在参加同事布拉德的葬礼（他患了肝癌），并表示今晚会回电。两人互相慰问，最终约定艾略特晚上八点致电。"
+  },
+  {
+    "sample_index": 13,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "弗洛的沙龙要到六号才能去，因为太忙了。吉娜建议她去Tesco买个补色套装。"
+  },
+  {
+    "sample_index": 14,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "杰基承认了昨天戴维的观点，特别是关于承担责任的部分。两人约定稍后通话，杰基回家后会打电话给戴维。"
+  },
+  {
+    "sample_index": 15,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "皮特让阿黛尔打扫仓鼠笼，阿黛尔承认是她的回合，并最终同意了。"
+  },
+  {
+    "sample_index": 16,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "兰道询问玛雅是否还在药店，并让她帮忙买四到五包耳塞。玛雅答应帮他买了五包。"
+  },
+  {
+    "sample_index": 17,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "林肯和法蒂玛讨论了关于阿琳的困境。法蒂玛提到詹森对阿琳的状况不太满意，并担心她可能患有抑郁症，但阿琳不愿就医。林肯对此持冷漠态度，认为这是每个人都会有的问题，并暗示这不是法蒂玛该操心的事情。两人争论了谁应该为朋友的问题负责，最终林肯指责法蒂玛过于关注他人，而法蒂玛则感到被批评和伤心。最后，林肯劝她专注于自己，不再过度担忧别人。"
+  },
+  {
+    "sample_index": 18,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "关于是否去村里派对的讨论，莉亚因爬山太累不想去。米科对此很感兴趣，并开玩笑说那里可能有“帅哥”，引来吉姆和米科之间关于“淳朴”和“不会说英语”的调侃。最终，尽管莉亚不感兴趣，但米科和杰夫决定一起去派对，并且计划由米科开车。"
+  },
+  {
+    "sample_index": 19,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "哈里让辛迪给艾拉打电话，告知她有急事需要谈，并让她接电话。辛迪一开始不耐烦和抱怨，但最终还是照办了。"
+  },
+  {
+    "sample_index": 20,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "肯指责格欠钱，但随后承认自己是开玩笑，两人互相骂了一句。"
+  },
+  {
+    "sample_index": 21,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "亚德里安询问西蒙是否方便通话，但双方都表示没什么重要的事情。西蒙说下午五点有空，两人约定届时再联系。"
+  },
+  {
+    "sample_index": 22,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "甲和乙在聊天后，甲提议见面喝酒。乙表示目前很忙不确定时间，并拒绝了与网上认识的陌生人见面。当甲继续说服时，乙态度变得疏远，最后让甲感到困惑和不安。"
+  },
+  {
+    "sample_index": 23,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "阿加莎的经济学报告准备好了，亚当询问后得知是关于经济学的，并对内容表示好奇。阿加莎自信地表示使用了最新研究，两人都认可了她对经济学的热情和专业性。"
+  },
+  {
+    "sample_index": 24,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "凯恩向肖恩推荐了新的《致火星》专辑，肖恩表示感谢。"
+  },
+  {
+    "sample_index": 25,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "安和凯瑟琳等人对米兰达非常不满，认为她昨天打电话给汤姆的行为（尤其是在知道他们交往的情况下）是故意想抢走汤姆。诺拉则不以为然地反驳说米兰达不是汤姆喜欢的类型。"
+  },
+  {
+    "sample_index": 26,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "莉莉和凯特聊起昨晚的经历，莉莉说她和一个名叫托马斯的男人度过了非常美好的夜晚。对方是罗马尼亚人，家境极其富裕，在伦敦工作于LSE。尽管凯特觉得这很“可预测”，但莉莉表示他让她感到惊喜，因为他在方方面面都超出了她的预期，让她感到非常愉悦。凯特为她能放松和享受乐趣感到高兴。"
+  },
+  {
+    "sample_index": 27,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "鲍勃询问是否预订了明天的票，梅兰妮说杰克答应了她会做，并提到有工作折扣。鲍勃随后问杰克，杰克确认已预订了三张明天晚上七点的票，并且获得了30%的折扣。"
+  },
+  {
+    "sample_index": 28,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人聊起保持健康的方式，彼得提到自己健身是为了改善健康而非减肥，他常去公司附近的健身房做力量训练和跑步。丽莎补充说除了运动，饮食和充足的睡眠也是维持健康的必要条件，并一致认为需要养成长期良好的生活习惯。"
+  },
+  {
+    "sample_index": 29,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "杰西卡去了市中心的二手店，买了很多东西，包括一张橡木桌子、六把椅子、一个花瓶和一堆衣服。拉斐尔称赞了桌子，弗兰克则对黑色的连衣裙表示喜爱。杰西卡非常满意自己的购买，并且所有这些物品的总价仅为70欧元。"
+  },
+  {
+    "sample_index": 30,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "迪泽询问卢西安是否在家，并让他把意面放在微波炉里加热。卢西安表示自己什么都没做过饭。"
+  },
+  {
+    "sample_index": 31,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "大家决定下班后去酒吧X小酌一杯，时间初步定在下午五点半左右，但凯特可能需要推迟到六点。"
+  },
+  {
+    "sample_index": 32,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "玛丽告诉朋友她今天没去学校，在家里。"
+  },
+  {
+    "sample_index": 33,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "安妮询问克里斯汀是否会去学校，得知她因感冒（疑似流感）无法上学。两人交谈后，安妮提出要不要帮忙，并答应稍后将泰拉氟（Theraflu）送到她的信箱。克里斯汀叮嘱安妮不要来探望以免传染，但又让安妮知道如果房间灯亮着可以打电话。"
+  },
+  {
+    "sample_index": 34,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "莎尔多娜通过聊天软件发送了婚礼电子请柬，但派珀指出，既然没时间亲自送请柬，却期望朋友们出席婚礼，这让她觉得莎尔多娜“太贪心了”。"
+  },
+  {
+    "sample_index": 35,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "康拉德在外面忘了带钥匙，丽贝卡和蒂芙尼的到家时间都不确定或更晚，于是康拉德决定去咖啡馆等。"
+  },
+  {
+    "sample_index": 36,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "雅科波问露德米拉小时候有没有喜欢的恐龙，露德米拉回答是三角龙，雅科波表示稍后会告诉她原因。"
+  },
+  {
+    "sample_index": 37,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "大家都在看一件衣服，虽然克莱尔觉得颜色不够鲜艳可以更深一点，但妮可和玛丽都极力推荐，并强调了价格合适，最终克莱尔表示同意购买。"
+  },
+  {
+    "sample_index": 38,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "艾比和迪伦讨论了与米罗的交谈。艾比提到，在派对上认识的米罗来自阿尔巴尼亚海岸地区，他的父亲曾在20世纪90年代初从那里来到美国，当时情况非常艰难，他们几乎是非法离开的。"
+  },
+  {
+    "sample_index": 39,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "大家确认了周六是否要出去，地点在市中心。汤姆表示不能参加因为要去娘家参加派对。最后确定时间为晚上八点左右结束，但丹提到周日中午需要回家休息和开车准备。对话中还穿插了几句关于年龄和状态的玩笑话。"
+  },
+  {
+    "sample_index": 40,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "迪马的笔记本电脑坏了，急需用它来完成明天的翻译任务。他向娜达借用旧电脑，娜达虽然说自己已经把旧电脑给了弟弟，但体贴地让迪马使用她这两天休假的时间，并同意让他拿走她的电脑。两人聊到以后需要为备用笔记本投资，最后约定了迪马一小时后去取电脑。"
+  },
+  {
+    "sample_index": 41,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "杰瑞告知珍妮特他将在四十分钟后到家，两人互相道别。珍妮特抱怨了工作中的老板让人烦恼。"
+  },
+  {
+    "sample_index": 42,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "莎莉提起娜塔莉，大家都很好奇。尽管简提醒她保密，但众人追问细节，最终莎莉爆料了娜塔莉怀孕的消息，并透露了父亲是戴夫，令在场所有人感到震惊。"
+  },
+  {
+    "sample_index": 43,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "黛西让丽莎晚上十一点前到家。"
+  },
+  {
+    "sample_index": 44,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "艾莉发现辛迪很伤心，但辛迪不想谈论。随后，辛迪分享了一个在网上爆红的视频给艾莉看，艾莉表示没看过，但觉得很有趣。"
+  },
+  {
+    "sample_index": 45,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "凯瑟琳邀请本去探望史蒂夫叔叔，但本表示不喜欢这类聚会，觉得压力大。尽管凯瑟琳以男孩们想念他为由劝说，本仍心有不甘，认为自己和史蒂夫没什么共同话题，且史蒂夫总喜欢问一些私事问题。最后，在凯瑟琳妥协后，本同意以后找时间去看望孩子们。"
+  },
+  {
+    "sample_index": 46,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "史蒂夫说洗碗机装好了，妈妈看了照片觉得很漂亮。史蒂夫表示它很安静，并提到它似乎是12个餐具位的，但实际上不用每天都用。妈妈对史蒂夫满意感到高兴。"
+  },
+  {
+    "sample_index": 47,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "亨利和茱莉亚谈论了常去的那家咖啡馆“Kohaku”，得知它可能永久关闭，让两人感到遗憾。茱莉亚提到她尝试联系店主但未获回复。最后，她们比较了另一家咖啡馆Lilly's，并讨论了其他替代选择，但亨利对人多的地方不感兴趣。"
+  },
+  {
+    "sample_index": 48,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "汤姆提议周末去都柏林，卡米拉虽然一开始有些惊讶但最终同意了，并让汤姆购买车票。"
+  },
+  {
+    "sample_index": 49,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "梅根询问杰森的消息，得知他今天缺席了。苏西告知是因为有牙科预约，梅根表示感谢。"
+  },
+  {
+    "sample_index": 50,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人交流了各自的工作量和工作时长，大致在20到30个左右，每天能完成的量有限制，工时大约是35到40小时。"
+  },
+  {
+    "sample_index": 51,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "詹姆斯告诉米娅，哲学课的讲师阿米莉亚推荐了一个明天开幕的艺术展。尽管米娅对这个组合感到惊讶，但她最终表示愿意去参观，并同意了詹姆斯提议的行程安排（包括看展览和电影）。詹姆斯随后向米娅保证，邀请阿米莉亚并不意味着他不重视两人独处的时光，双方都确认了接下来的计划。"
+  },
+  {
+    "sample_index": 52,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "玛丽安询问史蒂芬研讨会下一期的阅读材料是否在打印店，里塔不确定。车英和亚瑟证实周一去时材料不在，且工作人员态度依然差。里塔表示第二天早上会去确认材料是否到，并帮忙要求多印一些，大家对此表示感谢。"
+  },
+  {
+    "sample_index": 53,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "有人在校园内遭到殴打和抢劫，伤者已住院但预计无碍。目前警方尚未查明凶手身份，目击者只知道嫌犯戴了面具。大家猜测这可能是学生所为，并讨论了安保监控的有效性，最后希望尽快抓到人。"
+  },
+  {
+    "sample_index": 54,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "贾维尔询问了当地是否有说英语的纹身店，朱迪推荐了“Warsaw Ink”，并展示了女友在那儿纹身的照片。贾维尔对效果很满意，但得知价格是1000后感到震惊，最终决定回哥伦比亚纹身。"
+  },
+  {
+    "sample_index": 55,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "佐伊和托马斯寒暄问候，分享了各自的近况。托马斯分享了当地天气和一次在贝尔申山顶徒步的照片，佐伊称赞了美景，并表示自己暂时无法欣赏这样的景色。两人互相道晚安，保持联系。"
+  },
+  {
+    "sample_index": 56,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "大家讨论了下一次ASEEES会议的地点，詹姆斯提到可能在加州旧金山。克洛伊表示希望是在夏威夷，但詹姆斯解释说上次在夏威夷（1993年）因旅行成本过高而受到批评，所以短期内不太可能。"
+  },
+  {
+    "sample_index": 57,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "Rob提议发起“离开沙发挑战”，计划每天活动30分钟。Greg认为应该至少达到60分钟，Will建议循序渐进更实际，Anna表示愿意参与30分钟的计划，Greg提醒大家要注意运动多样性，Anna则表示需要大家的鼓励和支持。"
+  },
+  {
+    "sample_index": 58,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "博克提醒沃커带上Xbox主机，尽管之前似乎不喜欢，但沃커称赞了手柄的抓握感，两人决定彻夜游戏。"
+  },
+  {
+    "sample_index": 59,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "马里奥今天在欧洲的各个机场转了一圈，现在在卢森堡。大家祝他玩得开心，并提醒他注意安全。"
+  },
+  {
+    "sample_index": 60,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "约翰询问今天是否有练习，麦特确认有，两人道别。"
+  },
+  {
+    "sample_index": 61,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "亚历克斯让马丁买牛奶，马丁抱怨刚买过，但最终还是答应了，并称赞了他。"
+  },
+  {
+    "sample_index": 62,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人提醒对方下班后要见婚礼策划师，地点在Nonna Rita。查克开玩笑地询问是否可以点海鲜意大利面，并提到了上次和黛安会面时弄脏了她的经历。"
+  },
+  {
+    "sample_index": 63,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "科尔和路易斯在同一个房间里开玩笑，科尔让路易斯把枕头递过来，但路易斯要求科尔当面说。两人随后互相调侃，气氛轻松。"
+  },
+  {
+    "sample_index": 64,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "大家聊了切尔西的比赛，达米安因为球员希瓜因打进两球而很高兴，认为这是球队的一个积极转折点；雅各布和梅森对此持保留态度。"
+  },
+  {
+    "sample_index": 65,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "玛琳临走前，让巴里帮忙为丽塔挑选礼物。两人在凯撒的看到丝巾后，最终选定了黄色图案的、最贵的丝巾，并商定各付一半的费用。"
+  },
+  {
+    "sample_index": 66,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "布鲁克让盖尔来看她，说昨天发生了一些事，盖尔询问是否严重，并表示正在前往。"
+  },
+  {
+    "sample_index": 67,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "大家讨论了展示效果，认为反馈很好。关于听众人数，Regina提到只有三个人，但大家都觉得气氛很温馨友好，Milena和Kate都同意小而有兴趣的观众比一群无聊的人更好。"
+  },
+  {
+    "sample_index": 68,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "杰克抽到了本年度第一个TOTW，打算在一两个比赛中使用看看，但觉得他不太适合自己的队伍。汤姆祝贺并建议他卖掉，说他会有足够的金币购买合适的球员。两人聊到运气，汤姆抱怨今年的抽卡运气很差，而杰克则开玩笑地夸赞了汤姆的游戏水平。"
+  },
+  {
+    "sample_index": 69,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "卡斯询问乔丹是否按时收到了生日卡和钱。乔丹感谢了卡斯的20英镑，并为没有提前打电话道歉。卡斯提到特意挑选了乔丹喜欢的“汤姆火车”，乔丹表示依然喜欢，并开玩笑地要求下次买足球主题的礼物，因为他现在已经11岁了。两人互相表达了爱意。"
+  },
+  {
+    "sample_index": 70,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "凯莉让杰西卡提问，关于“最可怕的地方”。杰西卡以意大利巴勒莫的修道院墓穴开场，提到那里有八千具尸体，可以像博物馆展品一样观看。奥利和米奇对此感到非常惊讶和兴奋。"
+  },
+  {
+    "sample_index": 71,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人讨论了欧洲当前的局势，认为欧盟的移民政策降低了公民安全水平。他们以柏林、比利时和巴黎等地发生的治安问题为例，对比波兰相对稳定，并认为波兰有机会在不重蹈西方国家覆辙的情况下快速发展。尽管有人担忧内部冲突，但双方都对波兰人民的抵抗精神表示钦佩，并预测未来波兰有潜力成为欧洲一股力量。"
+  },
+  {
+    "sample_index": 72,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "大家围绕性行为的道德和目的展开了争论，从是否应该限制在已婚人士、是否必须是传教士式交合，到性爱的唯一目的是生育后，气氛轻松幽默。"
+  },
+  {
+    "sample_index": 73,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "杰克惊讶地发现麦克在伦敦，得知消息后祝贺他梦想成真。"
+  },
+  {
+    "sample_index": 74,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人都在讨论波格巴的精彩进球，并认为他本赛季更成熟了，也提到教练和队友都信任他。"
+  },
+  {
+    "sample_index": 75,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人观看了《美国有才华》节目，并一致认为其中一位女选手非常出色，甚至觉得她很有可能赢得比赛。"
+  },
+  {
+    "sample_index": 76,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "汉娜问詹姆斯是否在看比赛，詹姆斯回复说他要去上班了。"
+  },
+  {
+    "sample_index": 77,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "多尔提醒齐格勒明天记得带护照。"
+  },
+  {
+    "sample_index": 78,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "威廉让奥利维亚买新鲜番茄，并向贝丝要了晚餐后的巧克力。"
+  },
+  {
+    "sample_index": 79,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人聊起网络上的话题，随后转到个人情感和性取向的讨论。对话中，他们分享了各自在感情经历后的心境变化，并约定要进行一些“工作坊”来探讨这些问题。最后，谈到生活中的压力（如租房问题），朋友互相鼓励，并确定了见面计划。"
+  },
+  {
+    "sample_index": 80,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "艾莉森询问伊万是否和伊桑谈过关于某项功能的事宜，得知伊桑可能不会来。艾莉森让伊万想办法解决这个问题，伊万表示会尽力说服他前来。"
+  },
+  {
+    "sample_index": 81,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "阿德里安问巴特成绩如何，得知巴特经济学期末考试失利，并归咎于自己没复习。两人讨论了学习方法，阿德里安表示自己只是上课认真听讲，而巴特则承认是沉迷星际争霸浪费时间导致成绩不佳，最后约定以后不再分心玩游戏。"
+  },
+  {
+    "sample_index": 82,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "肖恩经过深思熟虑，决定自己的精神动物是乌龟。蒂芙尼对此表示理解，并开玩笑地质疑了肖恩的判断，认为他可能只是被鬼缠身了。"
+  },
+  {
+    "sample_index": 83,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "凯特在超市，问乔治是否需要水果给学校。乔治要了一个苹果，凯特也买了一个。乔治询问是否有橘子，凯特说下周才有，两人只好等。"
+  },
+  {
+    "sample_index": 84,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "罗纳德询问了朱莉娅的周末过得如何，得知她因为父母吵架而心情不佳。两人互相表示理解和遗憾。最后，罗纳德让朱莉娅回来后打电话给他，并暗示自己有件让她非常开心的事要告诉她。"
+  },
+  {
+    "sample_index": 85,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "马修感冒了，丽莎建议他多喝橙汁、吃汤并好好休息。马修表示会尝试，并告知病因是过敏和病毒混合引起的。两人互相鼓励后，马修便去休息了。"
+  },
+  {
+    "sample_index": 86,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人讨论了埃科的《福柯的钟摆》，乔西觉得这本书很“书呆子气”，斯蒂法诺则辩解说意大利文学不只关于披萨和黑帮。他们谈到阅读难度时，提到《玫瑰的名字》对外国人来说很难，但认为《福柯的钟摆》因为背景设定在80年代，语言上可能更容易理解，尽管内容依然复杂。最后，乔西提到读到了萨尔曼·鲁什迪当年批评这本书的文章，说它更像电子游戏而非小说，引发了两人一番玩笑式的争论。"
+  },
+  {
+    "sample_index": 87,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人因下雨决定暂缓行程，约定等半小时后再看情况。"
+  },
+  {
+    "sample_index": 88,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "托马斯询问大家是否收到拨款，但目前还没有人收到。他表示自己身无分文，并每小时查看一次银行账户，但没有任何进展。塞拉安慰他要耐心，并主动提出可以借钱给他。托马斯对此表示感谢，并希望款项能马上到账。"
+  },
+  {
+    "sample_index": 89,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人聊了周末的计划，查尔斯和卡米拉得知查尔斯周末要去逛德国市场（伯明翰和曼彻斯特），并对香肠和啤酒表示兴奋。卡米拉表示想去看看，并询问了热红酒的做法，查尔斯介绍了这是用料丰富的饮品，两人聊到去年自己尝试做但没人喝的经历，最后互相祝对方周末愉快。"
+  },
+  {
+    "sample_index": 90,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "他们决定一起买这个礼物给妈妈。"
+  },
+  {
+    "sample_index": 91,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "简询问艾恩斯利是否方便帮忙做论文，但艾恩斯利因感冒身体不适，无法提供帮助。简表示理解并祝她早日康复。"
+  },
+  {
+    "sample_index": 92,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "菲奥娜对她的学生康拉德产生了强烈的迷恋，尽管万达提醒她这不合适，但菲奥娜承认自己无法自拔，并表示想要一直待在他身边。万达最终鼓励她采取行动。"
+  },
+  {
+    "sample_index": 93,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "双方确定了12月4日上午10点会面，后续日期暂定，待进一步确认。"
+  },
+  {
+    "sample_index": 94,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "两人在看GIF和照片，发现其中一个人物很像Melanie。随后他们就Melanie的造型展开了讨论，关于她留卷发还是直发更美，意见不合但气氛轻松愉快。"
+  },
+  {
+    "sample_index": 95,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "琳达错过了火车，得知下一班一小时后才到，她对损失的八十欧元感到非常震惊。"
+  },
+  {
+    "sample_index": 96,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "关于Lewandowska生病（麻疹）的消息，她住院了。与她近期有接触的人需要接种疫苗。虽然Joanna的导师是她，但为了防疫，她计划在18日工作前去接种疫苗。"
+  },
+  {
+    "sample_index": 97,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "卡尔催促梅，因为她弄丢了钥匙需要再等五分钟。"
+  },
+  {
+    "sample_index": 98,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "玛丽亚对工作感到极度厌倦，阿娜斯塔西娅劝她冷静，费利克斯警告她不要草率做决定。"
+  },
+  {
+    "sample_index": 99,
+    "model_name": "gemma4:e4b",
+    "generated_summary_zh": "卢克今天冲浪非常惨，经历了零波浪、三次摔倒和一次被冲浪板击中头部，但仍期待下次。肯和夏默安慰他这是常态。关于最佳冲浪时间，卢克提到明天低潮时会去，而埃里克质疑了这一点，认为中潮更好；同时，两人讨论到在退潮时看到岩石的风险，最终结论是虽然能看清岩石，但不如直接避免与它们发生碰撞。"
+  }
+]
